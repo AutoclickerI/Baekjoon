@@ -1,0 +1,1 @@
+for l in[*open(0)][2::2]:print(sum(map(int,l.split())))
