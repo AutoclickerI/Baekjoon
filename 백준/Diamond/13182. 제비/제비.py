@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:r,g,b,k=map(int,i.split());print(((1-pow(b,k,m:=10**9+7)*pow(b+1,m-1-k,m))*r+k*g*pow(b,-1,m)+k)%m)
