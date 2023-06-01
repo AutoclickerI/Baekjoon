@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:n,m,l=map(int,i.split());x=m-l+1;print(-((x-n)//m)+x//m)
