@@ -1,0 +1,1 @@
+for i in[0]*int(input()):print(sum(p:=[i for i in map(int,input().split())if i%2-1]),min(p))
