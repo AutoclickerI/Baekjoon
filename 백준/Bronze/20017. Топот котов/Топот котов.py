@@ -1,0 +1,1 @@
+n,m,a,*l=map(int,open(0).read().split());print(a*sum(l[i]*2<l[i+m]for i in range((n-1)*m)))
