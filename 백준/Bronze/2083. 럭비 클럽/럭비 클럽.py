@@ -1,0 +1,1 @@
+while(l:=input())[0]!='#':p,q,r=l.split();print(p,'JSue'[(int(q)>17)or(int(r)>79)::2]+'nior')
