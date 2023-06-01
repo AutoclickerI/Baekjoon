@@ -1,0 +1,1 @@
+print(eval('-'.join([input()for i in[0]*10])))
