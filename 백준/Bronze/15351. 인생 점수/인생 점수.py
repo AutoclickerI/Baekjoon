@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print([(s:=sum(ord(c)%32 for c in i)-10),'PERFECT LIFE'][s==100])
