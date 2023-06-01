@@ -1,0 +1,1 @@
+for i in open(0):[print('*'*(j+1))for j in range(int(i))]
