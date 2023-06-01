@@ -1,0 +1,1 @@
+for i in range(int(input())):(a:=input())and print(a[0]+a[-1])
