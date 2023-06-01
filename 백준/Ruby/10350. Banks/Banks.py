@@ -1,8 +1,7 @@
-n,*l=map(int,open(0).read().split())
-R=range(n)
-s=sum(l)
+R=range(n:=int(input()))
+s=sum(l:=[*map(int,input().split())])
 a=0
 for i in R:
  v=0
- for j in R:v+=l[i+j-n];a-=v*(v<0)//s
+ for j in R:v+=l[i+j-n];a-=min(0,v)//s
 print(a)
