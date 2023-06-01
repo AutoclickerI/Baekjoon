@@ -1,0 +1,1 @@
+r=range;[print(f'Cube = {i}, Triple = ({j},{k},{l})')for i in r(2,101)for j in r(2,101)for k in r(j,101)for l in r(k,101)if i**3==j**3+k**3+l**3]
