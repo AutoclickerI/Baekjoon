@@ -1,0 +1,1 @@
+for i in[0]*int(input()):p,q=map(int,input().split());print(f'You get {p//q} piece(s) and your dad gets {p%q} piece(s).')
