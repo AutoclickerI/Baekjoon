@@ -1,0 +1,1 @@
+print(min([i.split()for i in open(0)],key=lambda s:int(s[1]))[0])
