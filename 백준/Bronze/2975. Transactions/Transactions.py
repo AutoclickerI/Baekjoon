@@ -1,0 +1,1 @@
+for s in[*open(0)][:-1]:print(["Not allowed",t:=eval(s.replace(*'W-').replace(*'D+'))][t>-201])
