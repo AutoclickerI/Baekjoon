@@ -1,0 +1,15 @@
+section .data
+  msg1 db "Hello"," World!"
+  msg3 db "Hello World!"
+
+section .text
+  global main
+
+main:
+	mov rax, 1
+	mov rdi, 1
+	mov rsi, msg1
+	mov rdx, 12
+	syscall
+	mov rax, 60
+	mov rdi, 0
