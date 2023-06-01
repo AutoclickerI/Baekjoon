@@ -1,0 +1,1 @@
+print('ndhoranacewk  e  r'[(sum(l:=[*map(int,input().split())])>99)+any([l[i]>(i+2)//2*100for i in range(9)])::3])
