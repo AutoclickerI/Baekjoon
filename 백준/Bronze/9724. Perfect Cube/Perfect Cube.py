@@ -1,0 +1,1 @@
+for i in[*open(j:=0)][1:]:j+=1;p,q=map(int,i.split());print(f'Case #{j}: {int(q**(1/3))-int((p-1)**(1/3))}')
