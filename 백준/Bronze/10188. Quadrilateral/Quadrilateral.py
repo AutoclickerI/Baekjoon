@@ -1,0 +1,1 @@
+exec("p=input();print(('X'*int(p[:2])+'\\n')*int(p[2:]));"*int(input()))
