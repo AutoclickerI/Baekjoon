@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:v,w=map(int,i.split());print('NYoe s'[max(v,w)<3>=v+w::2])
