@@ -1,0 +1,2 @@
+def minv(n):n=int(n)//1000;return min(4if n<=5else 7if n<=10else 12if n<=20else 17if n<=30else .57*n,.9*(n+1)if n<=2else.85*n+1if n<=5else.8*n+1.25if n<=20else.7*n+3.25if n<=40else.55*n+9.25)
+print(f'{sum(map(minv,input().split())):.2f}')
