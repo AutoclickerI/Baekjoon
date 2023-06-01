@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:p,q,r,s=map(int,i.split());print([['TelecomParisTech','Eurecom'][p*q<r*s],'Tie'][p*q==r*s])
