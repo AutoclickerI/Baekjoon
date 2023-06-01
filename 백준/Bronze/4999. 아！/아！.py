@@ -1,0 +1,1 @@
+I=input;print('gn'[I()>I()]+'o')
