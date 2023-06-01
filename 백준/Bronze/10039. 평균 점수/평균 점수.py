@@ -1,0 +1,1 @@
+k=range(5);a=[int(input())for i in k];b=[a[i]if a[i]>39 else 40 for i in k];print(sum(b)//len(b))
