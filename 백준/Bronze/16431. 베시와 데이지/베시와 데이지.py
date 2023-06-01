@@ -1,0 +1,6 @@
+a,b=map(int,input().split())
+c,d=map(int,input().split())
+e,f=map(int,input().split())
+B=max(abs(a-e),abs(b-f))
+D=abs(c-e)+abs(d-f)
+print('bessie'if B<D else'daisy'if B>D else'tie')
