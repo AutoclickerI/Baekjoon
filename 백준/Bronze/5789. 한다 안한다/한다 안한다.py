@@ -1,0 +1,1 @@
+exec("n=len(s:=input())//2;print('Do-it'+'-Not'*(s[n]!=s[n-1]));"*int(input()))
