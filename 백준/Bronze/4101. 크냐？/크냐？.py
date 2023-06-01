@@ -1,0 +1,1 @@
+while((l:=input().split())and l!=['0','0']):print('YNeos'[int(l[0])<=int(l[1])::2])
