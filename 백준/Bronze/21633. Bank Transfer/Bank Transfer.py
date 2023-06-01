@@ -1,0 +1,1 @@
+print(min(max(100,25+.01*int(input())),2000))
