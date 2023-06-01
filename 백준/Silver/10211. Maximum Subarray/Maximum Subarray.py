@@ -1,0 +1,1 @@
+for i in[*open(0)][2::2]:*l,=map(int,i.split());s=-1e9;print(max(s:=max(i,s+i)for i in l))
