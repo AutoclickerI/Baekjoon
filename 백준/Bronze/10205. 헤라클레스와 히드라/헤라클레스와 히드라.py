@@ -1,0 +1,1 @@
+for i in range(int(input())):n=int(input());s=input().count;print(f'Data Set {i+1}:',n+s('c')-s('b'),'',sep='\n')
