@@ -1,0 +1,1 @@
+for i in[0]*int(input()):print(eval(input().replace(' ','*'))//2)
