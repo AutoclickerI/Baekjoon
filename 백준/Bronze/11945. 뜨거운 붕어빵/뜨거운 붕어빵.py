@@ -1,0 +1,1 @@
+for i in[0]*int(input()[:2]):print(input()[::-1])
