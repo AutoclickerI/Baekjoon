@@ -1,0 +1,1 @@
+while(l:=float(input())):print(f'{1+l+l*l+l**3+l**4:.2f}')
