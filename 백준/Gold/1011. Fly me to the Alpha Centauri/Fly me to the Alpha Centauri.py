@@ -1,0 +1,1 @@
+for i in range(int(input())):a=list(map(int,input().split()));d=a[1]-a[0];c=int(d**0.5);print(2*c-1 if d==c**2 else 2*c if d<=c*(c+1)else 2*c+1)
