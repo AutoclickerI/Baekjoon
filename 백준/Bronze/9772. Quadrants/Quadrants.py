@@ -1,0 +1,1 @@
+for i in[*open(0)]:p,q=map(float,i.split());print('Q'+['12'[p<0],'43'[p<0]][q<0]if p*q else'AXIS')
