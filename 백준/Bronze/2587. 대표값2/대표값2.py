@@ -1,0 +1,1 @@
+print(sum(l:=sorted(map(int,open(0))))//5,l[2])
