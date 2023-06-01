@@ -1,0 +1,1 @@
+print(sum(map([*open(0)][1].count,"aeiou")))
