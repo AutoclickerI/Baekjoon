@@ -1,0 +1,1 @@
+while(l:=input())!='END':print(l[::-1])
