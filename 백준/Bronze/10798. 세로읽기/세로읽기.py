@@ -1,0 +1,1 @@
+print(''.join(''.join(i)for i in zip(*[input()+' '*15for _ in[0]*5])).replace(' ',''))
