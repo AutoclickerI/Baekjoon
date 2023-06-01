@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:n=int(s[10:])*10+eval('+'.join(s[:-1]));print(str(n+1000*(n<1000))[-4:])
