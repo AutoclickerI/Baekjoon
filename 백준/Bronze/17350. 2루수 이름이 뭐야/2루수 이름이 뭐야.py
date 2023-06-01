@@ -1,0 +1,1 @@
+print('뭐야'+'?;'['anj\n'in open(0)])
