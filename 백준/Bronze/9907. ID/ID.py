@@ -1,0 +1,1 @@
+print('JABCDEFGHIZ'[sum(int(i)*int(j)for i,j in zip(input(),'2765432'))%11])
