@@ -1,0 +1,1 @@
+print(*(j for i,j in zip(bin(int(input()))[::-1],range(32))if'1'==i))
