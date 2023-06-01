@@ -1,0 +1,1 @@
+print([1+i+i*i for i in range(101)].index(int(input())))
