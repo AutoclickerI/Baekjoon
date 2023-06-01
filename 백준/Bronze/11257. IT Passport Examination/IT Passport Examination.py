@@ -1,0 +1,1 @@
+for i in[0]*int(input()):a,b,c,d=map(int,input().split());print(a,s:=b+c+d,'FPAAISLS'[(b>10)*(c>7)*(d>11)*(s>54)::2])
