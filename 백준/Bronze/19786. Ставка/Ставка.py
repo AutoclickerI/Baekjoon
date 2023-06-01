@@ -1,0 +1,2 @@
+_,*L=map(int,open(0).read().split())
+while L:A,C,r,g,b=L[:5];L=L[5:];l=[C*min(r:=r+i,g:=g+j,b:=b+k)+A*(r*r+g*g+b*b)for i,j,k in[[1,0,0],[-1,1,0],[0,-1,1]]];print(['RED','GREEN','BLUE'][l.index(max(l))])
