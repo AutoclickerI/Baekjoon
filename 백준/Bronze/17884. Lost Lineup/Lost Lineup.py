@@ -1,0 +1,1 @@
+p,*q=map(int,open(0).read().split());print(1,*[i+2for _,i in sorted(zip(q,range(p)))])
