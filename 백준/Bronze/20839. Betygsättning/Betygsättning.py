@@ -1,0 +1,7 @@
+A,C,E=map(int,input().split())
+a,c,e=map(int,input().split())
+if a==A and c==C and e==E:print('A')
+elif a>=A*.5 and c==C and e==E:print('B')
+elif c==C and e==E:print('C')
+elif c>=C*.5 and e==E:print('D')
+else:print('E')
