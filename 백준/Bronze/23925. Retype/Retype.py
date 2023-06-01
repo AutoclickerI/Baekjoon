@@ -1,0 +1,1 @@
+for i in[*open(j:=0)][1:]:j+=1;N,K,S=map(int,i.split());print(f'Case #{j}:',K+min(N,N+K-2*S))
