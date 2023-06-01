@@ -1,0 +1,1 @@
+for i in map(int,open(0).read()[:-2].split()):print(i*(i+1)//2)
