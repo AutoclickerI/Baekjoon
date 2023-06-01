@@ -1,0 +1,1 @@
+for i in open(0):print(f'{eval(i.replace(*" /")):.2f}')
