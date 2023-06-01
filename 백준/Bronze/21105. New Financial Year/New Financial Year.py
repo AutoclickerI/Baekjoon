@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:p,q=map(eval,i.split());print(p/(1+q/100))
