@@ -1,0 +1,1 @@
+for i in open(0):print(sum(map(int,i[::2])))
