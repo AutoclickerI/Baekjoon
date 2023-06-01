@@ -1,0 +1,1 @@
+for i in[0]*int(input()):p,q=map(int,input().split());print(2-p+q)
