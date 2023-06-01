@@ -1,0 +1,1 @@
+exec("l=input();print(int(l[:2])*l[-1]);"*int(input()))
