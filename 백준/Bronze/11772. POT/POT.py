@@ -1,0 +1,1 @@
+print(sum((i//10)**(i%10)for i in[*map(int,open(0))][1:]))
