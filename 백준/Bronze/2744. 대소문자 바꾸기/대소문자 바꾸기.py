@@ -1,0 +1,1 @@
+for i in input():print(chr(ord(i)-(32if ord(i)>90else-32)),end='')
