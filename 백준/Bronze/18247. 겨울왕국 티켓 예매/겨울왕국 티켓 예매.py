@@ -1,0 +1,1 @@
+for l in[*open(0)][1:]:p,q=map(int,l.split());print((11*q+5)*(p/4>=3<q)-1)
