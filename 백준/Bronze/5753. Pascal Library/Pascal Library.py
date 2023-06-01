@@ -1,0 +1,1 @@
+while 1:p,q=map(int,input().split());p*q or exit();print('nyoe s'[any(map(all,zip(*[map(int,input().split())for _ in[0]*q])))::2])
