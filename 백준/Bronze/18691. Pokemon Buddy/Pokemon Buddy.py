@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:p,q,r=map(int,i.split());print(max(0,r-q)*(2*p-1))
