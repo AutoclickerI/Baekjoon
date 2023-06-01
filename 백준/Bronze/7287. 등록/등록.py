@@ -1,0 +1,1 @@
+print('109\nlycoris1600')
