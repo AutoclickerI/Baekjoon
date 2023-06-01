@@ -1,0 +1,1 @@
+while(l:=input())>'1':print(eval('2*'+l.replace(' ','-')))
