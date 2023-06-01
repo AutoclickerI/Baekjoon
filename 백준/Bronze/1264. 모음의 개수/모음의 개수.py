@@ -1,0 +1,1 @@
+while(s:=input())!='#':print(sum(map(s.count,"aeiouAEIOU")))
