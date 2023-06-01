@@ -1,0 +1,1 @@
+for i in[0]*int(input()):print(['OK','ERROR'][eval("'"+"'!='".join(input().split())+"'")])
