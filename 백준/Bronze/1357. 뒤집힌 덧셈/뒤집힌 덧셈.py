@@ -1,0 +1,1 @@
+print(int(f'{sum(map(int,input()[::-1].split()))}'[::-1]))
