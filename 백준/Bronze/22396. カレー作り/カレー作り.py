@@ -1,0 +1,1 @@
+for i in[*open(0)][:-1]:r,w,C,R=map(int,i.split());print(-min((r-C*w)//R,0))
