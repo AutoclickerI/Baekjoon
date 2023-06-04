@@ -1,2 +1,1 @@
-print(3)
-print(int(input())+1,1,1,1)
+print(*'3111',int(input())+1)
