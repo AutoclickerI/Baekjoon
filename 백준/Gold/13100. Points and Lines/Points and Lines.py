@@ -1,13 +1,7 @@
-import math
 from fractions import Fraction
 class BOJ:
     def __init__(self,a,b=None):
         self.type='point'
-        '''
-        if type = point, point
-        else, a*x+b*y+c=0 => (a,b,c)
-        '''
-        self.data=None
         if b==None:
             self.type=a.type
             self.data=a.data
@@ -34,6 +28,4 @@ class BOJ:
         return ret
     def __repr__(self):
         return f'{float(self.data[0]):.8f} {float(self.data[1]):.8f}'
-while(s:=input())!='#':
-    val=eval(s.replace('(','BOJ('))
-    print(val)
+for i in[*open(0)][:-1]:print(eval(i.replace('(','BOJ(')))
