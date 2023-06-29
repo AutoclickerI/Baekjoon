@@ -1,8 +1,3 @@
-for i in range(int(input())):
-    a = list(map(int, input().split()))
-    del a[0]
-    c = 0
-    for b in a:
-        if b > sum(a)/len(a):
-            c += 1
-    print('{:.3f}%'.format(100*c/len(a)))
+for i in[*open(0)][1:]:
+    n,*l=map(int,i.split())
+    print(f'{100*sum(i*n>sum(l)for i in l)/n:.3f}%')
