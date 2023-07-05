@@ -1,14 +1,10 @@
 *l,=map(int,open(0))
-ans=set()
+visited=[0]*len(l)
 def DFS(n,start):
-    if visited[n]:
-        if n!=start:return
-        for i in range(len(l)):
-            if visited[i]:ans.add(i)
-        return 1
+    if visited[n]:return n==start
     visited[n]=1
-    DFS(l[n],start)
+    return DFS(l[n],start)
 for i in range(1,len(l)):
-    visited=[0]*len(l)
-    DFS(i,i)
-print(len(ans),*sorted(ans))
+    tmp=visited[:]
+    visited=DFS(i,i)*visited or tmp
+print(sum(visited),*[i for i in range(len(l))if visited[i]])
