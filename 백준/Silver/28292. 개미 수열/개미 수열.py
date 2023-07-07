@@ -1,0 +1,1 @@
+print(min(int(input())//3+1,3))
