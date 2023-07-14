@@ -1,0 +1,1 @@
+print(sum(i*j for i,j in zip(sorted(map(int,input().split())),sorted(map(int,input().split())))))
