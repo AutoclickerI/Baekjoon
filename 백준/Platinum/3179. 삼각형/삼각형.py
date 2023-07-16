@@ -5,9 +5,7 @@ ccwdata=[[0 for _ in[0]*n]for _ in[0]*n]
 for i in range(n):
     for j in range(n):
         for k in range(n):
-            if i!=j:
-                tmp=ccw(point[i],point[j],point[k])<=0
-                ccwdata[i][j]+=tmp
+            if i!=j:ccwdata[i][j]+=ccw(point[i],point[j],point[k])<=0
 maxval=-1
 for i in range(n):
     for j in range(i+1,n):
@@ -24,8 +22,6 @@ for i in range(n):
                 tmp2=ccwdata[k][j]
                 tmp3=ccwdata[j][i]
             val=tmp1+tmp2+tmp3-2*n
-            if val>maxval:
-                ans=i,j,k
-                maxval=val
+            if val>maxval:ans=i,j,k;maxval=val
 print(maxval)
 print(*(i+1 for i in ans))
