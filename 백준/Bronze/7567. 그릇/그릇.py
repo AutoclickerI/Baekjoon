@@ -1,0 +1,1 @@
+print(5*(1+len(s:=input())+s.count('()')+s.count(')(')))
