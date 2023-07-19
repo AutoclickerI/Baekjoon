@@ -1,22 +1,7 @@
-n=int(input())
-*l,=map(int,input().split())
-if len(l)==1:
-    print('A')
-elif len(l)==2:
-    print(['A',l[0]][l[0]==l[1]])
-else:
-    if l[1]==l[0]:
-        if len(set(l))==1:
-            print(l[0])
-        else:
-            print('B')
-    else:
-        a=(l[2]-l[1])//(l[1]-l[0])
-        for b in range(-30000,30000):
-            for i,j in zip(l,l[1:]):
-                if a*i+b!=j:break
-            else:
-                print(a*l[-1]+b)
-                break
-        else:
-            print('B')
+p=print
+n,i,*l=map(int,open(0).read().split())
+n>2or exit(p(['A',i][n==2and i==l[0]]))
+a=l[0]-i and(l[1]-l[0])//(l[0]-i)or 0
+b=l[0]-i*a
+[x*a+b==y or exit(p('B'))for x,y in zip(l,l[1:])]
+p(a*l[-1]+b)
