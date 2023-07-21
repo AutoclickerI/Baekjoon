@@ -2,11 +2,8 @@ asc=[]
 desc=[]
 for i in[*open(0)][1:]:
     p,q=map(int,i.split())
-    if q<p:
-        desc+=(q,p),
-    else:
-        asc+=(p,q),
-#%%       
+    if q<p:desc+=(q,p),
+    else:asc+=(p,q),    
 asc.sort()
 desc.sort()
 e=0
