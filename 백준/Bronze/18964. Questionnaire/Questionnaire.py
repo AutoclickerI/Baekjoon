@@ -1,0 +1,1 @@
+print(2,+(int(input())<2*sum(i%2for i in map(int,input().split()))))
