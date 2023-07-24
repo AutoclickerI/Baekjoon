@@ -1,0 +1,1 @@
+print(sum(1^(' 0'in' '+l)for l in open(0))-1)
