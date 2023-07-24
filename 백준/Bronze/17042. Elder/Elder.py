@@ -1,6 +1,6 @@
-s=input()
-S={s}
-for _ in[0]*int(input()):
-    p,q=input().split()
-    if s==q:s=p;S.add(s)
+s,_,*q=open(0)
+S={s:=s[0]}
+for i in q:
+ a,b=i.split()
+ if b==s:s=a;S.add(s)
 print(s,len(S))
