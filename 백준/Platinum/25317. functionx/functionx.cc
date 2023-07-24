@@ -8,35 +8,18 @@ typedef long long ll;
 class Fraction {
 public:
 	Fraction(ll num, ll deno) {
-		if (num == 0) {
-			numerator = num; denominator = 1;
+		if (deno < 0) {
+			num *= -1; deno *= -1;
 		}
-		else {
-			if (deno < 0) {
-				num *= -1; deno *= -1;
-			}
-			numerator = num; denominator = deno;
-		}
+		numerator = num; denominator = deno;
 	}
 	bool operator<(const Fraction& comp) {
         __int128 n1=numerator, n2=comp.numerator, d1=comp.denominator, d2=denominator;
 		return n1 * d1 < n2 * d2;
 	}
-	bool operator>(const Fraction& comp) {
-		__int128 n1=numerator, n2=comp.numerator, d1=comp.denominator, d2=denominator;
-		return n1 * d1 > n2 * d2;
-	}
 	bool operator==(const Fraction& comp) {
 		__int128 n1=numerator, n2=comp.numerator, d1=comp.denominator, d2=denominator;
 		return n1 * d1 == n2 * d2;
-	}
-	bool operator<=(const Fraction& comp) {
-		__int128 n1=numerator, n2=comp.numerator, d1=comp.denominator, d2=denominator;
-		return n1 * d1 <= n2 * d2;
-	}
-	bool operator>=(const Fraction& comp) {
-		__int128 n1=numerator, n2=comp.numerator, d1=comp.denominator, d2=denominator;
-		return n1 * d1 >= n2 * d2;
 	}
 	ll numerator;
 	ll denominator;
@@ -112,19 +95,15 @@ int main() {
 			}
 		}
 		else {
-			if (zero_flag)
+			nu = Q[1];
+			idx = lower_bound(cord.begin(), cord.end(), Fraction(nu, 1)) - cord.begin();
+			if (zero_flag or idx != cord.size() and visited[idx] and Fraction(nu, 1) == cord[idx])
 				cout << "0\n";
 			else {
-				nu = Q[1];
-				idx = lower_bound(cord.begin(), cord.end(), Fraction(nu, 1)) - cord.begin();
-				if (idx != cord.size() and visited[idx] and Fraction(nu, 1) == cord[idx])
-					cout << "0\n";
-				else {
-					if (get_sum(0, cord.size() - 1, 1, 0, idx - 1))
-						cout << "-\n";
-					else
-						cout << "+\n";
-				}
+				if (get_sum(0, cord.size() - 1, 1, 0, idx - 1))
+					cout << "-\n";
+				else
+					cout << "+\n";
 			}
 		}
 	}
