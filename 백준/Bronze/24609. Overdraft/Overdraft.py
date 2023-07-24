@@ -1,5 +1,3 @@
-m=0
-for _ in[s:=0]*int(input()):
-    s+=int(input())
-    m=min(m,s)
-print(-m)
+m=s=0
+for i in[*open(0)][1:]:s-=int(i);m=max(m,s)
+print(m)
