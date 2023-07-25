@@ -1,5 +1,4 @@
-while(s:=input())!='99999':
-    if s[:2]=='00':0
-    else:d=['right','left'][sum(map(int,s[:2]))%2]
-    print(d,s[2:])
-    
+p=''
+while(s:=input())<'9'*5:
+ if i:=sum(map(int,s[:2])):p='rliegfhtt'[i%2::2]
+ print(p,s[2:])
