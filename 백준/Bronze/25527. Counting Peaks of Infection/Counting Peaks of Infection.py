@@ -1,0 +1,1 @@
+for i in[*open(0)][1::2]:*l,=map(int,i.split());print(sum(i<j>k for i,j,k in zip(l[2:],l[1:],l)))
