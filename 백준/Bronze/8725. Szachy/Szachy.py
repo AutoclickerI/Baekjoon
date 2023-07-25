@@ -1,0 +1,1 @@
+print(sum(max(0,*map(int,i.split()))for i in[*open(0)][1:]))
