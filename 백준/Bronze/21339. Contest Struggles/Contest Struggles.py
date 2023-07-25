@@ -1,4 +1,3 @@
-n,k=map(int,input().split())
-d,s=map(int,input().split())
-v=(d*n-k*s)/(n-k)
-print((v>100 or 0>v)*'impossible'or v)
+n,k,d,s=map(int,open(0).read().split())
+x=(n*d-k*s)/(n-k)
+print(x*(0<=x<=100)or'impossible')
