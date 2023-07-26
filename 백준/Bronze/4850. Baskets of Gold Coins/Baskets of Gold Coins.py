@@ -1,0 +1,1 @@
+for i in open(0):N,W,D,S=map(int,i.split());print((~-N*N//2*W-S)//D or N)
