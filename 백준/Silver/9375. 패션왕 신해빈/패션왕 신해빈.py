@@ -1,12 +1,2 @@
-for _ in[0]*int(input()):
-    d={}
-    for _ in[0]*int(input()):
-        p,q=input().split()
-        if d.get(q):
-            d[q]+=1
-        else:
-            d[q]=1
-    num=1
-    for i in d.values():
-        num*=(i+1)
-    print(num-1)
+I=input
+exec('l=[I().split()[1]for _ in[0]*int(I())];r=1\nfor e in{*l}:r*=l.count(e)+1\nprint(r-1);'*int(I()))
