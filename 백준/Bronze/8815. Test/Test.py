@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:Z=~-int(i)%12;print('ABCD'[Z%3+Z//3&3])
+for n in[*open(0)][1:]:print("BABCBCDCDADA"[int(n)%12])
