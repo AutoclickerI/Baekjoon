@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:Z=~-int(i)%12;print('ABCD'[Z%3+Z//3&3])
