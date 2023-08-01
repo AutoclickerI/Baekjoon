@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:b,p=i.split();print(*[(int(b)+i)/eval(p)*60for i in[-1,0,1]])
