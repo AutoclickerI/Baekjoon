@@ -1,4 +1,3 @@
-l='*'
-s=int(input())
-for _ in[0]*sum(0!=(s:=s//3)for _ in[0]*7):K=[i*3 for i in l];l=K+[i+' '*len(i)+i for i in l]+K
-print(*l)
+n,s,i=int(input()),'*',1
+while i<n:k=[c*3for c in s];s=k+[c+' '*i+c for c in s]+k;i*=3
+print(' '.join(s))
