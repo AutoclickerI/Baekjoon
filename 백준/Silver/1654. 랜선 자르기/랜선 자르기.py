@@ -1,4 +1,4 @@
-p,q,*l=map(int,open(0).read().split())
-t=[1,1<<32]
-while t[1]-t[0]-1:m=sum(t)//2;t[sum(i//m for i in l)<q]=m
-print(t[0])    
+v,*o=open(0)
+s=[0,2**31]
+while s[1]-s[0]>1:l=sum(s)//2;s[sum(int(i)//l for i in o)<int(v.split()[1])]=l
+print(s[0])
