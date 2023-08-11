@@ -1,0 +1,1 @@
+print(max(eval(i.replace(*' *'))for i in[*open(0)][1:]))
