@@ -1,0 +1,1 @@
+print(*map(lambda n:4-(n>249)-(n>274)-(n>299),map(int,[*open(0)][1].split())))
