@@ -1,1 +1,1 @@
-print(['Lorna','Johnny'][int(input())%2])
+print('JLoohrnnnay'[~int(input())%2::2])
