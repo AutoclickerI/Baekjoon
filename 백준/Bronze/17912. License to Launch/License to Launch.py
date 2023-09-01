@@ -1,2 +1,2 @@
-*l,=map(int,[*open(0)][1].split())
-print(l.index(min(l)))
+l=[*open(0)][1].split()
+print(l.index(min(l,key=int)))
