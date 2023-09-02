@@ -1,0 +1,1 @@
+while(s:=input())>'00':p,q=map(int,s.split());print(sum(min(i,q//p)for i in map(int,input().split())))
