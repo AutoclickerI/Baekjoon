@@ -1,1 +1,1 @@
-print('no '*('ss'not in input())+'hiss')
+print('no '[('ss'in input())*3:]+'hiss')
