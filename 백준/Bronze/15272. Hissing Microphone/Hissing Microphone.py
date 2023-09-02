@@ -1,0 +1,1 @@
+print('no '*('ss'not in input())+'hiss')
