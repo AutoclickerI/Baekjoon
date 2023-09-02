@@ -1,3 +1,4 @@
-*l,=map(int,open(0))
-while l[-2]>=l[-1]:l+=l[-2]-l[-1],
-print(len(l))
+t,s=map(int,open(0))
+c=2
+while~t<-s:t,s=s,t-s;c+=1
+print(c)
