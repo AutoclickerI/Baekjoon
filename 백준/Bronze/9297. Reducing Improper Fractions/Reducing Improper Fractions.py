@@ -1,12 +1,1 @@
-for i in range(int(input())):
-    p,q=map(int,input().split())
-    if p%q:
-        if p//q:
-            print(f'Case {i+1}: {p//q} {p%q}/{q}')
-        else:
-            print(f'Case {i+1}: {p%q}/{q}')
-    else:
-        if p//q:
-            print(f'Case {i+1}: {p//q}')
-        else:
-            print(f'Case {i+1}: 0')
+for i in[*open(t:=0)][1:]:t+=1;a,b=map(int,i.split());print(f'Case {t}:',f'{a//b} '*(a//b>0)+f'{a%b}/{b}'*(a%b>0)or'0')
