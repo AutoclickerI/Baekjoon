@@ -1,0 +1,1 @@
+for i in range(int(input())):w,h=zip(*[map(eval,input().split())for _ in[0]*int(input())]);m,M,n,N=min(w),max(w),min(h),max(h);print(f'Case {i+1}: Area {(M-m)*(N-n)}, Perimeter {2*(M-m+N-n)}')
