@@ -1,6 +1,3 @@
-a=0
-for _ in[0]*int(input()):
-    p,q,r,s=map(eval,input().split())
-    print(s:=((p<=56)*(q<=45)*(r<=25)or(p+q+r<=125))*(s<=7))
-    a+=s
-print(a)
+x=[]
+for i in[*open(0)][1:]:a,b,c,d=map(eval,i.split());x+=1-bool(((a>56)+(b>45)+(c>25))*(a+b+c>125)+(d>7)),
+print(*x,sum(x))
