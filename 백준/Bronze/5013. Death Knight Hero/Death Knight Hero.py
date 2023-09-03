@@ -1,1 +1,1 @@
-print(sum('CD'not in i for i in open(0))-1)
+print(sum(1-('CD'in i)for i in open(0))-1)
