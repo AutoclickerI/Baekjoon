@@ -1,0 +1,1 @@
+while'1'<(s:=input()):p,q=map(int,s.split());print(5*min(6*p+8*q,7*p+6*q,8*p+4*q))
