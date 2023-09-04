@@ -1,1 +1,1 @@
-while int(input()):print(min((abs(2023-int(j)),i+1)for i,j in enumerate(input().split()))[1])
+while'1'<input():i=0;print(min((abs(2023-int(j)),i:=i+1)for j in input().split())[1])
