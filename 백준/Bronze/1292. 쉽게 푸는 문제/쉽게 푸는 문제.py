@@ -1,6 +1,1 @@
-l=[]
-for i in range(1,999):
-    for j in range(i):
-        l+=[i]
-a,b=map(int,input().split())
-print(sum(l[a-1:b]))
+a,b=map(int,input().split());print(sum(int(.5+(2*i)**.5)for i in range(a,b+1)))
