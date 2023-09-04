@@ -1,5 +1,2 @@
-a,b=open(0)
-*l,=a
-for i in range(len(l)):
-    if l[i] in b:l[i]=l[i].lower()
-print(''.join(l))
+a,z=open(0)
+print(a.translate(a.maketrans(z,z.lower())))
