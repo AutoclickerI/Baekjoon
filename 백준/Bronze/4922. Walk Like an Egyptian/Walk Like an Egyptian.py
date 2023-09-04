@@ -1,1 +1,1 @@
-while n:=(int(input())):print(n,'=>',n*~-n+1)
+for i in[*open(0)][:-1]:print(n:=int(i),'=>',n*~-n+1)
