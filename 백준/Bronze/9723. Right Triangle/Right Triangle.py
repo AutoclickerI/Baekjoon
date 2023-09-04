@@ -1,0 +1,1 @@
+for i in[*open(t:=0)][1:]:t+=1;a,b,c=sorted(map(int,i.split()));print(f'Case #{t}:','YNEOS'[a*a+b*b!=c*c::2])
