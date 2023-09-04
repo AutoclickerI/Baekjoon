@@ -1,1 +1,1 @@
-for l in[*open(0)][1:]:print(l+['Check','Seems OK'][sum(map(int,l.split()))==180])
+for l in[*open(0)][1:]:print(l+['Check','Seems OK'][eval(l.replace(*' +'))==180])
