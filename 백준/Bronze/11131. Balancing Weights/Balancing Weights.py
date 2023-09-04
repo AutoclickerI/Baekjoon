@@ -1,0 +1,1 @@
+for i in[*open(0)][2::2]:i=eval(i.replace(*' +'));print(['Equilibrium','Right','Left'][(i>0)-(i<0)])
