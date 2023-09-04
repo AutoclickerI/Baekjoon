@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:p,q,r=map(int,i.split());print(p,q,r,['Check','Seems OK'][p+q+r==180])
