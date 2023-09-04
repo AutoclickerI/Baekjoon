@@ -1,0 +1,1 @@
+while'1'<(s:=input()):n=eval(s.replace(*' -'));n*=n>1;print(n//2-n%2,n%2)
