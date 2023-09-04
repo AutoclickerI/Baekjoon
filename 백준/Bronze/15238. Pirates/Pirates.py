@@ -1,0 +1,1 @@
+print(m:=max(s:=[*open(0)][1],key=s.count),s.count(m))
