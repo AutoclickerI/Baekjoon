@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:print(['Valid','Corrupt'][eval('^'.join(bin(eval(i.replace(*' ^')))[2:]))])
+for i in[*open(0)][1:]:print(['Valid','Corrupt'][eval(i.replace(*' ^')).bit_count()%2])
