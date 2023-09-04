@@ -1,10 +1,1 @@
-for i in[*open(0)][:-1]:
-    p,q,r,s=map(int,i.split())
-    if p==0:
-        print(s//r//q,q,r,s)
-    if q==0:
-        print(p,s//p//r,r,s)
-    if r==0:
-        print(p,q,s//p//q,s)
-    if s==0:
-        print(p,q,r,p*q*r)
+for i in[*open(0)][:-1]:l,w,h,v=map(int,i.split());print(l or v//w//h,w or v//l//h,h or v//l//w,v or l*w*h)
