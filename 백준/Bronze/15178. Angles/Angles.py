@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:p,q,r=map(int,i.split());print(p,q,r,['Check','Seems OK'][p+q+r==180])
+for l in[*open(0)][1:]:print(l+['Check','Seems OK'][sum(map(int,l.split()))==180])
