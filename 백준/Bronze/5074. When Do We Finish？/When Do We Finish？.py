@@ -1,1 +1,1 @@
-for i in[*open(0)][:-1]:a,b,c,d=map(int,i.replace(*': ').split());t=(a+c)*60+b+d;print('%02d:%02d'%(t//60%24,t%60),f'+{t//1440}'*(t>1439))
+for i in[*open(0)][:-1]:a,b,c,d=map(int,i.replace(*': ').split());t=(a+c)*60+b+d;print(f'{t//60%24:02}:{t%60:02}',f'+{t//1440}'*(t>1439))
