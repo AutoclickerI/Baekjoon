@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:p,q=map(int,i.split());print(p,m:=q*-~q//2,2*m-q,2*m)
