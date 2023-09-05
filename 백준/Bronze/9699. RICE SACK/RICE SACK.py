@@ -1,1 +1,1 @@
-for i in range(int(input())):print(f'Case #{i+1}:',max(input().split(),key=int))
+for i in[*open(c:=0)][1:]:c+=1;print(f'Case #{c}:',max(i.split(),key=int))
