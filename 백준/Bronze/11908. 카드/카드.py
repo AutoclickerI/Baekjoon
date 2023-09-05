@@ -1,0 +1,1 @@
+print(sum(l:=[*map(int,[*open(0)][1].split())])-max(l))
