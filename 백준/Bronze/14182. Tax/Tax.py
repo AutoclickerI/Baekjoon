@@ -1,0 +1,1 @@
+while s:=int(input()):print(s-s//10*(s>999999)-s//10*(s>4999999))
