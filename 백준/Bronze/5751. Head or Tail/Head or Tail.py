@@ -1,0 +1,1 @@
+while s:=int(input()):f=input().count;print('Mary won',f('0'),'times and John won',f('1'),'times')
