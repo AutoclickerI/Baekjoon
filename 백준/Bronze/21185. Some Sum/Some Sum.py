@@ -1,0 +1,1 @@
+print(['Even',s:='Either','Odd',s][int(input())%4])
