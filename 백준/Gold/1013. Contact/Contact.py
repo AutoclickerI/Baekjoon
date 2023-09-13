@@ -1,2 +1,2 @@
 import re
-for _ in[0]*int(input()):print('YNEOS'[not re.fullmatch('(100+1+|01)+', input())::2])
+for s in[*open(0)][1:]:print('YNEOS'[not re.match('(100+1+|01)+$',s)::2])
