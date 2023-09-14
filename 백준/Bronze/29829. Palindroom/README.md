@@ -18,7 +18,7 @@
 
 ### 입력 
 
- <p>Ainsal real on neli tühikutega eraldatud täisarvu väärtustega <mjx-container class="MathJax" jax="CHTML" style="font-size: 109%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-mn class="mjx-n"><mjx-c class="mjx-c31"></mjx-c></mjx-mn><mjx-mo class="mjx-n" space="2"><mjx-c class="mjx-c2026"></mjx-c></mjx-mo><mjx-mn class="mjx-n" space="2"><mjx-c class="mjx-c39"></mjx-c></mjx-mn></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn><mo>…</mo><mn>9</mn></math></mjx-assistive-mml><span aria-hidden="true" class="no-mathjax mjx-copytext">$1 \ldots 9$</span></mjx-container>.</p>
+ <p>Ainsal real on neli tühikutega eraldatud täisarvu väärtustega $1 \ldots 9$.</p>
 
 ### 출력 
 
