@@ -1,1 +1,1 @@
-print('NYOE S'[not{*input()}-{*'IOSHZXN'}::2])
+print({*input()}-{*'IOSHZXN'}and'NO'or'YES')
