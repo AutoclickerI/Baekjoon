@@ -1,9 +1,9 @@
-*l,=zip(input(),input())
-s=sum(l,())
-for _ in[0]*int(input()):
+a,b,_,*L=open(0)
+*l,=zip(a,b)
+for j in L:
     p=1
-    for i in input():
-        if i.isupper()and i not in s:
+    for i in j:
+        if i.isupper()and i not in sum(l,()):
             p=0
         if i.islower()and(i,i)not in l:
             p=0
