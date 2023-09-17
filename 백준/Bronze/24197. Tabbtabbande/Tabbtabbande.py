@@ -1,4 +1,3 @@
-N,_,*l=map(int,open(a:=0).read().split())
+N,_,*l=map(int,open(0).read().split())
 s=1
-for i in l:a+=min((i-s)%N,(s-i)%N);s=i
-print(a)
+print(sum(min((i-s)%N,(s-(s:=i))%N)for i in l))
