@@ -1,0 +1,1 @@
+for _ in[0]*int(input()):s=sum(eval(input().replace(*' *'))for _ in[0]*int(input()));print(1296//s,2592//s,3888//s)
