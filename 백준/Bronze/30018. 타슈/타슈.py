@@ -1,0 +1,1 @@
+print(sum(abs(i-j)for i,j in zip(*[map(int,k.split())for k in open(0)][1:]))//2)
