@@ -1,1 +1,1 @@
-for i in range(int(input())):print(sum(list(map(int,input().split(',')))))
+print(*map(sum,map(eval,[*open(0)][1:])))
