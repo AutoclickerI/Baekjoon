@@ -1,2 +1,2 @@
-s=input()
-print(*[eval(i.replace(*' +'))for i in[s.replace(*'65'),s.replace(*'56')]])
+f=input().replace(*' +').replace
+print(eval(f(*'65')),eval(f(*'56')))
