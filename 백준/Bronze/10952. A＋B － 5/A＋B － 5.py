@@ -1,1 +1,2 @@
-for i in[*open(0)][:-1]:print(sum(b'%a'%i)%51)
+*l,n=open(0)
+for i in l:print(sum(b'%a'%i)%51)
