@@ -1,1 +1,1 @@
-print(eval(input().replace(*' +')))
+print(sum(*open(0,'rb'))%69)
