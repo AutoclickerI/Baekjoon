@@ -1,6 +1,1 @@
-n = int(input())
-list1 = []
-for i in range(n):
-    list1.append(input().split(' '))
-for i in range(n):
-    print(int(list1[i][0]) + int(list1[i][1]))
+for i in[*open(0)][1:]:print(sum(b'%a'%i)%51)
