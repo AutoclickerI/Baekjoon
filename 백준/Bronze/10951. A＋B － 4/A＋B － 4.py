@@ -1,1 +1,1 @@
-for i in open(0):print(sum(map(int,i[::2])))
+for i in open(0):print(sum(b'%a'%i)%51)
