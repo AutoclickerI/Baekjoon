@@ -1,1 +1,1 @@
-for i in[*open(0,'rb')][1:]:print('%X'%ord('Ȅȇ̃̂넁ԁ ą'[i[-3]%8]))
+for i in[*open(0)][1:]:print('%X'%ord('Ȅȇ̃̂넁ԁ ą'[ord(i[-3])%8]))
