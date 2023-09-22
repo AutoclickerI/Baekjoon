@@ -1,2 +1,2 @@
 n=int(input())
-print([1<<n//2,0][n%2])
+print(~n%2<<n//2)
