@@ -1,0 +1,1 @@
+print(sum(('OI'in i)or('01'in i)for i in open(0)))
