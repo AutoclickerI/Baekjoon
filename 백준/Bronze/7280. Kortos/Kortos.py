@@ -1,0 +1,1 @@
+print(*[*{(str(s),str(n+1))for s in'SBVK'for n in range(13)}-{tuple(i.split())for i in open(0)}][0])
