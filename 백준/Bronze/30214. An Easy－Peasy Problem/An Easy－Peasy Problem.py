@@ -1,0 +1,1 @@
+print('EH'[eval(input().replace(' ','*2<'))])
