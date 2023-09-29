@@ -1,1 +1,3 @@
-for a,_,c,_ in[*open(i:=0)][1:]:i+=1;print(f'Case #{i}:',a,'+',c,'=',int(a)+int(c))
+for i in range(int(input())):
+    a = input().split(' ')
+    print(f'Case #{i + 1}: {a[0]} + {a[1]} = {int(a[0]) + int(a[1])}')
