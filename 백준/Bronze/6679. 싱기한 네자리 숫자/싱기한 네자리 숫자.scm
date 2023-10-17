@@ -1,6 +1,3 @@
-(define (print n)
-  (display n)
-  (newline))
 (define (loop l)
   (cond ((null? (cdr l)) (print (car l)))
         (else (print (car l)) (loop (cdr l)))))
