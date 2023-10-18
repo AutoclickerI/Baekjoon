@@ -1,0 +1,7 @@
+(define x (read))
+(define m (read))
+(define (modpow base power mod)
+  (if (= power 0) 1 (remainder (* base (modpow base (- power 1) mod)) mod)))
+(define (loop n)
+  (if (= n 0) "No such integer exists." (if (= (modpow x (+ n 1) m) 1) (modpow x n m) (loop (- n 1)))))
+(print (loop m))
