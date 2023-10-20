@@ -32,7 +32,7 @@ for _ in[0]*n:
     vecs+=vec(p,q,r),
 point=vec(x/n,y/n,z/n)
 lr=LR(0.1,0.985)
-for i in range(1200):
+for i in range(850):
     m=point-vecs[0]
     for j in vecs:
         m=max(m,point-j)
