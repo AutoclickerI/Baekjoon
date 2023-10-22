@@ -1,0 +1,5 @@
+(define (printer lis)
+  (cond ((null? lis) 0)
+        (else (display (car lis)) (display " ") (printer (cdr lis)))))
+(printer (let* ((p (read)) (q (read)) (r (read)) (a (read)) (b (read)) (c (read)) (t (+ (+ (* (* (read) q) r) (* (read) r)) (read))))
+           (list (quotient t (* b c)) (quotient (remainder t (* b c)) c) (remainder t c))))
