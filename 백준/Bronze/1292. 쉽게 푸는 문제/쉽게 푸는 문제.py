@@ -1,1 +1,1 @@
-a,b=map(int,input().split());print(sum(round((i*2)**.5)for i in range(a,b+1)))
+print(sum(round((i*2)**.5)for i in range(*eval(input().replace(*' ,')+'+1'))))
