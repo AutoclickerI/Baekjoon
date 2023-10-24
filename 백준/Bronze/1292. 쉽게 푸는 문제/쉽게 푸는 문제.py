@@ -1,1 +1,1 @@
-print(sum(round((i*2)**.5)for i in range(*eval(input().replace(*' ,')+'+1'))))
+print(sum(round((i*2)**.5)for i in range(*eval(input().replace(' ',',1+')))))
