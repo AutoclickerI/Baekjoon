@@ -1,0 +1,1 @@
+_,*l=open(0);print(min(''.join(l).count(i)for i in'01'))
