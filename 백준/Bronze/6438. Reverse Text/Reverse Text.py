@@ -1,1 +1,1 @@
-print(''.join(i[::-1]for i in[*open(0)][1:])[1:])
+for i in[*open(0)][1:]:print(i[-2::-1])
