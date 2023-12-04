@@ -1,1 +1,1 @@
-print(min(map(open(0).read().count,'uospc')))
+print(min(map([*open(0)][1].count,'uospc')))
