@@ -1,2 +1,2 @@
-v=eval(input().replace(*' /'))
-print(['very strong'[(v<.6)*5:],'normal','weak'][(v<.2)+(v<.4)])
+v=eval(input().replace(*' /'))*5
+print('very '*(v>=3)+'snwtoerraomkna gl'[(v<2)+(v<1)::3])
