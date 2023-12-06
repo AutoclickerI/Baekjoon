@@ -1,1 +1,1 @@
-print(*min([*map(int,i.split())][::-1]for i in[*open(0)][1:])[::-1])
+print(max(open(0),key=lambda x:-int([*x.split(),1e9][1])))
