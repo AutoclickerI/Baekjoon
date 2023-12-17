@@ -1,0 +1,1 @@
+print(max(map([*open(0,'rb')][1].count,range(97,123))))
