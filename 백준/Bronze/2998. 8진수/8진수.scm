@@ -1,0 +1,5 @@
+(define (BtD n)
+  (if (= n 0) 0 (+ (remainder n 10) (* 2 (BtD (quotient n 10))))))
+(define (DtO n)
+  (if (= n 0) 0 (+ (remainder n 8) (* 10 (DtO (quotient n 8))))))
+(print (DtO (BtD (read))))
