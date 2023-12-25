@@ -1,0 +1,1 @@
+print(sum(len(i)<=2*i.count('O')for i in open(0)))
