@@ -1,1 +1,1 @@
-print(int(((1+2j)**int(input())).real))
+print('%d'%pow(1+2j,int(input())).real)
