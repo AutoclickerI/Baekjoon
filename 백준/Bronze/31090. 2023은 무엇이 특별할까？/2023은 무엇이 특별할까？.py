@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:print("GBoyoed"[~int(s)%int(s[2:])>0::2])
