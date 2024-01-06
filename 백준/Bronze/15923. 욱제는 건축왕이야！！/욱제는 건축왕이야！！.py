@@ -1,6 +1,3 @@
-_,*l=open(0)
-a=0
-for i in range(len(l)):
-    p,q,r,s=map(int,(l[i]+l[i-1]).split())
-    a+=abs(p+q-r-s)
-print(a)
+n,*a,y=open(z:=0)
+for x in*a,y:p,q,r,s=map(int,(x+y).split());z+=abs(p+q-r-s);y=x
+print(z)
