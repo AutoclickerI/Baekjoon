@@ -1,0 +1,1 @@
+for i in map(int,[*open(0)][1:]):print(3-(i<3)*2)
