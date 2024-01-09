@@ -1,0 +1,1 @@
+print(''.join(str(i**3)for i in range(99999))[int(input())])
