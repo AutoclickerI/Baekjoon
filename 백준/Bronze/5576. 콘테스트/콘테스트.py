@@ -1,1 +1,1 @@
-exec(2*"print(sum(sorted(eval('int(input()),'*10))[7:]));")
+exec(2*f"print(sum(sorted(({'int(input()),'*10}))[7:]));")
