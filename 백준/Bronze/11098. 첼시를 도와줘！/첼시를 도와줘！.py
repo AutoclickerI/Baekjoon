@@ -1,0 +1,1 @@
+exec("print(max([input().split()for _ in[0]*int(input())],key=lambda s:int(s[0]))[1]);"*int(input()))
