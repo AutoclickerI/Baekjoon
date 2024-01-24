@@ -1,2 +1,1 @@
-*l,=map(int,input().split())
-print(sum(l)-min(l)+1)
+print(1+eval('+'.join(sorted(input().split(),key=int)[1:])))
