@@ -1,4 +1,4 @@
-A=B=f=0
-a='D'
-for i,j in zip(l:=open(0).read().split(),l[10:]):a=a*(i==j)or'AB'[i<j];A+=1+2*(i>j)-(i<j);B+=1+2*(i<j)-(i>j)
-print(A,B,a*(A==B)or'AB'[A<B])
+f=lambda:input().split()
+x=y=w=0
+for i,j in zip(f(),f()):x+=1+2*(i>j)-(i<j);y+=1+2*(i<j)-(i>j);w=-~(i<j)*(i!=j)or w
+s='DAB'[w]+'AB';print(x,y,s[(x>y)-(x<y)])
