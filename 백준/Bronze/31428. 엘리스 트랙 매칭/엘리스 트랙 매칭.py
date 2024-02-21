@@ -1,2 +1,3 @@
-p,q,r=open(0)
-print(q.count(r[0]))
+I=input
+I()
+print(I().count(I()))
