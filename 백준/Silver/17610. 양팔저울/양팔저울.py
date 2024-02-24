@@ -1,5 +1,4 @@
-input()
-*l,=map(int,input().split())
+*l,=map(int,[*open(0)][1].split())
 s={0}
-for i in l:s|={j+i for j in s}|{j-i for j in s}
-print(len({*range(1,sum(l)+1)}-s))
+for i in l:s|={*sum([[j+i,j-i]for j in s],[])}
+print(len({*range(sum(l)+1)}-s))
