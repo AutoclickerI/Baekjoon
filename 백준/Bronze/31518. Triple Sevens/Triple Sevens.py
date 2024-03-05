@@ -1,0 +1,1 @@
+print(777*(open(0).read().count('7')>2))
