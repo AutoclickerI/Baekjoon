@@ -1,0 +1,1 @@
+print(max(n:=int(input()),n*3-60)/2)
