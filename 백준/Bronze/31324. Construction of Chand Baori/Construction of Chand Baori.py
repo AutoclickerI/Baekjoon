@@ -1,3 +1,4 @@
 N,M=map(int,input().split())
-import math
-print(['Harshat Mata','Nope'][math.factorial(N)<<N<M])
+s=1
+while N:s*=N*2;N-=1
+print(['Harshat Mata','Nope'][M>s])
