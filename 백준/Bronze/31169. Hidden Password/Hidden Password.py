@@ -1,0 +1,1 @@
+exec('print(*[chr((ord(i)-84)%26+97)for i in input()],sep="");'*int(input()))
