@@ -1,2 +1,1 @@
-i=0
-exec('i+=1;print(f"Case {i}:",eval(input().replace(*" %")));'*int(input()))
+for j in[*open(i:=0)][1:]:i+=1;print(f'Case {i}:',eval(j.replace(*' %')))
