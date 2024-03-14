@@ -1,0 +1,1 @@
+print('YNeos'[len({*[*open(0)][1]})>2::2])
