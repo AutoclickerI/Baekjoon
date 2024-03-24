@@ -1,0 +1,1 @@
+print('GDouocske'[~int(input())&1::2])
