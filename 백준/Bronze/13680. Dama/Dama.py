@@ -1,3 +1,1 @@
-for i in[*open(0)][:-1]:
-    p,q,r,s=map(int,i.split())
-    print(2-(p==r or q==s or abs((p-r)/(q-s))==1)-((p,q)==(r,s)))
+for i in[*open(0)][:-1]:p,q,r,s=map(int,i.split());p-=r;q-=s;print(2-(p*q==0 or p/q in[1,-1])-(p*9+q==0))
