@@ -1,5 +1,4 @@
-x,n=map(int,input().split())
-s=''
-i=0
-while len(s)<n:s+=str(x**i);i+=1
-print(s[n-1])
+x,n,*s=map(int,input().split())
+i=1
+while len(s)<n:s+=str(i:=i*x)
+print(s[n-2])
