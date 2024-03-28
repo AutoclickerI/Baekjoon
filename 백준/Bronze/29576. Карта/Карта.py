@@ -1,6 +1,3 @@
 n,k=map(int,input().split())
-if n==1:print(0)
-elif n==k:print(1)
-elif k==1:print(-1)
-elif~-n%~-k<1:print(~-n//~-k)
-else:print(-1)
+n-=1;k-=1
+print(-((n+k>0)and(k<1or(n%k!=0)-n//k*(n%k==0))))
