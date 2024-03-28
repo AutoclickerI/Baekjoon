@@ -1,0 +1,6 @@
+n,k=map(int,input().split())
+if n==1:print(0)
+elif n==k:print(1)
+elif k==1:print(-1)
+elif~-n%~-k<1:print(~-n//~-k)
+else:print(-1)
