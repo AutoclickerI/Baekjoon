@@ -1,3 +1,1 @@
-l=[]
-for i in range(n:=int(input())):l.insert(len(l)//2+(i%4==3),n-i)
-print(*l)
+print(*sorted(range(1,n:=int(input())+1),key=lambda x:(n-x&2)*-x))
