@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:l=len(str(int(f'{int(i):b}'[::-1])));print((l>1)*l)
