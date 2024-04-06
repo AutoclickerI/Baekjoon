@@ -1,4 +1,2 @@
-N,_,P=map(int,input().split())
-l=[[*map(int,input().split())]for _ in[0]*N]
-Q=[[*map(int,input().split())]for _ in[0]*P]
-print(sum(all(i[j-1]==k for j,k in Q)for i in l))
+(N,_,P),*l=[[*map(int,i.split())]for i in open(0)]
+print(sum(all(i[j-1]==k for j,k in l[N:])for i in l[:N]))
