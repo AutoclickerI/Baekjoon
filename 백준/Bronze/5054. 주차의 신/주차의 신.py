@@ -1,0 +1,1 @@
+for i in[*open(0)][2::2]:l=sorted(map(int,i.split()));print(l[-1]-l[0]<<1)
