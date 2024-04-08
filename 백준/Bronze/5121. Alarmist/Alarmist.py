@@ -1,0 +1,1 @@
+for i in range(int(input())):n,w=map(int,input().split());*l,=map(int,input().split());s=[sum(l[i:i+w])//w for i in range(n-w+1)];print(f'Data Set {i+1}:\n{max(s)-min(s)}\n')
