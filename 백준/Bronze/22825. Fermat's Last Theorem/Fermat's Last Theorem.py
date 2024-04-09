@@ -1,1 +1,1 @@
-while z:=int(input()):print(min(z**3-i**3-int(pow(z**3-i**3,1/3))**3for i in range(1,z)))
+while z:=int(input()):print(min((h:=z**3-i**3)-int(h**(1/3))**3for i in range(1,z)))
