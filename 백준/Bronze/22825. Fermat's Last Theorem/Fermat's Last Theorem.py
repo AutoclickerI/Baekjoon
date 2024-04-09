@@ -1,0 +1,1 @@
+while z:=int(input()):print(z**3-max(i**3+j**3for i in range(1,1111)for j in range(1,1111)if i**3+j**3<=z**3))
