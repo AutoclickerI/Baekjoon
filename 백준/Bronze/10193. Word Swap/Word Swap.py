@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:s,t=i.split();p=sum(ord(a)-ord(b)for a,b in zip(s,t));print('Swapping letters to make',s,'look like',t,*[['was FREE.'],[['cost','earned'][0<p],abs(p),'coins.']][0!=p])
