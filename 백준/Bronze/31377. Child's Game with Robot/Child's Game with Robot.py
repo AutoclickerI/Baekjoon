@@ -1,0 +1,1 @@
+print('echo win\n'*10)
