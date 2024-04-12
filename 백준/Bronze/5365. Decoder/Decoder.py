@@ -1,6 +1,1 @@
-input()
-n=0
-for i in input().split():
-    t=len(i)
-    print(end=' 'if n>=t else i[n])
-    n=t-1
+for s in[*open(0)][x:=1].split():print(end=s[x-1:x]or' ');x=len(s)
