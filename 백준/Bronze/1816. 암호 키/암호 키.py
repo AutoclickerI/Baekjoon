@@ -1,0 +1,1 @@
+for S in[*open(0)][1:]:print('NYOE S'[all(int(S)%i for i in range(2,999999))::2])
