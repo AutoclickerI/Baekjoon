@@ -1,0 +1,1 @@
+for i in[*open(0)][2::2]:print(sum(sorted(map(int,i.split()))[-3::-3]))
