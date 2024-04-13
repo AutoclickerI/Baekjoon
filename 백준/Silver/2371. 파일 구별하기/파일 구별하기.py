@@ -1,0 +1,1 @@
+print(max(len(i.split())for i in open(0))-1)
