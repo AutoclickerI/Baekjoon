@@ -1,0 +1,1 @@
+while'#'<(s:=input()):print(s[0],s.lower().count(s[0])-1)
