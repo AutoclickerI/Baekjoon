@@ -1,0 +1,1 @@
+for i in[*open(0)][1].split():print(end='.-'[i[0]>'3'])
