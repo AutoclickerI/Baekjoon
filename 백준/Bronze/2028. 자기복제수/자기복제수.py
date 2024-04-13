@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:N=int(i);print('YNEOS'[N*N%10**~-len(i)!=N::2])
