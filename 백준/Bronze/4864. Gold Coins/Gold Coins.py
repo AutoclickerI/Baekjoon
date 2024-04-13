@@ -1,0 +1,1 @@
+while n:=int(input()):c=int(((8*n+1)**.5+1)/2);print(n,c*(6*n-c*c+1)//6)
