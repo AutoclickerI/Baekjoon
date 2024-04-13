@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print(int(str(eval(i.replace(*' +')[::-1]))[::-1]))
