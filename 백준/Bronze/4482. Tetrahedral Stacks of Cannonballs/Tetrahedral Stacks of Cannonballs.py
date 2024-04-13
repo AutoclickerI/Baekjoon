@@ -1,0 +1,1 @@
+for i in range(int(input())):print(f'{i+1}:',n:=int(input()),n*~n*~-~n//6)
