@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print(f'{eval("0b"+i.replace(" ","+0b")):b}')
