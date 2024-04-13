@@ -1,0 +1,1 @@
+while(s:=input())!='END':max(map(s.replace(' ','').count,s))<2!=print(s)
