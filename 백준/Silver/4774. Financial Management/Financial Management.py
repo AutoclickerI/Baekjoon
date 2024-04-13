@@ -1,0 +1,1 @@
+print(f'${sum(map(eval,open(0)))/12+1e-6:.2f}')
