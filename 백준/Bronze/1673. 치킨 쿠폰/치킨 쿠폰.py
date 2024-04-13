@@ -1,0 +1,1 @@
+for i in open(0):n,k=map(int,i.split());print(n+~-n//~-k)
