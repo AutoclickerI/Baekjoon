@@ -1,0 +1,1 @@
+_,*l=map(int,open(0));print(min(l,key=lambda n:(-l.count(n),n)))
