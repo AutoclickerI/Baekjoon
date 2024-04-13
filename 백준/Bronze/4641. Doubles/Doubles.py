@@ -1,0 +1,1 @@
+while'0'<(s:=input()):*a,_=map(int,s.split());print(sum(i*2in a for i in a))
