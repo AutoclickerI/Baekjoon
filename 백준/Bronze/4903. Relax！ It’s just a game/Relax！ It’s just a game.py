@@ -1,0 +1,1 @@
+while'.'<(s:=input()):A,B=map(int,s.split());print(f'{A}+{B}{"!="[1in[A,B]:]}{A+B}')
