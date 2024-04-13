@@ -1,0 +1,1 @@
+while'1'<(s:=input()):N,a,b,c=map(int,s.split());print(4*N-1+(b-a)%N+(b-c)%N)
