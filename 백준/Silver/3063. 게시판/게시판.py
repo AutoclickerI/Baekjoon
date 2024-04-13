@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:a,b,c,d,e,f,g,h=map(int,i.split());print((c-a)*(d-b)-max(0,min(c,g)-max(a,e))*max(0,min(d,h)-max(b,f)))
