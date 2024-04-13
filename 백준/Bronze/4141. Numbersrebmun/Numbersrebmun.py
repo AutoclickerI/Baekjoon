@@ -1,0 +1,1 @@
+exec("n=[-~ord(s)//3-(s in'SVYZ')for s in input().upper()];print('YNEOS'[n!=n[::-1]::2]);"*int(input()))
