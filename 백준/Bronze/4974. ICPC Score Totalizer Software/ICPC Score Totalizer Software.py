@@ -1,2 +1,1 @@
-I=input
-while n:=int(I()):print(sum(sorted(eval('int(I()),'*n))[1:-1])//(n-2))
+while n:=int(input()):print(sum(sorted(eval('int(input()),'*n))[1:-1])//(n-2))
