@@ -1,1 +1,1 @@
-print(eval(open(0).read()[2:].replace('\n','').replace('/','//')))
+print(eval(open(0).read()[2:].translate({10:'',47:'//'})))
