@@ -1,0 +1,1 @@
+while'#'<(i:=input()):print(i[:-1]+str(i.count('1')+('o'in i)&1))
