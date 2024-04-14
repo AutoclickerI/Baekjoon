@@ -1,2 +1,2 @@
-from math import*
-for i in[*open(0)][:-1]:n,m=map(int,i.split());print(comb(n+m,m))
+import math
+for i in[*open(0)][:-1]:n,m=map(int,i.split());print(math.comb(n+m,m))
