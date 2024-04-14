@@ -1,0 +1,1 @@
+print([*open(0)][1].replace('joi','JOI'))
