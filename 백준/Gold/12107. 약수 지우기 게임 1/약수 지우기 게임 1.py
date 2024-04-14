@@ -1,0 +1,1 @@
+print('BA'['1'<input()])
