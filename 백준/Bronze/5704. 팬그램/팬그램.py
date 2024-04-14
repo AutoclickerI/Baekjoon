@@ -1,1 +1,1 @@
-while'*'<(s:=input()):print('YN'[any({*range(97,123)}-{*b'%a'%s})])
+while(s:=input())>'*':print('YN'[len({*s.replace(' ','')})<26])
