@@ -1,0 +1,1 @@
+for j in[*open(i:=0)][:-1]:i+=1;print(f'Case {i}:',str(eval(j)).lower())
