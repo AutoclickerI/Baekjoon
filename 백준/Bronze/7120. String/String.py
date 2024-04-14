@@ -1,0 +1,1 @@
+for i,j in zip(s:=input(),'.'+s):print(end=i*(i!=j))
