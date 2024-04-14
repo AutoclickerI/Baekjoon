@@ -1,0 +1,1 @@
+finitefunc=lambda D:{*D.values()}
