@@ -1,0 +1,1 @@
+print(15000-len({*[*open(0)][1].split()}))
