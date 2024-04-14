@@ -1,0 +1,1 @@
+print(sum(i-64for i in[*open(0,'rb')][1])+54)
