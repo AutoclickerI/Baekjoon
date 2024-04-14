@@ -1,0 +1,1 @@
+print(+([*open(0)][1][-3]in'bhijklmnopuy'))
