@@ -1,0 +1,1 @@
+print(eval('+len(input())'*int(input())))
