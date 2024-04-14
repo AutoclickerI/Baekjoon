@@ -1,0 +1,1 @@
+while'1'<(s:=input()):f=[*map(int,input().split())].count;print(sum(1<f(i+1)for i in range(int(s.split()[0]))))
