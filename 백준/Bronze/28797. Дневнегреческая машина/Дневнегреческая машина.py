@@ -1,0 +1,1 @@
+print(100*min(n:=eval(input()),(n+2)/3))
