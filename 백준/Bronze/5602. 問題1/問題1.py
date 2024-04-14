@@ -1,2 +1,1 @@
-next(k:=open(0))
-print(*[*zip(*sorted(zip(map(lambda x:-x.count('1'),[*zip(*k)][::2]),range(1,999))))][1])
+print(*[*zip(*sorted(zip([-i.count('1')for i in zip(*[*open(0)][1:])][::2],range(1,999))))][1])
