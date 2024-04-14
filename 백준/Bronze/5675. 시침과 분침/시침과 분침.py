@@ -1,0 +1,1 @@
+for i in open(0):print('NY'[int(i)%6<1])
