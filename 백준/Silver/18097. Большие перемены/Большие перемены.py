@@ -1,2 +1,2 @@
 N=int(input())
-print(N-(N<3))
+print(N-2//N)
