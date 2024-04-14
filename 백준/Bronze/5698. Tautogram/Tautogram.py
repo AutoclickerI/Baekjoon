@@ -1,0 +1,1 @@
+while'*'<(s:=input()):print('NY'[len({*[*zip(*s.lower().split())][0]})<2])
