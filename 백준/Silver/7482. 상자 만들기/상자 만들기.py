@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:print(f'{eval(i)/6:#.10f}')
+for i in[*open(0)][1:]:print(f'{eval(i)/6:.10f}')
