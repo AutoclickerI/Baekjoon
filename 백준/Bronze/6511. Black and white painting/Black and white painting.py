@@ -1,0 +1,1 @@
+while'1'<(i:=input()):n,m,c=map(int,i.split());print((n-7)*(m-7)+c>>1)
