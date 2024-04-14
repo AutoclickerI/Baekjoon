@@ -1,0 +1,1 @@
+print(pow(3,int(input()),10**9+7)-1)
