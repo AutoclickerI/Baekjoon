@@ -1,0 +1,1 @@
+for i in[*open(0)][1::2]:print(eval(i.replace(' ','+2*(')+')'*i.count(' ')))
