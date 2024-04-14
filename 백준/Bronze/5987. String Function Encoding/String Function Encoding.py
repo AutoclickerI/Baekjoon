@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:N,C,S=i.split();exec('S=S[int(N):]+S;'*int(C));print(S)
