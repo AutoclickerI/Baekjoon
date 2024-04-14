@@ -1,0 +1,1 @@
+print(pow(*map(int,open(0)),10**9+7))
