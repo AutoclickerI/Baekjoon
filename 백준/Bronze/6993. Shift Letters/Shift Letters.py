@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:a,b=i.split();print('Shifting',a,'by',b:=int(b),'positions gives us:',a[-b:]+a[:-b])
