@@ -1,0 +1,1 @@
+print((input()[-5:]!='driip')*'not '+'cute')
