@@ -1,0 +1,1 @@
+print(chr(sum(map(ord,s:=input()))//len(s)))
