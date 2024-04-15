@@ -1,0 +1,1 @@
+exec("print('BE'[input()[-1]<'1']),"*int(input()))
