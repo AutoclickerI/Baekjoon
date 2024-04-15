@@ -1,1 +1,1 @@
-print(*map(str.count,input().split('0'),'@'*2))
+print(*map(str.count,input().split('0'),'@@'))
