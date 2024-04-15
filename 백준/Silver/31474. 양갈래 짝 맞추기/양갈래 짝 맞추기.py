@@ -1,1 +1,4 @@
-print(eval('*'.join(map(str,range(1,int(input()),2)))))
+n=int(input())
+a=v=1
+while v<n:a*=v;v+=2
+print(a)
