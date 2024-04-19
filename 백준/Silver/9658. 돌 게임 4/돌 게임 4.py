@@ -1,2 +1,1 @@
-N=int(input())
-print('SCKY'[N%7in[1,3]::2])
+print('SCKY'[int(input())%7|2==3::2])
