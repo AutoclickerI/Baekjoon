@@ -1,0 +1,1 @@
+print(*sorted(i[-2::-1]for i in open(0))[1:])
