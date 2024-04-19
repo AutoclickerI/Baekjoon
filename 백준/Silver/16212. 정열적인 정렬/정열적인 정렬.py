@@ -1,0 +1,1 @@
+print(*sorted([*open(0)][1].split(),key=int))
