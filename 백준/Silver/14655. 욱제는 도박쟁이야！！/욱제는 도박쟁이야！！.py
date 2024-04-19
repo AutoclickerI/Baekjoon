@@ -1,0 +1,1 @@
+print(2*sum(map(abs,map(int,[*open(0)][1].split()))))
