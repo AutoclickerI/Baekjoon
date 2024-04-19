@@ -1,0 +1,1 @@
+print('SCKY'[int(input())%5|2==2::2])
