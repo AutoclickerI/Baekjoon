@@ -1,0 +1,1 @@
+print('AB'[eval(input().replace(*' *'))%2])
