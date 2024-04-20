@@ -1,0 +1,1 @@
+print([len(bin(n:=int(input())))-2,32][n<0])
