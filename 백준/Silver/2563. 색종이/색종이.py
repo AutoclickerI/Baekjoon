@@ -1,3 +1,1 @@
-l=set()
-for I in[*open(0)][1:]:p,q=map(int,I.split());l|={(i//10+p,i%10+q)for i in range(100)}
-print(len(l))
+print(len({(a+i//10,b+i%10)for a,b in[map(int,P.split())for P in open(0)][1:]for i in range(100)}))
