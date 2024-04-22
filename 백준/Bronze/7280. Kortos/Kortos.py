@@ -1,1 +1,1 @@
-print(*[*{(str(s),str(n+1))for s in'SBVK'for n in range(13)}-{tuple(i.split())for i in open(0)}][0])
+print(*{f'{s} {n+1}'for s in'SBVK'for n in range(13)}-{*open(0).read().split('\n')})
