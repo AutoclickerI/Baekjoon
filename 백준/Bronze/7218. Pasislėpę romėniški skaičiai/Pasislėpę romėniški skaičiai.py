@@ -1,4 +1,2 @@
-s=[*open(0)][1]
-l='I	II	III	IV	V	VI	VII	VIII	IX	X	XI	XII'.split()
-for i in l:
-    if i in s:print(l.index(i)+1,end=' ')
+_,S=open(0)
+print(*[i+1for i in range(12)if'I II III IV V VI VII VIII IX X XI XII'.split()[i]in S])
