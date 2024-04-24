@@ -1,1 +1,1 @@
-while'#'<(s:=input()):print(*s[::-1].split()[::-1])
+print(*open(0).read()[::-1].split()[:0:-1])
