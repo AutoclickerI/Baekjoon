@@ -1,1 +1,2 @@
-for s in[*open(0)][1:]:n=int(s[10:])*10+eval('+'.join(s[:-1]));print(str(n+1000*(n<1000))[-4:])
+t=1000
+for s in[*open(0,'rb')][1:]:k=sum(s)-634+int(s)%t*10;print(str(k+t*(k<t))[-4:])
