@@ -1,2 +1,1 @@
-_,*l=map(int,open(0).read().split())
-while l:p,q,*l=l;print('f =',round(p*q/(p+q),1))
+exec("p,q=map(int,input().split());print(f'f = {p*q/(p+q):.1f}');"*int(input()))
