@@ -1,5 +1,2 @@
-for _ in[0]*int(input()):
-    n=int(input())
-    l1=input().split()
-    l2=input().split()
-    print(f'The maximum distance is {max(abs(i-j)*(l1[i]==l2[j])for i in range(n)for j in range(i,n))}\n')
+_,*l=open(0)
+while l:n,p,q,*l=l;n=int(n);print(f'The maximum distance is {max(abs(i-j)*(p.split()[i]==q.split()[j])for i in range(n)for j in range(i,n))}\n')
