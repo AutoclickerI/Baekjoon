@@ -1,0 +1,1 @@
+for n in[*map(int,open(i:=0))][1:]:i+=1;print(f'Case #{i}:',n//(n&-n)//2%2)
