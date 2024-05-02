@@ -1,13 +1,11 @@
-h=range(9);a=[list(input())for i in h];b=[(i,j)for i in h for j in h if a[i][j]=='0']
-def c(i,j):
- x=a[i][j]
- for k in h:
-  if(x==a[i][k]and j!=k)or(x==a[k][j]and i!=k)or(x==a[i//3*3+k//3][j//3*3+k%3]and(i//3*3+k//3!=i or j//3*3+k%3!=j)):return 1
-def f(n):
- p,q=b[n]
- for i in h:
-  a[p][q]=str(i+1)
-  if c(p,q)!=1:f(n+1)
- a[p][q]='0'
-try:f(0)
-except:[print(''.join(p))for p in a]
+def f(k):
+ k==len(z)!=[print(*a[i*9:i*9+9],sep='')for i in R(9)]<exit();r,c=z[k];s={*R(1,10)};x,y=r//3*3,c//3*3
+ for i in R(9):s-={a[r*9+i],a[i*9+c]}
+ for i in R(x,x+3):
+  for j in R(y,y+3):s-={a[i*9+j]}
+ for n in s:a[t:=r*9+c]=n;f(k+1);a[t]=0
+R=range
+a=[]
+exec('a+=map(int,input());'*9)
+z=[(k//9,k%9)for k in R(81)if a[k]<1]
+f(0)
