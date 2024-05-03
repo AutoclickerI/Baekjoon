@@ -1,2 +1,2 @@
-from itertools import*
-print(*min(z for z in permutations(input().split())if'0'<z[0]),sep='')
+*_,p,q,r=sorted(input())
+print(min(z for z in[p+q+r,q+p+r,r+p+q]if'0'<z[0]))
