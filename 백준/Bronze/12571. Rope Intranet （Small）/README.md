@@ -12,7 +12,7 @@
 
 ### 제출 일자
 
-2024년 5월 3일 13:33:31
+2024년 5월 3일 13:36:18
 
 ### 문제 설명
 
@@ -20,7 +20,7 @@
 
 <p>You are looking at those buildings from the side, so that one of the buildings is to the left and one is to the right. The windows on the left building are seen as points on its right wall, and the windows on the right building are seen as points on its left wall. Wires are straight segments connecting a window on the left building to a window on the right building.</p>
 
-<p><img src="" style="border:0px; vertical-align:middle"></p>
+<p><img src="https://onlinejudgeimages.s3.amazonaws.com/problem/12571/images-29.png" style="border:0px; vertical-align:middle"></p>
 
 <p>You've noticed that no two wires share an endpoint (in other words, there's at most one wire going out of each window). However, from your viewpoint, some of the wires intersect midway. You've also noticed that exactly two wires meet at each intersection point.</p>
 
