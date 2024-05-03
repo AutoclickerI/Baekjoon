@@ -1,2 +1,2 @@
 *_,p,q,r=sorted(input())
-print(min(z for z in[p+q+r,q+p+r,r+p+q]if'0'<z[0]))
+print((p+q+r)*('0'<p)or(q+p+r)*('0'<q)or r+p+q)
