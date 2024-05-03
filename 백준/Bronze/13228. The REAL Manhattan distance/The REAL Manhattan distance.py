@@ -1,1 +1,1 @@
-for i in[0]*int(input()):a,b,c,d,e,f=map(int,input().split());print(c+f+abs(a-d)+abs(b-e))
+exec('a,b,c,d,e,f=map(int,input().split());print(c+f+abs(a-d)+abs(b-e));'*int(input()))
