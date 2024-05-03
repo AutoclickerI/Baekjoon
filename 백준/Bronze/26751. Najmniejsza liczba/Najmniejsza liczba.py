@@ -1,4 +1,2 @@
-X,Y,Z=sorted(input().split(),key=int)
-if'0'<X:print(X+Y+Z)
-elif'0'<Y:print(Y+X+Z)
-else:print(Z+'00')
+from itertools import*
+print(*min(z for z in permutations(input().split())if'0'<z[0]),sep='')
