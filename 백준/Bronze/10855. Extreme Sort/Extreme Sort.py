@@ -1,2 +1,1 @@
-*l,=map(int,[*open(0)][1].split())
-print('yneos'[l!=sorted(l)::2])
+print('yneos'[sorted(l:=[*open(0)][1].split(),key=int)!=l::2])
