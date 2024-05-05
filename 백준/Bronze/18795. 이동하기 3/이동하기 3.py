@@ -1,0 +1,1 @@
+print(sum(sum(map(int,i.split()))for i in[*open(0)][1:]))
