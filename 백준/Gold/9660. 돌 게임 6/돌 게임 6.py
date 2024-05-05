@@ -1,0 +1,1 @@
+print('SCKY'[int(input())%7&5<1::2])
