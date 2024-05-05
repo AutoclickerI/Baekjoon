@@ -1,0 +1,1 @@
+print(1//len({i[0]for i in[*open(0)][1].split()}))
