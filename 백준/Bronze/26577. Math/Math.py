@@ -1,0 +1,1 @@
+print(*[*map(int,map(eval,open(0)))][1:])
