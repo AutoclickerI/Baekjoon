@@ -1,0 +1,1 @@
+print(sum(i==j>'B'for i,j in zip(*[*open(0)][1:])))
