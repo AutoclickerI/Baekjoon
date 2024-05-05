@@ -1,0 +1,1 @@
+while(s:=input())!='EOI':print('MFiosusnidn g'['nemo'in s.lower()::2])
