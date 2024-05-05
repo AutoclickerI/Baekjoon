@@ -1,0 +1,1 @@
+print(n:=eval(input().replace(*' *'))**.5,n)
