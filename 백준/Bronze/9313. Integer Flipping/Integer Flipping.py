@@ -1,0 +1,1 @@
+while(n:=int(input()))+1:print(int(f'{n:032b}'[::-1],2))
