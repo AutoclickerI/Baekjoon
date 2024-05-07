@@ -1,0 +1,1 @@
+print('GBoaodd'[sorted(n:=[*map(int,input().split())])!=n::2])
