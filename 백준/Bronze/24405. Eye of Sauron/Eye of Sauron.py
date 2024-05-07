@@ -1,0 +1,1 @@
+print(['fix','correct'][len(s:=input())==s.find(')')*2])
