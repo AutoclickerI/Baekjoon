@@ -1,0 +1,1 @@
+print(sum((c<')')*2-1for c in input().split('*')[0]))
