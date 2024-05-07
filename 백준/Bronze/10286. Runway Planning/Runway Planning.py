@@ -1,1 +1,1 @@
-exec("print(f'{1+(int(input())-5)//10%18:02d}');"*int(input()))
+for i in[*open(0)][1:]:print(f'{1+(int(i)-5)//10%18:02d}')
