@@ -1,0 +1,1 @@
+exec("print('%02d'%(1+((int(input())+5)//10-1)%18));"*int(input()))
