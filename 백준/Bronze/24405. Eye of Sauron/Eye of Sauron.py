@@ -1,1 +1,2 @@
-print(['fix','correct'][len({*input().split('()')})<2])
+p,q=input().split('()')
+print(['fix','correct'][p==q])
