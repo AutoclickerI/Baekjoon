@@ -1,0 +1,1 @@
+for l in[*open(0)][1:]:print('YNeos'[any(i*2in l for i in'RLUD')::2])
