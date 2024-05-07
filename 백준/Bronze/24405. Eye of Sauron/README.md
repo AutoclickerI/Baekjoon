@@ -12,7 +12,7 @@
 
 ### 제출 일자
 
-2024년 5월 7일 17:22:55
+2024년 5월 7일 17:25:08
 
 ### 문제 설명
 
@@ -22,7 +22,7 @@
 
 ### 입력 
 
- <p>Input consists of a single string of length $n$, where $4 ≤ n ≤ 100$. Input strings will consist only of three types of characters: vertical bars, open parentheses, and closing parentheses. Input strings contain one or more vertical bars followed by a set of matching parentheses (the “eye”), followed by one or more vertical bars. For a drawing to be “correct”, the number of vertical bars on either side of the “eye” must match. Input will always contain a pair of correctly matched parentheses, with no characters between them. No other characters will appear in the string.</p>
+ <p>Input consists of a single string of length <mjx-container class="MathJax" jax="CHTML" style="font-size: 109%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D45B TEX-I"></mjx-c></mjx-mi></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>n</mi></math></mjx-assistive-mml><span aria-hidden="true" class="no-mathjax mjx-copytext">$n$</span></mjx-container>, where <mjx-container class="MathJax" jax="CHTML" style="font-size: 109%; position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-mn class="mjx-n"><mjx-c class="mjx-c34"></mjx-c></mjx-mn><mjx-mo class="mjx-n" space="4"><mjx-c class="mjx-c2264"></mjx-c></mjx-mo><mjx-mi class="mjx-i" space="4"><mjx-c class="mjx-c1D45B TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n" space="4"><mjx-c class="mjx-c2264"></mjx-c></mjx-mo><mjx-mn class="mjx-n" space="4"><mjx-c class="mjx-c31"></mjx-c><mjx-c class="mjx-c30"></mjx-c><mjx-c class="mjx-c30"></mjx-c></mjx-mn></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>4</mn><mo>≤</mo><mi>n</mi><mo>≤</mo><mn>100</mn></math></mjx-assistive-mml><span aria-hidden="true" class="no-mathjax mjx-copytext">$4 ≤ n ≤ 100$</span></mjx-container>. Input strings will consist only of three types of characters: vertical bars, open parentheses, and closing parentheses. Input strings contain one or more vertical bars followed by a set of matching parentheses (the “eye”), followed by one or more vertical bars. For a drawing to be “correct”, the number of vertical bars on either side of the “eye” must match. Input will always contain a pair of correctly matched parentheses, with no characters between them. No other characters will appear in the string.</p>
 
 ### 출력 
 
