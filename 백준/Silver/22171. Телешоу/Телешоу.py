@@ -1,0 +1,1 @@
+for i in[*map(int,open(0))][1:]:print(~-i*(i+4)/4)
