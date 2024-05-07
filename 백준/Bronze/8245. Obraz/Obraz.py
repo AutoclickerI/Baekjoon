@@ -1,0 +1,1 @@
+print(*map(''.join,zip(*[*open(0)][:0:-1])))
