@@ -1,0 +1,1 @@
+print(1<<sum(map(input().count,'TDLF')))
