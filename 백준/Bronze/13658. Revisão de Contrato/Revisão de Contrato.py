@@ -1,0 +1,1 @@
+while'1'<(n:=input()):print(int(n[2:].replace(n[0],'')or 0))
