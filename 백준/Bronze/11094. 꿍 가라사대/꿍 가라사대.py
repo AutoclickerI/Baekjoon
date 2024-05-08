@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:'n sa'in i!=print(i[10:-1])
