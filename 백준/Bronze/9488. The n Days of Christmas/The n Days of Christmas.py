@@ -1,0 +1,1 @@
+for i in[*open(0)][:-1]:n=int(i);print(n*~n*~-~n//6)
