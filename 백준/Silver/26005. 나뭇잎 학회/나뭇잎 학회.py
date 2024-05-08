@@ -1,2 +1,2 @@
-N=int(input())
-print(0-(N>1)*N*N//-2)
+x=0-int(input())**2//-2
+print(x-(x<2))
