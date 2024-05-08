@@ -1,2 +1,2 @@
-I=input
-exec('I();I();print(len({*I().split()}|{*I().split()}));'*int(I()))
+_,*l=open(0)
+while l:_,_,a,b,*l=l;print(len({*(a+b).split()}))
