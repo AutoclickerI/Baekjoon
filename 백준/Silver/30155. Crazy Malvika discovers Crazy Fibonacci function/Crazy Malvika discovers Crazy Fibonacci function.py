@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:A,B,N=map(int,s.split());print(((N%6<3)*2-1)*[A-B,A,B][N%3]%(10**9+7))
