@@ -1,0 +1,1 @@
+n,s=open(0);c=s.split().count;print(4-c(n[:-1])-c('1'))
