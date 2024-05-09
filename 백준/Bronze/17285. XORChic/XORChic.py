@@ -1,0 +1,1 @@
+for x in input():print(end=chr(ord(x)^22))
