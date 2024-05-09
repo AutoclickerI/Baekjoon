@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print(sum('ABBDOPQR'.count(s)for s in i))
