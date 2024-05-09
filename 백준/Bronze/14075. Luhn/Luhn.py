@@ -1,6 +1,1 @@
-l=input()
-s=0
-for i in range(len(l)):
-    p=int(l[i])*(2-(i%2))
-    s+=p%10+p//10
-print('DNAE'[s%10!=0::2])
+print('DNAE'[0<sum(sum(divmod(int(j)<<~i%2,10))for i,j in enumerate(input()))%10::2])
