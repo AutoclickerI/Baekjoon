@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:a,b=i.split();print('YNEOS'[{*a}!={*b}::2])
