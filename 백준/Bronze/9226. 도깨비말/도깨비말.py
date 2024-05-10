@@ -1,0 +1,1 @@
+while'#'<(s:=input()):exec("s[0]in'aeiou'or(s:=s[1:]+s[0]);"*len(s));print(s+'ay')
