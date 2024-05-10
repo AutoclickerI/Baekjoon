@@ -1,0 +1,1 @@
+for n in[*open(0)][1:]:a,b=0,1;exec('a,b=a+b,a;'*int(n));print(a)
