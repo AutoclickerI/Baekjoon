@@ -1,1 +1,2 @@
-exec("N,M=map(int,input().split());print(N-1);eval('input(),'*M);"*int(input()))
+_,*l=open(0)
+while l:x,y=map(int,l[0].split());print(x-1);l=l[-~y:]
