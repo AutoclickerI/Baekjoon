@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:n,m=map(int,i.split());print(sum([n+m-3,m,0][-n:]))
+for i in[*open(0)][1:]:n,m=map(int,i.split());print(sum([0,m,n+m-3][:n]))
