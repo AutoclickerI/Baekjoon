@@ -1,0 +1,1 @@
+exec('for i in range(a:=1,int(input()),2):a=a*i%1000\nprint(a)\n'*int(input()))
