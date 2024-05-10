@@ -1,2 +1,2 @@
-f=lambda n:n and f(n//19)+str(n%19)or''
-print(f(sum(map(int,input().split(),b''))))
+f=lambda n:n and f(n>>5)+str(n%32)or''
+print(f(sum(map(int,input().split(),b'  '))))
