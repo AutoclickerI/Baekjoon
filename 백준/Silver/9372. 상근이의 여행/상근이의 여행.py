@@ -1,0 +1,1 @@
+exec("N,M=map(int,input().split());print(N-1);eval('input(),'*M);"*int(input()))
