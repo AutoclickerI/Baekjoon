@@ -1,0 +1,1 @@
+print(max(map(sum,enumerate(sorted(map(int,[*open(0)][1].split()))[::-1])))+2)
