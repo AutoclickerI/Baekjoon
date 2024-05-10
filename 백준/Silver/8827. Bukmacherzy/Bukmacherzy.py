@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:a,b=map(eval,i.split());print('NTIAEK'[a+b<a*b::2])
