@@ -1,3 +1,2 @@
-p,q=input().split()
-l=min(len(p),len(q))
-print(p[:-l]+q[:-l],*[int(i)+int(j)for i,j in zip(p[-l:],q[-l:])],sep='')
+f=lambda n:n and f(n//19)+str(n%19)or""
+print(f(sum(map(int,input().split(),[19,19]))))
