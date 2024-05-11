@@ -1,0 +1,1 @@
+print(len({i for j in[*open(0)][1:]for i in range(*map(int,j.split()))}))
