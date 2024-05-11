@@ -1,0 +1,1 @@
+print('yneos'[len(a:=input().split())>len({*a})::2])
