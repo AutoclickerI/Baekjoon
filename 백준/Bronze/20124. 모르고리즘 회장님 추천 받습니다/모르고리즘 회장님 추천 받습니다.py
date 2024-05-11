@@ -1,0 +1,1 @@
+print(min([*map(str.split,open(0))][1:],key=lambda s:(-int(s[1]),s[0]))[0])
