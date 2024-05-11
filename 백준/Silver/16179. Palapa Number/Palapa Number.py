@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:print(5625*10**(int(i)-4)%9973)
+for i in[*open(0)][1:]:print(45*10**int(i)//80%9973)
