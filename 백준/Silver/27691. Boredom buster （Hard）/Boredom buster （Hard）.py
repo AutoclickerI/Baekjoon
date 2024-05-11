@@ -1,0 +1,1 @@
+for n in map(int,[*open(0)][2::2]):print(n*~-n>>1)
