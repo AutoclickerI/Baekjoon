@@ -1,0 +1,1 @@
+for i in open(0):print('nyoe s'['problem'in i.lower()::2])
