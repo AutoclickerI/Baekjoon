@@ -1,0 +1,1 @@
+print('PJroehsnt o n'[sum(map(int,[*open(0)][1].split()))%2::2])
