@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:*s,t=s.lower();print('YNeos'[s!=s[::-1]::2])
