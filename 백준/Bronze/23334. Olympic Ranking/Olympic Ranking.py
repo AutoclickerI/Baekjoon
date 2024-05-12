@@ -1,0 +1,1 @@
+print(*max([*map(int,[a,b,c]),l]for a,b,c,*l in[*map(str.split,open(0))][1:])[3])
