@@ -1,0 +1,1 @@
+print([max('1',n:=input()),'INF'][n=='1'])
