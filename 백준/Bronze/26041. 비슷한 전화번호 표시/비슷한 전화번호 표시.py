@@ -1,3 +1,2 @@
-l=input().split()        
-s=input()
-print(sum(i.startswith(s)*len(i)>len(s)for i in l))
+*a,b=open(0).read().split()
+print(sum(i>b==i[:len(b)]for i in a))
