@@ -1,0 +1,1 @@
+print('bwlhaictke'[eval('+'.join(open(0).read().split()))%2::2])
