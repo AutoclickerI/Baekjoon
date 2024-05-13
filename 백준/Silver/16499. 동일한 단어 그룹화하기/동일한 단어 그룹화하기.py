@@ -1,0 +1,1 @@
+print(len({(*sorted(i),)for i in open(0)})-1)
