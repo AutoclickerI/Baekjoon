@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print(len(str(int(f'{max(map(int,i.split()[1:])):b}'[::-1]))))
