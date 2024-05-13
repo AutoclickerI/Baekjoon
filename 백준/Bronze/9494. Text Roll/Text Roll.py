@@ -1,0 +1,1 @@
+while n:=int(input()):s=0;exec("s+=(input()[s:]+' ').index(' ');"*n);print(s+1)
