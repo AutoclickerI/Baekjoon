@@ -1,0 +1,1 @@
+print(sorted(map(str.replace,open(0),'   ',['']*3),key=int)[1])
