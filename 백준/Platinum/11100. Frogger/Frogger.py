@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print([*'1248',20,'frogger'][:int(i)+1][-1])
