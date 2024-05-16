@@ -1,2 +1,3 @@
 N,*l=open(0)
-print(len({*l})//(ord(N.split()[1])%4)) 
+Z=ord(N[-2])%4
+print(len({*l})//Z) 
