@@ -1,2 +1,2 @@
-s,*l=open(0)
-print(sum(s[:5]==i[:5]for i in l))
+t=open(0).read()
+print(t.count('\n'+t[:5]))
