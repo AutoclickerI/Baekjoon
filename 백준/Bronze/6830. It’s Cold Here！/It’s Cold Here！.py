@@ -1,1 +1,1 @@
-print(min([i.split()for i in open(0)],key=lambda s:int(s[1]))[0])
+print(min((int(j),i)for i,j in map(str.split,open(0)))[1])
