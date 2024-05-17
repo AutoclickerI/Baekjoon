@@ -1,0 +1,1 @@
+for j in[*open(i:=0)][1:]:i+=1;print(f'Case #{i}:',0-int(j)//-5)
