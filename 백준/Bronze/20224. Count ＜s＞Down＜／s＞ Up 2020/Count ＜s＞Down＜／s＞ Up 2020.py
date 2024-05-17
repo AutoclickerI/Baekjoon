@@ -1,0 +1,1 @@
+while n:=int(input()):s=input();print(sum(s[i:i+7]=='2 0 2 0'for i in range(2*n)))
