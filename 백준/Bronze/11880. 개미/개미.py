@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:a,b,c=sorted(map(int,i.split()));print((a+b)**2+c*c)
