@@ -1,0 +1,1 @@
+while'!'<(s:=input()[-1]):print('Q*uNaocdk*!'[s!='?'::2])
