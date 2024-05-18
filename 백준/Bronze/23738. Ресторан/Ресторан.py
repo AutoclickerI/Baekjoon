@@ -1,0 +1,1 @@
+for x in input():print(end='yvnrsuhakmote'['EBHPCYXAKMOT'.find(x)::12])
