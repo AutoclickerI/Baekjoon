@@ -1,0 +1,1 @@
+print(max((f:=i.count)('for')+f('while')for i in open(0)))
