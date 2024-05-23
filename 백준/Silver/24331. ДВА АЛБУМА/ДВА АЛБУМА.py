@@ -1,3 +1,3 @@
-f=lambda:{*map(int,input().split())}
+f=lambda:{*input().split()}
 f()
-print(len(s:=f()&f()),*sorted(s))
+print(len(s:=f()&f()),*sorted(s,key=int))
