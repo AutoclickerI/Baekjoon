@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:print(f'The number of vowels in {i[:-1]} is {sum(map(i.count,"aeiou"))}.')
+for i in[*open(0)][1:]:print(f'The number of vowels in {i}is {sum(map(i.count,"aeiou"))}.')
