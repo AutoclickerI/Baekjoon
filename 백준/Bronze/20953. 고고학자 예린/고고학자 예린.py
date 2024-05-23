@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:a=eval(i.replace(*' +'));print(~-a*a*a//2)
