@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:x=1;print(sum(max(0,-2*x+(x:=y))for y in map(int,i.split())))
