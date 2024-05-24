@@ -1,2 +1,2 @@
-a,b,c,d=zip(*eval('map(int,input().split()),'*int(input())))
-print(max(min(b)-max(a),0)*max(min(d)-max(c),0))
+_,*l=map(int,open(0).read().split())
+print(max(min(l[1::4])-max(l[::4]),0)*max(min(l[3::4])-max(l[2::4]),0))

@@ -12,7 +12,7 @@
 
 ### 제출 일자
 
-2024년 5월 24일 11:24:34
+2024년 5월 24일 11:25:44
 
 ### 문제 설명
 
@@ -24,7 +24,7 @@
 
 <p>For example, the intersection of 4 rectangles, R<sub>1</sub>, R<sub>2</sub>, R<sub>3</sub>, and R<sub>4</sub>, in the following figure is the shaded rectangle.</p>
 
-<p style="text-align: center;"><img alt="" src="" style="width: 268px; height: 211px;"></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/264f8ab3-4e5c-4231-807d-2cf10b88a497/-/preview/" style="width: 268px; height: 211px;"></p>
 
 ### 입력 
 
