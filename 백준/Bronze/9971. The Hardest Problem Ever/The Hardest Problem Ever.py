@@ -1,0 +1,1 @@
+for i in[*open(0)][1:-1:3]:print(end=''.join(map(lambda s:[s,chr(65+(ord(s)+8)%26)]['@'<s<'['],i)))
