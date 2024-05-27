@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:N,K=map(int,i.split());print(N-(N+K)//-~K)
