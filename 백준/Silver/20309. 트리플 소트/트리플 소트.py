@@ -1,0 +1,1 @@
+print('NYOE S'[all((i^int(n))&1for i,n in enumerate([*open(0)][1].split()))::2])
