@@ -1,3 +1,2 @@
 s=[*open(0)][1].split()
-try:print(1+max(1//s.count(j)*[j,i]for i,j in enumerate(s))[1])
-except:print('none')
+print((max(1//s.count(j)*[j,i+1]for i,j in enumerate(s))or[0,'none'])[1])
