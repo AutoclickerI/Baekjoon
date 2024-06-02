@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:print('12640'[:int(i)][-1])
+for i in[*open(0)][1:]:print('04621'[-int(i)::9])
