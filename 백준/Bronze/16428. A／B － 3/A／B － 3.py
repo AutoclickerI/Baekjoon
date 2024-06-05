@@ -1,1 +1,1 @@
-a,b=map(int,input().split());print((a//b+(b<0))*(a!=0),(a%b-b*(b<0))*(a!=0),sep='\n')
+a,b=map(int,input().split());print(a//b+(b<0)*(a%b!=0),a%b-b*(b<0)*(a%b!=0),sep='\n')
