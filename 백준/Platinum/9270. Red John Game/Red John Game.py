@@ -1,1 +1,1 @@
-print(+(0<int(input())%3))
+print(int(input())**2%3)
