@@ -1,0 +1,1 @@
+for i in[*open(0,'rb')][1:]:x=int(i[2:])-1;print('YNEOS'[i[0]+i[1]+x//8+x%8&1::2])
