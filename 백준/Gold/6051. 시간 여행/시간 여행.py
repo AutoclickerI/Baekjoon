@@ -1,7 +1,7 @@
 l=[(-1,-1)]
 ptr=0
-for _ in[0]*int(input()):
-    t=input().split()
+for i in[*open(0)][1:]:
+    t=i.split()
     if t[0]=='a':
         l+=(t[1],ptr),
         ptr=len(l)-1
