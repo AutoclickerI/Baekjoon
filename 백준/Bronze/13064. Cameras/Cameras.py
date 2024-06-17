@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:i[0]==i[1]!='@'<i[4]<'['and all('0'<j<':'for j in i[:4]+i[5:-1])and print(i[:-1])
