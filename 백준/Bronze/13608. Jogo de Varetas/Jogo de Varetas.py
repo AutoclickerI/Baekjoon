@@ -1,0 +1,1 @@
+while n:=int(input()):print(sum(eval('int(input().split()[1])>>1,'*n))>>1)
