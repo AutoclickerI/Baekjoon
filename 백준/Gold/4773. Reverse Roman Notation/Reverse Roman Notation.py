@@ -46,40 +46,37 @@ def to_int(s):
     return sum(d[i]for i in s)-2*sum(d[i]for i,j in zip(s,s[1:])if d[i]<d[j])
 
 stack=[]
-while 1:
-    try:
-        s=input()
-        if s=='+':
-            if len(stack)<2:
-                print('stack underflow')
-            else:
-                stack+=stack.pop()+stack.pop(),
-        elif s=='/':
-            if len(stack)<2:
-                print('stack underflow')
-            else:
-                t=stack.pop()
-                if t==0:
-                    print('division by zero exception')
-                else:
-                    stack+=stack.pop()//t,
-        elif s=='-':
-            if len(stack)<2:
-                print('stack underflow')
-            else:
-                t=stack.pop()
-                stack+=stack.pop()-t,
-        elif s=='*':
-            if len(stack)<2:
-                print('stack underflow')
-            else:
-                stack+=stack.pop()*stack.pop(),
-        elif s=='=':
-            if len(stack)<1:
-                print('stack underflow')
-            else:
-                print(to_roman(stack[-1]))
+for s in open(0):
+    s=s[:-1]
+    if s=='+':
+        if len(stack)<2:
+            print('stack underflow')
         else:
-            stack+=to_int(s),
-    except:
-        break
+            stack+=stack.pop()+stack.pop(),
+    elif s=='/':
+        if len(stack)<2:
+            print('stack underflow')
+        else:
+            t=stack.pop()
+            if t==0:
+                print('division by zero exception')
+            else:
+                stack+=stack.pop()//t,
+    elif s=='-':
+        if len(stack)<2:
+            print('stack underflow')
+        else:
+            t=stack.pop()
+            stack+=stack.pop()-t,
+    elif s=='*':
+        if len(stack)<2:
+            print('stack underflow')
+        else:
+            stack+=stack.pop()*stack.pop(),
+    elif s=='=':
+        if len(stack)<1:
+            print('stack underflow')
+        else:
+            print(to_roman(stack[-1]))
+    else:
+        stack+=to_int(s),
