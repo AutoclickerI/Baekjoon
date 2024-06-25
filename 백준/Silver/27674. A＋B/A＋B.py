@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:_,a,*l=sorted(s);print(int(a)+int(''.join(l[::-1])))
