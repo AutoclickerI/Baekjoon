@@ -1,2 +1,2 @@
 N,M=map(int,input().split())
-print('Can'+"'t"*(N%-~M==1),'win')
+print('Can'+"'t"*(1-M-N%~M),'win')
