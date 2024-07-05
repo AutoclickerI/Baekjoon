@@ -1,2 +1,2 @@
-s,_,*l=open(0)
-print(sum(all(j not in s.split()[1:]for j in i.split()[1:])for i in l))
+x,_,*y=({*map(int,i.split()[1:])}for i in open(0))
+print(sum(x&i<{-1}for i in y))
