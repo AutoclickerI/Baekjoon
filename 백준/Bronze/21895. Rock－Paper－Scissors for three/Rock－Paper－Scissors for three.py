@@ -1,0 +1,1 @@
+for i in zip(*[*open(0)][1:]):a,b=sorted(i);print(end={'PS':'S','PR':'P','RS':'R','RR':'P','SS':'R','PP':'S'}.get(a+b,''))
