@@ -1,2 +1,2 @@
-p,q=map(lambda n:int(f'{int(n):b}',4),input().split())
-print(p*2+q)
+x,y=[int(f'{int(i):b}',4)for i in input().split()]
+print(x*2+y)
