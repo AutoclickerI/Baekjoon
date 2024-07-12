@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:f=int(i[-2])&1;print(f^1,f)
