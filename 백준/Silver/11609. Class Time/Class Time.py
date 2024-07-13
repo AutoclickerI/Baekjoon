@@ -1,0 +1,1 @@
+for q,p in sorted(i.split()[::-1]for i in open(0))[1:]:print(p,q)
