@@ -1,3 +1,3 @@
-I,d=input,{}
-for x,y in eval('I().split(" = "),'*int(I())):d[x]=y
+I=input
+d={x:y for x,_,y in eval('I().split(),'*int(I()))}
 exec('I();print(*map(d.get,I().split()));'*int(I()))
