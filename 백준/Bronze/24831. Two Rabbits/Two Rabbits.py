@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:x,y,a,b=map(int,i.split());p,q=divmod(y-x,a+b);print([-1,p][q<1])
+for i in[*open(0)][1:]:x,y,a,b=map(int,i.split());y-=x;a+=b;print([-1,y//a][y%a<1])
