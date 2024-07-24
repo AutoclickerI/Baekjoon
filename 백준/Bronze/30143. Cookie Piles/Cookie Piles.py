@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:a,b,c=map(int,i.split());print(a*b+c*sum(range(a)))
