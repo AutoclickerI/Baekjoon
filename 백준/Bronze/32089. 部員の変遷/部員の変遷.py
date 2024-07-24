@@ -1,1 +1,1 @@
-for i in[*open(0)][1::2]:l=0,*map(int,i.split()),0;print(max(map(sum,zip(l,l[1:],l[2:]))))
+for i in[*open(0)][1::2]:*l,=map(int,i.split());print(max(map(sum,zip(l,l[1:],l[2:]))))
