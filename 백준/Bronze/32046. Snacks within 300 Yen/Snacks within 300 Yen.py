@@ -1,0 +1,1 @@
+while'0'<input():a=0;[a:=a+(a+int(i)<301)*int(i)for i in input().split()];print(a)
