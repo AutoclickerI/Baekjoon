@@ -1,19 +1,28 @@
-n=int(input())
-l=[[*input()]for _ in[0]*n]
-visited=[0]*n*n
-num=1
-update=0
+N=int(input())
+board=[input()for _ in range(N)]
+visited=[N*[0]for _ in range(N)]
+
+def is_valid(y,x):
+    return 0<=y<N and 0<=x<N
+
 def DFS(y,x):
-    global update
-    if visited[y*n+x] or l[y][x]=='0':return
-    visited[y*n+x]=num
-    for i,j in[[-1,0],[1,0],[0,1],[0,-1]]:
-        DFS(max(0,min(y+i,n-1)),max(0,min(x+j,n-1)))
-    update=1
-for x in range(n):
-    for y in range(n):
-        DFS(x,y)
-        num+=update
-        update=0
-print(num-1)
-print(*sorted([visited.count(i)for i in range(1,num)]),sep='\n')
+    cnt=0
+    if is_valid(y,x):
+        if board[y][x]=='0' or visited[y][x]:
+            return cnt
+        visited[y][x]=1
+        cnt+=1
+        for dy,dx in(-1,0),(1,0),(0,1),(0,-1):
+            cnt+=DFS(y+dy,x+dx) 
+    return cnt
+
+ans=[]
+for y in range(N):
+    for x in range(N):
+        v=DFS(y,x)
+        if v:
+            ans.append(v)
+
+print(len(ans))
+for i in sorted(ans):
+    print(i)
