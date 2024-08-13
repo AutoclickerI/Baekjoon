@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:s=s.upper();print(end=s[len(s)//2+s.find('X')])
