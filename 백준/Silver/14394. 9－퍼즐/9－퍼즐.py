@@ -1,2 +1,2 @@
-p,q=open(0)
-print(sum(abs(p.count(i)-q.count(i))for i in'RGBY')//2)
+*l,=open(0)
+print(9-sum(min(map(str.count,l,i*2))for i in'RGBY'))
