@@ -1,0 +1,1 @@
+print(["You're the winner?","I'm a winner!"][sum(~(c in'BDPQRTWXY')for c in input())%2])
