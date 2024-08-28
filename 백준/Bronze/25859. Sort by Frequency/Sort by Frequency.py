@@ -1,0 +1,1 @@
+print(*sorted(s:=input(),key=lambda k:(-s.count(k),k)),sep='')
