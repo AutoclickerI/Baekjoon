@@ -1,2 +1,3 @@
-s=['ABCDEFGHJLM',*['ACEFGHILM']*2,'ABCEFGHLM',*['ACEFGHLM']*5,'ABCFGHLM'][int(input())-1]
-print(len(s),*s)
+z='ACEFGHLM'
+s=[z+'BDJ',*[z+'I']*2,z+'B',*[z]*5,'ABCFGHLM'][int(input())-1]
+print(len(s),*sorted(s))
