@@ -1,3 +1,2 @@
-s={a:=0}
-for i in[*open(0)][1:]:x={*i.split()};a|=bool(x&s);s|=x
-print(a)
+N,*l=open(0).read().split()
+print(+(len({*l})<len(l)))
