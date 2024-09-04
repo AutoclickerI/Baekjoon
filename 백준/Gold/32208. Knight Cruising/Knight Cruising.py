@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print('YNEOS'[eval(i.replace(*' +'))%2::2])
