@@ -1,2 +1,1 @@
-for _ in[0]*int(input()):
-    for i in eval(input()+','):i%4<1!=print(i)
+exec("print(*[i for i in eval(input()+',')if i%4<1]);"*int(input()))
