@@ -1,1 +1,1 @@
-print(len(s:=f"A{['BCFGH',*[z:='CEFGH']*5,'B'+z,*[z+'I']*2,'BCDEFGHJ'][-int(input())]}LM"),*s)
+print(len(s:=sorted('ACFGHLM'+['B',*'E'*5,'BE','EI','EI','BDEJ'][-int(input())])),*s)
