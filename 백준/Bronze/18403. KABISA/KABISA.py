@@ -1,1 +1,1 @@
-exec("print(*[i for i in eval(input()+',')if i%4<1]);"*int(input()))
+exec("[i%4<1!=print(i)for i in eval(input()+',')];"*int(input()))
