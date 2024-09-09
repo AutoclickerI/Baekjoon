@@ -1,5 +1,2 @@
-f=lambda i:map(int,i.split())
-p,q,*l=open(0)
-R,C=f(p)
-a,b,c,d=f(q)
-print(+(sum(map(str.count,l,'P'*99))<c*d))
+l=(s:=open(0).read()).split()
+print(+(eval(l[4]+'*'+l[5])>s.count('P')))
