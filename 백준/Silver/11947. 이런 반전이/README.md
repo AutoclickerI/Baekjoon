@@ -12,7 +12,7 @@
 
 ### 제출 일자
 
-2024년 9월 9일 17:33:43
+2024년 9월 9일 17:34:59
 
 ### 문제 설명
 
@@ -22,7 +22,7 @@
 
 <p>이때, 가장 큰 자리수의 유효숫자보다 앞에 등장하는 0들은 무시하는 것에 주의합니다. 따라서 9의 반전은 0이고, 91의 반전은 8, 124의 반전은 875, 990의 반전은 9가 됩니다.</p>
 
-<p style="text-align: center;"><img alt="" src="" style="height:153px; width:305px"></p>
+<p style="text-align: center;"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/11947/1.png" style="height:153px; width:305px"></p>
 
 <p>여기서 어떤 수 n의 ‘사랑스러움’는 n과 n의 반전을 곱한 것으로 정의합니다. 입력으로 자연수 N이 주어지면, 1 이상 N 이하인 수들의 ‘사랑스러움’ 중 최댓값을 출력하세요.</p>
 
