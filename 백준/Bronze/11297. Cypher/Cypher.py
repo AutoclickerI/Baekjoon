@@ -1,0 +1,1 @@
+while'1'<(s:=input()):k=eval(s.replace(*' +'))%25;print(*map(lambda s:[s,chr(97+(ord(s)-k+6)%26)]['`'<s<'{'],input()),sep='')
