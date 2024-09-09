@@ -1,2 +1,2 @@
-N,L=map(int,input().split())
-print('1'*~-L,N,sep='')
+s=input()
+print('1'*~-int(s[2:])+s[0])
