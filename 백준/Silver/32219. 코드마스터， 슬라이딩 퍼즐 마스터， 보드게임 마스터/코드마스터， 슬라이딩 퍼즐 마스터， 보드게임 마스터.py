@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:p,q=map(int,i.split());f=p==q;print('jdionhsoeoon'[f::2],*[min(p,q)]*2*-~-f)
+for i in[*open(0)][1:]:p,q=map(int,i.split());f=p!=q;print('djoihnosoeno'[f::2],*[min(p,q)]*2*f)
