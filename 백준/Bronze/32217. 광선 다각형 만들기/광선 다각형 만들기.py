@@ -1,1 +1,1 @@
-print(-eval([*open(0)][1].replace(*' +'))%90<<1)
+print(-eval([*open(0)][1].replace(*' +'))%90*2)
