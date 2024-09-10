@@ -1,13 +1,8 @@
-N,T=map(int,input().split())
-A=0,*map(int,input().split())
-cur=time=1
-visited=[0]*-~N
+N,T,*A=map(int,open(0).read().split())
+c=t=1
+v=[0]*-~N
 while T:
-    T-=1
-    if visited[cur]:
-        T%=time-visited[cur]
-        visited=[0]*-~N
-    visited[cur]=time
-    cur=A[cur]
-    time+=1
-print(cur)
+ T-=1
+ if v[c]:T%=t-v[c];v=[0]*-~N
+ v[c]=t;c=A[c-1];t+=1
+print(c)
