@@ -3,21 +3,24 @@ n=0
 for _ in[0]*20:
     g+=((2<<n+1)-1,1<<n),
     n+=1
-l=[]
-for end,length in g:
-    l+=range(end-length+1,end+1)
-l+=-1,
-bi=[0]
-ptr=0
-for i in range(1,2999999):
-    flag=l[ptr]==i 
-    bi+=bi[-1]+flag,
-    ptr+=flag
+
+def bi(n):
+    ans=0
+    for end,length in g:
+        if end<n:
+            ans+=length
+        elif end-length<n:
+            ans+=n-end+length
+    return ans
 
 def si(n):
     if n<2:
         return 0
-    return 1+bi[n-1]
+    return 1+bi(n-1)
 
 N=int(input())
-print(max([1+si(k)+si(N-k-1)for k in range(N//2+1)]))
+def f(k):
+    if N-k-1<0:
+        return 0
+    return 1+si(k)+si(N-k-1)
+print(max([f(k)for k in[0,N//2,1<<N.bit_length()-1]]))
