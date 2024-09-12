@@ -1,2 +1,1 @@
-l=sorted(map(int,[*open(0)][1].split()))
-print(min(map(sum,zip(l,l[::-1]))))
+print(min(map(sum,zip(l:=sorted(map(int,[*open(0)][1].split())),l[::-1]))))
