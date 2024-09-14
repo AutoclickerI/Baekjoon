@@ -1,2 +1,2 @@
-n,m=sorted(map(int,input().split()))
-print(int((n+min(m,n+1))**.5))
+n,m=map(int,input().split())
+print(int(min(n+m,2*min(n,m)+1)**.5))
