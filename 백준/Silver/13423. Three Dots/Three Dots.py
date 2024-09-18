@@ -1,1 +1,1 @@
-for i in[*open(0)][2::2]:l=sorted(map(int,i.split()));s={*l};print(sum(l[j]*2-l[i]in s for i in range(len(l))for j in range(i+1,len(l))))
+for i in[*open(0)][2::2]:l=sorted(map(int,i.split()));s={*l};print(sum(j*2-l[i]in s for i in range(len(l))for j in l[i+1:]))
