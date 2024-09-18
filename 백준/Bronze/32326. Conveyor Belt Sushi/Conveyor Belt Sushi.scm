@@ -1,0 +1,1 @@
+(print(+(*(read)3)(*(read)4)(*(read)5)))
