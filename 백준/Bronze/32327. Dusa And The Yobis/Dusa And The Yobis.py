@@ -1,4 +1,2 @@
 n,*l=map(int,open(0))
-f=1
-for i in l:f&=i<n;n+=f*i
-print(n)
+for i in l:i>=n<exit(print(n));n+=i
