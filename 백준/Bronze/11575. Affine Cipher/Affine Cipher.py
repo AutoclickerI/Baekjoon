@@ -1,0 +1,1 @@
+exec("a,b=map(int,input().split());print(''.join(chr((a*(ord(s)-65)+b)%26+65)for s in input()));"*int(input()))
