@@ -1,0 +1,1 @@
+print(['dae ae ju traeligt va','haer talar vi rikssvenska'][.4*len(s:=input().split())>sum('ae'in i for i in s)])
