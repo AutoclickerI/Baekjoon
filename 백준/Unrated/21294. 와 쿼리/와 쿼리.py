@@ -1,4 +1,1 @@
-import sys
-for i in range(int(sys.stdin.readline())):
-    if sys.stdin.readline()=='2\n':
-        print()
+[print()for i in[*open(0)][1:]if'2'<i]
