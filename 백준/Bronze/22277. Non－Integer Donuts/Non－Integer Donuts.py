@@ -1,4 +1,3 @@
-n,v,*l=open(c:=0)
+n,v,*l=open(0)
 v=int(v[-3:])
-for i in l:v+=int(i[-3:]);c+=0<v%100
-print(c)
+print(sum(0<(v:=v+int(i[-3:]))%100for i in l))
