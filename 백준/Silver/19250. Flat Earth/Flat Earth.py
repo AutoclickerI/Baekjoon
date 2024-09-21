@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print(3.141592*int(i.split()[3])**2)
