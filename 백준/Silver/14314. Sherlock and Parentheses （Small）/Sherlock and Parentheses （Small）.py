@@ -1,0 +1,1 @@
+for i in[*open(j:=0)][1:]:j+=1;n=min(map(int,i.split()));print(f'Case #{j}:',n*-~n//2)
