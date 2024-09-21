@@ -1,0 +1,1 @@
+import random;print('Korea'if random.randint(0,2)>1 else'Yonsei')
