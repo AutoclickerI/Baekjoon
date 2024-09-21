@@ -1,1 +1,1 @@
-print('%.3f'%(int(input().split()[0])-1))
+print(int(input().split()[0])-1,end='.000')
