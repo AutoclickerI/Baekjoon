@@ -1,0 +1,1 @@
+while int(input()):l=sorted(map(int,input().split()));print(min(j-i for i,j in zip(l,l[1:])))
