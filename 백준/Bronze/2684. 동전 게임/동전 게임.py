@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:j=int(i.replace(*'TG'),34);t=[0]*8;exec(38*'t[j%8]+=1;j//=34;');print(*t)
