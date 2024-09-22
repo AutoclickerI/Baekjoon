@@ -1,3 +1,3 @@
-S,N=input().split()
+(s,*_),N=input().split()
 N=int(N)
-print(0if N==1else 0-N//-5if S[0]=='r'else 0-N//-7if S[0]=='c'else 0-N//-4)
+print(-(N>1and N//-(4+(s=='r')+3*(s=='c'))))
