@@ -1,3 +1,2 @@
-from math import*
 N=int(input())
-print(min((r+1)*(1-N//-r)for r in range(1,isqrt(N)+1)))
+print(min(~r*(N//-r-1)for r in range(1,int(N**.5)+2)))
