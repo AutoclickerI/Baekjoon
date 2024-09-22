@@ -1,0 +1,1 @@
+print(*map({k:v for k,v in zip('BI,GJNYTEO_RWSLHMDPZKFQUXCV.A','ABCDEFGHIJKLMNOPQRSTUVWXYZ_,.')}.get,input()),sep='')
