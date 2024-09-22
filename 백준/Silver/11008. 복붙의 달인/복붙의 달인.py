@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:s,p=i.split();print(len(s)+-~-len(p)*s.count(p))
