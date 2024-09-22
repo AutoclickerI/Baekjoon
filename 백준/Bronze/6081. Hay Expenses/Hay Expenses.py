@@ -1,3 +1,2 @@
 N,Q,*l=map(int,open(0).read().split())
-z=l[N:]
-while z:s,e,*z=z;print(sum(l[s-1:e]))
+while l[N:]:print(sum(l[l[N]-1:l[N+1]]));N+=2
