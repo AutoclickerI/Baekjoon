@@ -1,1 +1,1 @@
-print(*map({k:v for k,v in zip('BI,GJNYTEO_RWSLHMDPZKFQUXCV.A','ABCDEFGHIJKLMNOPQRSTUVWXYZ_,.')}.get,input()),sep='')
+print(''.join('ABCDEFGHIJKLMNOPQRSTUVWXYZ_,.'['BI,GJNYTEO_RWSLHMDPZKFQUXCV.A'.find(i)]for i in input()))
