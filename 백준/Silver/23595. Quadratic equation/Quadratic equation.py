@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:y=int(i);print(*[1,1,~y,1-y,y,-y][9<y or-9<y<0::2])
+for i in[*open(0)][1:]:y=int(i);print(*[1,1,~y,1-y,y,-y][y>9or-9<y<0::2])
