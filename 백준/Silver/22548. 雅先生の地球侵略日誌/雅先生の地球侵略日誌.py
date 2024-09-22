@@ -1,7 +1,4 @@
-c=0
-N=int(input())
-while 1:
- r,q=divmod(N,3);c+=1
- if r<1or (r==1>q):break
- N=r+(0<q)
-print(c)
+n=int(input())
+a=0
+while 3**a<n:a+=1
+print(a)
