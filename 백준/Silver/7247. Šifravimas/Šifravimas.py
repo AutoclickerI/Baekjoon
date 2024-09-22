@@ -1,1 +1,1 @@
-print(''.join('ABCDEFGHIJKLMNOPQRSTUVWXYZ_,.'['BI,GJNYTEO_RWSLHMDPZKFQUXCV.A'.find(i)]for i in input()))
+print(''.join(chr([*range(65,91),*b'_,.']['BI,GJNYTEO_RWSLHMDPZKFQUXCV.A'.find(i)])for i in input()))
