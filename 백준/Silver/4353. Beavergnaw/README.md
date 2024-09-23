@@ -12,11 +12,11 @@
 
 ### 제출 일자
 
-2024년 9월 23일 19:20:26
+2024년 9월 23일 19:21:29
 
 ### 문제 설명
 
-<p><img alt="" src="" style="float:left; height:231px; width:300px"><img alt="" src="" style="float:right; height:321px; width:255px">When chomping a tree the beaver cuts a very specific shape out of the tree trunk. What is left in the tree trunk looks like two frustums of a cone joined by a cylinder with the diameter the same as its height. A very curious beaver tries not to demolish a tree but rather sort out what should be the diameter of the cylinder joining the frustums such that he chomped out certain amount of wood. You are to help him to do the calculations.</p>
+<p><img alt="" src="https://www.acmicpc.net/upload/images2/beaver5.gif" style="float:left; height:231px; width:300px"><img alt="" src="https://www.acmicpc.net/upload/images2/draw.jpg" style="float:right; height:321px; width:255px">When chomping a tree the beaver cuts a very specific shape out of the tree trunk. What is left in the tree trunk looks like two frustums of a cone joined by a cylinder with the diameter the same as its height. A very curious beaver tries not to demolish a tree but rather sort out what should be the diameter of the cylinder joining the frustums such that he chomped out certain amount of wood. You are to help him to do the calculations.</p>
 
 <p>We will consider an idealized beaver chomping an idealized tree. Let us assume that the tree trunk is a cylinder of diameter D and that the beaver chomps on a segment of the trunk also of height D. What should be the diameter d of the inner cylinder such that the beaver chmped out V cubic units of wood?</p>
 
