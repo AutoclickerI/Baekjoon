@@ -1,0 +1,1 @@
+for i in open(0):M,P,L,E,R,S,N=map(int,i.split());exec('M,P,L=P//S,L//R,M*E;'*N);print(M)
