@@ -1,0 +1,1 @@
+print(sum(i*~i//-2for i in map(len,[*open(0)][1].replace(*'0 ').split())))
