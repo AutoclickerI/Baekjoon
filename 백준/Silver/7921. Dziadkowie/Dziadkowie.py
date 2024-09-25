@@ -1,0 +1,1 @@
+for n in[*open(i:=0)][1:]:i+=1;print([-~int(n)*3//7,'AMPPZ 2010'][i%69<1])
