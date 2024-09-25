@@ -1,1 +1,1 @@
-print(open(0).read().translate(str.maketrans("eiEI","ieIE")))
+print(open(0).read().translate(''.maketrans("eiEI","ieIE")))
