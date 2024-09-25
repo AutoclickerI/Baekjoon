@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print(i.replace('W','WW').count('WOW'))
