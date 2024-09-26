@@ -1,2 +1,2 @@
-f=lambda n:sorted(map(int,input().split()))[-n:]
-print(c:=min(f(0)),sum(map(int.__mul__,f(c),f(c))))
+f=lambda:sorted(map(int,input().split()))[::-1]
+print(c:=min(f()),sum(map(int.__mul__,f(),f())))
