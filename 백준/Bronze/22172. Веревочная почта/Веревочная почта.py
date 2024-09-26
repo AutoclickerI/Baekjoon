@@ -1,0 +1,1 @@
+print(min(s:=max(0,~min(l:=[i-int(j)for i,j in enumerate([*open(0)][1].split())])),t:=max(0,1+max(l)))+s+t)
