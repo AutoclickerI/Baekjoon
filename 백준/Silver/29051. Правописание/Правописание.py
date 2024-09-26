@@ -1,1 +1,1 @@
-print(sum(int('1111112121112213323'[ord(i)%19])for i in input()))
+print(len(s:=input())+sum(map('AEFJRTXYHHIIKK'.count,s)))
