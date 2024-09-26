@@ -1,0 +1,1 @@
+print(sum(int('21112213323111111212111221'[ord(i)%65])for i in input()))
