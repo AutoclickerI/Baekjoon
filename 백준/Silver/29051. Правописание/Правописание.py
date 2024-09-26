@@ -1,1 +1,1 @@
-print(sum(int('21112213323111111212111221'[ord(i)%65])for i in input()))
+print(sum(int('1111112121112213323'[ord(i)%19])for i in input()))
