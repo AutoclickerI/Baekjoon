@@ -1,2 +1,1 @@
-R=lambda s:s[::-1]
-print(eval("'"+input().replace("(","'+R('").replace(")","')+'")+"'"))
+print(eval(repr(input()).replace("(","'+'").replace(")","'[::-1]+'")))
