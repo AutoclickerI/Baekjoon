@@ -1,3 +1,2 @@
-s,t=input()*2,input()*2
-p,q=len(s)//2,len(t)//2
-print(max(int(s[i:i+p])for i in range(p))-min(int(t[i:i+q])for i in range(q)if'0'<t[i]))
+f=lambda s:[int(i)for i in[(s+s)[j:j+len(s)]for j in range(len(s))]if'0'<i[0]]
+print(max(f(input()))-min(f(input())))
