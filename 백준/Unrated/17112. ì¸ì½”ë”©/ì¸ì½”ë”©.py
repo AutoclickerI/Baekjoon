@@ -1,0 +1,6 @@
+s=input()
+if ord(s[0])in[*range(0x3131,0x318f),*range(0xac00,0xd7a4)]:print('UTF-8')
+elif ord(s[0])in range(0x0e45,0x0e49):print('IBM-Thai')
+elif ord(s[0])in range(0xea,0xee):print('windows-1252')
+elif any(chr(i)in s for i in range(0xff61,0xffa0)):print('Shift_JIS')
+else:print('EUC-KR')
