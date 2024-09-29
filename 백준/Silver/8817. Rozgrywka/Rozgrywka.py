@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:N,K=map(int,i.split());print('WHie'[0<N%-~K::2]+'ktor')
