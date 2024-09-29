@@ -110,4 +110,4 @@ YES
 YES
 YES'''}
 s=open(0).read()[:9]
-print(ans['1'if s==':cat:\n:ca'else'4'if'```\n:ca'else'5'if':cat:\n:cA'else'8'])
+print(ans['1'if s==':cat:\n:ca'else'4'if s=='```\n:cat:'else'5'if s==':cat:\n:cA'else'8'])
