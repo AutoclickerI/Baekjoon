@@ -1,0 +1,1 @@
+for i in[*open(0,'rb')][1:]:print('Distances:',*[(b-a)%26for a,b in zip(*i.split())])
