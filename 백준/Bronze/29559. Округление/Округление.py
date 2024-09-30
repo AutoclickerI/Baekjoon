@@ -1,0 +1,1 @@
+print(10**(int(input())-len(input().split('.')[1])))
