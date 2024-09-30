@@ -1,4 +1,3 @@
-g=lambda:map(int,input().split())
-N,A,B=g()
-exec('X,Y=g();b=min(Y,6-(a:=min(X, 6)));A+=3*a;B+=3*(a+b);'*(8-N))
-print(['Nae ga wae','Nice'][A>67<131<B>131])
+a,b,c=map(int,input().split())
+for i in range(8-a):j,g=map(int,input().split());b+=3*j;c+=3*min(6,j+g)
+print(['Nae ga wae','Nice'][b>65<129<c])
