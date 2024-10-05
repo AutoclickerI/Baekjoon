@@ -1,9 +1,3 @@
-from collections import Counter
-n,k,*l=map(int,open(a:=0).read().split())
-c=Counter(l)
-for i in sorted(c,reverse=True):
-    a+=c[i]
-    k-=c[i]
-    if k<=0:
-        break
-print(a)
+n,k,*l=map(int,open(0).read().split())
+l=sorted(l)[::-1]
+print(max(i*(l[i]==l[k-1])for i in range(n))+1)
