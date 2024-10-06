@@ -1,14 +1,5 @@
 s=input()
-l=[len(s)*['.']for _ in[0]*100]
-w=99
-h=0
-for i in s:
-    if i=='(':
-        l[w][h]='/'
-        w-=1
-    else:
-        w+=1
-        l[w][h]='\\'
-    h+=1
-for i in l:
-    if{*i}-{'.'}:print(*i,sep='')
+l=eval("len(s)*['.'],"*50)
+z=h=0
+for i in s:f=i=='(';z-=1-2*f;l[~z+f][h]='\/'[f];h+=1
+for i in l:{'/'}<{*i}!=print(*i,sep='')
