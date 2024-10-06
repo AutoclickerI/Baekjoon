@@ -1,0 +1,1 @@
+for n in[*map(int,open(0))][1:]:print(*[-1]*(n<6)or[len(s:={1,3,n-3,n-2}),*sorted(s)])
