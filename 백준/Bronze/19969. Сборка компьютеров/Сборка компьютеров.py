@@ -1,6 +1,4 @@
-a,b,c=map(int,input().split())
-d,e,f=map(int,input().split())
-x=0
+a,b,c,d,e,f=map(int,open(x:=0).read().split())
 m=min(a,d)
 x+=m
 a-=m
@@ -12,10 +10,4 @@ e-=m
 m=min(c,d+e)
 x+=m
 c-=m
-t=min(d,m)
-d-=t
-e-=m-t
-m=min(f,a+b)
-x+=m
-f-=m
-print(x+min(c,f))
+print(x+min(f,a+b+c))
