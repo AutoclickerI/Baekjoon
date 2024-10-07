@@ -1,1 +1,1 @@
-for l in open(0):N,*A=map(int,l.split());print(N,*[f'{(i+j)/2:.6f}'for i,j in zip(A,(A*2)[2:])])
+for l in open(0):N,*A=map(int,l.split());print(N,*[f'{(i+j)/2:.6f}'for i,j in zip(A,A[2:]+A)])
