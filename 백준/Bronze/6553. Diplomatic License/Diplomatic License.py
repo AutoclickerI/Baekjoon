@@ -1,0 +1,1 @@
+for l in open(0):N,*A=map(int,l.split());print(N,*[f'{(A[i]+A[i+2-2*N])/2:.6f}'for i in range(2*N)])
