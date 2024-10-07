@@ -1,0 +1,1 @@
+for k in[*open(0)][1:]:K,P,X=map(int,k.split());N=round((P*K/X)**.5);print(f'{X*N+P*K/N:.3f}')
