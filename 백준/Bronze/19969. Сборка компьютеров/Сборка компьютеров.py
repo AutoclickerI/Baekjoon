@@ -1,13 +1,7 @@
 a,b,c,d,e,f=map(int,open(x:=0).read().split())
 m=min(a,d)
-x+=m
-a-=m
 d-=m
-m=min(b,e)
-x+=m
-b-=m
-e-=m
-m=min(c,d+e)
-x+=m
-c-=m
-print(x+min(f,a+b+c))
+n=min(b,e)
+e-=n
+o=min(c,d+e)
+print(x+min(f+m+n+o,a+b+c))
