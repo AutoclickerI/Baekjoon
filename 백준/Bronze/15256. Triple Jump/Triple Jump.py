@@ -1,7 +1,5 @@
-for T in range(int(input())):
-    n=int(input())
-    *l,=map(eval,input().split())
-    s=n
-    for i in range(n):
-        if 30<=l[i]<=30.2:s=i;break
-    print(f'Data Set {T+1}:\n{s<n-3and min(l[s+3:])-30:.2f}\n')
+for s in[*open(i:=0)][2::2]:
+ *v,=map(eval,s.split())
+ for j,x in enumerate(v):
+  if 30<=x<=30.2:break
+ i+=1;print(f'Data Set {i}: {min(v[j+3:]or[30])-30:.2f}\n')
