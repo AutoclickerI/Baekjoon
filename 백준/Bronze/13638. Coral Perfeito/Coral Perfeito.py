@@ -1,0 +1,1 @@
+for i in[*open(0)][1::2]:n=len(l:=[*map(int,i.split())]);q,r=divmod(sum(l),n);print(-(r>0)or sum(abs(q-i)for i in l)//2+1)
