@@ -1,0 +1,1 @@
+while'1'<(s:=input()):T,N=map(int,s.split());print(N*3-sum(int(input().split()[1])for _ in[0]*T))
