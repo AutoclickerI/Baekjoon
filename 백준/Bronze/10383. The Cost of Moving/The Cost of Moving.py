@@ -1,7 +1,2 @@
-s=1
-while n:=int(input()):
-    i=[];v=n
-    while v:b=input().split();i+=b;v-=len(b)
-    l=sorted(zip(i,range(n)))
-    print(f'Site {s}:',sum(abs(l[i][1]-i)for i in range(n)))
-    s+=1   
+*x,_=open(s:=0).read().split()
+while x:s+=1;R=range(n:=int(x.pop(0)));i=x[:n];x=x[n:];print(f'Site {s}:',sum(abs(sorted(zip(i,R))[j][1]-j)for j in R))
