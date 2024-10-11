@@ -1,0 +1,1 @@
+while n:=int(input()):l=[0,*map(int,input().split())];print('not '*any(i!=l[l[i]]for i in range(n+1))+'ambiguous')
