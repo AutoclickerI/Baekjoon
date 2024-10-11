@@ -1,4 +1,3 @@
-n,L=map(int,input().split())
-for _ in range(n):L-=len(input())
-if n==1:print('No'if L else'Yes')
-else:print('No'if L<n-1 or L%(n-1) else'Yes')
+n,m,*l=open(0).read().split()
+g=int(m)-sum(map(len,l))
+print(('No','Yes')[g>0 and not g%(int(n)-1) if int(n)>1 else not g])
