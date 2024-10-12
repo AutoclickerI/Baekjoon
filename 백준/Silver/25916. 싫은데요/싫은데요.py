@@ -1,15 +1,7 @@
-N,M=map(int,input().split())
-*l,=map(int,input().split())
-m=0
-x=0
-ptr1=ptr2=0
-while ptr1<N:
-    if x<M and ptr2<N:
-        x+=l[ptr2]
-        ptr2+=1
-    else:
-        x-=l[ptr1]
-        ptr1+=1
-    if x<=M:
-        m=max(m,x)
-print(m)
+n,m,*a=map(int,open(0).read().split())
+r=w=i=j=0
+while j<n:
+ w+=a[j]
+ while w>m:w-=a[i];i+=1
+ r=max(r,w);j+=1
+print(r)
