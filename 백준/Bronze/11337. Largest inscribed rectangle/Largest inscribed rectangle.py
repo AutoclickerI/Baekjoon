@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:R,B=map(int,i.split());B=min(B,R*2**.5);print('%.3f'%(B*(4*R*R-B*B)**.5))
