@@ -1,0 +1,2 @@
+from collections import*
+for i in[*open(0)][1:]:print({'24':'tiki pair','114':'tiki','33':'two triples','123':'full house','1113':'one triple','222':'three pairs','1122':'two pairs','11112':'one pair'}.get(''.join(map(str,sorted(Counter(i.split()).values()))),'single'))
