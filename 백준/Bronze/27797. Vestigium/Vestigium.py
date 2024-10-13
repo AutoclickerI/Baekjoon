@@ -1,0 +1,1 @@
+for T in range(int(input())):N=int(input());l=eval('input().split(),'*N);print(f'Case #{T+1}:',sum(int(l[i][i])for i in range(N)),sum(N>len({*i})for i in l),sum(N>len({*i})for i in zip(*l)))
