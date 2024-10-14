@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:l,*a=i.split();w,z,b=map(eval,a);print(str([w*x+z*y+b<0for x in[0,1]for y in[0,1]]==[[1,1,1,0],[1,0,0,0]][l>'B']).lower())
+for i in[*open(0)][1:]:w,z,b=map(eval,i.split()[1:]);print(str([w*x+z*y+b<0for x in[0,1]for y in[0,1]]==[[1,1,1,0],[1,0,0,0]][i>'B']).lower())
