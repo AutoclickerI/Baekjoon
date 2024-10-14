@@ -1,3 +1,2 @@
 A,B=map(int,input().split())
-m=10**9+7
-print((1//A*B or~-pow(A,B,m)*pow(A-1,-1,m))%m)
+print((~-pow(A,B,M:=10**9+7)*pow(A-1,M-2,M)or B)%M)
