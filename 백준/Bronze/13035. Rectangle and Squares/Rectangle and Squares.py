@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:a,b,c=map(int,i.split());print(max(a*b//c//c+(a*b%c**2*2>c*c),1)*c*c)
