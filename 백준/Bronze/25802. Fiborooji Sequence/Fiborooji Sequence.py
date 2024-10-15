@@ -1,4 +1,4 @@
-a,b=map(int,input().split())
-s,t=a,b
-c=2
-while 1:c+=1;s,t=t,(s+t)%10;(s,t)==(a,b)<exit(print(c))
+x=y=*map(int,input().split()),
+a=3
+while(x:=(x[1],sum(x)%10))!=y:a+=1
+print(a)
