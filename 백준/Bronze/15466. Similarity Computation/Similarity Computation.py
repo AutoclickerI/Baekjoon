@@ -1,1 +1,1 @@
-for _,a,b in zip(*[map(set,map(str.split,[*open(0)][1:]))]*3):print(+(2*len(a&b)>len(a|b)))
+for _,a,b in zip(*[map(set,[i.split()for i in open(0)][1:])]*3):print(+(2*len(a&b)>len(a|b)))
