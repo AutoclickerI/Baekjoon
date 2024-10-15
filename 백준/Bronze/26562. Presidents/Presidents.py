@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print(f"${sum({'F':100,'G':50,'J':20,'H':10,'L':5,'W':1}[s[0]]for s in i.split())}")
