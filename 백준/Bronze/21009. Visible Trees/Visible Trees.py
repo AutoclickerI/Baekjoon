@@ -1,8 +1,6 @@
-n,*l=[[*map(int,i.split())]for i in open(0)]
-def f(a):
- s=[1e9]
- for i in a[::-1]:
-  while s[-1]<=i:s.pop()
-  s+=i,
- return len(s)-1
-print(*map(f,(*zip(*l),*l)))
+def f(l):
+    t=l[0];r=1
+    for a in l[1:]:r+=a>t;t=max(a,t)
+    return r
+l=[[*map(int,i.split())]for i in open(0)][1:]
+print(*map(f,[*zip(*l)]+l))
