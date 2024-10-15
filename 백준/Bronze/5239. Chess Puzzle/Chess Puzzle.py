@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:n,*l=i.split();print('NOT '*any(int(n)-len({*l[i::2]})for i in[0,1])+'SAFE')
