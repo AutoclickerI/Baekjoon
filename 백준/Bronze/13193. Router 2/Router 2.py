@@ -3,7 +3,8 @@ Mlim=500000
 Plim=100
 Nlim=500000
 nodes_used=2*N
-div1=div2=5
+div1=5
+div2=1
 
 connections=[]
 
@@ -32,24 +33,30 @@ class cluster:
     def getnode(self,need):
         if Plim<self.count+need:
             self.reset()
+        self.count+=need
         return self.node
     def connect(self,f):
         assert len(self)*len(f)<=Plim
         connections.append((self.getnode(len(f)),f.getnode(len(self))))
-        self.count+=len(f)
-        f.count+=len(self)
 
 start=[]
-for i in range(1,N+1,div1):
-    start+=cluster([*range(i,min(i+div1,N+1))],True),
+for i in range(1,N+1,div1//div2):
+    start+=cluster([*range(i,min(i+div1//div2,N+1))],True),
 
 end=[]
-for i in range(1,N+1,div1):
-    end+=cluster([*range(N+i,N+min(i+div2,N+1))],False),
+for i in range(1,N+1,div1//div2):
+    end+=cluster([*range(N+i,N+min(i+div1//div2,N+1))],False),
 
-for i in start:
-    for j in end:
-        i.connect(j)
+for i in range(0,len(start),div2):
+    n_e=Plim//div1**2*div2
+    for j in range(0,len(end),div2):
+        node=getnode()
+        for k in start[i:i+div2]:
+            connections.append((k.getnode(n_e*div1//div2),node))
+        for k in end[j:j+div2]:
+            connections.append((node,k.getnode(div1//div2)))
+    
+
 assert len(connections)<=Mlim
 print(nodes_used,len(connections))
 for i in connections:print(*i)
