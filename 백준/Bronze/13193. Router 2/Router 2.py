@@ -1,9 +1,9 @@
 N=223
 Mlim=500000 
-Plim=100
+Plim=1
 Nlim=500000
 nodes_used=2*N
-div1=5
+div1=300
 div2=1
 
 connections=[]
