@@ -1,0 +1,1 @@
+for i in[*open(0)][:-1]:*x,=map(int,i[:-1].replace(' ',''));print('YNeos'[(sum(i*2-9*(i>4)for i in x[::2])+sum(x[1::2]))%10>0::2])
