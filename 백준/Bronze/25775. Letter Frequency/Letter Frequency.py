@@ -1,8 +1,8 @@
-l=[i[:-1]for i in open(0)][1:]
+l=[*open(0)][1:]
 m=max(map(len,l))
 def get(n):
     return[i[n]for i in l if n<len(i)]
-for i in range(m):
+for i in range(m-1):
     z=[]
     s=get(i)
     n=0
