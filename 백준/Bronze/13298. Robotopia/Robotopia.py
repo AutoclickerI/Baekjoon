@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:a,c,b,d,p,q=map(int,i.split());m=[(i,(p-a*i)//b)for i in range(p//a+2)if(p-a*i)%b<1 and q-c*i==(p-a*i)//b*d>0<i];print(*1==len(m)and m[0]or'?')
+for i in[*open(0)][1:]:a,c,b,d,p,q=map(int,i.split());print(*1==len(m:=[(i,z//b)for i in range(p//a+2)if(z:=p-a*i)%b<1<=q-c*i==z//b*d>0<i])and m[0]or'?')
