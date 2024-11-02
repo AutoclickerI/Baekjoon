@@ -1,0 +1,1 @@
+print(-int(-sum(sum(map(int,i.split()))**2for i in[*open(0)][1:])**.5//1))
