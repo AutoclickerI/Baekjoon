@@ -12,8 +12,9 @@ for _ in[0]*int(input()):
             print(a)
         else:
             ans=a+d*(l-1)
+            gv=math.gcd(ans,d)
             for i in range(d*l,d*r,d):
                 ans=math.gcd(ans,a+i)
-                if ans<2:
+                if ans<=gv:
                     break
             print(ans)
