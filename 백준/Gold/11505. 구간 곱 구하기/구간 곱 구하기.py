@@ -2,44 +2,38 @@ import sys
 input=sys.stdin.readline
 
 N,M,K=map(int,input().split())
-l=[int(input())for _ in[0]*N]
-tree_size=N*4
-tree=[0]*tree_size
+
+tree=[0]*N+[int(input())for _ in[0]*N]
 mod=10**9+7
 
-# [start, end)
-def build(start,end,idx=1):
-    if end-start==1:
-        tree[idx]=l[start]
-    else:
-        val=build(start,(start+end)//2,idx*2)*build((start+end)//2,end,idx*2+1)%mod
-        tree[idx]=val
-    return tree[idx]
+for i in range(N-1,0,-1):
+    tree[i]=tree[i*2]*tree[i*2+1]%mod
 
-# [start, end) is current checkint pos. [left, right) is target pos
-def get_val(start,end,left,right,idx=1):
-    if end<=left or right<=start:
-        return 1
-    if left<=start and end<=right:
-        return tree[idx]
-    return get_val(start,(start+end)//2,left,right,2*idx)*get_val((start+end)//2,end,left,right,2*idx+1)%mod
+def update(target,val):
+    target+=N
+    tree[target]=val
+    while 1<target:
+        target//=2
+        tree[target]=tree[target*2]*tree[target*2+1]%mod
 
-def update(start,end,target,val,idx=1):
-    if end-start==1:
-        tree[idx]=val
-        return
-    mid=(start+end)//2
-    if start<=target<mid:
-        update(start,mid,target,val,2*idx)
-    else:
-        update(mid,end,target,val,2*idx+1)
-    tree[idx]=tree[2*idx]*tree[2*idx+1]%mod
-
-build(0,N)
+def get_val(left,right):
+    left+=N
+    right+=N
+    ret=1
+    while left<right:
+        if left%2:
+            ret=ret*tree[left]%mod
+            left+=1
+        if right%2:
+            right-=1
+            ret=ret*tree[right]%mod
+        right//=2
+        left//=2
+    return ret
 
 for _ in[0]*(M+K):
     a,b,c=map(int,input().split())
     if a==1:
-        update(0,N,b-1,c)
+        update(b-1,c)
     else:
-        print(get_val(0,N,b-1,c))
+        print(get_val(b-1,c))
