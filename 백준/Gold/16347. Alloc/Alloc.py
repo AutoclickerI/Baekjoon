@@ -8,58 +8,52 @@ class block:
     def __str__(self):
         return str(self.pos)
 N=100002
-tree_size=N*4
+
+tree_size=2*N
 tree=[0]*tree_size
+tree[1+N]=N-2
 
-l=[0]*N
-l[1]=N-2
+for i in range(N-1,0,-1):
+    tree[i]=max(tree[i*2],tree[i*2+1])
 
-def build(start,end,idx=1):
-    if end-start==1:
-        tree[idx]=l[start]
-        return tree[idx]
-    mid=(start+end)//2
-    tree[idx]=max(build(start,mid,idx*2),build(mid,end,idx*2+1))
-    return tree[idx]
+def update(target,val):
+    target+=N
+    tree[target]=val
+    while 1<target:
+        target//=2
+        tree[target]=max(tree[target*2],tree[target*2+1])
 
-def update(start,end,target,val,idx=1):
-    if end-start==1:
-        tree[idx]=val
-        l[start]=val
-        return
-    mid=(start+end)//2
-    if target<mid:
-        update(start,mid,target,val,idx*2)
-    else:
-        update(mid,end,target,val,idx*2+1)
-    tree[idx]=max(tree[idx*2],tree[idx*2+1])
-
-def get_val(start,end,left,right,idx=1):
-    if end<=left or right<=start:
-        return 0
-    if left<=start and end<=right:
-        return tree[idx]
-    mid=(start+end)//2
-    return max(get_val(start,mid,left,right,idx*2),get_val(mid,end,left,right,idx*2+1))
-
-build(0,N)
+def get_val(left,right):
+    left+=N
+    right+=N
+    ret=0
+    while left<right:
+        if left%2:
+            ret=max(ret,tree[left])
+            left+=1
+        if right%2:
+            right-=1
+            ret=max(ret,tree[right])
+        left//=2
+        right//=2
+    return ret
 
 def malloc(val):
-    if get_val(0,N,0,N)<val:
+    if get_val(0,N)<val:
         return 0
     s=0
     e=N
     while 1<e-s:
         mid=(s+e)//2
-        if val<=get_val(0,N,0,mid):
+        if val<=get_val(0,mid):
             e=mid
         else:
             s=mid
-    segment=get_val(0,N,s,s+1)
-    update(0,N,s,0)
-    update(0,N,s+segment-1,0)
-    update(0,N,s+val,segment-val)
-    update(0,N,s+segment-1,val-segment)
+    segment=get_val(s,s+1)
+    update(s,0)
+    update(s+segment-1,0)
+    update(s+val,segment-val)
+    update(s+segment-1,val-segment)
     return block(s,val)
 
 def free(val):
@@ -67,18 +61,18 @@ def free(val):
         return 0
     pos=val.pos
     size=val.size
-    if l[pos-1]<0:
-        merge_check=l[pos-1]
-        update(0,N,pos-1,0)
+    if tree[N+pos-1]<0:
+        merge_check=tree[N+pos-1]
+        update(pos-1,0)
         pos+=merge_check
         size-=merge_check
     
-    merge_check=l[pos+size]
+    merge_check=tree[N+pos+size]
     if merge_check:
-        update(0,N,pos+size,0)
+        update(pos+size,0)
         size+=abs(merge_check)
-    update(0,N,pos,size)
-    update(0,N,pos+size-1,-size)
+    update(pos,size)
+    update(pos+size-1,-size)
 
 d={}
 
