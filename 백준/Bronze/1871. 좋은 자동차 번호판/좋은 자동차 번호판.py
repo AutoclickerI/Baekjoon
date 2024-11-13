@@ -1,5 +1,1 @@
-for z in[*open(0)][1:]:
- s=0
- i,j=z.split('-')
- for c in i:s*=26;s+=ord(c)-65
- print('not '*(100<abs(int(j)-s))+'nice')
+for i in[*open(0)][1:]:a,b=i.split("-");t=0;print('not '*(abs([t:=t*26+ord(c)-65for c in a][-1]-int(b))>100)+'nice')
