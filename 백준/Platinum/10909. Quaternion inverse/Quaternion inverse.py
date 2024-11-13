@@ -1,11 +1,2 @@
-import sys
-input=sys.stdin.readline
-p,q=map(int,input().split())
-for i in[0]*q:
-    a,b,c,d=map(int,input().split())
-    A=a*a+b*b+c*c+d*d
-    try:
-        H=pow(A,-1,p)
-        print(*(i*H for i in[a,-b,-c,-d]))
-    except:
-        print(0,0,0,0)
+p,q,*l=map(int,open(0).read().split())
+for i in range(q):a,b,c,d=l[4*i:4*-~i];H=a*a+b*b+c*c+d*d;print(*[H%p and-i*pow(H,-1,p)for i in[-a,b,c,d]])
