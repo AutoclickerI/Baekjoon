@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:a,b=i.split("-");t=0;print('not '*(abs([t:=t*26+ord(c)-65for c in a][-1]-int(b))>100)+'nice')
+for i in[*open(0,'rb')][1:]:t=0;print('not '*(abs([t:=t*26+c-65for c in i[:3]][2]-int(i[4:]))>100)+'nice')
