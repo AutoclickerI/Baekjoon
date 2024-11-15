@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:n=int(i);print(n%2*'O'+(n==int(n**.5)**2)*'S'or'EMPTY')
