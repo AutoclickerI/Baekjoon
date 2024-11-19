@@ -1,2 +1,2 @@
-a,b,c=map(int,open(0))
-print('EJIA H'[a in[1,3]and b in[6,8]and c in[2,5]::2])
+I=input
+print('EJIA H'[(I()in'13')*(I()in'68')*(I()in'52')::2])
