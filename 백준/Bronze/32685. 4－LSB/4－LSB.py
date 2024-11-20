@@ -1,1 +1,2 @@
-print('%04d'%int(''.join(f'{int(i)%16:04b}'for i in open(0)),2))
+a,b,c=map(int,open(0))
+print(f'{a%16*256+b%16*16+c%16:04}')
