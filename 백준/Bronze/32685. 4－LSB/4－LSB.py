@@ -1,0 +1,1 @@
+print('%04d'%int(''.join(f'{int(i)%16:04b}'for i in open(0)),2))
