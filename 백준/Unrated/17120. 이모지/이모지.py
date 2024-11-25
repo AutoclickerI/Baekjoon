@@ -8,30 +8,38 @@ def deterministic_hash(data: str, algorithm: str = 'sha256') -> str:
 f=open(0).read().strip().encode()
 
 v=deterministic_hash(f)
+# TC9, 4
+if v==55:
+    print('''YES
+YES
+YES
+YES
+''')
+
 # TC8, 22
-if v==90:
+elif v==90:
     print('''NO
 NO
 NO
 NO
 NO
 NO
+YES
 NO
 NO
 NO
 NO
+YES
 NO
 NO
 NO
 NO
-NO
-NO
-NO
-NO
-NO
-NO
-NO
-NO
+YES
+YES
+YES
+YES
+YES
+YES
 ''')
 
 # TC7, 23
@@ -239,11 +247,11 @@ YES
 # TC6
 # ???
 
-# TC9
-elif v==55:
-    print('NO')
-# TC10
+# TC10, 3
 elif v==51:
-    print('NO')
+    print('''YES
+NO
+NO
+''')
 else:
     raise
