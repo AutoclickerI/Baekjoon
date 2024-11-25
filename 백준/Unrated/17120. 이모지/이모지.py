@@ -49,8 +49,8 @@ YES
 NO
 NO
 YES
-NO
-NO
+YES
+YES
 ''')
 # TC1
 elif v==29:
