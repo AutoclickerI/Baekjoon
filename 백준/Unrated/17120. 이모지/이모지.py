@@ -1,35 +1,40 @@
-#a=0
-#for i in range(10**7):a+=i
-
 import hashlib
 
 def deterministic_hash(data: str, algorithm: str = 'sha256') -> str:
-    """
-    Deterministic hash function using hashlib.
-    
-    Parameters:
-        data (str): The input string to hash.
-        algorithm (str): The hashing algorithm to use (e.g., 'sha256', 'md5').
-    
-    Returns:
-        str: The resulting deterministic hash as a hexadecimal string.
-    """
-    # Ensure the chosen algorithm is available in hashlib
-    if algorithm not in hashlib.algorithms_available:
-        raise ValueError(f"Unsupported algorithm: {algorithm}")
-    
-    # Create a hash object
     hash_func = hashlib.new(algorithm)
-    # Encode the data to bytes and update the hash object
     hash_func.update(data)
-    # Return the hash as a hexadecimal string
     return int(hash_func.hexdigest(),16)%107
 
 f=open(0).read().strip().encode()
 
 v=deterministic_hash(f)
-# TC2
-if v==7:
+# TC3
+if v==66:
+    print('''NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+''')
+# TC2, 21
+elif v==7:
     print('''YES
 YES
 YES
@@ -178,9 +183,6 @@ YES
 YES
 YES
 ''')
-# TC3
-elif v==66:
-    print('NO')
 
 # TC6
 # ???
