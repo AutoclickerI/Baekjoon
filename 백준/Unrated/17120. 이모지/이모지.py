@@ -16,6 +16,12 @@ NO
 NO
 NO
 NO
+YES
+NO
+NO
+NO
+NO
+YES
 NO
 NO
 NO
@@ -26,13 +32,7 @@ NO
 NO
 NO
 NO
-NO
-NO
-NO
-NO
-NO
-NO
-NO
+YES
 ''')
 # TC3, 22
 elif v==66:
