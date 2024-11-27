@@ -1,0 +1,16 @@
+LeftStar !E
+V = 200
+LeftStar !W
+Pick
+Left
+LeftStar !E
+Drop
+Jump 2 if V
+Stop
+Left
+Pick
+Left
+LeftStar !E
+Drop
+V = V - 1
+Jump -13
