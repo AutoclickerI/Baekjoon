@@ -1,1 +1,1 @@
-print(['high speed rail','flight'][240<int(input())>eval(input().replace(*' +'))])
+print('flight'*(240<int(input())>eval(input().replace(*' +')))or'high speed rail')
