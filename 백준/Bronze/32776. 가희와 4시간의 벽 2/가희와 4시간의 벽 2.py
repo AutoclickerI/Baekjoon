@@ -1,2 +1,1 @@
-S,a,b,c=map(int,open(0).read().split())
-print((240<S>a+b+c)*'flight'or'high speed rail')
+print(['high speed rail','flight'][240<int(input())>eval(input().replace(*' +'))])
