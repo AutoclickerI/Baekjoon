@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print('IOnunt'[eval(i.replace(*' -'))%43<22::2]+'er circle line')
