@@ -1,2 +1,2 @@
 w,s=map(int,input().split())
-print((w+s*~s//2*29260)//110)
+print(w//110+s*~s*133)
