@@ -1,8 +1,2 @@
-r,c=map(int,input().split())
-f=0
-for _ in[0]*r:
-    s=input()
-    l=c-len(s)
-    v=l+f>>1
-    print('.'*v+s+'.'*(l-v))
-    f^=l%2
+_,c,*l=open(f:=0).read().split()
+for s in l:x=int(c)-len(s);v=x+f>>1;print('.'*v+s+'.'*(x-v));f^=x%2
