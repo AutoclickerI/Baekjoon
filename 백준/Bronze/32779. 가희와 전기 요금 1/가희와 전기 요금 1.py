@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print(int(eval(i.replace(*' *'))*.00176))
