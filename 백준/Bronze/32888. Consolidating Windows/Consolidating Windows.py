@@ -1,2 +1,1 @@
-import math
-print(math.dist([0,0],map(int,input().split())))
+print(eval(input().replace(' ','**2+')+'**2')**.5)
