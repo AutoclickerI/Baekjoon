@@ -1,2 +1,2 @@
 n,a,b=open(0)
-print('Deletion',['failed','succeeded'][int(n)%2*~-len(a)==(int(a,2)^int(b,2)).bit_count()])
+print('Deletion',['succeeded','failed'][any(int(n)&1^(i!=j)for i,j in zip(a,b[:-1]))])
