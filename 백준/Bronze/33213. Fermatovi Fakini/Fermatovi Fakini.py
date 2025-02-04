@@ -1,5 +1,4 @@
 n,*l=map(int,open(0).read().split())
-o=sum(i%2for i in l)
-v=o*2<n
+v=sum(i%2for i in l)*2<n
 while-~v in l:v+=2
 print(-~v)
