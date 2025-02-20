@@ -1,19 +1,4 @@
-g,gb,y,r,ry,t=map(int,open(0).read().split())
-s = g + gb + y + r + ry
-R=Y=G=0
-while t:
-    t-=1
-    rem = t % s
-    if rem < g:
-        G += 2
-    elif rem < g + gb:
-        G += 1
-    elif rem < g + gb + y:
-        Y += 1
-    elif rem < g + gb + y + r:
-        R += 1
-    else:
-        R += 1
-        Y += 1
-print(R,Y,G//2)
-
+*l,t=map(int,open(0).read().split())
+i=r=y=g=0
+while t:k=min(t,l[i]);t-=k;i+=1;g+=k//i*(i<3);y+=(i in(3,5))*k;r+=(i>3)*k;i%=5
+print(r,y,g)
