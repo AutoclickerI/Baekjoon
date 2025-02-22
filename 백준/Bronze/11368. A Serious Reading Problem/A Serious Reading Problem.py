@@ -1,0 +1,1 @@
+while(i:=input())>'1':c,w,l,p=map(int,i.split());print(c**(w*l*p))
