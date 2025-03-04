@@ -1,1 +1,1 @@
-while~(n:=int(input())):print(n,'coconuts,',['no solution',*[f'{k} people and 1 monkey'for k in range(1,9)if(n+(-k)**k+k)%k**-~k==1]][-1])
+while~(n:=int(input())):print(n,'coconuts,',max(((n+(-k)**k+k)%k**-~k==1)*f'{k} people and 1 monkey'for k in range(1,9))or'no solution')
