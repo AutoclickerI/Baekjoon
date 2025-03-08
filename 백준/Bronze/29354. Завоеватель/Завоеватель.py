@@ -1,3 +1,2 @@
-h,*l=map(int,[*open(a:=0)][1].split())
-for i in l:a+=h;h=min(h,i)
-print(a)
+h=1e9
+print(sum(h:=min(h,int(i))for i in[*open(0)][1].split()[:-1]))
