@@ -1,8 +1,5 @@
-x=input()
-n=len(x)
+n=len(x:=input())
 t=int(n**.5)
-u=''
 while n%t:t-=1
 for i in range(t):
- for j in range(n//t):u+=x[i+j*t]
-print(u)
+ for j in range(n//t):print(end=x[i+j*t])
