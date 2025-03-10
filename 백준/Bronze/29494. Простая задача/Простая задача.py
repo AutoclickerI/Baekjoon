@@ -1,0 +1,1 @@
+print('YNeos'[sorted(i.count('1')for i in open(0))in([0,4,4],[0,0,4])::2])
