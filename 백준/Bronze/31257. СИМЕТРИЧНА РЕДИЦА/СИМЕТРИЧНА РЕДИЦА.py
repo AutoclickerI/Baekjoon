@@ -1,3 +1,4 @@
-n=int(input())
+input()
 x=input()
-for i in range(n):y=x[i:n];y==y[::-1]<exit(print(i,x[:i][::-1]))
+i=0
+while 1:y=x[i:];y==y[::-1]<exit(print(i,x[:i][::-1]));i+=1
