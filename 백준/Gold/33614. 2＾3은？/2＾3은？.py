@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:p,q,r=map(int,i.split());print(p+min(q,r)-1)
