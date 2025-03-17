@@ -1,2 +1,2 @@
-p=0
-for i in input():i==p!=print(end=i);p=i
+s=input()
+print(*[i*(i==j)for i,j in zip(s,s[1:])],sep='')
