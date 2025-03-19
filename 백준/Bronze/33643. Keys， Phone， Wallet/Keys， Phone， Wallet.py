@@ -1,0 +1,1 @@
+print(*sorted({'keys\n','phone\n','wallet\n'}-{*open(0)})or'ready',sep='')
