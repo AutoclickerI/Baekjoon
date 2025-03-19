@@ -1,0 +1,1 @@
+print(sum(len(l:=i.split())-len({*l})for i in[*open(0)][1:]))
