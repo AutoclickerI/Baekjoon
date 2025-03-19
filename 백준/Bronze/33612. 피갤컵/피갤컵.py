@@ -1,2 +1,2 @@
-n=int(input())*7
-print(2024+n//12,n%12+1)
+x=int(input())
+print(2024+x//2,1+7*x%12)
