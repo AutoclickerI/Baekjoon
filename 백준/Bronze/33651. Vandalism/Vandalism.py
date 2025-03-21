@@ -1,0 +1,2 @@
+s=input()
+for i in'UAPC':i in s or print(end=i)
