@@ -1,2 +1,1 @@
-s=open(0).read()
-print(*sorted(map(chr,range(65,91)),key=s.index),sep='')
+print(*sorted(map(chr,range(65,91)),key=open(0).read().find),sep='')
