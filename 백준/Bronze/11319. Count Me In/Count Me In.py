@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:v=''.join(i.split()).upper();n=sum(map(v.count,'AEIOU'));print(len(v)-n,n)
