@@ -1,17 +1,10 @@
-import sys
-input=sys.stdin.readline
-
 def get_val_max(l,r):
     l+=N
     r+=N
     ret=0
     while l<r:
-        if l%2:
-            ret=max(ret,maxtree[l])
-            l+=1
-        if r%2:
-            r-=1
-            ret=max(ret,maxtree[r])
+        if l%2:ret=max(ret,maxtree[l]);l+=1
+        if r%2:r-=1;ret=max(ret,maxtree[r])
         l//=2
         r//=2
     return ret
@@ -28,12 +21,8 @@ def search(l,r):
     r+=10001
     ret=0
     while l<r:
-        if l%2:
-            ret|=searchtree[l]
-            l+=1
-        if r%2:
-            r-=1
-            ret|=searchtree[r]
+        if l%2:ret|=searchtree[l];l+=1
+        if r%2:r-=1;ret|=searchtree[r]
         l//=2
         r//=2
     return ret
@@ -46,7 +35,7 @@ for _ in[0]*int(input()):
     for i in range(N-1,0,-1):
         maxtree[i]=max(maxtree[i*2],maxtree[i*2+1])
     
-    searchtree=[0]*2*10001
+    searchtree=[0]*20002
     
     f=0
     
@@ -56,11 +45,9 @@ for _ in[0]*int(input()):
         for s in range(q+2,N):
             if A[q]<A[s]:
                 maxval=max(maxval,A[s])
-                if A[s]<maxval:
-                    f|=search(A[s],maxval)
+                if A[s]<maxval:f|=search(A[s],maxval)
             if A[q]>A[s]:
                 minval=min(minval,A[s])
-                if minval<A[s]:
-                    f|=search(minval,A[s])
+                if minval<A[s]:f|=search(minval,A[s])
     
     print('YNeos'[1-f::2])
