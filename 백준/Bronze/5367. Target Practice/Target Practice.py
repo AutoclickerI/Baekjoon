@@ -1,8 +1,4 @@
 N=int(input())-2
-print('|'+'-'*N+'|')
-for i in range(N):
-    *l,=' '*N
-    l[i]=l[N-i-1]='*'
-    print('|',*l,'|',sep='')
-
-print('|'+'-'*N+'|')
+z=s='|'+'-'*N+'|\n'
+for i in range(N):*l,=' '*N;l[i]=l[N-i-1]='*';s+='|'+''.join(l)+'|\n'
+print(s+z)
