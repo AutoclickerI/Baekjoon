@@ -1,7 +1,6 @@
-s,*l=[eval(i.split()[-1].replace('L','+1'))for i in open(0)]
-v=s
-c=0
-for i in l:
-    v-=i
-    if v<0:v=s-i;c+=1
+n,s,*a=open(c:=0).read().split()
+m=s=int(s)
+for p,*q in a:
+ if(x:=int(p)+([]<q))>m:m=s;c+=1
+ m-=x
 print(c)
