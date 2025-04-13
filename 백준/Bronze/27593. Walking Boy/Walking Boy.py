@@ -1,1 +1,1 @@
-for i in[*open(0)][2::2]:l=0,*map(int,i.split()),1440;print('YNEOS'[sum((e-s)//120for s,e in zip(l,l[1:]))<2::2])
+for i in[*open(0)][2::2]:l=*map(int,i.split()),1440;print('YNEOS'[sum((e-s)//120for s,e in zip([0,*l],l))<2::2])
