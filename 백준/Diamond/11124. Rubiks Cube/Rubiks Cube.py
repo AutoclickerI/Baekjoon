@@ -124,10 +124,6 @@ while T:
         if conti<1:
             break
         e=cub_end.popleft()
-        if e in sol_start:
-            print(sol_start[e]+sol_end[e])
-            break
-        
         for i in range(6):
             t=e
             for _ in[0]*(1+i//3*2):
