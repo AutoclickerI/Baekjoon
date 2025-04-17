@@ -1,14 +1,18 @@
-# [Platinum II] Rubik 2^3 - 7659 
+# [Platinum I] Rubik 2^3 - 7659 
 
 [문제 링크](https://www.acmicpc.net/problem/7659) 
 
 ### 성능 요약
 
-메모리: 3888 KB, 시간: 16 ms
+메모리: 119380 KB, 시간: 196 ms
 
 ### 분류
 
-너비 우선 탐색, 양방향 탐색, 그래프 이론, 그래프 탐색, 구현, 런타임 전의 전처리
+너비 우선 탐색, 양방향 탐색, 그래프 이론, 그래프 탐색, 구현
+
+### 제출 일자
+
+2025년 4월 17일 16:58:11
 
 ### 문제 설명
 
@@ -18,11 +22,11 @@
 
 <p>The mini-cube has 6 faces, each with 4 painted tiles on it. The faces are labeled Front (F), Back (B), Up (U), Down (D), Left (L), and Right (R), according to the diagram below. Each of the tiles on the faces can be colored Red (R), Green (G), Blue (B), Yellow (Y), Orange (O), or White (W), and there are exactly 4 instances of each color. The cube is considered solved when the colors of all tiles on each distinct face of the cube match.</p>
 
-<p style="text-align:center"><img alt="" src="" style="height:199px; width:201px"></p>
+<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7659/1.png" style="height:199px; width:201px"></p>
 
 <p>You may use any combination of three distinct moves to transform the cube: a turn about the X-axis, a turn about the Y-axis, or a turn about the Z-axis. Each turn is exactly 90 degrees of all tiles on half the cube, in the directions illustrated below. Note that the back-down-left corner is fixed with respect to all valid transforms.</p>
 
-<p style="text-align:center"><img alt="" src="" style="height:226px; width:599px"></p>
+<p style="text-align:center"><img alt="" src="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/7659/2.png" style="height:226px; width:599px"></p>
 
 <p>Can you come up with a sequence of moves that will solve a given configuration of the Rubik’s cube?</p>
 
