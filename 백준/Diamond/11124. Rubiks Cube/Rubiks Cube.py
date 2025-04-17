@@ -50,9 +50,6 @@ def move(n,cube):
         
     return ''.join(b)
 
-def count(s):
-    return len(s.replace('XXX','X').replace('YYY','Y').replace('ZZZ','Z'))
-
 from collections import deque
 
 T=int(input())
@@ -97,9 +94,9 @@ while T:
     cub_start=deque()
     cub_end=deque()
     
-    sol_start[cube]=''
+    sol_start[cube]=0
     cub_start+=cube,
-    sol_end[cube_end]=''
+    sol_end[cube_end]=0
     cub_end+=cube_end,
     
     conti=1
@@ -107,7 +104,7 @@ while T:
     while conti:
         b=cub_start.popleft()
         if b in sol_end:
-            print(count(sol_start[b]+sol_end[b][::-1]))
+            print(sol_start[b]+sol_end[b])
             break
         
         for i in range(6):
@@ -115,11 +112,11 @@ while T:
             for _ in[0]*(1+i//3*2):
                 t=move(i%3,t)
             if t not in sol_start:
-                sol_start[t]=sol_start[b]+'XYZ'[i%3]*(1+i//3*2)
+                sol_start[t]=sol_start[b]+1
                 cub_start+=t,
         e=cub_end.popleft()
         if e in sol_start:
-            print(count(sol_start[e]+sol_end[e][::-1]))
+            print(sol_start[e]+sol_end[e])
             break
         
         for i in range(6):
@@ -127,7 +124,7 @@ while T:
             for _ in[0]*(1+i//3*2):
                 t=move(i%3,t)
             if t not in sol_end:
-                sol_end[t]=sol_end[e]+'XYZ'[i%3]*(3-i//3*2)
+                sol_end[t]=sol_end[e]+1
                 cub_end+=t,
     if T:
         input()
