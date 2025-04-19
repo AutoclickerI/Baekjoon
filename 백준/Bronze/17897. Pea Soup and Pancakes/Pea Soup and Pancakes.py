@@ -1,11 +1,3 @@
-d={}
-z=[]
-for _ in[0]*int(input()):
-    n=int(input())
-    z+=input(),
-    d[z[-1]]=eval('input(),'*n)
-l=[]
-for i in z:
-    if{'pea soup','pancakes'}<={*d[i]}:
-        exit(print(i))
-print('Anywhere is fine I guess')
+n,*a=open(0)
+while a:k=int(a[0]);{"pea soup\n","pancakes\n"}<={*a[2:k+2]}<exit(print(a[1]));a=a[k+2:]
+print("Anywhere is fine I guess")
