@@ -1,4 +1,1 @@
-n=int(input())
-for i in range(1,n,2):print('*'*i+' '*(n-i)*2+'*'*i)
-print('**'*n)
-for i in range(n-2,0,-2):print('*'*i+' '*(n-i)*2+'*'*i)
+for j in range(n:=int(input())):v=2*min(j,n+~j)+1;print('*'*v+'  '*(n-v)+'*'*v)
