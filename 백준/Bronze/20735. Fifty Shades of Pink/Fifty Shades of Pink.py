@@ -1,0 +1,1 @@
+print(sum('pink'in i.lower()or'rose'in i.lower()for i in open(0))or'I must watch Star Wars with my daughter')
