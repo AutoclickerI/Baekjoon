@@ -35,4 +35,16 @@ if task==1:
         z+=1
     print(*l[::-1])
 else:
-    print(-1)
+    po={i*i for i in range(1,101)}
+    *primes,=range(10001)
+    primes[1]=0
+    for i in range(2,10001):
+        if primes[i]:
+            primes[i*2::i]=[0]*len(range(2*i,10001,i))
+    primes={i for i in primes if i}
+    cnt=0
+    polyi=set()
+    for j in po:
+        for i in primes:
+            if i*j<=N:polyi|={i*j+k for k in range(105,N+1,105)if i*j+k<=N}
+    print(len(polyi))
