@@ -19,10 +19,10 @@ int next_move(std::string state){
         return 3;
     if(state=="0602152a070101") // +64 (1 game is here)
         return 1;
-    if(state=="0a06152a070101")
+    if(state=="0a06152a070101") // +128 (1 game is here)
         return 3;
-    if(state=="01010101010101")
-        return 4;
+    if(state=="0a06256a070101")
+        return 1;
     if(state=="01010106010101")
         return 4;
     if(state=="0101011a010101")
