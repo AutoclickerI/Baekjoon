@@ -11,9 +11,9 @@ int next_move(std::string state){
         return 4;
     if(state=="0101012a030101") // +8 (2 games are here)
         return 2;
-    if(state=="0102012a070101")
+    if(state=="0102012a070101") // +8 (1 game is here)
         return 1;
-    if(state=="0101011a010101")
-        return 4;
+    if(state=="0202032a070101")
+        return 3;
     return 0;
 }
