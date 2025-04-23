@@ -35,10 +35,10 @@ int next_move(std::string state){
         return 5;
     if(state=="6256256a1b0d01") // +1
         return 5;
-    if(state=="6256256a6b0d01")
+    if(state=="6256256a6b0d01") // +1
         return 7;
-    if(state=="0101011a010101")
-        return 4;
+    if(state=="6256656a6b0d02")
+        return 7;
     if(state=="01010101010101")
         return 4;
     if(state=="01010106010101")
