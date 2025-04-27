@@ -1,0 +1,5 @@
+_,s,*l=open(0)
+s,e=s.split('*')
+v=len(s)
+x=len(e)
+for i in l:print('NDEA'[v+x<=len(i)!=i[:v]==s>''<i[-x:]==e::2])
