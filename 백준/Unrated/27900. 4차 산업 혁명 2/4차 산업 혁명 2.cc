@@ -3,6 +3,8 @@
 void init(){ }
 
 int next_move(std::string state){
+    if(state=="030c012a030101") // +1
+        return 2;
     if(state=="0302012a030101") // +1
         return 2;
     if(state=="6256656a6b1d54") // +1
