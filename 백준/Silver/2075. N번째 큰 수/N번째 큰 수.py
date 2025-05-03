@@ -1,3 +1,4 @@
-N,*l=int(input()),
-exec('l=sorted(l+input().split(),key=int)[-N:];'*N)
+I=lambda:map(int,input().split())
+[N],*l=I(),
+exec('l=sorted(l+[*I()])[-N:];'*N)
 print(l[0])
