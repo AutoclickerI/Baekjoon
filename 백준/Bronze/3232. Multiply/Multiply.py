@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:p,q,r=s.split();print(min([i for i in range(2,17)if int(max(s))<i and int(p,i)*int(q,i)==int(r,i)]or[0]))
