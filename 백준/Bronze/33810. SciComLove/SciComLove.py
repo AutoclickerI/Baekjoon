@@ -1,1 +1,1 @@
-print(sum(i!=j for i,j in zip('SciComLove',input())))
+print(sum(map(str.__ne__,'SciComLove',input())))
