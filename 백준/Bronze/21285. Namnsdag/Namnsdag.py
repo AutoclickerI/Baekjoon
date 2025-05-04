@@ -1,4 +1,2 @@
-n=len(z:=input())
-c=0
-input()
-while 1:c+=1;len(s:=input())==n and sum(i!=j for i,j in zip(s,z))<2<exit(print(c))
+z,_,*l=open(c:=0)
+for s in l:c+=1;len(s)==len(z)>sum(map(str.__ne__,s,z))<2<exit(print(c))
