@@ -1,2 +1,1 @@
-a,b=open(0)
-print('gn'[a>b]+'o')
+print('gn'[input()>input()]+'o')
