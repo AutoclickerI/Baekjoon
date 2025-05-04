@@ -1,1 +1,1 @@
-print(sum(i!=j for i,j in zip(*[*open(0)][1:])))
+print(sum(map(str.__ne__,*[*open(0)][1:])))
