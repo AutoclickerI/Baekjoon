@@ -1,1 +1,2 @@
-while'$'<(s:=input()):v,w=s.split();w=int(w);p=int(input());exec('x,y=map(int,input().split());p=min(w,p-x+y);'*int(input()));print(v,p)
+I=input
+while'$'<(s:=I()):v,w=s.split();w=int(w);p=int(I());exec('p=min(w,p-eval(I().replace(*" -")));'*int(I()));print(v,p)
