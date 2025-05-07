@@ -1,1 +1,1 @@
-for i in[*open(0)][:-1]:a,b,c,d=map(int,i.split());k=9/2*(b>0)+2*((c>0)+(d>0));print(['no','yes'][a-k<=b*9+(c+d)*4<a+k])
+for i in[*open(0)][:-1]:a,b,c,d=map(int,i.split());k=9/2+2*((c>0)+(d>0));print('nyoe s'[a-k<=b*9+(c+d)*4<a+k::2])
