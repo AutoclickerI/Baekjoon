@@ -1,5 +1,6 @@
 s=1
-while'1'<(i:=input()):
- n,d=map(int,i.split())
- a,b=eval('int(input())or 1e3,'*2);print(f'Scenario {s}');s+=1
- for i in range(d):c,d=map(int,input().split());print(f'Day {i+1} {["OK","ALERT"][c+(c>=a)==n-d+1-(d>=b)]}')
+n,d,*l=map(int,open(0).read().split())
+while n:
+ a,b=eval('l.pop(0)or 1e3,'*2);print('Scenario',s);s+=1
+ for i in range(d):c,d,*l=l;print('Day',i+1,['OK','ALERT'][c+(c>=a)==n-d+(d<b)])
+ n,d,*l=l
