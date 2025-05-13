@@ -1,1 +1,3 @@
-while'#'<(s:=input()):print(end=''.join(f'{v} {v} glued and 'for v in{i for i,j in zip(s,s[1:])if i==j})[:-4])
+while'#'<(s:=input()):
+ f=1
+ for v in{i for i,j in zip(s,s[1:])if i==j}:print(*['and',v,v,'glued'][f:]);f=0
