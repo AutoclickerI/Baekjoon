@@ -1,8 +1,4 @@
 s=input()
-l=[]
-for x in range(len(s)):
-    if s[x]in'aeiou':l+=x+1,
-try:
-    if s[-1]in'aeiouns':print(l[-2])
-    else:print(l[-1])
-except:print(-1)
+o='aeiou'
+a=(s[-1]in'ns'+o)
+print(-(len(l:=[i+1for i in range(len(s))if s[i]in o])<=a)or l[~a])
