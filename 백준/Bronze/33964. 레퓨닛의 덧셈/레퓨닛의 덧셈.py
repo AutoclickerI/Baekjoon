@@ -1,0 +1,1 @@
+print(sum(10**int(i)for i in input()[::2])//9)
