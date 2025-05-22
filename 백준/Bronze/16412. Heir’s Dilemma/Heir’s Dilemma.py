@@ -1,2 +1,2 @@
 s,e=map(int,input().split())
-print(sum(len(i)==len({*i}-{'0'})==sum(int(i)%int(j)<1for j in i)for i in map(str,range(s,e+1))))
+print(sum(len(z:=str(i))==len({*z}-{'0'})==sum(i%int(j)<1for j in z)for i in range(s,e+1)))
