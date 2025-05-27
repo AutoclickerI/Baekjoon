@@ -1,0 +1,1 @@
+print(min([z for i in open(0)if(z:=eval(i.replace(*' +')))>511]or[-1]))
