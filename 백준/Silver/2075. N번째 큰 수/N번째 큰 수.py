@@ -1,4 +1,7 @@
-I=lambda:map(int,input().split())
-[N],*l=I(),
-exec('l=sorted(l+[*I()])[-N:];'*N)
+N=int(input())
+l=[]
+for _ in range(N):
+    l+=map(int,input().split())
+    l.sort()
+    l=l[-N:]
 print(l[0])
