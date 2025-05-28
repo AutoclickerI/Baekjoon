@@ -1,7 +1,3 @@
-N=int(input())
-l=[]
-for _ in range(N):
-    l+=map(int,input().split())
-    l.sort()
-    l=l[-N:]
+N,*l=int(input()),
+exec('l=sorted(l+input().split(),key=int)[-N:];'*N)
 print(l[0])
