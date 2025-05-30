@@ -1,0 +1,1 @@
+while'1'<(s:=input()):n,m,*l=map(int,(s+' '+input()).split());print(max((z:=l[i]+j)*(z<=m)for i in range(n)for j in l[i+1:])or'NONE')
