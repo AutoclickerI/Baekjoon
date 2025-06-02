@@ -1,13 +1,9 @@
-def inv(n):
-    n+=1
-    v=n//3
-    return-6*v+v*(v+1)//2*9-2+n%3*v*3
-
 for i in[*open(0)][1:]:
-    s=0
-    e=10**18+1
+    s=1
+    e=2**60
     while 1<e-s:
         m=s+e>>1
-        if int(i)<inv(m):e=m
+        v=m//3
+        if int(i)<-6*v+v*(v+1)//2*9-2+m%3*v*3:e=m
         else:s=m
-    print(s)
+    print(s-1)
