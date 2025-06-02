@@ -1,3 +1,3 @@
-N,M=sorted(map(int,input().split()))
-f=M-N<1
-print((N-1-f)**2+f)
+N,M=map(int,input().split())
+c=N==M
+print((min(N,M)+~c)**2+c)
