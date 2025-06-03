@@ -1,5 +1,2 @@
-for _ in[0]*int(input()):
-    N,M,L=map(int,input().split())
-    *S,=map(int,input().split())
-    v=max([L]+[M-i for i in S if-1<i])
-    print('The scoreboard has been frozen with',v,'minutes'[:7-(v==1)],'remaining.')
+f=lambda:map(int,input().split())
+for i in range(*f()):n,m,l=f();x=max([l]+[m-i for i in f()if~i]);print(f'The scoreboard has been frozen with {x} minute'+'s'*(x>1),'remaining.')
