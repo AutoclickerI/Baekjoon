@@ -1,9 +1,3 @@
-def p(s):
-    f=0
-    for i in range(len(s)-1):
-        z=s[i]in'aeiou'
-        f|=z
-        if~-z*f:
-            return s[:i]
-a,b=map(p,open(0))
-print(a and b and a+b or'no such exercise')
+import re
+a,b=map(re.match,['.*?[aeiou]+(?=[^aeiou\n])']*2,open(0))
+print(a and b and a.group()+b.group()or'no such exercise')
