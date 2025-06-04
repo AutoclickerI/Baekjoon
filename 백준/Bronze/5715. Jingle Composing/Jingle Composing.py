@@ -1,0 +1,1 @@
+while'*'<(s:=input()):print(sum(2==sum(1/2**'HQESTX'.find(k)for k in j)for j in s.split('/')))
