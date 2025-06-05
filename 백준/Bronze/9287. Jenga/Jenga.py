@@ -1,1 +1,2 @@
-for i in range(int(input())):print(f'Case {i+1}:','SFtaalnldeinn g'[any(['00'in input()for _ in[0]*int(input())])::2])
+_,*l=open(T:=0)
+while l:T+=1;print(f'Case {T}:','SFtaalnldeinn g'[any(['00'in l.pop(0)for _ in[0]*int(l.pop(0))])::2])
