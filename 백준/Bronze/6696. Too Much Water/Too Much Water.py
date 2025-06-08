@@ -1,1 +1,1 @@
-for i in[*open(0)][:-1]:x,y=map(eval,i.split());print('The property will be flooded in hour %d.'%(1+(x*x+y*y)//31.831))
+for i in[*open(0)][:-1]:x,y=map(eval,i.split());print('The property will be flooded in hour %d.'%(1+(x*x+y*y)/31.831))
