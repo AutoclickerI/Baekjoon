@@ -1,7 +1,1 @@
-def f(s):
-    i=0
-    while i*i<len(s):i+=1
-    s+='*'*(i*i-len(s))
-    return''.join(''.join(i[::-1])for i in zip(*zip(*[iter(s)]*i))).replace('*','')
-for _ in[0]*int(input()):
-    print(f(input()))
+for s in[*open(0)][1:]:k=1+int((len(s)-2)**.5);print(''.join(s[i:-1:k][::-1]for i in range(k)))
