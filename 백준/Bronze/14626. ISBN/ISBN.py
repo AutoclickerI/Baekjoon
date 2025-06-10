@@ -1,2 +1,4 @@
-f=input().replace
-for i in range(10):s=f('*',str(i));sum(map(int,s+s[1::2]*2))%10<1<exit(print(i))
+*s,=input()
+k=s.index('*')
+s[k]=0
+print(sum(map(int,2*s[1::2]+s))*(k%2*4-1)%10)
