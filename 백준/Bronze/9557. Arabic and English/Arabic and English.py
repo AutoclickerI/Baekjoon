@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:s=s.split();z=s.index(v:=max(s));print(*[s,[*s[z+1:],s[z],*s[:z]]]['`'<v])
