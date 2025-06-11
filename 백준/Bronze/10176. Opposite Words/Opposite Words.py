@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:print('YNeos'[sum(('@'<c<'[')*(77.5-ord(c))for c in i.upper())!=0::2])
+for i in[*open(0)][1:]:print('YNeos'[sum((c.isalpha())*(ord(c)%32-13.5)for c in i)!=0::2])
