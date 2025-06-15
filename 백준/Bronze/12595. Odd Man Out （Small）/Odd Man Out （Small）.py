@@ -1,0 +1,1 @@
+for i in[*open(T:=0)][2::2]:T+=1;print(f'Case #{T}:',eval(i.replace(*' ^')))
