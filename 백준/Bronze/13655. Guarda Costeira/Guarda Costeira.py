@@ -1,1 +1,1 @@
-for i in open(0):d,f,g=map(int,i.split());print('SN'[144*g*g<(d*d+144)*f*f])
+for i in open(0):d,f,g=map(int,i.split());print('SN'[12*g/f<abs(d+12j)])
