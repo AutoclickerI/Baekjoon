@@ -1,1 +1,1 @@
-while'1'<(s:=input()):a,b=map(int,s.split());print(*max((sum(i%~j==0for j in range(i)),i)for i in range(a,b+1))[::-1])
+while'1'<(s:=input()):print(*max((sum(i%~j==0for j in range(i)),i)for i in range(*eval(s.replace(' ',',1+'))))[::-1])
