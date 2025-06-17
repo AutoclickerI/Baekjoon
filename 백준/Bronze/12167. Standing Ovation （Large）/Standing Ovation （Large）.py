@@ -1,1 +1,1 @@
-for x in open(T:=0).read().split()[2::2]:s=m=0;T+=1;print(f'Case #{T}:',sum(m:=max(s:=s-m-int(v)+1,0)for v in x))
+for x in[*open(T:=0)][1:]:s=m=0;T+=1;print(f'Case #{T}:',sum(m:=max(s:=s-m-int(v)+1,0)for v in x.split()[1]))
