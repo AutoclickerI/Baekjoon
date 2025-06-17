@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print(+(int(i)**.5%1==0))
