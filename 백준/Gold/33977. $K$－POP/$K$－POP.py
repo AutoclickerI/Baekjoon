@@ -4,8 +4,4 @@ for i in range(1,K+1):
 s=K//m
 i=1
 print(m+s)
-for _ in range(m-s+1):
-    print(i,i:=i+1)
-for _ in range(s-1):
-    print(i,i+1)
-    print(i,i:=i+2)
+for v in range(m):print(i,i:=i+1)!=m-s<v!=print(i-1,i:=i+1)
