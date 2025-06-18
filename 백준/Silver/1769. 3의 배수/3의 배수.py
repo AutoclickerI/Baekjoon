@@ -1,4 +1,8 @@
-k=input()
+s=input()
 i=0
-while k[1:]:k=str(sum(map(int,k)));i+=1
-print(i,'NYOE S'[k in'369'::2])
+while 1<len(s):
+    i+=1
+    s=str(sum(map(int,s)))
+print(i)
+if s in'369':print('YES')
+else:print('NO')
