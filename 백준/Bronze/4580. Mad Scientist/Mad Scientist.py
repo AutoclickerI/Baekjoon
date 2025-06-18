@@ -1,1 +1,1 @@
-while'0'<(i:=input()):p=k=0;print(*sum([[k:=k+1]*-(p-(p:=int(j)))for j in i.split()[1:]],[]))
+while l:=input().split()[1:]:z=p=0;print(*sum([-(p-(p:=int(i)))*[z:=z+1]for i in l],[]))
