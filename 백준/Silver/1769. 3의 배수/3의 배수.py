@@ -1,8 +1,4 @@
-s=input()
+k=int(input())
 i=0
-while 1<len(s):
-    i+=1
-    s=str(sum(map(int,s)))
-print(i)
-if s in'369':print('YES')
-else:print('NO')
+while 9<k:k=sum(map(int,str(k)));i+=1
+print(i,'YNEOS'[0<k%3::2])
