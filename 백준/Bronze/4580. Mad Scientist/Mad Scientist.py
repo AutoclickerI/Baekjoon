@@ -1,0 +1,1 @@
+while l:=[*map(int,input().split())][1:]:z=0;print(*sum([(j-i)*[z:=z+1]for i,j in zip([0]+l,l)],[]))
