@@ -1,0 +1,1 @@
+while'#'<(s:=input()):print(([t for i in range(len(s))if(t:=s[:i]+s[i+1:])==t[::-1]]or['not possible'])[0])
