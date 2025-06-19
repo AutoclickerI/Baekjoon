@@ -1,2 +1,2 @@
-f=lambda:sorted(map(int,input().split()))
-for i in range(*f()):x,y,z=a=f();b=f();print('NYOE S'[x*x+y*y==z*z!=a==b::2])
+_,*l=[sorted(map(int,i.split()))for i in open(0)]
+while l:a,b,*l=l;x,y,z=a;print('NYOE S'[x*x+y*y==z*z!=a==b::2])
