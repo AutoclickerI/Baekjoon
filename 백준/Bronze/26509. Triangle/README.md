@@ -12,13 +12,13 @@
 
 ### 제출 일자
 
-2025년 6월 19일 13:07:38
+2025년 6월 19일 13:09:10
 
 ### 문제 설명
 
 <p>Determine if it is possible to produce two triangles of given side lengths, by cutting some rectangle with a single line segment, and freely rotating and flipping the resulting pieces.</p>
 
-<p style="text-align: center;"><img alt="" src="" style="width: 114px; height: 108px;"></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/ed8e2713-87a0-4141-89e8-51ac7c81a7a8/-/preview/" style="width: 114px; height: 108px;"></p>
 
 <p>Hint: The Pythagorean Theorem states that for any right triangle a<sup>2</sup>+b<sup>2</sup>=c<sup>2</sup>, where c is the length of the hypotenuse and a and b are the lengths of the remaining sides.</p>
 
