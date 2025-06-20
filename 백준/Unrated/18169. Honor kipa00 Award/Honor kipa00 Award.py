@@ -1,1 +1,1 @@
-print([*'875249',12][ord(input())%13])
+print(b'H?-$Ql'[ord(input())-65]//9)
