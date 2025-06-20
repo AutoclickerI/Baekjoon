@@ -1,6 +1,6 @@
-(_,k),*l=map(str.split,open(0))
+i,*l=map(str.split,open(0))
 x=1
-k=int(k)
+k=int(i[1])
 for f,s in l:
  f=int(f)
  if'C'<s:x=max(x,f)
