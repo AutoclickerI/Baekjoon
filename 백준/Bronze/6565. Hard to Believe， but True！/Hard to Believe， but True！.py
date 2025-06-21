@@ -1,1 +1,1 @@
-for i in open(0):a,b=i[::-1].split('=');print(int(a)==sum(map(int,b.split('+'))))
+for i in open(0):a,b,c=map(int,i[::-1].replace(*'+=').split('='));print(a==b+c)
