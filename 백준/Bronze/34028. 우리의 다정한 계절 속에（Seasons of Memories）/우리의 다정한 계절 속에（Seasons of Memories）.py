@@ -1,2 +1,2 @@
-a,b,c=map(int,input().split())
-print(a*4+b//3-8059)
+s=input()
+print(4*int(s[:4])+int(s[5:7])//3-8059)
