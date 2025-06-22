@@ -1,15 +1,7 @@
 q,s=input().split()
-if q=='E':
-    l=[]
-    p=c=[]
-    for i in s:
-        if i==p:
-            c[-1]+=1
-        else:
-            c+=1,
-            l+=i,
-        p=i
-    for i,j in zip(l,c):print(end=i+str(j))
-else:
-    for i,j in zip(*[iter(s)]*2):print(end=i*int(j))
-        
+l=[]
+p=c=[]
+for i in s:
+ if p==(p:=i):c[-1]+=1
+ else:c+=1,;l+=i,
+for i,j in zip(*[[iter(s)]*2,(l,c)][f:='D'<q]):print(end=[i*int(j),i+str(j)][f])
