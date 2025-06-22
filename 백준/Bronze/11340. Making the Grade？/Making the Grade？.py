@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:a,b,c=map(int,i.split());t=(1807-a*3-b*4-c*5)//8;print([t,'impossible'][t>100])
+for i in[*open(0)][1:]:a,b,c=map(int,i.split());print([t:=1807-a*3-b*4-c*5>>3,'impossible'][t>100])
