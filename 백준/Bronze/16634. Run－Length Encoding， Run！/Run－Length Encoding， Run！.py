@@ -1,5 +1,4 @@
-q,s=input().split()
-l=[]
+q,s,*l=input().split()
 p=c=[]
 for i in s:
  if p==(p:=i):c[-1]+=1
