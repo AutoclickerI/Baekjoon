@@ -1,7 +1,1 @@
-for i in[*open(0)][1:]:
-    p,q,r,s=map(int,i.split())
-    d=abs(r-s)
-    if r==s:print('G')
-    elif p>=d<=q:print('E')
-    elif d<=q:print('R')
-    else:print('L')
+for i in[*open(0)][1:]:l,r,a,b=map(int,i.split());print('EGLR'[((s:=abs(a-b))<1)+(r<s<=l)*2-(l<s<=r)])
