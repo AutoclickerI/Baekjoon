@@ -1,0 +1,1 @@
+for i in open(0):d=int(i[:2]);d==0<exit();t=('Au'in i)*d;print([[['Yes','Happy birthday'][t==4],'No']['er'*(t<5)in i],'Unlucky']['29 F'in i])
