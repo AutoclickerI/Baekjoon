@@ -1,1 +1,1 @@
-for i in open(0):d=int(i[:2]);d<1<exit();t=('g'in i)*d;print([[['Yes','Happy birthday'][t==4],'No']['er'*(t<5)in i],'Unlucky']['29 F'in i])
+while'1'<(i:=input()):t=('g'in i)*int(i[:2]);print([[['Yes','Happy birthday'][t==4],'No']['er'*(t<5)in i],'Unlucky']['29 F'in i])
