@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:y,m,d=map(int,i.split());print(196471-(118*~-y//3*5-(y%3>0)*~-m//2+~-m*20+d))
+for i in[*open(0)][1:]:y,m,d=map(int,i.split());print(196471-(118*~-y//3*5+40*~-m//2-(y%3>0)*~-m//2+d))
