@@ -1,6 +1,4 @@
-N,M=map(int,input().split())
-s=input().split()
-t=input().split()
-for _ in[0]*int(input()):
-    n=int(input())-1
-    print(s[n%N]+t[n%M])
+i,s,t,_,*l=open(0)
+N,M=map(int,i.split())
+s,t=s.split(),t.split()
+for i in l:i=int(i)-1;print(s[i%N]+t[i%M])
