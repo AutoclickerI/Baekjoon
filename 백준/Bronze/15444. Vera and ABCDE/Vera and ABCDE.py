@@ -1,3 +1,2 @@
-l=[[f'{ord(i):b}'.translate({49:42,48:46})[j*3:-~j*3]for j in(0,1,2,3,4)]for i in'篭篯礧筯秧']
 input()
-for i in zip(*[l[ord(i)-65]for i in input()]):print(*i,sep='')
+for i in zip(*[[[f'{i:015b}'.translate({48:42,49:46})for i in[352,320,462,448,330]][ord(i)-65][j::5]for j in range(5)]for i in input()]):print(*i,sep='')
