@@ -1,1 +1,1 @@
-print(*max([*map(int,[a,b,c]),l]for a,b,c,*l in[*map(str.split,open(0))][1:])[3])
+print(*max([*map(int,(v:=i.split())[:3]),*v]for i in open(0))[6:])
