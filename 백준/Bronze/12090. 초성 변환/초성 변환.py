@@ -1,0 +1,1 @@
+for c in input():t=ord(c)-44032;i=t%28;j=t//588;print(end=chr(12593+j+(1<j)+2*(2<j)+7*(5<j)+(8<j)))
