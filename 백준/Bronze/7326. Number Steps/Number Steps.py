@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:x,y=map(int,i.split());print('No Number'*(2!=x-y!=0)or(x&-2)+y)
