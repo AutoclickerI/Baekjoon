@@ -1,8 +1,3 @@
-f=[0,0]
-[N],*l=[[*map(int,i.split())]for i in open(0)]
-for y in range(N):
-    for x in range(N):
-        f[y+x&1]|=l[y][x]==1
-        if l[y][x]==2:z=y+x&1
-if f[z]<1:print('Lena')
-else:print('Kiriya')
+n,*l=map(int,open(0).read().split())
+i=l.index(2)
+print('KLierniay a'[all(~l[j]%2+(i//n+i%n^j//n+j%n)%2for j in range(n*n))::2])
