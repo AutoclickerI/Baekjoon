@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:n,k=map(int,i.split());k=min(n,k);print(2*~k*(k-2*n))
