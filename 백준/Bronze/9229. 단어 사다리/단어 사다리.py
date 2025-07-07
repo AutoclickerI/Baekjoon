@@ -1,1 +1,5 @@
-for s in open(0).read().split('#')[:-2]:v=s.split();print(('Inc','C')[all(1==sum(map(str.__ne__,i,j))*(len(i)==len(j))for i,j in zip(v,v[1:]))]+'orrect')
+while 1:
+ a=[]
+ while(i:=input())>'#':a+=i,
+ a or exit()
+ print(('C','Inc')[any(len(b)!=len(c)or 1!=len({*b}-{*c})for b,c in zip(a,a[1:]))]+'orrect')
