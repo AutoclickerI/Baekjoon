@@ -1,19 +1,8 @@
-_,s,i=open(0)
-U,D=map(int,i.split())
-
-u,d,b=map(s.count,'123')
-
-s=s.translate({49:85,50:68})
-
-s=s.split()
-
-if U<u or D<d:
-    print('NO')
-else:
-    print('YES')
-    c=U-u
-    i=0
-    while c:
-        if s[i]=='3':s[i]='U';c-=1
-        i+=1
-    print(''.join(s).replace(*'3D'))
+n,*a,u,d=map(int,open(0).read().split())
+for i in range(n):
+ x=a[i]
+ if x<3:a[i]=' UD'[x];u-=x<2;d-=x>1
+if(u<0)|(d<0):exit(print('NO'))
+for i in range(n):
+ if a[i]==3:a[i]='DU'[u>0];u-=u>0
+print('YES\n'+''.join(a))
