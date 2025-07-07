@@ -1,0 +1,1 @@
+print(min(eval(input().replace(' ','*2-1,2*')))-1)
