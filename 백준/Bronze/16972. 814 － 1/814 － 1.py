@@ -23,4 +23,4 @@ def trifill(v):
 
 *z,(p,q)=trifill(625)[:814]
 for x,y in z:print(x-8140,y-8140)
-print(p-8140,q-8141)
+print(p-8141,q-8140)
