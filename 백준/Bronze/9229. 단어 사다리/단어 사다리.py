@@ -1,0 +1,1 @@
+for s in open(0).read().split('#')[:-2]:v=s.split();print(('Inc','C')[all(1==sum(map(str.__ne__,i,j))*(len(i)==len(j))for i,j in zip(v,v[1:]))]+'orrect')
