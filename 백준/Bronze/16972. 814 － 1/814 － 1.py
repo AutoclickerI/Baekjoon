@@ -21,6 +21,6 @@ def trifill(v):
         f^=1
     return l
 
-*z,(p,q)=trifill(625)[:814]
+*z,(p,q)=trifill(626)[:814]
 for x,y in z:print(x-8140,y-8140)
 print(p-8141,q-8140)
