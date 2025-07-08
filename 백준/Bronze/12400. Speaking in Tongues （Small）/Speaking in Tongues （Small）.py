@@ -1,0 +1,1 @@
+for s in[*open(T:=0)][1:]:T+=1;print(f'Case #{T}: ',end=s.translate({i+97:j for i,j in zip(range(26),b'yhesocvxduiglbkrztnwjpfmaq')}))
