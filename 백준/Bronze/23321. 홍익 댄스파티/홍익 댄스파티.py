@@ -1,0 +1,1 @@
+for i in zip(*('o..w.olomnLl.nn'[ord(i)%3::3]for i in[*open(0)][1][:-1])):print(*i,sep='')
