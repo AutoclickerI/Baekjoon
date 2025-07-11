@@ -1,0 +1,1 @@
+while n:=int(input()):f=-1;print(*sum(zip(*[v[::(f:=-f)]for v in zip(*[iter(input())]*n)]),()),sep='')
