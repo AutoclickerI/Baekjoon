@@ -1,1 +1,1 @@
-for*s,c,_ in[*open(0,'rb')][:-1]:print(''.join(chr([i,(i-c-(z:=i//97*32))%26+65+z][64<i])for i in s))
+for*s,c,_ in open(0,'rb'):print(''.join(chr(i*(i<65)or(i-c-(z:=i//97*32))%26+65+z)for i in s))
