@@ -1,1 +1,1 @@
-for*s,c,_ in[*open(0)][:-1]:print(''.join([i,chr((ord(i)-ord(c)-32*i.islower())%26+65+32*(i.islower()))]['@'<i]for i in s))
+for*s,c,_ in[*open(0,'rb')][:-1]:print(''.join(chr([i,(i-c-i//97*32)%26+65+i//97*32][i//65])for i in s))
