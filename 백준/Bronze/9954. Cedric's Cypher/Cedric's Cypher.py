@@ -1,0 +1,1 @@
+for*s,c,_ in[*open(0)][:-1]:print(''.join([i,chr((ord(i)-ord(c)-32*i.islower())%26+65+32*(i.islower()))]['@'<i]for i in s))
