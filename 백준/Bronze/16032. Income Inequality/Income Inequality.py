@@ -1,0 +1,1 @@
+for i in[*open(0)][1::2]:*l,=map(int,i.split());print(sum(i*len(l)<=sum(l)for i in l))
