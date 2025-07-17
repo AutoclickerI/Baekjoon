@@ -1,2 +1,2 @@
 from math import*
-for i in[*open(0)][:-1]:a,b=map(int,i.split());print(lcm(a,b)//gcd(a,b))
+while'1'<(i:=input()):*l,=map(int,i.split());print(lcm(*l)//gcd(*l))
