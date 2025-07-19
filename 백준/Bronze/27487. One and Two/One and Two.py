@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:f=str.count;print(-[*[-k//2for k in range(2,len(s))if f(s[:k],'2')==f(s[k:],'2')],1][0])
