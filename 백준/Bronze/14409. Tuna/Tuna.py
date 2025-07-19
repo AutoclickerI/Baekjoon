@@ -1,6 +1,3 @@
 n,x,*A=map(int,open(t:=0).read().split())
-while A:
- a,b,*A=A
- if x<abs(a-b):t+=A.pop(0)
- else:t+=max(a,b)
+while A:a,b,*A=A;t+=max(a,b)*(abs(a-b)<=x)or A.pop(0)
 print(t)
