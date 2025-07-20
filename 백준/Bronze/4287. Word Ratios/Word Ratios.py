@@ -1,1 +1,1 @@
-while'#'<(s:=input()):print(s,''.join(chr((ord(z)+ord(y)-ord(x)+7)%26+97)for x,y,z in zip(*s.split())))
+while'#'<(s:=input()):print(s,''.join(chr((z+y-x+7)%26+97)for x,y,z in zip(*(b'%a'%s)[1:].split())))
