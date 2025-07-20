@@ -1,1 +1,1 @@
-while c:=input().split()[:-1]:o=len(c)-2*sum(s=='A'or int(s)%2for s in c);print('Cheryl'*(o<0)or'TDarnaiwa'[o<1::2])
+while c:=input().split()[:-1]:o=len(c)-2*sum(ord(s)%2for*_,s in c);print('Cheryl'*(o<0)or'TDarnaiwa'[o<1::2])
