@@ -1,0 +1,1 @@
+for i in[*open(T:=0)][1::2]:T+=1;*A,=map(int,i.split());x=sum(A)//len(A);print(f'Set #{T} The minimum number of moves is {sum(abs(a-x)for a in A)//2}.\n')
