@@ -1,2 +1,2 @@
-_,s=open(0)
-print(sum((ord(s[i])-96)*31**i for i in range(len(s)-1))%1234567891)
+for c in[*open(v:=0,'rb')][1][-2::-1]:v=c%32+31*v
+print(v%1234567891)
