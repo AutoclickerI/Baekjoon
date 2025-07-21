@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:a,b,c,d=i.split();print(f"${round(eval(a)*(20-(c=='C'))*(20-(' WOYB G  R'.find(b)))/400,2-(d=='C')):.2f}")
