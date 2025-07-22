@@ -1,4 +1,1 @@
-for T in range(int(input())):
-    s=input()
-    c=s[-1].lower()
-    print(f'Case #{T+1}: {s} is ruled by {"nobody"if c=="y"else"a queen"if c in"aeiou"else"a king"}.')
+for i in[*open(c:=0)][1:]:c+=1;print(f"Case #{c}: {i}is ruled by {[['a king','a queen'][i[-2].lower()in'aeiou'],'nobody'][i[-2]in'yY']}.")
