@@ -1,0 +1,1 @@
+for i in[*open(0)][2::2]:*A,=map(int,i.split());print(sum((j<=A[i])for i in range(len(A))for j in A[:i]))
