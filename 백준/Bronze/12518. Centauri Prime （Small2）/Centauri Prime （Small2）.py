@@ -1,1 +1,1 @@
-for i in[*open(c:=0)][1:]:c+=1;print(f"Case #{c}: {i}is ruled by {[['a king','a queen'][i[-2].lower()in'aeiou'],'nobody'][i[-2]in'yY']}.")
+for i in[*open(c:=0)][1:]:c+=1;print(f"Case #{c}: {i}is ruled by {[['a king','a queen'][i[-2]in'AaEeIiOoUu'],'nobody'][i[-2]in'yY']}.")
