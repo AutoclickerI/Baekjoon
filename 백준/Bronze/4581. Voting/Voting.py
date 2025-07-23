@@ -1,0 +1,1 @@
+while'#'<(s:=input()):y,n,a=map(s.count,'YNA');print((len(s)<=a*2)*'need quorum'or'ytneiose'[(y<=n)+(y<n)::3])
