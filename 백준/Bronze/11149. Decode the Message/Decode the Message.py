@@ -1,0 +1,1 @@
+for i in[*open(0,'rb')][1:]:print(''.join('abcdefghijklmnopqrstuvwxyz '[(sum(c)-len(c)*97)%27]for c in i.split()))
