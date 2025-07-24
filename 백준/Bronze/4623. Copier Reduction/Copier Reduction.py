@@ -1,0 +1,1 @@
+for i in[*open(0)][:-1]:a,b,c,d=map(int,i.split());print('%d%%'%(min(1,max(min(c/a,d/b),min(c/b,d/a)))*100))
