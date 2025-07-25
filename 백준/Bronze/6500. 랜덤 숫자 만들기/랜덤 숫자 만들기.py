@@ -1,4 +1,4 @@
-while a:=int(input()):
- s={a}
- while{a:=a*a//100%10000}-s:s|={a}
+while n:=int(input()):
+ s={n}
+ while{n:=n*n//100%1e4}-s:s|={n}
  print(len(s))
