@@ -1,3 +1,1 @@
-l=[2]
-for i in[0]*15:l+=[l[-1]*2-1]
-print(l[int(input())]**2)
+print((1<<int(input())|1)**2)
