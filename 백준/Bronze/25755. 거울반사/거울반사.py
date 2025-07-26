@@ -1,9 +1,3 @@
-[w,*_],*l=[i.translate(str.maketrans('2534679','52?????')).split()for i in open(0)]
-
-if w in'UD':
-    l=l[::-1]
-else:
-    l=[i[::-1]for i in l]
-
-for i in l:
-    print(*i)
+(w,*_),*y=open(0)
+d=w in'UD'
+print(*['015??2??8?'[int(e)]for*l,_ in y[::-d|1]for e in l[::d*4-2]])
