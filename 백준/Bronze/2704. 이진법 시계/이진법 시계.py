@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:h,m,s=map(lambda x:f'{int(x):06b}',i.split(':'));print(''.join(sum(zip(h,m,s),())),h+m+s)
