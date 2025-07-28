@@ -1,0 +1,1 @@
+for s in[*open(0)][2::2]:a=s.find('-');print('YNEOS'[0<a*('0'<max(s[a+2:]))::2])
