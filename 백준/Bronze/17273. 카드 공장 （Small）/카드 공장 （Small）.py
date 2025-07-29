@@ -1,4 +1,4 @@
-_,_,v,w,*l=map(int,open(0).read().split())
-for i in l:
- if v<=i:v,w=w,v
-print(v)
+l=open(0).read().split()
+f=2
+for i in l[4:]:f^=int(l[f])<=int(i)
+print(l[f])
