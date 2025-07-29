@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:A=[20*sum(i*i+j*j<=~k*~k*9for k in range(5))for i,j in zip(*[map(eval,i.split())]*2)];y=sum(A[3:]);print('SCORE:',x:=sum(A[:3]),f'to {y},',[f'PLAYER {1+(x<y)} WINS.','TIE.'][x==y])
