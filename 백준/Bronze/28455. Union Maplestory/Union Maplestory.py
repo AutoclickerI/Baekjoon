@@ -1,1 +1,1 @@
-print(sum(l:=sorted([*map(int,open(0))][1:])[-42:]),sum(i>ord(j)for j in';c\x8bÇù'for i in l))
+print(sum(l:=sorted([*map(int,open(0))][1:])[-42:]),sum(j<=i//10for j in b'\n'for i in l))
