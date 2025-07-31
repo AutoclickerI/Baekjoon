@@ -1,5 +1,2 @@
-N=int(input())
-for i in range(N):
-    if i in[0,N-1]:s=['*']*N
-    else:s=[' ']*N;s[0]=s[-1]=s[i]=s[~i]='*'
-    print(*s,sep='')
+r=range(n:=int(input()))
+for x in r:print(''.join('* '[not{0,n-1}&{x,y,y+x,x-y}]for y in r))
