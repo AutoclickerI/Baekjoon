@@ -1,5 +1,1 @@
-for i in[*open(T:=0)][2::2]:
-    T+=1
-    a=''
-    for s in zip(*[iter(i)]*8):a+=chr(int(''.join(s).replace('O','0').replace('I','1'),2))
-    print(f'Case #{T}:',a)
+for i in[*open(T:=0)][2::2]:T+=1;print(f'Case #{T}:',int(i.translate({79:48,73:49}),2).to_bytes(len(i)>>3).decode())
