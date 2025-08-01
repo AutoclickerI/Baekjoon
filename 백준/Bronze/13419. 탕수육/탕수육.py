@@ -1,0 +1,1 @@
+exec('s=input();s*=len(s)%2+1;print(s[::2],s[1::2]);'*int(input()))
