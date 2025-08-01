@@ -1,19 +1,18 @@
-N,K=map(int,input().split())
-*A,=map(int,input().split())
+N,K,*A=map(int,open(0).read().split())
 
-def modify(p,v):
+def f(v):
     global K
     K-=1
-    A[p]=v
+    A[p+1]=v
     K<1<exit(print(*A))
 
 for i in range(1,N):
-    loc=i-1
+    p=i-1
     n=A[i]
-    while 0<=loc and n<A[loc]:
-        modify(loc+1,A[loc])
-        loc-=1
-    if loc+1!=i:
-        modify(loc+1,n)
+    while 0<=p and n<A[p]:
+        f(A[p])
+        p-=1
+    if p+1!=i:
+        f(n)
 
 print(-1)
