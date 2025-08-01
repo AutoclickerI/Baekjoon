@@ -1,0 +1,1 @@
+while'0'<(s:=input()):n,p=map(int,s.split());a=p-1^1;print(*sorted([a+1,n+1-p,n-a]))
