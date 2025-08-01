@@ -1,8 +1,2 @@
-r=lambda:range(int(input()))
-g=lambda:map(int,input().split())
-for _ in r():
-    r();s,l={*g()},[]
-    for N in r():
-        x,y,z=g()
-        if(x in s)*(0<=y<6or(y==6 and z==0)):l+=[[y*60+z,x]]
-    print(min(l)[1],len(l))
+_,*l=[map(int,i.split())for i in open(0)]
+while l:_,s,[n],*l=l;s={*s};z=[(y*60+z,x)for x,y,z in l[:n]if(x in s)*(0<=y<6or(z<1<6==y))];print(min(z)[1],len(z));l=l[n:]
