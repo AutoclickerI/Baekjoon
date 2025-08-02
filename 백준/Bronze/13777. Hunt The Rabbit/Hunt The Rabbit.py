@@ -1,6 +1,3 @@
 while'0'<(m:=input()):
- n=int(m);l,r,*s=1,50
- while m!=n:
-  print(m:=l+r>>1)
-  if m<n:l=m+1
-  else:r=m-1
+ n,l,*s=int(m),[1,50]
+ while m!=n:print(m:=sum(l)>>1);f=n<m;l[f]=m+(-f|1)
