@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:n=-~len(i)//3;s=i[:n];r=s[::-1];print(int(i[n:-1]in(r+s,r[1:]+s,r+s[1:],r[1:]+s[1:])))
