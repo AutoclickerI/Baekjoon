@@ -1,15 +1,4 @@
-N = int(input())
-cur = 1
-
-while True:
-    if N < cur:
-        ans = cur - N
-        break
-    N -= cur
-    cur += 1
-    if N < cur:
-        ans = 0
-        break
-    N -= cur
-    cur += 1
-print(ans)
+n=int(input())
+a=0
+while~n<0:a+=1;n-=a
+print(a%2*-n)
