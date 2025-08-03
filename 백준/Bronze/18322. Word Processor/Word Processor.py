@@ -1,2 +1,2 @@
-_,K,*l=map(int,input().split())
-for i in*input().split(),'_'*99:l=[l,[]][K<sum(map(len,l+[i]))!=print(*l)]+[i]
+K,s,*l=open(0)
+for i in*s.split(),'_'*99:l=[z:=l+[i],[i]][int(K[-3:])<sum(map(len,z))!=print(*l)]
