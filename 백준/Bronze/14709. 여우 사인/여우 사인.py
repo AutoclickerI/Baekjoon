@@ -1,0 +1,1 @@
+print('W'+['oof-meow-tweet-squeek','a-p'*6+'ow!'][[*map(open(0).read().count,'23')]==[0,3]])
