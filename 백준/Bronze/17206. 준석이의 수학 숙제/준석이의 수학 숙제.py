@@ -1,3 +1,2 @@
-d=[i:=0]
-while i<9e4:d+=d[i]+(i%3*i%7<1)*i,;i+=1
-for n in[*open(0)][1].split():print(d[int(n)+1])
+f=lambda v:n//v*(n//v+1)//2*v
+for n in[*open(0)][1].split():n=int(n);print(f(3)+f(7)-f(21))
