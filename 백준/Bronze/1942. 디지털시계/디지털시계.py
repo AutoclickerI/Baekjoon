@@ -1,0 +1,1 @@
+for s in open(0):a,b=map(lambda x:int(x[:2])*3600+int(x[3:5])*60+int(x[6:]),s.split());print(sum((i+i//60+i//3600)%3<1for i in range(a,86400*(a>b)-~b)))
