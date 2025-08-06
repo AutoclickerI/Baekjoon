@@ -1,0 +1,1 @@
+print(sum(abs(c//4-i//5)+abs(c%4-i%5)for i,x in enumerate(open(0).read())if(c:=ord(x)-65)>=0))
