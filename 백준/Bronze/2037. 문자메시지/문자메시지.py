@@ -1,4 +1,4 @@
 p,w=map(int,input().split())
 t=q=0
-for a in input():b=ord(a)-8-('R'<a)-('Y'<a);e=b%3-~(a in'SZ');t+=p*e+w*(q==b//3)*(8<q);q=b//3
+for a in input():b=ord(a)-5-('R'<a)-('Y'<a);t+=p*(b%3-~(a in'SZ'))+w*(q==(q:=b//3)>9)
 print(t)
