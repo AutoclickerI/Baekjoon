@@ -1,1 +1,1 @@
-while'#'<(s:=input()):print({*s}-{*'bdpqiovwx'}and'INVALID'or s.translate(s.maketrans('bdpq','dbqp'))[::-1])
+while'#'<(s:=input()):print({*s}-{*'bdpqiovwx'}and'INVALID'or s.translate(dict(zip(b'bdpq',b'dbqp')))[::-1])
