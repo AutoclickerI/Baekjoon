@@ -1,1 +1,2 @@
-print(input().translate(str.maketrans('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz','NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm')))
+from codecs import*
+print(encode(input(),'rot13'))
