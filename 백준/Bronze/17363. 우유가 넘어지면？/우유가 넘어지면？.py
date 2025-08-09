@@ -1,2 +1,1 @@
-_,*l=open(0)
-for i in[*zip(*[s.translate(str.maketrans('-|/\^<v>','|-\/<v>^'))[:-1]for s in l])][::-1]:print(*i,sep='')
+for i in zip(*[i[-2::-1].translate(dict(zip(b'-|/\^<v>',b'|-\/<v>^')))for i in open(0)][1:]):print(*i,sep='')
