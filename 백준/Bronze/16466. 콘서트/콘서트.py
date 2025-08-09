@@ -1,8 +1,3 @@
-N = int(input())
-nums = sorted(map(int, input().split()))
-ticket = N + 1
-for i in range(N):
-    if nums[i] != i + 1:
-        ticket = i + 1
-        break
-print(ticket)
+s={*[*open(0)][i:=1].split()}
+while str(i)in s:i+=1
+print(i)
