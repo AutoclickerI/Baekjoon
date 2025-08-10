@@ -1,4 +1,1 @@
-for i in[*open(0)][1:]:
- N,K=map(int,i.split());R=range(1,N+1)
- if K<2:R=3//N*[-1]or[*R[1::2],*R[::2]]
- print(*R)
+for i in[*open(0)][1:]:N,K=map(int,i.split());print(*[R:=range(1,N+1),3//N*[-1]or[*R[1::2],*R[::2]]][K<2])
