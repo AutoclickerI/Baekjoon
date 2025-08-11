@@ -1,0 +1,1 @@
+print(*map(sum,zip(*[[int(y)*(x.count(y)<2)for y in x]for x in zip(*[*map(str.split,open(0))][1:])])))
