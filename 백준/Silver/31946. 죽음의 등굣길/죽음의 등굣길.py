@@ -1,7 +1,6 @@
 k='DEAD'
 n,m,*l,x=map(int,open(0).read().split())
-q=[0]
-c=l[0]
+c,*q=l[0],0
 for i in q:
  if-~i==n*m:k='ALIVE'
  for j in range(n*m):
