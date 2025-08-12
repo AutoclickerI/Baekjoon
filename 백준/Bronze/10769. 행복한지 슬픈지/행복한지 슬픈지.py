@@ -1,6 +1,2 @@
 h,s=map(input().count,(':-)',':-('))
-if h+s:
-    if s<h:print('happy')
-    elif h<s:print('sad')
-    else:print('unsure')
-else:print('none')
+print('nuhsonaanspdeup  ry  e'[(0<h|s)+(h!=s)+(h<s)::4])
