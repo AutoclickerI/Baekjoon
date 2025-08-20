@@ -1,3 +1,2 @@
-p,q,r=map(eval,open(0))
-n=p*q*r
-print(n/r/r,n/q/q,n/p/p)
+x,y,z=map(eval,open(0))
+print(x*y/z,x*z/y,y*z/x)
