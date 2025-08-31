@@ -1,2 +1,1 @@
-a,b=sorted(map(int,input().split()))
-print('1'*(b-a)+'2'*a)
+print(sum(10**int('0'+i)for i in input())//9)
