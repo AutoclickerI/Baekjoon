@@ -1,0 +1,1 @@
+print('FDCBAA'[max(eval(input().replace(*' +')+'*2')//40-5,0)])
