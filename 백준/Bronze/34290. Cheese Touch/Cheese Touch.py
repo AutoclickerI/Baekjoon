@@ -1,3 +1,3 @@
-p,t,*m=map(int,input().split())
-for i in input().split('W'):t-=({*i}=={'H'})*1e9;s,*l,e=[*map(len,i.split('I'))]*2;m+=s,e,*[j+1>>1for j in l]
-print(['CURED','ALL INFECTED'][max(m)*p<t])
+import re
+p,t=map(int,input().split())
+print(['ALL INFECTED','CURED']['H'in re.sub('H{0,%d}IH{0,%d}'%((~-t//p,)*2),'',input())])
