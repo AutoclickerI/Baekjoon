@@ -1,0 +1,1 @@
+print(sum(int(i[7:])*(-('I'<i[4])|1)for i in[*open(0)][1:])or'NO STRAGGLERS')
