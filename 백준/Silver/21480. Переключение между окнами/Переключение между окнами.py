@@ -1,5 +1,2 @@
 l=[]
-for i in[*open(0)][1:]:
-    if'R'<i:l+=i[4:-1],
-    else:l+=l.pop(~(i.count('+')%len(l))),
-    print(l[-1])
+for i in[*open(0)][1:]:print(s:=i[4:-1]*('R'<i)or l.pop(~(i.count('+')%len(l))));l+=s,
