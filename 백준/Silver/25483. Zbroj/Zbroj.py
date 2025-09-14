@@ -1,11 +1,6 @@
 X,Y,N=map(int,open(0).read().split())
-l1=10**(X-1)
-r1=10**X-1
-l2=10**(Y-1)
-r2=10**Y-1
-if l1==1:l1=0
-if l2==1:l2=0
-mn=max(l1,N-r2)
-mx=min(r1,N-l2)
-c=mx-mn+1
+f=lambda n:(10**~-n-1//n,10**n-1)
+l,r=f(X)
+L,R=f(Y)
+c=min(r,N-L)-max(l,N-R)+1
 print(c-c//2*(X==Y))
