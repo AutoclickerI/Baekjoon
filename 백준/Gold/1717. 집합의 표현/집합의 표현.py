@@ -3,4 +3,7 @@ def f(n):
  return v[n]
 (N,M),*l=[map(int,i.split())for i in open(0)]
 *v,=range(N+1)
-for p,i,j in l:z=i,j=sorted([f(i),f(j)]);0<p!=print('YNEOS'[i<j::2]);v[i]=z[1-p]
+for p,i,j in l:
+ i,j=sorted([f(i),f(j)])
+ if p:print('YNEOS'[i<j::2])
+ else:v[i]=j
