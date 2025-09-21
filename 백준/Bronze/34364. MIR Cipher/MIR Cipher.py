@@ -1,0 +1,1 @@
+for i,c in enumerate(input().split()[1]):print(end=chr((ord(c)+2**i+13)%26+65))
