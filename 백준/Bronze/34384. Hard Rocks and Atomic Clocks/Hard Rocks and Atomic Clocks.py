@@ -1,1 +1,1 @@
-print((3659-int(input())%3600)//60)
+print(60-int(input())%3600//60)
