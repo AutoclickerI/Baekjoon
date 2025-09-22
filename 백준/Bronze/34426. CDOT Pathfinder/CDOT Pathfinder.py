@@ -1,0 +1,1 @@
+for i in[*open(0)][2::2]:l=[j/i for i,j in zip(*[map(int,i.split())]*2)];print(l.index(min(l))+1)
