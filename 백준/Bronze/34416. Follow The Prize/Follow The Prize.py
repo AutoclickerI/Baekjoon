@@ -1,5 +1,4 @@
-n,p,m,*l=map(int,open(0).read().split())
-for i,j in zip(*[iter(l)]*2):
-    if p in(i,j):
-        p^=i^j
-print(p)
+_,p,_,*q=open(0)
+p={p[:-1]}
+for i in q:p=max(p,{*i.split()})-p or p
+print(*p)
