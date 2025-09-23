@@ -1,0 +1,1 @@
+for n,_,*l,_ in[*open(0,'rb')][1:]:print(*[(n+j-6)%10for j in l],sep='')
