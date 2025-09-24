@@ -1,2 +1,1 @@
-list1 = input().split(' ')
-print(int(list1[0])+int(list1[1]))
+print(sum(*open(0,'rb'))%69)
