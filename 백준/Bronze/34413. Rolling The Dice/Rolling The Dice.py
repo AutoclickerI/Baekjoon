@@ -1,0 +1,1 @@
+print(str(eval(input().replace('d','/2*-~'))).strip('0').strip('.'))
