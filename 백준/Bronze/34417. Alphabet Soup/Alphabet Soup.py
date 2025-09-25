@@ -1,1 +1,1 @@
-print(*{*'ABCDEFGHIJKLMNOPQRSTUVWXYZ'}-{*input()}or'Alphabet Soup!',sep='')
+print(*{*map(chr,range(65,91))}-{*input()}or'Alphabet Soup!',sep='')
