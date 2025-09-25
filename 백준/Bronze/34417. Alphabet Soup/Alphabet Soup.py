@@ -1,0 +1,1 @@
+print(*{*'ABCDEFGHIJKLMNOPQRSTUVWXYZ'}-{*input()}or'Alphabet Soup!',sep='')
