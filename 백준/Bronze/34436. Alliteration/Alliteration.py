@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:z,*_=zip(*i.split());print(min(z,key=lambda c:(-z.count(c),c)))
