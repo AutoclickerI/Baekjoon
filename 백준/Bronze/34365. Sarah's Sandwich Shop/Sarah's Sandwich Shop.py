@@ -1,1 +1,1 @@
-for i in[*open(0,'rb')][1:]:print(''.join('22233344455566677778889999'[c-97]for c in i.lower()[:-1]))
+for i in[*open(0,'rb')][1:]:print(''.join(str((c-59-c//81-c//88)//3)for c in i.upper()[:-1]))
