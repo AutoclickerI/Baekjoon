@@ -1,0 +1,1 @@
+for*_,s in sorted((-int(i),int(j),-int(k),s)for s,i,j,k in[*map(str.split,open(0))][1:]):print(s)
