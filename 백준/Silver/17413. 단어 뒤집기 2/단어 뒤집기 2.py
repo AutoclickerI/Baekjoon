@@ -1,2 +1,2 @@
 import re
-print(''.join(a+b[::-1]for a,b in re.findall('(<.*?>| )|([^<> ]+)',input())))
+for a,b in re.findall('(<.*?>)|([^<> ]+| )',input()):print(end=a+b[::-1])
