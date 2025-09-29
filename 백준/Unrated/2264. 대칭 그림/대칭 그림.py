@@ -7,8 +7,5 @@ for i in[*open(0)][1:]:
 l=sorted(d)
 mid=l[0]+l[-1]
 for i,j in zip(l,l[::-1]):
-    if i+j!=mid or d[i]!=d[j]:
-        break
-else:
-    exit(print(mid//2,end=mid%2*'.5'))
-print('NO')
+    if i+j!=mid or d[i]!=d[j]:exit(print('NO'))
+print(mid//2,end=mid%2*'.5')
