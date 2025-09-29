@@ -1,4 +1,4 @@
-s=input()
 f=str.replace
-try:eval(f(f(s,')','),'),']','],'));print(eval(f(f(f(f(s,'(','+2*('),'[','+3*('),*'])'),'()','1')))
-except:print(0)
+try:x=eval(f(f(f(f(f(input(),'[]','+3'),'(','+2*('),'[','+3*['),']','][0]'),'()','1'))
+except:x=0
+print(x)
