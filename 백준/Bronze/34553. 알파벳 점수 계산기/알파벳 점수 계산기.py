@@ -1,2 +1,3 @@
-c=0
-print(len(s:=input())+sum(c:=-~c*(i<j)for i,j in zip(s,s[1:])))
+p=''
+s=0
+print(sum(s:=1+s*(p<(p:=i))for i in input()))
