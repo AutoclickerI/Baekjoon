@@ -1,7 +1,6 @@
-v=[0]*26
-for c in[0]*int(input()):
-    s=input()
-    for i in s[::-1]:
-        v[ord(i)-65]+=10**c
-        c+=1
-print(sum(i*j for i,j in enumerate(sorted(v)[-10:])))
+m=[r:=0]*99
+a=9
+for i in[1]*int(input()):
+ for c in input()[::-1]:m[ord(c)]-=i;i*=10
+for i in sorted(m):r-=i*a;a-=1
+print(r)
