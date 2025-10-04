@@ -1,2 +1,2 @@
 import math
-for i in[*open(0)][1:]:n,*l=map(int,i.split());print(sum(math.gcd(l[i],j)for i in range(n)for j in l[i+1:]))
+for i in[*open(0)][1:]:_,*l=map(int,i.split());print(-sum([-math.gcd(i,j)for i in l for j in l]+l)//2)
