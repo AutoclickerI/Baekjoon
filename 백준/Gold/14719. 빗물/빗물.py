@@ -1,17 +1,3 @@
-_,W,*h=map(int,open(0).read().split())
-
-stack = []
-ans = 0
-
-for i in range(W):
-    while stack and h[stack[-1]]<h[i]:
-        bottom = stack.pop()
-        if not stack:
-            break
-        left = stack[-1]
-        height = min(h[left], h[i]) - h[bottom]
-        width = i - left - 1
-        ans += height * width
-    stack.append(i)
-
-print(ans)
+_,W,*A=map(int,open(s:=0).read().split())
+while W:s-=A[W:=W-1]-min(max(A[:W+1]),max(A[W:]))
+print(s)
