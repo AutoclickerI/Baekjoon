@@ -1,8 +1,5 @@
-[N],*l=[map(int,i.split())for i in open(0)]
-p=[0]*-~N
-for i in range(N):
-    p[i]=max(p[i],p[i-1])
-    t,c=l[i]
-    if i+t<=N:
-        p[i+t]=max(p[i+t],p[i]+c)
-print(max(p))
+n=int(input())
+v=[0]*6**8
+r=s=0
+while s<n:t,p=map(int,input().split());v[s+t]=max(v[s+t],r+p);s+=1;r=max(r,v[s])
+print(r)
