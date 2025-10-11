@@ -1,10 +1,7 @@
-S,P=map(int,input().split())
-s=input()
-*c,=map(s[:P].count,'ACGT')
-*C,=map(int,input().split())
-v=all(j<=i for i,j in zip(c,C))
-for i in range(S-P):
-    c['ACG'.find(s[i])]-=1
-    c['ACG'.find(s[i+P])]+=1
-    v+=all(j<=i for i,j in zip(c,C))
-print(+v)
+I=lambda:map(int,input().split())
+S,P=I()
+X=input()
+R=0
+Q=dict(zip('ACGT',I()))
+for i in range(S):Q[X[i]]-=1;Q[X[i-P]]+=i>=P;R+=max(Q.values())<1>P+~i
+print(R)
