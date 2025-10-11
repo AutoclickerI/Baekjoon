@@ -1,0 +1,1 @@
+for i in[*open(0)][2::2]:m=0;print(sum((m:=max(m,v:=int(j)))-v for j in i.split()[::-1]))
