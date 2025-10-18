@@ -1,13 +1,6 @@
-N,K=map(int,input().split())
-*l,=map(int,input().split())
+N,K,*l=map(int,open(c:=0).read().split())
 l+=range(K+1)
-
-cnt=0
-s=set()
+s=[]
 for i in range(K):
-    s|={l[i]}
-    if N<len(s):
-        m=min(s,key=lambda v:-l[i:].index(v))
-        cnt+=1
-        s-={m}
-print(cnt)
+ if N<len(s:={*s,l[i]}):c+=1;s-={max(s,key=l[i:].index)}
+print(c)
