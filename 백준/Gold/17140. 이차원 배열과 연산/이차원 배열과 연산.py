@@ -22,7 +22,7 @@ while t<101:
     f=len(A)<len(A[0])
     if f:
         *A,=zip(*A)
-    A=[sort(i)[:100]for i in A]
+    A=[sort(i)for i in A]
     ml=max(len(i)for i in A)
     A=[i+[0]*(ml-len(i))for i in A]
     if f:
