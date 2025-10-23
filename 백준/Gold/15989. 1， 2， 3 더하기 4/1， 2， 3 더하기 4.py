@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:n=int(i);print(n*n//6+n+2>>1)
+for i in[*open(0)][1:]:print(((int(i)+3)**2+3)//12)
