@@ -1,13 +1,5 @@
-_,*l=map(int,open(a:=0))
-s=[9e9]
-c=[0]
-for i in l:
-    while s[-1]<i:a+=c[-1];s.pop();c.pop()
-    if s[-1]==i:
-        a+=c[-1]+(2<len(s))
-        c[-1]+=1
-    else:
-        a+=1<len(s)
-        s+=i,
-        c+=1,
-print(a)
+from bisect import*
+b=bisect
+r,*s=0,
+for j in[*open(0)][1:]:n=-int(j);r+=len(s)-max(b(s,n-1)-1,0);s[b(s,n):]=n,
+print(r)
