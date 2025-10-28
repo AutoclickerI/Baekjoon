@@ -1,1 +1,1 @@
-print(*['MADE BY KIPA',998244353,2919]['1'<input()::2])
+print(*['MADE BY KIPA',998244353,2919,287538620]['1'<input()::2])
