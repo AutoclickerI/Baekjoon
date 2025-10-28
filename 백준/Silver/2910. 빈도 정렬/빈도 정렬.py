@@ -1,0 +1,1 @@
+print(*sorted(s:=[*open(0)][1].split(),key=lambda x:(-s.count(x),s.index(x))))
