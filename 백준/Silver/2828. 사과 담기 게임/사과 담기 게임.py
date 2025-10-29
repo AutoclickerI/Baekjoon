@@ -1,4 +1,3 @@
-N,M,J,*l=map(int,open(r:=0).read().split())
-p=1
-for i in l:i=min(i,max(p,i-M+1));r+=abs(p-i);p=i
-print(r)
+N,M,J,*l=map(int,open(0).read().split())
+p=0
+print(sum(abs(p-(p:=min(i-1,max(p,i-M))))for i in l))
