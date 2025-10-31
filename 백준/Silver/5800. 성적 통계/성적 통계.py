@@ -1,1 +1,1 @@
-for i in[*open(T:=0)][1:]:l=sorted(map(int,i.split()[1:]));print('Class',T:=T+1,f'Max {l[-1]}, Min {l[0]}, Largest gap',max(j-i for i,j in zip(l,l[1:])))
+for i in[*open(T:=0)][1:]:T+=1;l=sorted(map(int,i.split()[1:]));print(f'Class {T} Max {l[-1]}, Min {l[0]}, Largest gap',max(j-i for i,j in zip(l,l[1:])))
