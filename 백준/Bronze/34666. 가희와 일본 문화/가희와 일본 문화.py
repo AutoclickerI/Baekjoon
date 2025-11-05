@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:g,k,r,l=map(int,i.split());print('NYOE S'[(g<3)*(49<l)*(k<22or r<22or(k*3<110-g*10>r*3))::2])
