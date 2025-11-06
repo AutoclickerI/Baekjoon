@@ -1,1 +1,2 @@
-print(sum(*open(0,'rb'))%69)
+A,B=map(int,input().split())
+print(A+B)
