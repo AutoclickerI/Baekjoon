@@ -1,5 +1,2 @@
-_,*l,N=map(int,open(0).read().split())
-l+=0,
-rm=min(i for i in l if N<=i)-N
-lm=N-max(i for i in l if i<=N)
-print(max(rm*lm-1,0))
+_,l,N=open(0)
+for i in 0,*sorted(map(int,l.split())):t=i-int(N);0<t<exit(print(max(s*t-1,0)));s=-t
