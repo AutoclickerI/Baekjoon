@@ -1,1 +1,1 @@
-for i in[*open(0)][2::2]:l=sorted(map(int,i.split()));print(max(j-i for i,j in zip(l,l[2:])))
+for i in[*open(0)][2::2]:print(-min(map(int.__sub__,l:=sorted(map(int,i.split())),l[2:])))
