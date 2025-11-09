@@ -1,8 +1,7 @@
-H,W=map(int,input().split())
-for _ in[0]*H:
+for i in[*open(0)][1:]:
     v=-1
-    for i in input():
+    for c in i[:-1]:
         v+=-1<v
-        if i=='c':
+        if c=='c':
             v=0
         print(v)
