@@ -1,1 +1,1 @@
-while'1'<(s:=input()):N,M=map(int,s.split());j=0;[j:=(j+M)%i for i in range(2,N+1)];print(j+1)
+while'1'<(s:=input()):N,M=map(int,s.split());j=0;[j:=(j+M)%i for i in range(1,N+1)];print(j+1)
