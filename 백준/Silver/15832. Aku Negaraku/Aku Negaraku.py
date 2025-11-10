@@ -1,6 +1,1 @@
-while 1:
- N,M=map(int,input().split())
- if N+M<1:break
- j=0
- for i in range(2,N+1):j=(j+M)%i
- print(j+1)
+while'1'<(s:=input()):N,M=map(int,s.split());j=0;[j:=(j+M)%i for i in range(2,N+1)];print(j+1)
