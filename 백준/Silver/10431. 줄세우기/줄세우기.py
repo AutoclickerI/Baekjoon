@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:T,*l=map(int,i.split());print(T,sum(j>l[i]for i in range(20)for j in l[:i]))
