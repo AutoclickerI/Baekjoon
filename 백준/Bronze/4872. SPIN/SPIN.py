@@ -1,1 +1,1 @@
-for i in[*zip(*open(0))][:-1]:print(end=str(sum(map(int,i))%10))
+for i in[*zip(*open(0))][:-1]:print(sum(map(int,i))%10,end='')
