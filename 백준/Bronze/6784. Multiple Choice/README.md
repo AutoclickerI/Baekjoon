@@ -1,14 +1,18 @@
-# [Bronze III] Multiple Choice - 6784 
+# [Bronze IV] Multiple Choice - 6784 
 
 [문제 링크](https://www.acmicpc.net/problem/6784) 
 
 ### 성능 요약
 
-메모리: 32276 KB, 시간: 40 ms
+메모리: 33432 KB, 시간: 36 ms
 
 ### 분류
 
 구현
+
+### 제출 일자
+
+2025년 11월 10일 23:14:23
 
 ### 문제 설명
 

@@ -1,2 +1,2 @@
 n,*l=open(0)
-print(sum(i==j for i,j in zip(l[:int(n)],l[int(n):])))
+print(sum(map(str.__eq__,l,l[int(n):])))
