@@ -1,5 +1,5 @@
 from collections import*
-while sum(l:=[*map(int,input().split())]):
- N,M=l;d=deque(range(N,0,-1))
+while'1'<(s:=input()):
+ N,M=map(int,s.split());d=deque(range(N))
  while~-len(d):d.rotate(M-1);d.pop()
- print(d[0])
+ print(N-d[0])
