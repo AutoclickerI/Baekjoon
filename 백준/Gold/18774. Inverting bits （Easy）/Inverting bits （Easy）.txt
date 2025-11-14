@@ -18,28 +18,28 @@ get R
 shl R 7
 or X R
 not X
-mov R X
-and R 1
-put R
-mov R X
-shr R 1
-and R 1
-put R
-mov R X
-shr R 2
-and R 1
-put R
-mov R X
-shr R 3
-and R 1
-put R
-mov R X
-shr R 4
-and R 1
-put R
-mov R X
-shr R 5
-and R 1
-put R
+or A X
+and A 1
+put A
+or B X
+shr B 1
+and B 1
+put B
+or C X
+shr C 2
+and C 1
+put C
+or D X
+shr D 3
+and D 1
+put D
+or E X
+shr E 4
+and E 1
+put E
+or F X
+shr F 5
+and F 1
+put F
 shr X 7
 put X
