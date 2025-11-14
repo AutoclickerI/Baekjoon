@@ -1,5 +1,15 @@
-s,*r=[-1],
-for i in map(int,[*open(0)][1].split()[::-1]):
- while 0<s[-1]<=i:s.pop()
- r+=s[-1],;s+=i,
-print(*r[::-1])
+N=int(input())
+l=list(map(int,input().split()))
+stack=[]
+ans=[]
+while l:
+    v=l.pop()
+    while stack and stack[-1]<=v:
+        stack.pop()
+    if stack:
+        ans.append(stack[-1])
+    else:
+        ans.append(-1)
+    stack.append(v)
+ans.reverse()
+print(*ans)
