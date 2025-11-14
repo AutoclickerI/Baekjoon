@@ -1,2 +1,2 @@
-p,q,*s=map(int,open(0).read().split())
-print(len({*s})*2-p-q)
+_,a,b=map(str.split,open(0))
+print(len({*a}^{*b}))
