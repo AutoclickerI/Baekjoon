@@ -1,0 +1,48 @@
+get R
+or X R
+get R
+shl R 1
+or X R
+get R
+shl R 2
+or X R
+get R
+shl R 3
+or X R
+get R
+shl R 4
+or X R
+get R
+shl R 5
+or X R
+get R
+shl R 6
+or X R
+not X
+mov R X
+and R 1
+put R
+mov R X
+shr R 1
+and R 1
+put R
+mov R X
+shr R 2
+and R 1
+put R
+mov R X
+shr R 3
+and R 1
+put R
+mov R X
+shr R 4
+and R 1
+put R
+mov R X
+shr R 5
+and R 1
+put R
+mov R X
+shr R 6
+and R 1
+put R
