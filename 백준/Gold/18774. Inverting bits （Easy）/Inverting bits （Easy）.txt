@@ -1,5 +1,4 @@
-get R
-or X R
+get X
 get R
 shl R 1
 or X R
@@ -16,7 +15,7 @@ get R
 shl R 5
 or X R
 get R
-shl R 6
+shl R 7
 or X R
 not X
 mov R X
@@ -42,7 +41,5 @@ mov R X
 shr R 5
 and R 1
 put R
-mov R X
-shr R 6
-and R 1
-put R
+shr X 7
+put X
