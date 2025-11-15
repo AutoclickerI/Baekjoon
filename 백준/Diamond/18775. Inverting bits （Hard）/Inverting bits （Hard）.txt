@@ -86,15 +86,13 @@ mov N L
 and N B
 mov O J
 and O X
-or V N
-or V O
-or V M
-mov N L
-and N A
-mov O J
-and O D
 or N O
 or N M
+and L A
+mov O J
+and O D
+or L O
+or L M
 mov R U
 and R 1
 put R
@@ -124,41 +122,41 @@ and R 1
 put R
 shr U 7
 put U
-mov R V
+mov R N
 and R 1
 put R
-mov R V
+mov R N
 shr R 1
 and R 1
 put R
-mov R V
+mov R N
 shr R 2
 and R 1
 put R
-mov R V
+mov R N
 shr R 3
 and R 1
 put R
-mov R V
+mov R N
 shr R 4
 and R 1
 put R
-mov R V
+mov R N
 shr R 5
 and R 1
 put R
-mov R V
+mov R N
 shr R 6
-and R 1
-put R
-shr V 7
-put V
-mov R N
-and R 1
-put R
-mov R N
-shr R 1
 and R 1
 put R
 shr N 7
 put N
+mov R L
+and R 1
+put R
+mov R L
+shr R 1
+and R 1
+put R
+shr L 7
+put L
