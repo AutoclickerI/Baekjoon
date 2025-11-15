@@ -58,8 +58,7 @@ and C Z
 or D X
 or D Y
 or X Z
-or F Y
-or F Z
+or Y Z
 or G A
 and G Z
 or H D
@@ -80,7 +79,7 @@ and M K
 or N L
 and N C
 or O J
-and O F
+and O Y
 or U N
 or U O
 or U M
