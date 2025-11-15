@@ -70,12 +70,11 @@ or J I
 not J
 or M J
 and J H
-or K G
-or K J
-not K
-or L K
+or G J
+not G
+or L G
 and L I
-and M K
+and M G
 or N L
 and N C
 or O J
@@ -94,9 +93,8 @@ mov N L
 and N A
 mov O J
 and O D
-or W N
-or W O
-or W M
+or N O
+or N M
 mov R U
 and R 1
 put R
@@ -124,9 +122,8 @@ mov R U
 shr R 6
 and R 1
 put R
-mov R U
-shr R 7
-put R
+shr U 7
+put U
 mov R V
 and R 1
 put R
@@ -154,16 +151,14 @@ mov R V
 shr R 6
 and R 1
 put R
-mov R V
-shr R 7
-put R
-mov R W
+shr V 7
+put V
+mov R N
 and R 1
 put R
-mov R W
+mov R N
 shr R 1
 and R 1
 put R
-mov R W
-shr R 7
-put R
+shr N 7
+put N
