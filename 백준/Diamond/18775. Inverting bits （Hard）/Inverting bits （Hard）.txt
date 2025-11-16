@@ -51,47 +51,46 @@ shl R 7
 or Z R
 or A X
 and A Y
-or B X
-and B Z
-or C Y
-and C Z
-or D X
-or D Y
-or X Z
-or Y Z
 or E A
 and E Z
-or F D
-or F Z
 or G A
+or B X
+and B Z
 or G B
+or C Y
+and C Z
 or G C
+or D X
+or D Y
+or F D
+or X Z
+or Y Z
+or F Z
 or H G
 not H
 or I H
 and H F
 or E H
 not E
-or J E
-and J G
 and I E
-or K J
-and K C
 or L H
+or N H
+and H D
+and E G
+or K E
+and K C
 and L Y
 or M K
 or M L
 or M I
-or K J
+or K E
 and K B
-or N H
+and E A
 and N X
 or K N
 or K I
-and J A
-and H D
-or J H
-or J I
+or E H
+or E I
 or O M
 and O 1
 put O
@@ -150,12 +149,12 @@ and R 1
 put R
 shr K 7
 put K
-mov R J
+mov R E
 and R 1
 put R
-mov R J
+mov R E
 shr R 1
 and R 1
 put R
-shr J 7
-put J
+shr E 7
+put E
