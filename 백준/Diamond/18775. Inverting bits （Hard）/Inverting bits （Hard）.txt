@@ -75,23 +75,23 @@ not E
 or J E
 and J G
 and I E
-or N J
-and N C
+or K J
+and K C
 or L H
 and L Y
-or M N
+or M K
 or M L
 or M I
-or N J
-and N B
-or O H
-and O X
-or N O
-or N I
+or K J
+and K B
+or N H
+and N X
+or K N
+or K I
 and J A
-or P H
-and P D
-or J P
+or O H
+and O D
+or J O
 or J I
 mov R M
 and R 1
@@ -122,35 +122,35 @@ and R 1
 put R
 shr M 7
 put M
-mov R N
+mov R K
 and R 1
 put R
-mov R N
+mov R K
 shr R 1
 and R 1
 put R
-mov R N
+mov R K
 shr R 2
 and R 1
 put R
-mov R N
+mov R K
 shr R 3
 and R 1
 put R
-mov R N
+mov R K
 shr R 4
 and R 1
 put R
-mov R N
+mov R K
 shr R 5
 and R 1
 put R
-mov R N
+mov R K
 shr R 6
 and R 1
 put R
-shr N 7
-put N
+shr K 7
+put K
 mov R J
 and R 1
 put R
