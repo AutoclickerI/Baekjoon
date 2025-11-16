@@ -93,29 +93,29 @@ or O H
 and O D
 or J O
 or J I
-mov R M
-and R 1
-put R
-mov R M
-shr R 1
-and R 1
-put R
-mov R M
-shr R 2
-and R 1
-put R
-mov R M
-shr R 3
-and R 1
-put R
-mov R M
-shr R 4
-and R 1
-put R
-mov R M
-shr R 5
-and R 1
-put R
+or P M
+and P 1
+put P
+or Q M
+shr Q 1
+and Q 1
+put Q
+or S M
+shr S 2
+and S 1
+put S
+or T M
+shr T 3
+and T 1
+put T
+or U M
+shr U 4
+and U 1
+put U
+or W M
+shr W 5
+and W 1
+put W
 mov R M
 shr R 6
 and R 1
