@@ -89,33 +89,32 @@ and N X
 or K N
 or K I
 and J A
-or O H
-and O D
-or J O
+and H D
+or J H
 or J I
+or O M
+and O 1
+put O
 or P M
+shr P 1
 and P 1
 put P
 or Q M
-shr Q 1
+shr Q 2
 and Q 1
 put Q
 or S M
-shr S 2
+shr S 3
 and S 1
 put S
 or T M
-shr T 3
+shr T 4
 and T 1
 put T
 or U M
-shr U 4
+shr U 5
 and U 1
 put U
-or W M
-shr W 5
-and W 1
-put W
 mov R M
 shr R 6
 and R 1
