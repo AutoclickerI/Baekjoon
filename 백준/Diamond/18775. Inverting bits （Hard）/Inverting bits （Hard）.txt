@@ -57,96 +57,95 @@ or C A
 or D X
 and D Z
 or C D
-or F X
-or F Y
-or G F
-or X Z
+or E X
 or E Y
+or F E
+or X Z
+or G Y
 or Y Z
-or G Z
-and Z E
+or F Z
+and Z G
 or C Z
 or H C
 not H
 or I H
-and H G
+and H F
 or B H
 not B
 and I B
 and B C
-or J B
-and J Z
+and Z B
 and Y H
 and X H
-and H F
-or K J
-or K Y
-or K I
-or J B
-and J D
-and B A
-or J X
+and H E
+or J Z
+or J Y
 or J I
+or Z B
+and Z D
+and B A
+or Z X
+or Z I
 or B H
 or B I
-or L K
+or K J
+and K 1
+put K
+or L J
+shr L 1
 and L 1
 put L
-or M K
-shr M 1
+or M J
+shr M 2
 and M 1
 put M
-or N K
-shr N 2
+or N J
+shr N 3
 and N 1
 put N
-or O K
-shr O 3
+or O J
+shr O 4
 and O 1
 put O
-or P K
-shr P 4
+or P J
+shr P 5
 and P 1
 put P
-or Q K
-shr Q 5
+or Q J
+shr Q 6
 and Q 1
 put Q
-or S K
-shr S 6
+shr J 7
+put J
+or S Z
 and S 1
 put S
-shr K 7
-put K
-or T J
+or T Z
+shr T 1
 and T 1
 put T
-or U J
-shr U 1
+or U Z
+shr U 2
 and U 1
 put U
-or V J
-shr V 2
+or V Z
+shr V 3
 and V 1
 put V
-or W J
-shr W 3
+or W Z
+shr W 4
 and W 1
 put W
-mov R J
-shr R 4
-and R 1
-put R
-mov R J
+mov R Z
 shr R 5
 and R 1
 put R
-mov R J
+mov R Z
 shr R 6
 and R 1
 put R
-shr J 7
-put J
+shr Z 7
+put Z
 mov R B
 and R 1
 put R
