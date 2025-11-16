@@ -73,12 +73,12 @@ and H G
 or B H
 not B
 and I B
-and Y H
-and X H
-and H F
 and B C
 or J B
 and J Z
+and Y H
+and X H
+and H F
 or K J
 or K Y
 or K I
