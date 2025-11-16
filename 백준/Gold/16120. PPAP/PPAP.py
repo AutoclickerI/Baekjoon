@@ -1,7 +1,3 @@
-stack=[]
-for i in input():
-    stack+=i,
-    while stack[-4:]==[*'PPAP']:
-        del stack[-3:]
-if stack==['P']:print('PPAP')
-else:print('NP')
+l=[]
+for c in input():l+=c;l[-3:]*=l[-4:]!=[*'PPAP']
+print('PNPPA P'[l!=['P']::2])
