@@ -51,110 +51,110 @@ shl R 7
 or Z R
 or A X
 and A Y
-or E A
-and E Z
-or G A
-or B X
+or B A
 and B Z
-or G B
-or C Y
-and C Z
-or G C
+or C A
 or D X
-or D Y
-or F D
+and D Z
+or C D
+or E Y
+and E Z
+or C E
+or F X
+or F Y
+or G F
 or X Z
 or Y Z
-or F Z
-or H G
+or G Z
+or H C
 not H
 or I H
+and H G
+or B H
+not B
+and I B
+or J H
+or K H
 and H F
-or E H
-not E
-and I E
-or L H
-or N H
-and H D
-and E G
-or K E
-and K C
-and L Y
-or M K
+and B C
+or L B
+and L E
+and J Y
 or M L
+or M J
 or M I
-or K E
-and K B
-and E A
-and N X
-or K N
-or K I
-or E H
-or E I
+or L B
+and L D
+and B A
+and K X
+or L K
+or L I
+or B H
+or B I
+or N M
+and N 1
+put N
 or O M
+shr O 1
 and O 1
 put O
 or P M
-shr P 1
+shr P 2
 and P 1
 put P
 or Q M
-shr Q 2
+shr Q 3
 and Q 1
 put Q
 or S M
-shr S 3
+shr S 4
 and S 1
 put S
 or T M
-shr T 4
+shr T 5
 and T 1
 put T
 or U M
-shr U 5
+shr U 6
 and U 1
 put U
-or V M
-shr V 6
-and V 1
-put V
 shr M 7
 put M
-or W K
+or V L
+and V 1
+put V
+or W L
+shr W 1
 and W 1
 put W
-mov R K
-shr R 1
-and R 1
-put R
-mov R K
+mov R L
 shr R 2
 and R 1
 put R
-mov R K
+mov R L
 shr R 3
 and R 1
 put R
-mov R K
+mov R L
 shr R 4
 and R 1
 put R
-mov R K
+mov R L
 shr R 5
 and R 1
 put R
-mov R K
+mov R L
 shr R 6
 and R 1
 put R
-shr K 7
-put K
-mov R E
+shr L 7
+put L
+mov R B
 and R 1
 put R
-mov R E
+mov R B
 shr R 1
 and R 1
 put R
-shr E 7
-put E
+shr B 7
+put B
