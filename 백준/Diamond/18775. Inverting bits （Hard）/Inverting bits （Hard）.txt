@@ -73,21 +73,21 @@ and H F
 or B H
 not B
 and I B
-and B C
-and Z B
+and C B
+and Z C
 and Y H
 and X H
 and H E
 or J Z
 or J Y
 or J I
-or Z B
+or Z C
 and Z D
-and B A
+and C A
 or Z X
 or Z I
-or B H
-or B I
+or C H
+or C I
 or K J
 and K 1
 put K
@@ -146,12 +146,12 @@ and R 1
 put R
 shr Z 7
 put Z
-mov R B
+mov R C
 and R 1
 put R
-mov R B
+mov R C
 shr R 1
 and R 1
 put R
-shr B 7
-put B
+shr C 7
+put C
