@@ -1,16 +1,6 @@
-import math
+from math import*
 N,M,K=map(int,input().split())
-v=math.comb(N+M,M)
-if v<K:
-    print(-1)
-else:
-    s=''
-    while N+M:
-        if math.comb(N+M-1,M)<K:
-            K-=math.comb(N+M-1,M)
-            s+='z'
-            M-=1
-        else:
-            s+='a'
-            N-=1
-    print(s)
+r=''
+p=(K<=comb(v:=N+M,M))*v
+while p:c=comb(p:=p-1,M);r+='az'[w:=c<K];M-=w;K-=c*w
+print(r or-1)
