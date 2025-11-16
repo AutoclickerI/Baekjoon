@@ -57,15 +57,15 @@ or C A
 or D X
 and D Z
 or C D
-or E Y
-and E Z
-or C E
 or F X
 or F Y
 or G F
 or X Z
+or E Y
 or Y Z
 or G Z
+and Z E
+or C Z
 or H C
 not H
 or I H
@@ -78,7 +78,7 @@ and X H
 and H F
 and B C
 or J B
-and J E
+and J Z
 or K J
 or K Y
 or K I
