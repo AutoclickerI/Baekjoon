@@ -1,6 +1,3 @@
-l=[]
-for i in[*open(0)][1:]:_,s,e=map(int,i.split());l+=(s,1),(e,-1)
-v=mv=0
-for _,d in sorted(l):
-    v+=d;mv=max(mv,v)
-print(mv)
+L=[]
+for i in[*open(c:=0)][1:]:_,a,b=map(int,i.split());L+=(b,-1),(a,1)
+print(max(c:=c+i for _,i in sorted(L)))
