@@ -59,69 +59,69 @@ or D X
 or D Y
 or X Z
 or Y Z
+or E A
+and E Z
+or F D
+or F Z
 or G A
-and G Z
-or H D
-or H Z
-or I A
-or I B
-or I C
-or J I
-not J
-or M J
-and J H
-or G J
-not G
-or L G
-and L I
-and M G
-or N L
+or G B
+or G C
+or H G
+not H
+or I H
+and H F
+or E H
+not E
+or J E
+and J G
+and I E
+or N J
 and N C
-or O J
-and O Y
-or U N
-or U O
-or U M
-mov N L
+or L H
+and L Y
+or M N
+or M L
+or M I
+or N J
 and N B
-mov O J
+or O H
 and O X
 or N O
-or N M
-and L A
-mov O J
-and O D
-or L O
-or L M
-mov R U
+or N I
+and J A
+or P H
+and P D
+or J P
+or J I
+mov R M
 and R 1
 put R
-mov R U
+mov R M
 shr R 1
 and R 1
 put R
-mov R U
+mov R M
 shr R 2
 and R 1
 put R
-mov R U
+mov R M
 shr R 3
 and R 1
 put R
-mov R U
+mov R M
 shr R 4
 and R 1
 put R
-mov R U
+mov R M
 shr R 5
 and R 1
 put R
-mov R U
+mov R M
 shr R 6
 and R 1
 put R
-shr U 7
-put U
+shr M 7
+put M
 mov R N
 and R 1
 put R
@@ -151,12 +151,12 @@ and R 1
 put R
 shr N 7
 put N
-mov R L
+mov R J
 and R 1
 put R
-mov R L
+mov R J
 shr R 1
 and R 1
 put R
-shr L 7
-put L
+shr J 7
+put J
