@@ -73,82 +73,80 @@ and H G
 or B H
 not B
 and I B
-or J H
-or K H
+and Y H
+and X H
 and H F
 and B C
-or L B
-and L E
-and Y J
-or M L
-or M Y
-or M I
-or L B
-and L D
+or J B
+and J E
+or K J
+or K Y
+or K I
+or J B
+and J D
 and B A
-and X K
-or L X
-or L I
+or J X
+or J I
 or B H
 or B I
-or N M
+or L K
+and L 1
+put L
+or M K
+shr M 1
+and M 1
+put M
+or N K
+shr N 2
 and N 1
 put N
-or O M
-shr O 1
+or O K
+shr O 3
 and O 1
 put O
-or P M
-shr P 2
+or P K
+shr P 4
 and P 1
 put P
-or Q M
-shr Q 3
+or Q K
+shr Q 5
 and Q 1
 put Q
-or S M
-shr S 4
+or S K
+shr S 6
 and S 1
 put S
-or T M
-shr T 5
+shr K 7
+put K
+or T J
 and T 1
 put T
-or U M
-shr U 6
+or U J
+shr U 1
 and U 1
 put U
-shr M 7
-put M
-or V L
+or V J
+shr V 2
 and V 1
 put V
-or W L
-shr W 1
+or W J
+shr W 3
 and W 1
 put W
-mov R L
-shr R 2
-and R 1
-put R
-mov R L
-shr R 3
-and R 1
-put R
-mov R L
+mov R J
 shr R 4
 and R 1
 put R
-mov R L
+mov R J
 shr R 5
 and R 1
 put R
-mov R L
+mov R J
 shr R 6
 and R 1
 put R
-shr L 7
-put L
+shr J 7
+put J
 mov R B
 and R 1
 put R
