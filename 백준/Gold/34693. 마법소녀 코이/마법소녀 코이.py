@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:k=int(i);v=3-k%2;z=k+v*v>>1;print(z+1,'-',z,'-',v)
