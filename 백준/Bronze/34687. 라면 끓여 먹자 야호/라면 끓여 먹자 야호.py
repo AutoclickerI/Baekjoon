@@ -1,0 +1,1 @@
+print('ynaoh o'[eval(input().replace(' ','*81>100*'))::2])
