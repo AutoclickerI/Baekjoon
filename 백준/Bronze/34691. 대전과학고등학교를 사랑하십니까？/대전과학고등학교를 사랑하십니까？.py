@@ -1,0 +1,1 @@
+for i,*_ in[*open(0,'rb')][:-1]:print('FPPoairnnstuyhste hrdiaea n tskiiogfrrleioasrn aa'[i%3::3])
