@@ -1,32 +1,39 @@
-p,q,r=map(int,input().split())
-l=[[]for _ in range(p+1)]
-visited={}
-for _ in[0]*q:
-    a,b=map(int,input().split())
-    l[a]+=[b]
-    l[b]+=[a]
-    visited[a]=visited.get(a,0)
-    visited[b]=visited.get(b,0)
-l=[sorted(i)for i in l]
-def DFS(pos):
-    visited[pos]=1
-    print(pos,end=' ')
-    if all(visited.values()):
-        return
-    for i in l[pos]:
-        if not visited[i]:
-            DFS(i)
-DFS(r)
+N,M,V=map(int,input().split())
+edges=[[]for _ in range(N+1)]
+
+for _ in range(M):
+    s,e=map(int,input().split())
+    edges[s].append(e)
+    edges[e].append(s)
+
+for i in edges:
+    i.sort()
+
 from collections import deque
-print()
-print(r,end=' ')
-visited[r]=0
-BFS=deque(l[r])
-while any(visited.values()):
-    i=BFS.popleft()
-    if visited[i]==0:continue
-    visited[i]=0
-    print(i,end=' ')
-    for j in l[i]:
-        if visited[j]:
-            BFS.append(j)
+def DFS(n):
+    ret.append(n)
+    visited[n]=1
+    for e in edges[n]:
+        if visited[e]<1:
+            DFS(e)
+
+def BFS(n):
+    visited[n]=1
+    dq=deque([n])
+    while dq:
+        n=dq.popleft()
+        ret.append(n)
+        for e in edges[n]:
+            if visited[e]<1:
+                visited[e]=1
+                dq.append(e)
+
+visited=[0]*(N+1)
+ret=[]
+DFS(V)
+print(*ret)
+
+visited=[0]*(N+1)
+ret=[]
+BFS(V)
+print(*ret)
