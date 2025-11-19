@@ -1,17 +1,3 @@
-N,K=map(int,input().split())
-visited=[0]*200001
-
-from collections import deque
-
-visited[N]=1
-dq=deque([(0,N)])
-
-while dq:
-    time,pos=dq.popleft()
-    if pos==K:
-        break
-    for next_pos in pos-1,pos+1,pos*2:
-        if 0<=next_pos<200001 and visited[next_pos]<1:
-            visited[next_pos]=1
-            dq.append((time+1,next_pos))
-print(time)
+n,m=map(int,input().split())
+f=lambda k:n<k and(k<2or k&1and-~min(f(k+1),f(k-1))or min(k-n,f(k//2)+1))or n-k
+print(+f(m))
