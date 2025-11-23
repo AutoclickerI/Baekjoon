@@ -1,13 +1,4 @@
 N,K=map(int,input().split())
-
-ans=[K]
-addr=0
-while ans[-1]*N+addr!=K:
-    x=ans[-1]*N+addr
-    ans+=x%10,
-    addr=x//10
-a=''.join(map(str,ans[::-1]))
-if'1'<=a:
-    print(a)
-else:
-    print(0)
+i=0
+x=K
+while 1:t=x*N//10**i%10;t==K<=x*N<10**-~i<exit(print(x*(0<x//10**i)));x+=t*10**(i:=i+1)
