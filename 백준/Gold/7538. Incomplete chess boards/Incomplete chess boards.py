@@ -1,0 +1,1 @@
+for i in[*open(c:=0,'rb')][1:]:c+=1;print(f'Scenario #{c}: {sum(i)%2}\n')
