@@ -1,10 +1,3 @@
-[N],*b=[[*map(int,i.split())]for i in open(0)]
-v=[N*[0]for _ in[0]*N]
-l=[(0,0)]
-for y,x in l:
-    for dy,dx in(1,0),(0,1):
-        ny,nx=y+dy*b[y][x],x+dx*b[y][x]
-        if 0<=ny<N and 0<=nx<N and v[ny][nx]<1:
-            v[ny][nx]=1
-            l+=(ny,nx),
-print(['Hing','HaruHaru'][v[-1][-1]])
+f=lambda x,y:n>max(x,y)and(-v if(v:=b[x*n+y])<1else f(x+v,y)|f(x,y+v))
+n,*b=map(int,open(0).read().split())
+print(['Hing','HaruHaru'][f(0,0)])
