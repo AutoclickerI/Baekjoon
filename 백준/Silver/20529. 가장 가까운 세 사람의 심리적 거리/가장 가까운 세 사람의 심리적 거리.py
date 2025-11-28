@@ -1,3 +1,2 @@
 from itertools import*
-d=lambda*l:sum(map(str.__ne__,*l))
-for i in[*open(0)][2::2]:print(+(len(i)<161)and min(d(a,b)+d(b,c)+d(c,a)for a,b,c in combinations(i.split(),3)))
+for i in[*open(0)][2::2]:print(+(len(i)<161)and min(sum((i!=j)+(j!=k)+(k!=i)for i,j,k in zip(*x))for x in combinations(i.split(),3)))
