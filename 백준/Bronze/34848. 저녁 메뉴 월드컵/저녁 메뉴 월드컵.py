@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:n=int(i)-1;print(n.bit_length()-n.bit_count())
+for i in[*open(0)][1:]:print(f'{int(i)-1:b}'.count('0'))
