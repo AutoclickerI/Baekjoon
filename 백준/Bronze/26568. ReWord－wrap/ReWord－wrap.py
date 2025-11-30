@@ -1,5 +1,4 @@
-for _ in range(int(input())):
-    input()
-    for _ in range(int(input())):
-        print(input())
-    print()
+for _ in[0]*int(input()):
+ input()
+ for _ in[0]*int(input()):print(input())
+ print()
