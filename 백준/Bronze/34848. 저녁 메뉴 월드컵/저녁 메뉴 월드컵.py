@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:n=int(i)-1;print(n.bit_length()-n.bit_count())
