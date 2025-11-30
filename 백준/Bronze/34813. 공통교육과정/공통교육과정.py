@@ -1,0 +1,1 @@
+print([0,'Claves','Veritas','Exploration','Foundation'][ord(input()[0])%6])
