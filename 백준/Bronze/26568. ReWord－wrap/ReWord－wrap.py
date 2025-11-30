@@ -1,4 +1,2 @@
-for _ in[0]*int(input()):
- input()
- for _ in[0]*int(input()):print(input())
- print()
+_,*l=open(0)
+while l:_,n,*l=l;print(''.join(l[:int(n)]));l=l[int(n):]
