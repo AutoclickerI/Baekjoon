@@ -1,2 +1,1 @@
-N=int(input())
-print(*[*range(1,N+1)]*3)
+print(*[*range(1,int(input())+1)]*3)
