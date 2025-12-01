@@ -1,2 +1,2 @@
 import re
-print(re.fullmatch('(pi|ka|chu)*',input())and'YES'or'NO')
+print(re.sub('pi|ka|chu','',input())and'NO'or'YES')
