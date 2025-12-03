@@ -1,9 +1,5 @@
-import sys
-input=sys.stdin.readline
-N,M=map(int,input().split())
-l=[0,*map(int,input().split())]
-for i in range(N):
-    l[i+1]+=l[i]
-for _ in[0]*M:
-    p,q=map(int,input().split())
-    print(l[q]-l[p-1])
+p,q,*r=open(0)
+N,M,*l=map(int,(p+q).split())
+l+=[0]
+for i in range(N):l[i]+=l[i-1]
+for i in r:p,q=map(int,i.split());print(l[q-1]-l[p-2])
