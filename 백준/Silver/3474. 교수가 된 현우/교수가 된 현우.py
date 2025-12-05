@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:n=int(i);print(eval('+(n:=n//5)'*12))
+for i in[*open(0)][1:]:n=int(i);print(sum(n:=n//5for _ in[0]*30))
