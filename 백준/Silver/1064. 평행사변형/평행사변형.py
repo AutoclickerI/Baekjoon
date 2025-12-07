@@ -1,8 +1,7 @@
-xa,ya,xb,yb,xc,yc=map(int,input().split())
-dx1,dy1=xa-xb,ya-yb
-dx2,dy2=xa-xc,ya-yc
-if dy1*dx2==dy2*dx1:
-    print(-1)
-else:
-    p,q,r=[((xa-xb)**2+(ya-yb)**2)**.5,((xa-xc)**2+(ya-yc)**2)**.5,((xb-xc)**2+(yb-yc)**2)**.5]
-    print(2*max(p+q,p+r,q+r)-2*min(p+q,p+r,q+r))
+a,b,c,d,e,f=map(int,input().split())
+c-=a
+e-=a
+d-=b
+f-=b
+*x,=map(abs,[c+d*1j,e+f*1j,e-c+(f-d)*1j])
+print(-(c*f==d*e)or(max(x)-min(x))*2)
