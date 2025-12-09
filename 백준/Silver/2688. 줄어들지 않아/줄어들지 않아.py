@@ -1,2 +1,2 @@
 import math
-print(*[math.comb(i+9,i)for i in map(int,open(0))][1:])
+print(*[math.comb(int(i)+9,9)for i in open(0)][1:])
