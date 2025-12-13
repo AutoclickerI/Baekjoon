@@ -1,2 +1,2 @@
-f=lambda n:n*(n<7)or(x:=4-(n in(7,11,15)))*f(n+~x)
-print(f(int(input())))
+n=int(input())
+print(int(.75**(4-n%5)*4**(n//5+1)))
