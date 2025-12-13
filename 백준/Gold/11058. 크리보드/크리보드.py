@@ -1,3 +1,2 @@
-*a,=range(6)
-for _ in' '*99:a+=max(a[-3]*2,a[-4]*3,a[-5]*4),
-print(a[int(input())])
+f=lambda n:n*(n<7)or(x:=4-(n in(7,11,15)))*f(n+~x)
+print(f(int(input())))
