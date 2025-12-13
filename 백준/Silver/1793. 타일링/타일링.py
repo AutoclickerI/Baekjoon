@@ -1,1 +1,1 @@
-for i in open(0):print(-~2**-~int(i)//3)
+for i in open(0):print(-~(2<<int(i))//3)
