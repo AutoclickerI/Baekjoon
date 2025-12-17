@@ -1,7 +1,5 @@
 s=[]
-c=0
-for i in*[*map(int,open(0).read().split())][2::2],0:
-    while s and i<=s[-1]:
-        c+=s.pop()!=i
-    s+=i,
+for i in*open(c:=0).read().split()[2::2],0:
+ while[i:=int(i)]<=s[-1:]:c+=i<s.pop()
+ s+=i,
 print(c)
