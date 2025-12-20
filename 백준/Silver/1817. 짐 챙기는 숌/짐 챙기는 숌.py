@@ -1,4 +1,2 @@
-N,M,*l=map(int,open(0).read().split())
-w=c=0
-for i in l:w=(w+i<=M)*w+i;c+=w==i
-print(N and c)
+N,M,*l=map(int,open(w:=0).read().split())
+print(sum(N>0<i==(w:=i+w*(w+i<=M))for i in l))
