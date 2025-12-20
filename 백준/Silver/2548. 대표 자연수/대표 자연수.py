@@ -1,0 +1,2 @@
+n,l=open(0)
+print(sorted(map(int,l.split()))[~int(n)//2])
