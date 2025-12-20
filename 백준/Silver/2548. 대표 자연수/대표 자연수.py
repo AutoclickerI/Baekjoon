@@ -1,2 +1,2 @@
-n,l=open(0)
-print(sorted(map(int,l.split()))[~int(n)//2])
+n,i=open(0)
+print(sorted(i.split(),key=int)[~int(n)//2])
