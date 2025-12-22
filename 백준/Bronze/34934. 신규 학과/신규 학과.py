@@ -1,0 +1,1 @@
+for i in open(0):'026\n'==i[-4:]!=print(i[:-5])
