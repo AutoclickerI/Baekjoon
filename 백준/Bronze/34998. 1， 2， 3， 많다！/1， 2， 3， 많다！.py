@@ -1,0 +1,1 @@
+for i in[*open(0)][2::2]:print([n:=eval(i.replace(*'!9')),'!'][9<n])
