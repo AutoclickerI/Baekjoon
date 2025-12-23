@@ -1,0 +1,1 @@
+print(2*max(0,30-eval(input().replace(*' -'))))
