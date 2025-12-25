@@ -1,0 +1,1 @@
+print('OShu cMcye sGso!d !'['5'<input()::2])
