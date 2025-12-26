@@ -1,0 +1,1 @@
+while'1'<(s:=input()):n=eval(s.replace(*' +'));print(n-len({input()for _ in[0]*n}))
