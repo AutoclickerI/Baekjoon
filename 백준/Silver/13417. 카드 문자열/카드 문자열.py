@@ -1,4 +1,1 @@
-for i in[*open(0)][2::2]:
- s=''
- for c in i[::2]:s=min(c+s,s+c)
- print(s)
+for i in[*open(0)][2::2]:s='';[s:=min(c+s,s+c)for c in i[::2]];print(s)
