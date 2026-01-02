@@ -1,17 +1,7 @@
-[N],*l,[L,P]=[[*map(int,i.split())]for i in open(0)]
-l.sort()
-hq=[]
-c=0
+_,*l=[[*map(int,i.split())]for i in open(0)]
+c,P,*h=0,l[-1][1]
 from heapq import*
-try:
-    for a,b in l:
-        while P<a:
-            P-=heappop(hq)
-            c+=1
-        heappush(hq,-b)
-    while P<L:
-        P-=heappop(hq)
-        c+=1
-    print(c)
-except:
-    print(-1)
+for a,b in sorted(l):
+ while P<a:h==[]<exit(print(-1));P-=heappop(h);c+=1
+ heappush(h,-b)
+print(c)
