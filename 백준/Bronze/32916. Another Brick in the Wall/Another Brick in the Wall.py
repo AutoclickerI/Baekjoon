@@ -1,2 +1,2 @@
-l,h=map(int,input().split())
-print(l%2*h or h//2*2)
+W,L=map(int,input().split())
+print(L&W%2-2)

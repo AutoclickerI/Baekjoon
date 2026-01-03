@@ -1,4 +1,4 @@
-# [Bronze II] Another Brick in the Wall - 32916 
+# [Bronze I] Another Brick in the Wall - 32916 
 
 [문제 링크](https://www.acmicpc.net/problem/32916) 
 
@@ -8,11 +8,11 @@
 
 ### 분류
 
-사칙연산, 수학
+수학, 사칙연산, 홀짝성
 
 ### 제출 일자
 
-2024년 12월 8일 13:13:31
+2026년 1월 3일 12:58:35
 
 ### 문제 설명
 
@@ -23,9 +23,9 @@
 <table class="table table-bordered td-center td-middle">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://upload.acmicpc.net/8806eeb4-b59f-4c3f-9eb6-e3c6a5370de0/-/preview/" style="width: 141px; height: 47px;"></td>
-			<td><img alt="" src="https://upload.acmicpc.net/11a5e90c-735b-4ac1-b48b-36beff89c748/-/preview/" style="width: 140px; height: 66px;"></td>
-			<td><img alt="" src="https://upload.acmicpc.net/dfe78474-d512-4eee-8fe4-d54bd1711567/-/preview/" style="width: 141px; height: 85px;"></td>
+			<td><img alt="" src="" style="width: 141px; height: 47px;"></td>
+			<td><img alt="" src="" style="width: 140px; height: 66px;"></td>
+			<td><img alt="" src="" style="width: 141px; height: 85px;"></td>
 		</tr>
 		<tr>
 			<td>Good seam placement</td>
