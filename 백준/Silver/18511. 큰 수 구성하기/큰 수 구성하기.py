@@ -1,13 +1,3 @@
-N,K=input().split()
-l=input().split()
-from itertools import*
-m=0
-for i in product(l,repeat=len(N)):
-    n=int(''.join(i))
-    if n<=int(N):
-        m=max(m,n)
-for i in product(l,repeat=len(N)-1):
-    n=int(''.join(i))
-    if n<=int(N):
-        m=max(m,n)
-print(m)
+n,m,*l=map(int,open(0).read().split())
+f=lambda m:m<=n and max(m,*[f(m*10+i)for i in l])
+print(f(0))
