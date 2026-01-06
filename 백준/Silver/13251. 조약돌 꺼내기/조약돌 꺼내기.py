@@ -1,5 +1,3 @@
 M,*c,K=map(int,open(0).read().split())
-import math
-r=0
-for i in c:r+=math.comb(i,K)
-print(r/math.comb(sum(c),K))
+from math import*
+print(sum(map(comb,c,[K]*99))/comb(sum(c),K))
