@@ -1,15 +1,8 @@
 [N,s,e],*l=[map(int,i.split())for i in open(0)]
-edges=[[]for _ in[0]*-~N]
-for p,q,v in l:
-    edges[p]+=(q,v),
-    edges[q]+=(p,v),
-vi=[0]*-~N
+V=[1]*-~N
+x=[[]for _ in V]
+for p,q,v in l:x[p]+=(q,v),;x[q]+=(p,v),
 l=[(s,0,0)]
 for s,c,w in l:
-    if s==e:
-        print(w-c)
-        break
-    for n,v in edges[s]:
-        if vi[n]<1:
-            vi[n]=1
-            l+=(n,max(v,c),w+v),
+ s==e<exit(print(w-c))
+ for n,v in x[s]:l+=[(n,max(v,c),w+v)]*V[n];V[n]=0
