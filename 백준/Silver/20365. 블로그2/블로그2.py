@@ -1,2 +1,2 @@
-A=[*open(0)][1]
-print(A.count('RBBR'[A[0]<'C'::2])+1)
+_,s=open(0)
+print(s.count('RBBR'[s[0]<'C'::2])+1)
