@@ -1,3 +1,3 @@
-_,q,_,s=open(0)
-d={*q.split()}
-print(*[+(i in d)for i in s.split()])
+_,s,_,l=map(str.split,open(0))
+s={*s}
+for i in l:print(+(i in s))
