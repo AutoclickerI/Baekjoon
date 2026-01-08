@@ -1,4 +1,13 @@
-_,n,*l=map(int,open(0).read().split())
-t=[0,max(l)]
-while t[1]-t[0]-1:m=sum(t)//2;t[sum(max(0,i-m)for i in l)<n]=m
-print(t[0])
+N,M=map(int,input().split())
+*l,=map(int,input().split())
+
+s=0
+e=10**10
+
+while 1<e-s:
+    m=(s+e)//2
+    if M<=sum(max(i-m,0)for i in l):
+        s=m
+    else:
+        e=m
+print(s)
