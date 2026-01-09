@@ -1,6 +1,2 @@
-for _ in[0]*int(input()):
-    l=input().split()
-    s=set()
-    while(i:=input())!='what does the fox say?':
-        s.add(i.split()[-1])
-    print(*[i for i in l if i not in s])
+I=input
+exec("l=I().split()\nwhile'?'<(i:=I())[-1]:l=[j for j in l if i.split()[-1]!=j]\nprint(*l);"*int(I()))
