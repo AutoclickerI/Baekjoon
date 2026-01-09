@@ -1,4 +1,4 @@
-n,*s=map(int,open(0).read().split())
-r=v=0
-for i in s:f=i&1;r+=f;v+=r-r*f
-print(min(v,(n-r)*r-v))
+n,s=open(r:=0)
+v=0
+for i in s.split():v+=(r:=r+(f:=int(i)&1))-r*f
+print(min(v,(int(n)-r)*r-v))
