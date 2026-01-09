@@ -1,9 +1,4 @@
 n,*l=map(int,open(0).read().split())
-z=[0]
-for i in range(n):
-    mv=0
-    for j in range(i+1):
-        t=z[j]+max(l[j:i+1])-min(l[j:i+1])
-        mv=max(mv,t)
-    z+=mv,
-print(z[-1])
+d=[0]*n
+for i in range(n):v=d[i]=max(d[j-1]+abs(l[i]-l[j])for j in range(i+1))
+print(v)
