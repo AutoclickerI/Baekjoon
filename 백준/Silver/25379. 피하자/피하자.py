@@ -1,4 +1,3 @@
-n,s=open(0)
-r=v=0
-for i in s.split():f=int(i)&1;r+=f;v+=r-r*f
-print(min(v,(int(n)-r)*r-v))
+c=r=v=0
+for i in[*open(0)][1].split():f=int(i)&1;r+=f;v+=r-r*f;c+=1-f
+print(min(v,c*r-v))
