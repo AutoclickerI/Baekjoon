@@ -1,10 +1,4 @@
 A,K=map(int,input().split())
-
-v=[0]*-~K
-l=[(0,A)]
-for c,n in l:
-    for e in-~n,2*n:
-        if e<=K and v[e]<1:
-            v[e]=c+1
-            l+=(c+1,e),
-print(v[K])
+c=0
+while 2*A<=K:c+=1+K%2;K//=2
+print(c+K-A)
