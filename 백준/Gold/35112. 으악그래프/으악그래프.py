@@ -1,2 +1,1 @@
-N,M=map(int,input().split())
-print('YNeos'[N<M::2])
+print('YNeos'[eval(input().replace(*' <'))::2])
