@@ -1,0 +1,1 @@
+print(*sorted('123',key=[*open(0)][1].count)[::2])
