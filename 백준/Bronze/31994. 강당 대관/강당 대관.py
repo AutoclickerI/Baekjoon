@@ -1,1 +1,1 @@
-print(max(map(str.split,open(0)),key=lambda s:int(s[1]))[0])
+print(max((int(b),a)for a,b in map(str.split,open(0)))[1])
