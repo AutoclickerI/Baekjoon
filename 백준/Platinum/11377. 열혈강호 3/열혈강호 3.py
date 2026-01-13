@@ -9,15 +9,10 @@ def DFS(n):
             end[e]=n
             return 1
     return 0
-
-for i in range(N):
-    v=[0]*N
-    DFS(i)
-l*=2
-for i in range(N,2*N):
+for i in range(2*N):
     if K<1:
         break
-    v=[0]*2*N
-    if DFS(i):
-        K-=1
+    v=[0]*N
+    if DFS(i%N):
+        K-=N<=i
 print(sum(-1<i for i in end))
