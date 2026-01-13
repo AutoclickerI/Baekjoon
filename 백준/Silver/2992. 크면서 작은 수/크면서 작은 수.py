@@ -1,3 +1,3 @@
 from itertools import*
-s=input()
-print(next(filter(s.__lt__,map(''.join,permutations(sorted(s)))),0))
+s=*input(),
+print(min([''.join(i)for i in permutations(s)if s<i]or[0]))
