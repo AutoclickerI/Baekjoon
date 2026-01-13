@@ -1,4 +1,3 @@
 from itertools import*
 s=*input(),
-for a in permutations(sorted(s)):s<a<exit(print(*a,sep=''))
-print(0)
+print(*next(filter(s.__lt__,permutations(sorted(s))),'0'),sep='')
