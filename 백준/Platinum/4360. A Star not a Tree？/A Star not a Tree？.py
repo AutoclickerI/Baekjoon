@@ -33,7 +33,7 @@ for _ in[0]*n:
     y+=q
     vecs+=vec([p,q]),
 point=vec([x/n,y/n])
-lr=LR(100000,0.995)
+lr=LR(10000,0.999)
 for i in range(50000):
     m=vec([0,0])
     for j in vecs:
