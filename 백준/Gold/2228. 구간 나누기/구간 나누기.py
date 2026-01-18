@@ -1,9 +1,4 @@
-N,M,*l=map(int,open(0).read().split())
-
-val_s=[-float('inf')]*M
-idle_s=val_s+[0]
-for i in l:
-    val_t=[i+max(idle_s[j-1],val_s[j])for j in range(M)]
-    idle_s=[max(p,q)for p,q in zip(val_s,idle_s)]+[0]
-    val_s=val_t
-print(max(val_s[-1],idle_s[-2]))
+n,m,*l=map(int,open(0).read().split())
+c=[[0,0]]+[[-1e9]*2]*m
+for i in l:c[1:]=[[max(c[j+1][0],c[j][1])+i,max(c[j+1])]for j in range(m)]
+print(max(c[m]))
