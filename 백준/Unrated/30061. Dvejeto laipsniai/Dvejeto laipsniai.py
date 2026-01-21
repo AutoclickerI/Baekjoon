@@ -33,8 +33,8 @@ if sorted(str(r))!=sorted(D):
     for i in str(r):
         c[int(i)]-=1
     s=''
-    for i in range(10):
+    for i in range(9,0,-1):
         s+=str(i)*c[i]
-    r=s[::-1]+str(r)
+    r=s+str(r)
 print(r)
 print(2**mv)
