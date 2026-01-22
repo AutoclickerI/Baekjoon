@@ -1,4 +1,4 @@
-# [Bronze IV] XOR 1 - 5497 
+# [Bronze III] XOR 1 - 5497 
 
 [문제 링크](https://www.acmicpc.net/problem/5497) 
 
@@ -9,6 +9,10 @@
 ### 분류
 
 해 구성하기
+
+### 제출 일자
+
+2023년 8월 10일 17:05:44
 
 ### 문제 설명
 
