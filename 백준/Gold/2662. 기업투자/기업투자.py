@@ -12,10 +12,9 @@ for i in l:
             n=v[j-k-1]+i[k]
             if t[j]<n:
                 t[j]=n
-                dt[j]={**d[j-k-1]}|{cnt:k}
+                dt[j]={**d[j-k-1]}|{cnt:k+1}
     v=t
     d=dt
-ii=v.index(max(v))
-print(v[ii])
+print(v[N])
 for i in range(M):
-    print(d[ii].get(i+1,-1)+1)
+    print(d[N].get(i+1,0))
