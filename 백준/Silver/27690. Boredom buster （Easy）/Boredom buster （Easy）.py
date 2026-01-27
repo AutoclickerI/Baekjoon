@@ -1,0 +1,1 @@
+for n in[*open(0)][2::2]:n=int(n);print(n*~-n>>1)
