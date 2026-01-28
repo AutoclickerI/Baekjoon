@@ -1,15 +1,3 @@
-import sys
-sys.setrecursionlimit(2*10**5)
-
-from functools import cache
-
-@cache
-def f(n,b):
-    if b==1:
-        return 1
-    if n<b:
-        return f(n,b//2)
-    return(f(n-b,b)+f(n,b//2))%10**9
-
-n=int(input())
-print(f(n,1<<n.bit_length()))
+b=[1]
+for i in range(9**6):b+=b[i]+b[i+1>>1],
+print(b[int(input())//2]%10**9)
