@@ -1,0 +1,1 @@
+print(N:=int(input()),*[1]*N)
