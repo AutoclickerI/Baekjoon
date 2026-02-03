@@ -1,4 +1,2 @@
 d,a,o,da,do=map(int,open(0).read().split())
-aa=max(0,a-d*da)
-oo=max(0,o-d*do)
-print(aa/(aa+oo)*100)
+print(100/(1+max(0,o-d*do)/max(1e-9,a-d*da)))
