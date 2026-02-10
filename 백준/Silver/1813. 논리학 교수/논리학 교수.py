@@ -1,4 +1,4 @@
-a=[*open(0)][1].split()
+f=[*open(0)][1].split().count
 i=50
-while i-a.count(str(i))and~i:i-=1
+while(i-f(str(i)))*~i:i-=1
 print(i)
