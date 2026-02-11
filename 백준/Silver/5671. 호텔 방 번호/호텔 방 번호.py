@@ -1,3 +1,1 @@
-for i in open(0):
-    s,e=map(int,i.split())
-    print(sum(len(str(i))==len({*str(i)})for i in range(s,e+1)))
+for i in open(0):print(sum(len(s:=str(i))==len({*s})for i in range(*eval(i.replace(' ',',1+')))))
