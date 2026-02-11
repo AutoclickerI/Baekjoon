@@ -1,6 +1,4 @@
-from decimal import*
-N,K,*l=map(int,open(0).read().replace('.','').split())
+N,K,*l=map(eval,open(0).read().split())
 l.sort()
-l[:K]=[l[K]]*K
-if K:l[-K:]=[l[~K]]*K
-print(f'{sum(l[K:-K]or l)/Decimal(10*N-20*K)+Decimal("0.00000001"):.2f} {sum(l)/Decimal(10*N)+Decimal("0.00000001"):.2f}')
+A=sum(l[K:N-K])+1e-8
+print(f'{A/(N-2*K):.2f} {(l[K]*K+A+l[~K]*K)/N:.2f}')
