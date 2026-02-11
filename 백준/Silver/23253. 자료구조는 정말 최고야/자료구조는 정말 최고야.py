@@ -1,0 +1,1 @@
+print('YNeos'[any(sorted(v:=i.split(),key=int)!=v[::-1]for i in open(0))::2])
