@@ -32,12 +32,12 @@ def pollardRho(n):
     else:return pollardRho(d)
 
 while n:=int(input()):
-    while n%2<1:n>>=1
-    d={2:1}
+    d={}
     while 1<n:
         v=pollardRho(n)
         d[v]=d.get(v,0)+2
         n//=v
     r=1
+    d[2]=1
     for i in d:r*=d[i]+1
     print(r)
