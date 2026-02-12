@@ -34,25 +34,12 @@ def fast_ints():
         else:
             x=x*10+v-48
 
-def norm(P):
-    while P and P[-1] == 0:
-        P.pop()
-    return P
-
-def poly_add(acc,poly,k):
-    if not poly:
-        return acc
-    if not acc:
-        return poly[:]
-    L=len(poly)
+def poly_add(acc,poly):
+    L=min(k+1,len(poly))
     acc+=[0]*(L-len(acc))
     for i in range(L):
-        v=acc[i]+poly[i]
-        if mod<=v:
-            v-=mod
-        acc[i]=v
-    del acc[k+1:]
-    return norm(acc)
+        acc[i]=(acc[i]+poly[i])%mod
+    return acc
 
 it=fast_ints()
 n=next(it)
@@ -79,28 +66,21 @@ for x in range(r):
     H=[-~d*[0]for _ in range(r)]
     C=1
     for i in range(d+1):
-        H[(x*i)%r][i]=C
+        H[x*i%r][i]=C
         if i<d:
-            C=(C*(c-i))%mod
-            C=(C*pow(i+1,-1,mod))%mod
+            C=C*(c-i)*pow(i+1,-1,mod)%mod
 
     nn=[]
     for s in range(r):
-        norm(H[s])
         if H[s]:nn+=s,
 
     nF=[[]for _ in range(r)]
     for t in range(r):
-        Ft = F[t]
-        if not Ft:
+        if not F[t]:
             continue
         for s in nn:
-            Hs=H[s]
-            prod=poly_mul(Ft,Hs)[:k+1]
-            prod=[v%mod for v in prod]
-            norm(prod)
             u=(t+s)%r
-            nF[u]=poly_add(nF[u],prod,k)
+            nF[u]=poly_add(nF[u],poly_mul(F[t],H[s]))
     F=nF
 
 print(F[0][k]%mod*(k<len(F[0])))
