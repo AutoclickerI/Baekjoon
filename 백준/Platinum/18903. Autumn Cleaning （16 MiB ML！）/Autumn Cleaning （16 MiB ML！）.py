@@ -39,7 +39,7 @@ def norm(P):
         P.pop()
     return P
 
-def add_poly(acc,poly,k):
+def poly_add(acc,poly,k):
     if not poly:
         return acc
     if not acc:
@@ -84,29 +84,23 @@ for x in range(r):
             C=(C*(c-i))%mod
             C=(C*pow(i+1,-1,mod))%mod
 
-    nonempty_s = []
+    nn=[]
     for s in range(r):
         norm(H[s])
-        if H[s]:
-            nonempty_s.append(s)
+        if H[s]:nn+=s,
 
-    newF = [[] for _ in range(r)]
+    nF=[[]for _ in range(r)]
     for t in range(r):
         Ft = F[t]
         if not Ft:
             continue
-        for s in nonempty_s:
-            Hs = H[s]
-            prod = poly_mul(Ft, Hs)
-            if len(prod) > k + 1:
-                prod = prod[:k + 1]
-            prod = [v % mod for v in prod]
+        for s in nn:
+            Hs=H[s]
+            prod=poly_mul(Ft,Hs)[:k+1]
+            prod=[v%mod for v in prod]
             norm(prod)
-            u = (t + s) % r
-            newF[u] = add_poly(newF[u], prod, k)
+            u=(t+s)%r
+            nF[u]=poly_add(nF[u],prod,k)
+    F=nF
 
-    F = newF
-
-ans_poly = F[0]
-ans = ans_poly[k] if len(ans_poly) > k else 0
-print(ans % mod)
+print(F[0][k]%mod*(k<len(F[0])))
