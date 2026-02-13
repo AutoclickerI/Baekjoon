@@ -1,2 +1,2 @@
 c,n=map(int,input().split())
-print((c<=n)*(c+(c<n)))
+print((c<=n)*c+(c<n))
