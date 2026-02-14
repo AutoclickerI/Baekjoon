@@ -1,10 +1,4 @@
-N,M,*A=map(int,open(0).read().split())
-s=0
-e=10**18
-while 1<e-s:
-    m=s+e>>1
-    if sum(m//i for i in A)<M:
-        s=m
-    else:
-        e=m
+N,M,*A=map(int,open(s:=0).read().split())
+e=2<<50
+while-~s<e:m=s+e>>1;s,e=[s,m,m,e][sum(m//i for i in A)<M::2]
 print(e)
