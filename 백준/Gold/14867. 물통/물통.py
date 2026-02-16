@@ -12,7 +12,8 @@ elif c in[0,a]:
         else:
             raise
         v=d+b*k
-        ans+=max(v//a*2+k*2+(0<c),0),
+        if v:
+            ans+=v//a*2+k*2+(0<c),
     except:0
     # b=>a
     try:
@@ -22,7 +23,8 @@ elif c in[0,a]:
         else:
             raise
         v=d+a*k
-        ans+=max((v-d)//a*2-v//-b-(0<c),0),
+        if v:
+            ans+=(v-d)//a*2+v//b*2-1-(0<c),
     except:0
     print(min(ans or[-1]))
     
@@ -37,7 +39,8 @@ elif d in[0,b]:
         else:
             raise
         v=c+b*k
-        ans+=max(v//a*2+v//b-(0<d),0),
+        if v:
+            ans+=v//a*2+v//b*2-1-(0<d),
     except:0
     # b=>a
     try:
@@ -47,7 +50,8 @@ elif d in[0,b]:
         else:
             raise
         v=c+a*k
-        ans+=max((v-c)//a*2+v//b*2+(0<d),0),
+        if v:
+            ans+=(v-c)//a*2+v//b*2+(0<d),
     except:0
     print(min(ans or[-1]))
     
