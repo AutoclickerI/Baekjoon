@@ -1,13 +1,2 @@
-import math
-
-for i in[*open(0)][1:]:
-    x1,y1,x2,y2=map(int,i.split())
-    x1,y1,x2,y2=0,min(y1,y2),abs(x2-x1),max(y1,y2)
-    if x2-x1<1:
-        print(math.log(y2/y1))
-    else:
-        xM,yM=x2/2,(y1+y2)/2
-        C=xM+yM*(y2-y1)/x2
-        t1=math.atan2(y1,C)
-        t2=math.atan2(y2,C-x2)
-        print(math.log(math.tan(t2/2)/math.tan(t1/2)))
+from math import*
+for i in[*open(0)][1:]:x,y,a,b=map(int,i.split());print(2*asinh(hypot(a-x,b-y)/2/sqrt(y*b)))
