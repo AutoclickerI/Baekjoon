@@ -1,0 +1,1 @@
+print('yneos'[eval(input().replace(' ','%30*12!='))::2])
