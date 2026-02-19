@@ -46,9 +46,6 @@ ll getval(int l, int r){
 }
 
 int main(){
-  cin.tie(0);
-  cout.tie(0);
-  ios_base::sync_with_stdio(false);
   cin>>N>>Q;
   for(int i=0;i<N;i++){
     cin>>t;
@@ -61,7 +58,7 @@ int main(){
     Q--;
     cin>>q>>i>>j;
     if(q-1)
-      cout<<getval(i-1,j)<<"\n";
+      cout<<getval(i-1,j)<<endl;
     else
       update(i-1,j);
   }
