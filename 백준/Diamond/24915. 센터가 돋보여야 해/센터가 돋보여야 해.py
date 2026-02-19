@@ -1,101 +1,195 @@
 import sys
 
-def ints():
-    data = sys.stdin.buffer.read()
-    n = len(data)
-    i = 0
-    while i < n:
-        while i < n and data[i] <= 32:
-            i += 1
-        if i >= n:
-            break
-        sign = 1
-        if data[i] == 45:  # '-'
-            sign = -1
-            i += 1
-        x = 0
-        while i < n and data[i] > 32:
-            x = x * 10 + (data[i] - 48)
-            i += 1
-        yield sign * x
+data = sys.stdin.buffer.read().split()
+it = iter(map(int, data))
 
-it = ints()
 N = next(it); Q = next(it)
-
 NEG = -10**30
 POS =  10**30
 
-# node as (mx, mn, AB, BC, ABC)
-def merge(L, R):
-    Lmx, Lmn, LAB, LBC, LABC = L
-    Rmx, Rmn, RAB, RBC, RABC = R
+# 5 parallel arrays for segment tree
+mx  = [NEG] * (2 * N)
+mn  = [POS] * (2 * N)
+AB  = [NEG] * (2 * N)
+BC  = [NEG] * (2 * N)
+ABC = [NEG] * (2 * N)
 
-    mx = Lmx if Lmx > Rmx else Rmx
-    mn = Lmn if Lmn < Rmn else Rmn
-
-    AB = LAB
-    t = RAB
-    if t > AB: AB = t
-    t = Rmx - Lmn
-    if t > AB: AB = t
-
-    BC = LBC
-    t = RBC
-    if t > BC: BC = t
-    t = Lmx - Rmn
-    if t > BC: BC = t
-
-    ABC = LABC
-    t = RABC
-    if t > ABC: ABC = t
-    t = LAB - Rmn
-    if t > ABC: ABC = t
-    t = RBC - Lmn
-    if t > ABC: ABC = t
-
-    return (mx, mn, AB, BC, ABC)
-
-tree = [(NEG, POS, NEG, NEG, NEG)] * (2 * N)
-
-# build leaves
-for i in range(N):
+# leaves
+base = N
+for idx in range(N):
     v = next(it)
-    tree[i + N] = (v, v, NEG, NEG, NEG)
+    p = base + idx
+    mx[p] = v
+    mn[p] = v
 
-# build internal
-for i in range(N - 1, 0, -1):
-    tree[i] = merge(tree[i << 1], tree[i << 1 | 1])
+# build
+for p in range(N - 1, 0, -1):
+    l = p << 1
+    r = l | 1
 
-neutral = (NEG, POS, NEG, NEG, NEG)
-out_lines = []
-append_out = out_lines.append
-merge_local = merge
-tree_local = tree
-N_local = N
+    Lmx = mx[l]; Rmx = mx[r]
+    Lmn = mn[l]; Rmn = mn[r]
+
+    mxp = Lmx if Lmx > Rmx else Rmx
+    mnp = Lmn if Lmn < Rmn else Rmn
+
+    # AB = max(L.AB, R.AB, R.max - L.min)
+    abp = AB[l]
+    t = AB[r]
+    if t > abp: abp = t
+    t = Rmx - Lmn
+    if t > abp: abp = t
+
+    # BC = max(L.BC, R.BC, L.max - R.min)
+    bcp = BC[l]
+    t = BC[r]
+    if t > bcp: bcp = t
+    t = Lmx - Rmn
+    if t > bcp: bcp = t
+
+    # ABC = max(L.ABC, R.ABC, L.AB - R.min, R.BC - L.min)
+    abcp = ABC[l]
+    t = ABC[r]
+    if t > abcp: abcp = t
+    t = AB[l] - Rmn
+    if t > abcp: abcp = t
+    t = BC[r] - Lmn
+    if t > abcp: abcp = t
+
+    mx[p] = mxp; mn[p] = mnp
+    AB[p] = abp; BC[p] = bcp; ABC[p] = abcp
+
+out = []
+append_out = out.append
 
 def update(idx, val):
-    i = idx + N_local
-    tree_local[i] = (val, val, NEG, NEG, NEG)
-    i >>= 1
-    while i:
-        tree_local[i] = merge_local(tree_local[i << 1], tree_local[i << 1 | 1])
-        i >>= 1
+    p = idx + base
+    mx[p] = val
+    mn[p] = val
+    AB[p] = BC[p] = ABC[p] = NEG
+    p >>= 1
+    while p:
+        l = p << 1
+        r = l | 1
+
+        Lmx = mx[l]; Rmx = mx[r]
+        Lmn = mn[l]; Rmn = mn[r]
+
+        mxp = Lmx if Lmx > Rmx else Rmx
+        mnp = Lmn if Lmn < Rmn else Rmn
+
+        abp = AB[l]
+        t = AB[r]
+        if t > abp: abp = t
+        t = Rmx - Lmn
+        if t > abp: abp = t
+
+        bcp = BC[l]
+        t = BC[r]
+        if t > bcp: bcp = t
+        t = Lmx - Rmn
+        if t > bcp: bcp = t
+
+        abcp = ABC[l]
+        t = ABC[r]
+        if t > abcp: abcp = t
+        t = AB[l] - Rmn
+        if t > abcp: abcp = t
+        t = BC[r] - Lmn
+        if t > abcp: abcp = t
+
+        mx[p] = mxp; mn[p] = mnp
+        AB[p] = abp; BC[p] = bcp; ABC[p] = abcp
+
+        p >>= 1
 
 def query(l, r):  # [l, r)
-    l += N_local
-    r += N_local
-    left = neutral
-    right = neutral
+    l += base
+    r += base
+
+    # left accumulator
+    lmx = NEG; lmn = POS; lab = NEG; lbc = NEG; labc = NEG
+    # right accumulator
+    rmx = NEG; rmn = POS; rab = NEG; rbc = NEG; rabc = NEG
+
     while l < r:
         if l & 1:
-            left = merge_local(left, tree_local[l])
+            # left = merge(left, node[l])
+            Lmx, Lmn, LAB, LBC, LABC = lmx, lmn, lab, lbc, labc
+            Rmx, Rmn, RAB, RBC, RABC = mx[l], mn[l], AB[l], BC[l], ABC[l]
+
+            nmx = Lmx if Lmx > Rmx else Rmx
+            nmn = Lmn if Lmn < Rmn else Rmn
+
+            nab = LAB
+            t = RAB
+            if t > nab: nab = t
+            t = Rmx - Lmn
+            if t > nab: nab = t
+
+            nbc = LBC
+            t = RBC
+            if t > nbc: nbc = t
+            t = Lmx - Rmn
+            if t > nbc: nbc = t
+
+            nabc = LABC
+            t = RABC
+            if t > nabc: nabc = t
+            t = LAB - Rmn
+            if t > nabc: nabc = t
+            t = RBC - Lmn
+            if t > nabc: nabc = t
+
+            lmx, lmn, lab, lbc, labc = nmx, nmn, nab, nbc, nabc
             l += 1
+
         if r & 1:
             r -= 1
-            right = merge_local(tree_local[r], right)
+            # right = merge(node[r], right)
+            Lmx, Lmn, LAB, LBC, LABC = mx[r], mn[r], AB[r], BC[r], ABC[r]
+            Rmx, Rmn, RAB, RBC, RABC = rmx, rmn, rab, rbc, rabc
+
+            nmx = Lmx if Lmx > Rmx else Rmx
+            nmn = Lmn if Lmn < Rmn else Rmn
+
+            nab = LAB
+            t = RAB
+            if t > nab: nab = t
+            t = Rmx - Lmn
+            if t > nab: nab = t
+
+            nbc = LBC
+            t = RBC
+            if t > nbc: nbc = t
+            t = Lmx - Rmn
+            if t > nbc: nbc = t
+
+            nabc = LABC
+            t = RABC
+            if t > nabc: nabc = t
+            t = LAB - Rmn
+            if t > nabc: nabc = t
+            t = RBC - Lmn
+            if t > nabc: nabc = t
+
+            rmx, rmn, rab, rbc, rabc = nmx, nmn, nab, nbc, nabc
+
         l >>= 1
         r >>= 1
-    return merge_local(left, right)[4]
+
+    # merge(left, right) and return ABC
+    Lmx, Lmn, LAB, LBC, LABC = lmx, lmn, lab, lbc, labc
+    Rmx, Rmn, RAB, RBC, RABC = rmx, rmn, rab, rbc, rabc
+
+    abcp = LABC
+    t = RABC
+    if t > abcp: abcp = t
+    t = LAB - Rmn
+    if t > abcp: abcp = t
+    t = RBC - Lmn
+    if t > abcp: abcp = t
+    return abcp
 
 for _ in range(Q):
     typ = next(it); a = next(it); b = next(it)
@@ -104,4 +198,4 @@ for _ in range(Q):
     else:
         append_out(str(query(a - 1, b)) + "\n")
 
-sys.stdout.write("".join(out_lines))
+sys.stdout.write("".join(out))
