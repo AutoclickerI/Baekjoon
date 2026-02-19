@@ -1,1 +1,1 @@
-print('YNEOS'[eval(input().replace(' ','&-2<'))::2])
+print('YNEOS'[eval(input().replace(' ','^1<'))::2])
