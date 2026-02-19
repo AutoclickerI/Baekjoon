@@ -1,2 +1,2 @@
-N=int(input())
-print((2**32+(N^-N)).bit_count())
+n=int(input())
+print(34-len(bin(n&-n)))
