@@ -1,2 +1,1 @@
-c,b=map(int,input().split())
-print(c/b)
+print(eval(input().replace(*' /')))
