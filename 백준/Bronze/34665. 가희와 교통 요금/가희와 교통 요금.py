@@ -1,2 +1,1 @@
-a,b=open(0)
-print(1550*(a!=b))
+print(1550*~-len({*open(0)}))
