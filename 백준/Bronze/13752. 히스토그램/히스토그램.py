@@ -1,1 +1,1 @@
-for i in[0]*int(input()):print('='*int(input()))
+for i in[*open(0)][1:]:print('='*int(i))
