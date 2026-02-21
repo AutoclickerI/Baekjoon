@@ -1,0 +1,1 @@
+print('STohlivnek  hbaerfdoerre  psruobbmliesmssi o n'[input()in'2678'::2])
