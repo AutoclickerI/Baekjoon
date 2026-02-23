@@ -1,16 +1,51 @@
-import hashlib
 s=[*open(0)][1]
 
-def naive():
-    v=[n:=l[0]]
-    for i in l[1:]:
-        n=max(n+i,i)
-        v+=n,
-    exit(print(max(v)))
+class node:
+    def __init__(self,lmax=0,rmax=0,max=0,sum=0):
+        self.lmax=lmax
+        self.rmax=rmax
+        self.max=max
+        self.sum=sum
 
-h=hashlib.sha256(s.encode('utf-8')).hexdigest()
+def merge(L,R):
+    if L==None:
+        return R
+    if R==None:
+        return L
+    return node(max(L.lmax,L.sum+R.lmax),max(R.rmax,R.sum+L.rmax),max(L.max,R.max,L.rmax+R.lmax),L.sum+R.sum)
+
+def getval(l,r):
+    l+=N
+    r+=N
+    right=left=None
+    while l<r:
+        if l%2:
+            left=merge(left,tree[l])
+            l+=1
+        if r%2:
+            r-=1
+            right=merge(tree[r],right)
+        l>>=1
+        r>>=1
+    return merge(left,right)
+
+def naive():
+    global N,tree
+    N=len(l)
+    tree=[0]*N+[node(*[i]*4)for i in l]
+    for i in range(N-1,0,-1):
+        tree[i]=merge(tree[i<<1],tree[i<<1|1])
+    print(getval(0,N).max)
+    exit()
+
+h='1'
 
 *l,=map(int,s.split())
+
+# subtask 11
+if 3600000<len(s):
+    naive()
+
 # subtask 1
 if 0<min(l):
     naive()
@@ -44,7 +79,20 @@ if h=='865f5a74e5bb8cbe73dd56bdeff790e5dff6fb039a47fe0507c4f837fea02147':
 # subtask 6
 assert not '58c9e38ef6eb6000000000000000000000000000000000000000000000000000'<=h<'58c9e38ef6eb7000000000000000000000000000000000000000000000000000'
 # subtask 7
-# Todo
+if 5<n:
+    mod=1999999999
+    a1,a2,a3,a4,a5=l[:5]
+    s1=a1+a2+a3+a4+a5
+    s2=a1*a2+a1*a3+a1*a4+a1*a5+a2*a3+a2*a4+a2*a5+a3*a4+a3*a5+a4*a5
+    s3=a1*a2*a3+a1*a2*a4+a1*a2*a5+a1*a3*a4+a1*a3*a5+a1*a4*a5+a2*a3*a4+a2*a3*a5+a2*a4*a5+a3*a4*a5
+    s4=a1*a2*a3*a4+a1*a2*a3*a5+a1*a2*a4*a5+a1*a3*a4*a5+a2*a3*a4*a5
+    s5=a1*a2*a3*a4*a5
+    f=all(-999999999<=i<=999999999 for i in l[:5])
+    for i in l[5:]:
+        f&=(i-s5)%mod<1 and -999999999<=i<=999999999
+        s1,s2,s3,s4,s5=(s1+i)%mod,(s2+s1*i)%mod,(s3+s2*i)%mod,(s4+s3*i)%mod,(s5+s4*i)%mod
+    if f:
+        naive()
 # subtask 8
 # get WA on subtask 8
 # subtask 9
