@@ -194,6 +194,7 @@ int kadane(int n, vector<string>& data) {
         parse_num(s, nums[vv]);
         vv++;
     }
+    data.clear();
 
     vector<ll> fbd;
     fbd.reserve(1024);
@@ -274,7 +275,7 @@ int kadane(int n, vector<string>& data) {
         }
     };
 
-    int i = 0, j = 0;
+    ll i = 0, j = 0;
     while (i + 1 < fbd.size() && j + 1 < bbd.size()) {
         ll fS = fbd[i], fE = fbd[i + 1];
         ll bS = bbd[j], bE = bbd[j + 1];
@@ -288,7 +289,7 @@ int kadane(int n, vector<string>& data) {
     }
 
     print_big(best);
-    return 1;
+    return 0;
 }
 
 int main() {
@@ -305,6 +306,7 @@ int main() {
         data.push_back(s);
         total_cnt += s.size() + 1;
     }
+    return kadane(n,data);
     // subtask 11
     if (3500000 < total_cnt)
       return kadane(n,data);
