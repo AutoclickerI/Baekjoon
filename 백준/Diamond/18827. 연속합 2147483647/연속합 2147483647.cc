@@ -1,46 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-struct FastScanner {
-    static constexpr size_t BUFSZ = 1 << 20;
-    char buf[BUFSZ];
-    size_t idx = 0, sz = 0;
-
-    inline char readChar() {
-        if (idx >= sz) {
-            sz = fread(buf, 1, BUFSZ, stdin);
-            idx = 0;
-            if (sz == 0) return 0;
-        }
-        return buf[idx++];
-    }
-
-    // Reads next token as [ptr,len] into a static internal buffer slice is not possible with fread streaming,
-    // so we copy into out buffer only for the current token. To avoid allocations, reuse a single std::string.
-    bool nextToken(string &out) {
-        out.clear();
-        char c;
-        do {
-            c = readChar();
-            if (!c) return false;
-        } while (c <= ' ');
-
-        while (c > ' ') {
-            out.push_back(c);
-            c = readChar();
-            if (!c) break;
-        }
-        return true;
-    }
-
-    bool nextInt(int &x) {
-        string t;
-        if (!nextToken(t)) return false;
-        x = stoi(t);
-        return true;
-    }
-};
-
 struct Big {
     // Base 1e18: limbs are uint64_t, carry uses unsigned __int128
     static constexpr uint64_t BASE = 1000000000000000000ULL; // 1e18
@@ -175,42 +135,49 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    FastScanner fs;
     int n;
-    if (!fs.nextInt(n)) return 0;
+    cin >> n;
+
+    // Replace this with your fast scanner if you want; WA is independent of I/O speed.
+    string tok;
 
     Big cur;
-    Big best_owned;            // snapshot storage
-    const Big* best_ptr = nullptr; // either &cur or &best_owned
+    Big best_owned;          // stores best when it can't safely alias cur
+    bool best_aliases_cur = false;
 
-    string tok;
     for (int i = 0; i < n; i++) {
-        fs.nextToken(tok);
+        cin >> tok;
         Big x = Big::from_token(tok);
-        int xsign = x.sign;
 
-        if (!best_ptr) {
+        if (i == 0) {
             cur = std::move(x);
-            best_ptr = &cur;
+            best_aliases_cur = true;  // best == cur
             continue;
         }
 
         if (!cur.is_pos()) {
+            // We will overwrite cur with x. If best aliases cur and x < cur(old), we must snapshot old cur.
+            if (best_aliases_cur && Big::cmp(x, cur) < 0) {
+                best_owned = cur;          // snapshot old best
+                best_aliases_cur = false;  // best is now best_owned
+            }
             cur = std::move(x);
         } else {
-            // If best aliases cur and we are about to decrease cur (x negative), snapshot best first.
-            if (best_ptr == &cur && xsign < 0) {
-                best_owned = cur;      // one copy only when needed
-                best_ptr = &best_owned;
+            // cur > 0, we will do cur += x
+            if (best_aliases_cur && x.sign < 0) {
+                best_owned = cur;          // snapshot old best (will be decreased)
+                best_aliases_cur = false;
             }
             cur.iadd(std::move(x));
         }
 
-        if (Big::cmp(cur, *best_ptr) > 0) {
-            best_ptr = &cur; // alias: no copy
+        // Update best if cur is larger than current best
+        const Big& best_ref = best_aliases_cur ? cur : best_owned;
+        if (Big::cmp(cur, best_ref) > 0) {
+            best_aliases_cur = true;       // best becomes cur, no copy
         }
     }
 
-    cout << best_ptr->to_string() << "\n";
+    cout << (best_aliases_cur ? cur.to_string() : best_owned.to_string()) << "\n";
     return 0;
 }
