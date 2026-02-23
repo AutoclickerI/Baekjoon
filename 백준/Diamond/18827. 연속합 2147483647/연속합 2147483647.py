@@ -30,7 +30,7 @@ A=[n%2]+[i%2 for i in l]
 
 B=poly_mul(A,A)
 c=B.count(0)
-if 2*c<len(B):
+if 2*c>=len(B):
     exit()
 
 v=[([n],[0])]
