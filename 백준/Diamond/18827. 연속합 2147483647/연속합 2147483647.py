@@ -15,7 +15,7 @@ h=hashlib.sha256(s.encode('utf-8')).hexdigest()
 if 0<min(l):
     naive()
 # subtask 2
-if 0<max(l):
+if max(l)<0:
     naive()
 
 d={}
@@ -29,9 +29,9 @@ def f(n):
     d[n]=f(i)
     return d[n]
 # subtask 3
-if f(n)==1:
+if f(len(l))==1:
     naive()
-nn=n
+nn=len(l)
 from bisect import*
 d,*r=[],
 for e in l:p=bisect(d,e-1);d[p:p+1]=e,;r+=p,
