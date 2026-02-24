@@ -1,6 +1,12 @@
 D1,D2=map(int,input().split())
-ss=set()
+r=0
+v=[2000*[0]for _ in range(2001)]
+import math
 for i in range(D1,D2+1):
     for j in range(i):
-        ss.add(j*pow(i,-1,10**9+7)%(10**9+7))
-print(len(ss))
+        gcd=math.gcd(j,i)
+        p,q=i//gcd,j//gcd
+        if v[p][q]<1:
+            r+=1
+            v[p][q]=1
+print(r)
