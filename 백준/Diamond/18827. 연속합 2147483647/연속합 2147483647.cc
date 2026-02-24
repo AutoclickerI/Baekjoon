@@ -292,6 +292,40 @@ int kadane(int n, vector<string>& data) {
     return 0;
 }
 
+unordered_map<int, int> remap;
+
+int func(int n) {
+  if (n == 1)
+    return n;
+  if (remap.find(n) != remap.end())
+    return remap[n];
+  remap[n] = n;
+  int r = 0;
+  for (auto& c : to_string(n)) {
+    int i = c - 48;
+    r += i * i * i;
+  }
+  remap[n] = func(r);
+  return remap[n];
+}
+
+int LIS(vector<int>& arr) {
+  vector<int> d;
+  for (auto& v : arr) {
+    auto it = lower_bound(d.begin(), d.end(), v);
+    if (it == d.end()) d.push_back(v);
+    else *it = v;
+  }
+  return d.size();
+}
+
+__int128 mod(__int128 n){
+    __int128 r = n % 1999999999;
+    if (r < 0)
+        r += 1999999999;
+    return r;
+}
+
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
@@ -306,14 +340,55 @@ int main() {
         data.push_back(s);
         total_cnt += s.size() + 1;
     }
-    return kadane(n,data);
+    
     // subtask 11
     if (3500000 < total_cnt)
       return kadane(n,data);
+    
+    vector<int> arr;
+    for(auto& s : data)
+      arr.push_back(stoi(s));
+
     bool f = 1;
     for (auto& s : data)
       f &= s[0] != '-';
     // subtask 1
     if (f)
       return kadane(n, data);
+    f = 1;
+    for (auto& s : data)
+      f &= s[0] == '-';
+    // subtask 2
+    if (f)
+      return kadane(n, data);
+    // subtask 3
+    if (func(n) == 1)
+      return kadane(n, data);
+    // subtask 4
+    if (LIS(arr) % 318 < 1)
+      return kadane(n, data);
+    // subtask 7
+    if (5 < n) {
+      __int128 a1, a2, a3, a4, a5, s1, s2, s3, s4, s5;
+      a1 = arr[0]; a2 = arr[1]; a3 = arr[2]; a4 = arr[3]; a5 = arr[4];
+      s1 = mod(a1+a2+a3+a4+a5);
+      s2 = mod(a1*a2+a1*a3+a1*a4+a1*a5+a2*a3+a2*a4+a2*a5+a3*a4+a3*a5+a4*a5);
+      s3 = mod(a1*a2*a3+a1*a2*a4+a1*a2*a5+a1*a3*a4+a1*a3*a5+a1*a4*a5+a2*a3*a4+a2*a3*a5+a2*a4*a5+a3*a4*a5);
+      s4 = mod(a1*a2*a3*a4+a1*a2*a3*a5+a1*a2*a4*a5+a1*a3*a4*a5+a2*a3*a4*a5);
+      s5 = mod(mod(a1*a2*a3)*a4*a5);
+      f = -999999999 <= a1 && a1 <= 999999999 && -999999999 <= a2 && a2 <= 999999999 && -999999999 <= a3 && a3 <= 999999999 && -999999999 <= a4 && a4 <= 999999999 && -999999999 <= a5 && a5 <= 999999999;
+      for (int i = 5; i < n; i++) {
+        f &= mod(arr[i] - s5) < 1 && -999999999 <= arr[i] && arr[i] <= 999999999;
+        s5 = mod(s5+s4*arr[i]); s4=mod(s4+s3*arr[i]); s3=mod(s3+s2*arr[i]); s2=mod(s2+s1*arr[i]); s1=mod(s1+arr[i]);
+      }
+      if (f)
+        return kadane(n, data);
+    }
+    f = 1;
+    for (auto& i : arr)
+      f &= i % 2;
+    // subtask 10
+    if (f)
+      return kadane(n, data);
+    return 0;
 }
