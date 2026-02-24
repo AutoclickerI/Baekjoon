@@ -1,4 +1,4 @@
-chunk_length=5
+chunk_length=10000
 chunk_size=10**chunk_length
 
 class B_decimal:
