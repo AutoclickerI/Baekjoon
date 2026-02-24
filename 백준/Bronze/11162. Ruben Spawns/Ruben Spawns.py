@@ -1,8 +1,8 @@
-for _ in[0]*int(input()):
-    W,M=map(int,input().split())
-    C=sorted(map(int,input().split()))[::-1]
+_,*l=map(int,open(0).read().split())
+while l:
+    W,M,*l=l
     i=0
-    for v in C:
+    for v in sorted(l[:M])[::-1]:
         W-=v
         i+=1
         if W<1:
@@ -10,3 +10,5 @@ for _ in[0]*int(input()):
             break
     else:
         print('no rest for Ruben')
+    
+    l=l[M:]
