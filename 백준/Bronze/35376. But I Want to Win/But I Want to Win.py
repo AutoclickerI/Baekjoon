@@ -1,0 +1,5 @@
+N,*l=map(int,open(c:=0).read().split())
+s=sum(l)
+*l,v,e=sorted(l)
+for i in l:v+=i;c+=1;s<v*2<exit(print(c))
+print('IMPOSSIBLE TO WIN')
