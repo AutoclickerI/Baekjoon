@@ -1,0 +1,1 @@
+print(*map(max,zip(*[*open(0)][1:])),sep='')
