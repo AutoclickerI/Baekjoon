@@ -7,9 +7,9 @@ match input():
     case'ReguIar Edition 우승자 및 Speedrun Edition 우승자':
         l+='장려상',-1,'xiaowuc1'
     case'Speedrun Edition 준우승자':
-        l+='장려상',-1,'rubix'
+        l+='장려상','치킨 기프티콘','rubix'
     case'이 대회에 참가하지 않은 사람 중 2019년 대회 최고 등수':
-        l+='결근상',-1,'hyeonguk'
+        l+='결근상','치킨 기프티콘','hyeonguk'
     case'모든 에디션에서 총점이 160억점에 가장 가까운 사람':
         l+='대상','16GB USB','2u_my_light'
     case'홀수와 짝수의 대결 문제의 오류를 발견한 사람':
@@ -19,7 +19,7 @@ match input():
     case'배중률교를 정해가 아닌 방법으로 푼 사람 중 추첨':
         l+='직관주의자상','치킨 기프티콘','dotorya'
     case'Marathon Edition에서 Nonogram QR을 마지막으로 1점 이상 획득한 사람':
-        l+='QR 분해 상',-1,'201812106'
+        l+='QR 분해 상','바코드 스캐너','201812106'
     case'연속합 2147483647 첫 0점자':
         l+='Re: 제로부터 시작하는 다이나믹 프로그래밍 상','빵','zigui'
     case'Beginning the Hunt 첫 만점자':
