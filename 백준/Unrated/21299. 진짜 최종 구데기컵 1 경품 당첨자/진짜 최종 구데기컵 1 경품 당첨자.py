@@ -1,11 +1,11 @@
 l=[]
 match input():
     case'Marathon Edition 우승자':
-        l+='장려상',-1,'sait2000'
+        l+='장려상','레고 타워 브리지 - 10214','sait2000'
     case'Marathon Edition 준우승자 및 ReguIar Edition 준우승자':
-        l+='장려상',-1,'cubelover'
+        l+='장려상','Katamari Damacy REROLL','cubelover'
     case'ReguIar Edition 우승자 및 Speedrun Edition 우승자':
-        l+='장려상',-1,'xiaowuc1'
+        l+='장려상','(도서) Speedrun Science: A Long Guide To Short Playthroughs','xiaowuc1'
     case'Speedrun Edition 준우승자':
         l+='장려상','치킨 기프티콘','rubix'
     case'이 대회에 참가하지 않은 사람 중 2019년 대회 최고 등수':
