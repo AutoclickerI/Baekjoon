@@ -1,0 +1,1 @@
+while N:=int(input()):v=0;print(max(v:=max(v,0)+int(input())for _ in[0]*N))
