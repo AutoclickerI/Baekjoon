@@ -1,0 +1,60 @@
+class node:
+    def __init__(self,lmax,rmax,max,sum):
+        self.lmax=lmax
+        self.rmax=rmax
+        self.max=max
+        self.sum=sum
+
+def merge(L,R):
+    if L==None:
+        return R
+    if R==None:
+        return L
+    return node(max(L.lmax,L.sum+R.lmax),max(R.rmax,R.sum+L.rmax),max(L.max,R.max,L.rmax+R.lmax),L.sum+R.sum)
+
+def update(i,v):
+    i+=N
+    tree[i]=node(*[v]*4)
+    while i:=i>>1:
+        tree[i]=merge(tree[i<<1],tree[i<<1|1])
+
+def getval(l,r):
+    l+=N
+    r+=N
+    right=left=None
+    while l<r:
+        if l%2:
+            left=merge(left,tree[l])
+            l+=1
+        if r%2:
+            r-=1
+            right=merge(tree[r],right)
+        l>>=1
+        r>>=1
+    return merge(left,right)
+
+
+[N,M],A,B=[[*map(int,i.split())]for i in open(0)]
+
+l=[]
+for i,v in enumerate(A):
+    l+=(v,i),
+
+l.sort()
+
+tree=[0]*N+[node(*[-float('inf')]*4)for i in l]
+
+for i in range(N-1,0,-1):
+    tree[i]=merge(tree[i<<1],tree[i<<1|1])
+
+d={}
+
+for v in sorted(B)[::-1]:
+    while l and v<=l[-1][0]:
+        n,i=l.pop()
+        update(i,n)
+    d[v]=getval(0,N).max
+
+for i in B:
+    v=d[i]
+    print(+(v!=-float('inf'))and v)
