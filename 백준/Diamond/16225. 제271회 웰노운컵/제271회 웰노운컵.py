@@ -1,11 +1,8 @@
-_,A,B=[map(int,i.split())for i in open(0)]
-
+N,*l=map(int,open(0).read().split())
 from heapq import*
-hq=[]
-c=r=0
-for i,(j,k)in enumerate(sorted(zip(B,A))):
-    heappush(hq,-k)
-    if c*2<=i:
-        r-=heappop(hq)
-        c+=1
+h=[]
+c=r=i=0
+for j,k in sorted(zip(l[N:],l)):
+ heappush(h,-k);i+=1
+ if c*2<i:r-=heappop(h);c+=1
 print(r)
