@@ -109,8 +109,6 @@ for it in product(*(range(dims[i])for i in range(10))):
     for lg in range(10):
         coord[perm[lg]]=it[lg]
 
-    row=[]
     for x in range(dims[10]):
         coord[perm[10]]=x
-        row+=getv(coord),
-    print(*row)
+        print(getv(coord))
