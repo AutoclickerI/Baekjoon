@@ -31,7 +31,7 @@ def getval(l,r):
 
 [N],A,_,*l=[[*map(int,i.split())]for i in open(0)]
 
-blk=500
+blk=750
 
 sA=[0]
 for i in A:
