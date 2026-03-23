@@ -3,7 +3,10 @@ using namespace std;
 
 static constexpr int tN = 131072;
 
-void update_seg(vector<int>& tree, int i, int v) {
+vector<int> tree(2 * tN, 0);
+vector<deque<int>> dql(200002);
+
+void update(int i, int v) {
     i += tN;
     tree[i] += v;
     while (i >>= 1) {
@@ -11,7 +14,7 @@ void update_seg(vector<int>& tree, int i, int v) {
     }
 }
 
-int getmax_seg(const vector<int>& tree) {
+int getmax() {
     int i = 1;
     while (i < tN) {
         if (tree[i << 1 | 1]) i = i << 1 | 1;
@@ -30,9 +33,6 @@ int main() {
 
     int T;
     cin >> T;
-
-    vector<int> tree(2 * tN, 0);
-    vector<deque<int>> dql(200002);
 
     while (T--) {
         int N;
@@ -72,20 +72,20 @@ int main() {
             while (pe < e) {
                 int x = sA[pe] + 100001;
                 if (!dql[x].empty()) {
-                    update_seg(tree, dql[x].back() - dql[x].front(), -1);
+                    update(dql[x].back() - dql[x].front(), -1);
                 }
                 dql[x].push_back(pe);
-                update_seg(tree, dql[x].back() - dql[x].front(), 1);
+                update(dql[x].back() - dql[x].front(), 1);
                 ++pe;
             }
 
             while (e < pe) {
                 --pe;
                 int x = sA[pe] + 100001;
-                update_seg(tree, dql[x].back() - dql[x].front(), -1);
+                update(dql[x].back() - dql[x].front(), -1);
                 dql[x].pop_back();
                 if (!dql[x].empty()) {
-                    update_seg(tree, dql[x].back() - dql[x].front(), 1);
+                    update(dql[x].back() - dql[x].front(), 1);
                 }
             }
 
@@ -93,23 +93,23 @@ int main() {
                 --ps;
                 int x = sA[ps] + 100001;
                 if (!dql[x].empty()) {
-                    update_seg(tree, dql[x].back() - dql[x].front(), -1);
+                    update(dql[x].back() - dql[x].front(), -1);
                 }
                 dql[x].push_front(ps);
-                update_seg(tree, dql[x].back() - dql[x].front(), 1);
+                update(dql[x].back() - dql[x].front(), 1);
             }
 
             while (ps < s) {
                 int x = sA[ps] + 100001;
-                update_seg(tree, dql[x].back() - dql[x].front(), -1);
+                update(dql[x].back() - dql[x].front(), -1);
                 dql[x].pop_front();
                 if (!dql[x].empty()) {
-                    update_seg(tree, dql[x].back() - dql[x].front(), 1);
+                    update(dql[x].back() - dql[x].front(), 1);
                 }
                 ++ps;
             }
 
-            r += getmax_seg(tree);
+            r += getmax();
         }
 
         cout << r << '\n';
