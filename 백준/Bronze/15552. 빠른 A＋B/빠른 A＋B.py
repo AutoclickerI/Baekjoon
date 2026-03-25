@@ -1,3 +1,6 @@
-for i in[*open(0)][1:]:
-    a,b=map(int,i.split())
-    print(a+b)
+import sys
+input=sys.stdin.readline
+
+for _ in range(int(input())):
+    A,B=map(int,input().split())
+    print(A+B)
