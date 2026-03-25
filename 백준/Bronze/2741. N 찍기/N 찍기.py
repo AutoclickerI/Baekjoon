@@ -1,2 +1,1 @@
-for i in range(int(input())):
-    print(i + 1)
+print(*range(1,int(input())+1))
