@@ -1,2 +1,1 @@
-import sys
-while(l:=sys.stdin.readline()):print(l,end="")
+print(open(0).read())
