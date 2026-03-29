@@ -35,22 +35,17 @@ def min_cost_max_flow(src,dst):
         if dist[dst]==float('inf'):
             return flow,cost
 
-        work=[0]*(N+M+2)
-
         def dfs(n,push):
             if n==dst:
                 return push
             vis[n]=1
-            while work[n]<len(edges[n]):
-                i=work[n]
-                e,f,c,p=edges[n][i]
+            for i,(e,f,c,p)in enumerate(edges[n]):
                 if f and not vis[e] and dist[e]==dist[n]+c:
                     fl=dfs(e,min(push,f))
                     if fl:
                         edges[n][i][1]-=fl
                         edges[e][p][1]+=fl
                         return fl
-                work[n]+=1
             return 0
 
         while 1:
