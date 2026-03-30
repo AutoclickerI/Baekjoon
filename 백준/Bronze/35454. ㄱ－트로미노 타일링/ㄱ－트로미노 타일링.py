@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:n=int(i);print((1<<n//3)*(n%3<1))
