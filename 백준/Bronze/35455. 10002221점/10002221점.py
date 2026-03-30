@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:N,S=map(int,i.split());print('YNeos'[S<10**7+N::2])
