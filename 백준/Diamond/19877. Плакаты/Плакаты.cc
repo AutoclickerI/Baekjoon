@@ -47,11 +47,11 @@ node merge_node(const node& L, const node& R) {
 
                     int na = a;
                     if (L.len < 4 && a == L.len)
-                        na = L.len + c;
+                        na += c;
 
                     int nd = d;
                     if (R.len < 4 && d == R.len)
-                        nd = R.len + b;
+                        nd += b;
 
                     ret.n[na][nd] = max(ret.n[na][nd], val);
                 }
