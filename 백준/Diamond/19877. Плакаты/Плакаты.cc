@@ -39,7 +39,7 @@ node merge_node(const node& L, const node& R) {
         for (int b = 0; b < 4; b++) {
             if (L.n[a][b] == NEG) continue;
             for (int c = 0; c < 4; c++) {
-                if (b + c >= 4) continue;
+                if (3 < b + c) continue;
                 for (int d = 0; d < 4; d++) {
                     if (R.n[c][d] == NEG) continue;
 
