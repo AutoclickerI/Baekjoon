@@ -31,12 +31,11 @@ def getval(l,r):
             right=merge(tree[r],right)
         l>>=1
         r>>=1
-    ret=merge(left,right)
-    return ret if ret is not None else node(0,0)
+    return merge(left,right)or node(0,0)
 
 _,i,*l=map(int,open(0))
 N=200001
-tree=[node(0,0)for _ in range(2*N)]
+tree=[node(0,0)]*2*N
 
 r=1
 update(i,i)
