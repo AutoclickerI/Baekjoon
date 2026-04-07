@@ -1,15 +1,29 @@
 [N,M,X],*l=[map(int,i.split())for i in open(0)]
-b=[N*[0]for _ in[0]*N]
+    
+fwd=[[]for _ in[0]*-~N]
+bwd=[[]for _ in[0]*-~N]
 
 for s,e in l:
-    b[s-1][e-1]=1
-    b[e-1][s-1]=-1
+    fwd[s]+=e,
+    bwd[e]+=s,
 
-for m in range(N):
-    for s in range(N):
-        for e in range(N):
-            if b[s][m]==b[m][e]!=0:
-                b[s][e]=b[s][m]
+f=[X]
+fv=[0]*-~N
+for n in f:
+    for e in fwd[n]:
+        if fv[e]<1:
+            fv[e]=1
+            f+=e,
 
-n,z,p=map(b[X-1].count,[-1,0,1])
-print(N-(z+p)+1,n+z)
+b=[X]
+bv=[0]*-~N
+for n in b:
+    for e in bwd[n]:
+        if bv[e]<1:
+            bv[e]=1
+            b+=e,
+
+f=sum(fv)
+b=sum(bv)
+
+print(b+1,N-f)
