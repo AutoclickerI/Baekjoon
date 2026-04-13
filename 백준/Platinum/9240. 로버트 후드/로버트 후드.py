@@ -22,15 +22,20 @@ for i in l:
     ch+=i,
 
 def dist(a,b):
-    return((a[0]-b[0])**2+(a[1]-b[1])**2)**.5
+    return(a[0]-b[0])**2+(a[1]-b[1])**2
 
 ch*=2
 r=0
-s=e=0
-while s<e+1<len(ch):
-    r=max(r,dist(ch[s],ch[e]))
-    if dist(ch[s],ch[e])<dist(ch[s],ch[e+1]):
-        e+=1
+p1=0
+p2=1
+while p1<p2+1<len(ch):
+    A,B=ch[p1],ch[p1+1]
+    C,D=ch[p2],ch[p2+1]
+    AB=B[0]-A[0],B[1]-A[1]
+    CD=D[0]-C[0],D[1]-C[1]
+    r=max(r,dist(A,C))
+    if ccw(0,0,*AB,*CD)<0:
+        p1+=1
     else:
-        s+=1
-print(r)
+        p2+=1
+print(r**.5)
