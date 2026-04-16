@@ -1,5 +1,5 @@
 section .data
-  msg1 db "Hello"," World!"
+  msg1 db "Hello",0ah,"World!"
   msg3 db "Hello World!"
 
 section .text
