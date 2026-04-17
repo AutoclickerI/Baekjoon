@@ -51,9 +51,4 @@ while s:=input():
         for v in t:
             scc_num[v]=i
 
-    f=0
-    for i in range(N):
-        v=i*2
-        nv=i*2+1
-        f|=scc_num[v]==scc_num[nv]
-    print('yneos'[f::2])
+    print('yneos'[any(scc_num[i*2]==scc_num[i*2|1]for i in range(N))::2])
