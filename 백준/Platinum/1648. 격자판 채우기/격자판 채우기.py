@@ -1,28 +1,5 @@
-def zero_pos(n):
-    r=0
-    while n&1:
-        n>>=1
-        r+=1
-    return r
-
-def pack(y,x):
-    return 1<<y*M+x
-
-N,M=map(int,input().split())
-from heapq import*
-hq=[0]
-v={0:1}
-while hq:
-    n=heappop(hq)
-    ix=zero_pos(n)
-    y,x=ix//M,ix%M
-    for dy,dx in(1,0),(0,1):
-        ny,nx=y+dy,x+dx
-        p=pack(y,x)|pack(ny,nx)
-        if 0<=ny<N and 0<=nx<M and n&p<1:
-            if n|p not in v:
-                v[n|p]=0
-                heappush(hq,n|p)
-            v[n|p]=(v[n|p]+v[n])%9901
-
-print(v.get(2**(N*M)-1,0))
+from functools import*
+@cache
+def f(i,s):return+(n*m<=i)or(f(i+1,s>>1)if s&1else(i<~-n*m and f(i+1,s>>1|1<<m-1))+(~i%m and~s&2and f(i+2,s>>2)))
+n,m=map(int,input().split())
+print(f(0,0)%9901)
