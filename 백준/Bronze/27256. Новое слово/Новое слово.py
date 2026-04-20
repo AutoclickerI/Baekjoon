@@ -1,0 +1,1 @@
+print(len(s:=input())*len(t:=input())-sum(s[1:].count(c)*t[:-1].count(c)for c in{*s[1:]}))
