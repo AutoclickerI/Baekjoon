@@ -1,3 +1,2 @@
 import math
-N=int(input())>>1
-print(math.comb(2*N,N)//-~N%987654321)
+print(math.comb(N:=int(input()),N//2-1)*2//N%987654321)
