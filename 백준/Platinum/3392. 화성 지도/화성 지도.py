@@ -11,7 +11,9 @@ Y=sorted({*Y})
 D={v:i for i,v in enumerate(Y)}
 M=len(Y)-1
 
-S=1<<M.bit_length()
+S=1
+while S<M:
+    S*=2
 
 t=[0]*S*2
 c=[0]*S*2
@@ -35,23 +37,23 @@ def update(l,r,v):
     l+=S
     r+=S
     a=[]
-
+    
     while l<r:
         if l&1:
             c[l]+=v
             pull(l)
             a+=l,
             l+=1
-
+        
         if r&1:
             r-=1
             c[r]+=v
             pull(r)
             a+=r,
-
+        
         l//=2
         r//=2
-
+    
     for i in a:
         i//=2
         while i:
