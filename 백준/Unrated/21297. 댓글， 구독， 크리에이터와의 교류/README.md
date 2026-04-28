@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 30860 KB, 시간: 68 ms
+메모리: 30864 KB, 시간: 76 ms
 
 ### 분류
 
@@ -12,7 +12,7 @@
 
 ### 제출 일자
 
-2022년 3월 29일 19:43:38
+2022년 3월 29일 19:43:54
 
 ### 문제 설명
 
@@ -35,7 +35,7 @@
 <ol>
 	<li>컴퓨터에서 YouTube에 로그인합니다.</li>
 	<li>구독할 채널의 동영상으로 이동합니다.</li>
-	<li>동영상 플레이어에서 구독 <img alt="" height="20" src="https://lh3.googleusercontent.com/hkgWLauP3rziBbyxEaGzJaa55Ra5pSuHMG7FUscB7hQ751HKy3qeIqMWYKrD=h40">을 클릭합니다.</li>
+	<li>동영상 플레이어에서 구독 <img alt="" height="20" src="">을 클릭합니다.</li>
 </ol>
 
 <p>채널을 구독하면 추천 채널 목록이 화면에 표시됩니다. 이 목록은 아직 구독하지 않은 관련 채널을 기반으로 생성됩니다. 구독하기 전에 언제든지 채널의 콘텐츠를 볼 수 있습니다.</p>
@@ -46,14 +46,14 @@
 
 <p>채널을 구독 취소한 다음 다시 구독하면 알림 설정이 재설정됩니다.</p>
 
-<p>채널 시청자층이 '아동용'으로 설정된 경우에는 알림이 전송되지 않습니다. 또한 종 모양 알림 아이콘이 알림 없음 <img alt="" height="20 " src="https://lh3.googleusercontent.com/53nydMFlyzLUiKizGsbIgh3ZP8qp6ZFGCx_lwKcedCLExGX75KvfuU97ydL2ALuc8w=w40-h40" width="20">으로 설정됩니다. 이 설정은 변경할 수 없습니다. </p>
+<p>채널 시청자층이 '아동용'으로 설정된 경우에는 알림이 전송되지 않습니다. 또한 종 모양 알림 아이콘이 알림 없음 <img alt="" height="20 " src="" width="20">으로 설정됩니다. 이 설정은 변경할 수 없습니다. </p>
 
 <h3>채널 구독 취소</h3>
 
 <ol>
 	<li>컴퓨터에서 YouTube에 로그인합니다.</li>
 	<li>구독을 취소할 채널의 동영상으로 이동합니다.</li>
-	<li>동영상 플레이어 아래에서 <strong>구독 중</strong> <img alt="다음" height="18" src="https://lh3.googleusercontent.com/SaY5lqCwN7kppnS546l9ys-E2sZftTTIHjBrdV-WsGPIhGjaxcEXjfgdIfW_UNG7Sw0=w26-h36" title="다음" width="13"> <strong>구독 취소</strong>를 클릭합니다.</li>
+	<li>동영상 플레이어 아래에서 <strong>구독 중</strong> <img alt="다음" height="18" src="" title="다음" width="13"> <strong>구독 취소</strong>를 클릭합니다.</li>
 	<li>화면 하단에 구독 취소를 확인하는 알림이 표시됩니다.</li>
 </ol>
 
