@@ -1,0 +1,1 @@
+[print('yes')for _ in[0]*int(input())]

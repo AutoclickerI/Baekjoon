@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:s=i.strip();print(~s.isdigit()%2*'invalid input'or int(s))

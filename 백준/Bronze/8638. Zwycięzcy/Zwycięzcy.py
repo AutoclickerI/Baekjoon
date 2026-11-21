@@ -1,0 +1,1 @@
+for i,j in enumerate(l:=[*map(int,[*open(0)][1].split())]):max(l)==j!=print(end=chr(65+i))

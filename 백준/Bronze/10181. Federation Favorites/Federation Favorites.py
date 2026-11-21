@@ -1,0 +1,1 @@
+while~(N:=int(input())):S=' + '.join(str(i)for i in range(1,N)if N%i<1);print(N,['is NOT perfect.','= '+S][eval(S)==N])

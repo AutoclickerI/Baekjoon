@@ -1,0 +1,1 @@
+for i in[*open(j:=0)][1:]:j+=1;print(f'Case {j}:','YNEOS'[eval(i.replace('=','!='))::2])

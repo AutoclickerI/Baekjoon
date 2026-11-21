@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:a,b,c,d,e=sorted(map(int,i.split()));print([b+c+d,'KIN'][d-b>3])

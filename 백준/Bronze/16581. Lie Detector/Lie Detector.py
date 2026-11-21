@@ -1,0 +1,1 @@
+print('TLRIUET H'[~sum(s<'T'for s in open(0))%2::2])

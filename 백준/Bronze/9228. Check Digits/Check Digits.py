@@ -1,0 +1,1 @@
+while'#'<(s:=input()):k=0-sum(i*int(x)for i,x in enumerate(s[::-1],2))%-11;print(f'{s} -> {"Rejected"*(9<k)or k}')

@@ -1,0 +1,1 @@
+for*s,in open(0).read().split()[:-1]:s[1:-1]=s[-2:0:-1];print(*s,sep='')

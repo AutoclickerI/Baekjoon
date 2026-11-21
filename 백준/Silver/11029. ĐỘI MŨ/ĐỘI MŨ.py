@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:p,n=map(int,i.split());print((p-1).bit_count()%n)

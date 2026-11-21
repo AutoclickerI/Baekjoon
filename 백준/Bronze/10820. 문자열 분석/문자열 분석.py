@@ -1,0 +1,1 @@
+for i in open(0):print(sum(j.islower()for j in i),sum(j.isupper()for j in i),sum(j.isdigit()for j in i),sum(j==' 'for j in i))

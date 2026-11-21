@@ -1,0 +1,17 @@
+1
+0
+:loop
+>n
+<n
+1
+Znend
+>a
+<a
+>b
+<b
+Pb
+-
++
+<a
+Jloop
+:end

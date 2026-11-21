@@ -1,0 +1,1 @@
+print(sum(1/(int(i)or.5)for i in[*open(0)][1].split()))

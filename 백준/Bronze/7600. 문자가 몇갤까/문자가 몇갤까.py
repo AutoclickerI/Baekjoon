@@ -1,0 +1,1 @@
+while'#'<(i:=input()):print(sum(c>'`'for c in{*i.lower()}))

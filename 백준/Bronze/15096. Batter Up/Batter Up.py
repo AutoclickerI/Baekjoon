@@ -1,0 +1,1 @@
+print(sum(a:=[int(i)for i in[*open(0)][1].split()if'.'<i])/len(a))

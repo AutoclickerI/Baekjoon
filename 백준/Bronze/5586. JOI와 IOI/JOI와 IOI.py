@@ -1,0 +1,1 @@
+print(*map(input().replace('I','II').count,['JOI','IOI']))

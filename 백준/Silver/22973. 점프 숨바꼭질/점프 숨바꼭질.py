@@ -1,0 +1,1 @@
+print([(K:=int(input()))and-1,K.bit_length()][K%2])

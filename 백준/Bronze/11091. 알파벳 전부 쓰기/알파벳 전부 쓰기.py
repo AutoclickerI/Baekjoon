@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:s=sorted({*map(chr,range(97,123))}-{*i.lower()});print('pmainsgsrianmg'[s>[]::2],''.join(s))

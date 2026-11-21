@@ -1,0 +1,1 @@
+print(min(s:=sorted([*open(0)][1].split(),key=int),key=s.count))

@@ -1,0 +1,1 @@
+print(*sorted(map(abs,[i-j for i,j in zip(*open(0,'rb'))]))[1:])

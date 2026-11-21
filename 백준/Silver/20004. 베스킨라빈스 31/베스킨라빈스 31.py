@@ -1,0 +1,1 @@
+print(*[n+1for n in range(int(input()))if 1>30%(n+2)])

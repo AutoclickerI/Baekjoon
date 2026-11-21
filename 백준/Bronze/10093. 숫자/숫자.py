@@ -1,0 +1,1 @@
+print(len(R:=range(*sorted(map(int,input().split())))[1:]),*R)

@@ -1,0 +1,1 @@
+for n in[*open(0)][1].split():print(+(n==str(int(int(n)**.5)**2)))
