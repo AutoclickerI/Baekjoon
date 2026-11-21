@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/30075) 
 
+### 선택한 제출
+
+[제출 67328923](https://acmicpc.net/source/67328923) · Python 3 · 78 B · Sveikas， Pasauli！.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 128 ms
+메모리: 31256 KB, 시간: 40 ms
 
 ### 분류
 

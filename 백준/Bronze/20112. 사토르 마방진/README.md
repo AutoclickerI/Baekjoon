@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20112) 
 
+### 선택한 제출
+
+[제출 59155060](https://acmicpc.net/source/59155060) · Python 3 · 72 B · 사토르 마방진.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

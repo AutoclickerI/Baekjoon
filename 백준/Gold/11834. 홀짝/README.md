@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11834) 
 
+### 선택한 제출
+
+[제출 41817031](https://acmicpc.net/source/41817031) · Python 3 · 142 B · 홀짝.py
+
 ### 성능 요약
 
 메모리: 34852 KB, 시간: 96 ms

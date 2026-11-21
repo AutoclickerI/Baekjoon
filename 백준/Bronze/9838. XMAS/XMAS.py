@@ -1,1 +1,2 @@
-n,*l=map(int,open(0));[print(i+1)for _,i in sorted(zip(l,range(n)))]
+n,*l=map(int,open(0))
+for _,i in sorted(zip(l,range(n))):print(i+1)

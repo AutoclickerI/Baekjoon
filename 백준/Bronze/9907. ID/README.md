@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9907) 
 
+### 선택한 제출
+
+[제출 60234877](https://acmicpc.net/source/60234877) · Python 3 · 76 B · ID.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

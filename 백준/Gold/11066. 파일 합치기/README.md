@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11066) 
 
+### 선택한 제출
+
+[제출 63487614](https://acmicpc.net/source/63487614) · PyPy3 · 472 B · 파일 합치기.py
+
 ### 성능 요약
 
 메모리: 143208 KB, 시간: 4652 ms

@@ -1,1 +1,1 @@
-exec("p,q=map(int,input().split());print('MNMOM'[p<q::2],'BRAINS');"*int(input()))
+exec("print('MNMOM'[eval('<'.join(input().split()))::2],'BRAINS');"*int(input()))

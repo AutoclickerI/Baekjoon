@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15236) 
 
+### 선택한 제출
+
+[제출 46721254](https://acmicpc.net/source/46721254) · Python 3 · 87 B · Dominos.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

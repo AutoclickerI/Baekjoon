@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11648) 
 
+### 선택한 제출
+
+[제출 52291891](https://acmicpc.net/source/52291891) · Python 3 · 60 B · 지속.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 68 ms
+메모리: 30840 KB, 시간: 76 ms
 
 ### 분류
 

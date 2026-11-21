@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5073) 
 
+### 선택한 제출
+
+[제출 64513435](https://acmicpc.net/source/64513435) · Python 3 · 133 B · 삼각형과 세 변.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 44 ms
+메모리: 31256 KB, 시간: 40 ms
 
 ### 분류
 

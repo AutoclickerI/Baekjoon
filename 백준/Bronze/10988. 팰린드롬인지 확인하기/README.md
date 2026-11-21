@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10988) 
 
+### 선택한 제출
+
+[제출 45037323](https://acmicpc.net/source/45037323) · Python 3 · 74 B · 팰린드롬인지 확인하기.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2485) 
 
+### 선택한 제출
+
+[제출 66469290](https://acmicpc.net/source/66469290) · Python 3 · 123 B · 가로수.py
+
 ### 성능 요약
 
-메모리: 38016 KB, 시간: 84 ms
+메모리: 38016 KB, 시간: 88 ms
 
 ### 분류
 

@@ -1,1 +1,1 @@
-for i in[0]*int(input()):print(input().lower())  
+exec('print(input().lower());'*int(input()))

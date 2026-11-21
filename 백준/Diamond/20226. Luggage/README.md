@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20226) 
 
+### 선택한 제출
+
+[제출 56607033](https://acmicpc.net/source/56607033) · Python 3 · 1351 B · Luggage.py
+
 ### 성능 요약
 
-메모리: 41428 KB, 시간: 4456 ms
+메모리: 41556 KB, 시간: 4536 ms
 
 ### 분류
 

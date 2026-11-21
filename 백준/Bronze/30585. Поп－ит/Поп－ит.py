@@ -1,1 +1,1 @@
-_,*l=open(0);print(min(''.join(l).count(i)for i in'01'))
+print(min(map(str([*open(0)][1:]).count,'01')))

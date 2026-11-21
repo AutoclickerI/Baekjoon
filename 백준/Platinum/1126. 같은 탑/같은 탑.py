@@ -1,17 +1,6 @@
-m=500001
-N,*l=map(int,open(0).read().split())
-
-d=[-9e9]*m
-d[0]=0
-
-for v in l:
-    t=d[:]
-    for i in range(m):
-        if i+v<m:
-            t[i+v]=max(t[i+v],d[i])
-        if 0<=i-v:
-            t[i-v]=max(t[i-v],d[i]+v)
-        else:
-            t[v-i]=max(t[v-i],d[i]+i)
-    d=t
-print(-(d[0]<1)or d[0])
+d={0:0}
+for n in[*open(0)][1].split():
+ e={**d};n=int(n)
+ for k in d:e[k+n]=max(e.get(k+n,0),z:=d[k]+n);e[i]=max(e.get(i:=abs(n-k),0),z)
+ d=e
+print(d[0]//2or-1)

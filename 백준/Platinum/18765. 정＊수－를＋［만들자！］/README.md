@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18765) 
 
+### 선택한 제출
+
+[제출 42226721](https://acmicpc.net/source/42226721) · Text · 60073 B · 3점 · 정＊수－를＋［만들자！］.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

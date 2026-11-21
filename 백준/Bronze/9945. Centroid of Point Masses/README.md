@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9945) 
 
+### 선택한 제출
+
+[제출 64223776](https://acmicpc.net/source/64223776) · Python 3 · 146 B · Centroid of Point Masses.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 436 ms
+메모리: 99044 KB, 시간: 776 ms
 
 ### 분류
 

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11009) 
 
+### 선택한 제출
+
+[제출 73192305](https://acmicpc.net/source/73192305) · Python 3 · 167 B · Drinks.py
+
 ### 성능 요약
 
-메모리: 39524 KB, 시간: 284 ms
+메모리: 39444 KB, 시간: 288 ms
 
 ### 분류
 

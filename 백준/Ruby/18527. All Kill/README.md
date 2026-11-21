@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18527) 
 
+### 선택한 제출
+
+[제출 80339628](https://acmicpc.net/source/80339628) · Python 3 · 110 B · All Kill.py
+
 ### 성능 요약
 
-메모리: 37940 KB, 시간: 92 ms
+메모리: 37804 KB, 시간: 96 ms
 
 ### 분류
 

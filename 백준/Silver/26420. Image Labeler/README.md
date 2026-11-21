@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/26420) 
 
+### 선택한 제출
+
+[제출 66127634](https://acmicpc.net/source/66127634) · Python 3 · 175 B · 10점 · Image Labeler.py
+
 ### 성능 요약
 
 메모리: 32276 KB, 시간: 316 ms

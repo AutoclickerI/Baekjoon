@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/22193) 
 
+### 선택한 제출
+
+[제출 40223198](https://acmicpc.net/source/40223198) · Python 3 · 40 B · 100점 · Multiply.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 188 ms

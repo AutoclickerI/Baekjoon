@@ -1,1 +1,1 @@
-for _ in[0]*int(input()):g=1+5**.5;print(['not','golden'][g*.4975<=eval(input().replace(*' /'))<=g*.5025])
+exec("print(['not','golden'][1.99<4*eval(input().replace(*' /'))/(1+5**.5)<2.01]);"*int(input()))

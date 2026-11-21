@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18412) 
 
+### 선택한 제출
+
+[제출 60466746](https://acmicpc.net/source/60466746) · Python 3 · 76 B · 文字列の反転 （Inversion of a String）.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

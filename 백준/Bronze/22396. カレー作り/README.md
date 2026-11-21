@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/22396) 
 
+### 선택한 제출
+
+[제출 60175403](https://acmicpc.net/source/60175403) · Python 3 · 74 B · カレー作り.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 44 ms
+메모리: 31256 KB, 시간: 48 ms
 
 ### 분류
 

@@ -1,2 +1,3 @@
 _,*l=map(int,open(0).read().split())
-print(max(min(l[1::4])-max(l[::4]),0)*max(min(l[3::4])-max(l[2::4]),0))
+f=lambda n:max(min(l[n+1::4])-max(l[n::4]),0)
+print(f(0)*f(2))

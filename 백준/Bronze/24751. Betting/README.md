@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24751) 
 
+### 선택한 제출
+
+[제출 40949536](https://acmicpc.net/source/40949536) · Python 3 · 48 B · Betting.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

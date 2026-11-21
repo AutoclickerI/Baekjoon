@@ -1,4 +1,5 @@
-f=lambda n:sum(map(int,str(n)))
+f=lambda x:sum(map(int,str(x)))
 while n:=int(input()):
-    for i in range(11,1000):
-        if f(n)==f(n*i):print(i);break
+ i=11
+ while f(n)-f(n*i):i+=1
+ print(i)

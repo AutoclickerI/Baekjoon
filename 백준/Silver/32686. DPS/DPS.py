@@ -1,6 +1,3 @@
-import sys
-input=sys.stdin.readline
-
 N,S,E=map(int,input().split())
 dps=0
 for _ in[0]*N:

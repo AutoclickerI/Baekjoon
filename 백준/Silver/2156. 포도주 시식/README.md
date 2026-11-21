@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2156) 
 
+### 선택한 제출
+
+[제출 40570462](https://acmicpc.net/source/40570462) · Python 3 · 324 B · 포도주 시식.py
+
 ### 성능 요약
 
 메모리: 33196 KB, 시간: 540 ms

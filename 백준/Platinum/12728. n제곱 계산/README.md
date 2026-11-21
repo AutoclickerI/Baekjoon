@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/12728) 
 
+### 선택한 제출
+
+[제출 41586047](https://acmicpc.net/source/41586047) · Python 3 · 551 B · n제곱 계산.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 104 ms

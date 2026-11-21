@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15964) 
 
+### 선택한 제출
+
+[제출 40218826](https://acmicpc.net/source/40218826) · Python 3 · 53 B · 100점 · 이상한 기호.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

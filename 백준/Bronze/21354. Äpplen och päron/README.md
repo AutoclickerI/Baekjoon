@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21354) 
 
+### 선택한 제출
+
+[제출 40198677](https://acmicpc.net/source/40198677) · Python 3 · 95 B · Äpplen och päron.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 72 ms

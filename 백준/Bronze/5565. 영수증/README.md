@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5565) 
 
+### 선택한 제출
+
+[제출 45129596](https://acmicpc.net/source/45129596) · Python 3 · 46 B · 영수증.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/22201) 
 
+### 선택한 제출
+
+[제출 56609479](https://acmicpc.net/source/56609479) · Text · 3000 B · 100점 · Tiny － 1.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15001) 
 
+### 선택한 제출
+
+[제출 64044234](https://acmicpc.net/source/64044234) · Python 3 · 65 B · Frog Leaps.py
+
 ### 성능 요약
 
 메모리: 79064 KB, 시간: 388 ms

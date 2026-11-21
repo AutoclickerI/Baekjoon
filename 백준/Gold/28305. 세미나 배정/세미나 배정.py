@@ -1,17 +1,12 @@
-from heapq import*
-N,T=map(int,input().split())
-l=sorted(map(int,input().split()))
-def possible(n):
-    seminar=[0]*n
-    for i in range(N):
-        if l[i]<=seminar[i%n]:
-            return 0
-        seminar[i%n]=max(seminar[i%n]+T,l[i])
-    return 1
-s=0
+N,T,*l=map(int,open(s:=0).read().split())
+l.sort()
+def P(n):
+ S=[0]*n
+ for i in range(N):
+  if l[i]<=S[i%n]:return 1
+  S[i%n]=max(S[i%n]+T,l[i])
 e=N
 while e-s>1:
-    m=(s+e)//2
-    if possible(m):e=m
-    else:s=m
+ if P(m:=(s+e)//2):s=m
+ else:e=m
 print(e)

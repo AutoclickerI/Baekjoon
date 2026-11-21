@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23794) 
 
+### 선택한 제출
+
+[제출 52590393](https://acmicpc.net/source/52590393) · Python 3 · 64 B · 골뱅이 찍기 － 정사각형.py
+
 ### 성능 요약
 
-메모리: 30616 KB, 시간: 36 ms
+메모리: 30616 KB, 시간: 40 ms
 
 ### 분류
 

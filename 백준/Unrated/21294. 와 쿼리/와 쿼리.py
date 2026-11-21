@@ -1,1 +1,1 @@
-[print()for i in[*open(0)][1:]if'2'<i]
+for i in[*open(0)][1:]:'2'<i!=print()

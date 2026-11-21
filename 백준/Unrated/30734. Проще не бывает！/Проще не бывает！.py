@@ -1,4 +1,3 @@
 import math
-n=int(input())-1
-x=math.isqrt(n)
-print(x-abs(n-x*x-x)+1)
+x=math.isqrt(n:=int(input())-1)
+print(x-abs(n+x*~x)+1)

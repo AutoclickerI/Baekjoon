@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/25629) 
 
+### 선택한 제출
+
+[제출 63717855](https://acmicpc.net/source/63717855) · Python 3 · 65 B · 홀짝 수열.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 44 ms
+메모리: 31388 KB, 시간: 44 ms
 
 ### 분류
 

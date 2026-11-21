@@ -1,5 +1,1 @@
-unit={'kg':'lb','l':'g','lb':'kg','g':'l'}
-k={'kg':2.2046,'lb':0.4536,'l':0.2642,'g':3.7854}
-for _ in[0]*int(input()):
-    p,q=input().split()
-    print(f'{float(p)*k[q]:.4f}',unit[q])
+for i in[*open(0)][1:]:a,b=i.split();p=['kg','lb','l','g'].index(b);print(f'{eval(a+"*"+"2003....2427056843456624"[p::4]):.4f}','lkglbg'[p::4])

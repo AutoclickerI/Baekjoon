@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13131) 
 
+### 선택한 제출
+
+[제출 45879301](https://acmicpc.net/source/45879301) · Python 3 · 39 B · HicCup.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

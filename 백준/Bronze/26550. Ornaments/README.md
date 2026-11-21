@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/26550) 
 
+### 선택한 제출
+
+[제출 63830516](https://acmicpc.net/source/63830516) · Python 3 · 51 B · Ornaments.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

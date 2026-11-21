@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18398) 
 
+### 선택한 제출
+
+[제출 48709455](https://acmicpc.net/source/48709455) · Python 3 · 83 B · HOMWRK.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 100 ms
+메모리: 30840 KB, 시간: 112 ms
 
 ### 분류
 

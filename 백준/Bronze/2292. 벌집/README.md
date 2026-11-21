@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2292) 
 
+### 선택한 제출
+
+[제출 39339738](https://acmicpc.net/source/39339738) · Python 3 · 171 B · 벌집.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

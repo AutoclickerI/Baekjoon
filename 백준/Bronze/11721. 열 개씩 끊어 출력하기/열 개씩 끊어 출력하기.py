@@ -1,2 +1,2 @@
-a,i=input(),0
-while i<len(a):print(a[i:i+10]);i+=10
+s=input()
+while s:print(s[:10]);s=s[10:]

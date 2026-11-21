@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1212) 
 
+### 선택한 제출
+
+[제출 66200863](https://acmicpc.net/source/66200863) · Python 3 · 28 B · 8진수 2진수.py
+
 ### 성능 요약
 
 메모리: 33212 KB, 시간: 48 ms

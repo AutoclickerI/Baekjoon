@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10699) 
 
+### 선택한 제출
+
+[제출 40217392](https://acmicpc.net/source/40217392) · Python 3 · 19 B · 오늘 날짜.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 68 ms

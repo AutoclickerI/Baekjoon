@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15682) 
 
+### 선택한 제출
+
+[제출 50627426](https://acmicpc.net/source/50627426) · Python 3 · 405 B · 삼차 방정식 풀기 2.py
+
 ### 성능 요약
 
 메모리: 34912 KB, 시간: 132 ms

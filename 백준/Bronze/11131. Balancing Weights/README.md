@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11131) 
 
+### 선택한 제출
+
+[제출 66082111](https://acmicpc.net/source/66082111) · Python 3 · 98 B · Balancing Weights.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

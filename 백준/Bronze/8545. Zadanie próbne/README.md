@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8545) 
 
+### 선택한 제출
+
+[제출 43988636](https://acmicpc.net/source/43988636) · Python 3 · 20 B · Zadanie próbne.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

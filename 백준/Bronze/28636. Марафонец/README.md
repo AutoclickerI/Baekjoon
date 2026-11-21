@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28636) 
 
+### 선택한 제출
+
+[제출 65773243](https://acmicpc.net/source/65773243) · Python 3 · 115 B · Марафонец.py
+
 ### 성능 요약
 
-메모리: 38136 KB, 시간: 132 ms
+메모리: 31256 KB, 시간: 44 ms
 
 ### 분류
 

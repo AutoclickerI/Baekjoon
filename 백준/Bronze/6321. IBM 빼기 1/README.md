@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6321) 
 
+### 선택한 제출
+
+[제출 46718627](https://acmicpc.net/source/46718627) · Python 3 · 132 B · IBM 빼기 1.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

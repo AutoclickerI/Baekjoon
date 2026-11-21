@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14804) 
 
+### 선택한 제출
+
+[제출 92396793](https://acmicpc.net/source/92396793) · Python 3 · 125 B · Steed 2： Cruise Control （Large）.py
+
 ### 성능 요약
 
-메모리: 32412 KB, 시간: 36 ms
+메모리: 34280 KB, 시간: 252 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 4월 1일 20:09:31
+2025년 4월 1일 20:12:44
 
 ### 문제 설명
 

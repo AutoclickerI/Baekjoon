@@ -1,4 +1,2 @@
 s=[]
-for i in[*open(0)][1:]:
- if i=='READ\n':print(end=s.pop())
- else:s+=i,
+for i in[*open(0)][1:]:i<'a'!=print(end=s.pop())or s.append(i)

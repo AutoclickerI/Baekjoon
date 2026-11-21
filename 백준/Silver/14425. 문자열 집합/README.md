@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14425) 
 
+### 선택한 제출
+
+[제출 50204343](https://acmicpc.net/source/50204343) · Python 3 · 69 B · 문자열 집합.py
+
 ### 성능 요약
 
-메모리: 50572 KB, 시간: 3972 ms
+메모리: 42168 KB, 시간: 4204 ms
 
 ### 분류
 

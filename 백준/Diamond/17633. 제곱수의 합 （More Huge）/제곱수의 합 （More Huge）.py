@@ -1,6 +1,6 @@
 import sys
 import math
-sys.setrecursionlimit(10**9)
+sys.setrecursionlimit(9**9)
 R=__import__('random').randrange
 def m(n,a):
  r=0;d=n-1
@@ -25,8 +25,8 @@ def P(n):
  x=y=R(2,n);c=R(1,n);d=1
  f=lambda v:((v*v%n)+c+n)%n
  while d == 1:
-     x=f(x);y=f(f(y));d=math.gcd(abs(x-y), n)
-     if d==n:return P(n)
+  x=f(x);y=f(f(y));d=math.gcd(abs(x-y), n)
+  if d==n:return P(n)
  if p(d):return d
  else:return P(d)
 
@@ -38,4 +38,4 @@ def C(n):
 
 n=int(input())
 while n%4==0:n//=4
-print(4 if n%8==7 else 3 if C(n)else 1 if int(n**.5+0.1)**2==n else 2)
+print(4 if n%8==7 else 3 if C(n)else 1 if int(n**.5+.1)**2==n else 2)

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17080) 
 
+### 선택한 제출
+
+[제출 45917841](https://acmicpc.net/source/45917841) · C++20 · 113 B · 결함 게임.cc
+
 ### 성능 요약
 
 메모리: 2020 KB, 시간: 0 ms

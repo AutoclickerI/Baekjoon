@@ -1,2 +1,1 @@
-_,*l=map(int,open(0).read().split())
-print(sum(l)+max(l)-min(l))
+print(sum(l:=[*map(int,[*open(0)][1].split())])+max(l)-min(l))

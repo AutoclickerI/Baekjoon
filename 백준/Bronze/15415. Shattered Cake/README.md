@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15415) 
 
+### 선택한 제출
+
+[제출 64231631](https://acmicpc.net/source/64231631) · Python 3 · 88 B · Shattered Cake.py
+
 ### 성능 요약
 
-메모리: 65800 KB, 시간: 3340 ms
+메모리: 217740 KB, 시간: 1424 ms
 
 ### 분류
 

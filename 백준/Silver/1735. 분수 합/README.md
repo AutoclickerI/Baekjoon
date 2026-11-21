@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1735) 
 
+### 선택한 제출
+
+[제출 58941983](https://acmicpc.net/source/58941983) · Python 3 · 98 B · 분수 합.py
+
 ### 성능 요약
 
 메모리: 33376 KB, 시간: 44 ms

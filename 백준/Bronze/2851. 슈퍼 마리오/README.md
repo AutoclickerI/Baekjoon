@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2851) 
 
+### 선택한 제출
+
+[제출 58723557](https://acmicpc.net/source/58723557) · Python 3 · 95 B · 슈퍼 마리오.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

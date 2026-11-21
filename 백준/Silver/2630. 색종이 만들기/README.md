@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2630) 
 
+### 선택한 제출
+
+[제출 60613041](https://acmicpc.net/source/60613041) · Python 3 · 336 B · 색종이 만들기.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 68 ms

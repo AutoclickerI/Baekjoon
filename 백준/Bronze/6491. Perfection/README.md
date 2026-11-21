@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6491) 
 
+### 선택한 제출
+
+[제출 61230490](https://acmicpc.net/source/61230490) · Python 3 · 193 B · Perfection.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

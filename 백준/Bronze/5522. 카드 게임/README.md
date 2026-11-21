@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5522) 
 
+### 선택한 제출
+
+[제출 40216708](https://acmicpc.net/source/40216708) · Python 3 · 43 B · 100점 · 카드 게임.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

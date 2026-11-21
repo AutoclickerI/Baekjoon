@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6764) 
 
+### 선택한 제출
+
+[제출 40449122](https://acmicpc.net/source/40449122) · Python 3 · 154 B · Sounds fishy！.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 52 ms

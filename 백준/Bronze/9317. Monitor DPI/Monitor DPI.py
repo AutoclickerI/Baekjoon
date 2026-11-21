@@ -1,3 +1,1 @@
-for i in[*open(0)][:-1]:
-    p,q,r=map(eval,i.split())
-    print(f'Horizontal DPI: {q*337**.5/16/p:.2f}\nVertical DPI: {r*337**.5/9/p:.2f}')
+while(i:=input())>'1':a,b,c=map(eval,i.split());d=337**.5/a;print(f'Horizontal DPI: {d*b/16:.2f} Vertical DPI: {d*c/9:.2f}')

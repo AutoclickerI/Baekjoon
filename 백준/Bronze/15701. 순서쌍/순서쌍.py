@@ -1,4 +1,4 @@
-N=int(input())
-c=0
-for i in range(1,int(N**.5)+1):c+=(N%i<1)*(1+(i**2<N))
-print(c)
+n=int(input())
+a,i=0,1
+while i*i<n:a+=n%i<1;i+=1
+print(2*a+(i*i==n))

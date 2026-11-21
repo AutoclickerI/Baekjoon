@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1806) 
 
+### 선택한 제출
+
+[제출 49871590](https://acmicpc.net/source/49871590) · Python 3 · 147 B · 부분합.py
+
 ### 성능 요약
 
-메모리: 41896 KB, 시간: 128 ms
+메모리: 42204 KB, 시간: 112 ms
 
 ### 분류
 

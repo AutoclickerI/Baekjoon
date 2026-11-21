@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1275) 
 
+### 선택한 제출
+
+[제출 56515674](https://acmicpc.net/source/56515674) · Python 3 · 811 B · 커피숍2.py
+
 ### 성능 요약
 
 메모리: 45376 KB, 시간: 2476 ms

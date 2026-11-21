@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13484) 
 
+### 선택한 제출
+
+[제출 66112180](https://acmicpc.net/source/66112180) · Python 3 · 43 B · Tarifa.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

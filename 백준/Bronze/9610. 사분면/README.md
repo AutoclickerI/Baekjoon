@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9610) 
 
+### 선택한 제출
+
+[제출 45595489](https://acmicpc.net/source/45595489) · C++20 · 405 B · 사분면.cc
+
 ### 성능 요약
 
 메모리: 2020 KB, 시간: 0 ms

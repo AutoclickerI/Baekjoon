@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4245) 
 
+### 선택한 제출
+
+[제출 62894308](https://acmicpc.net/source/62894308) · Python 3 · 455 B · Team Rankings.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 156 ms

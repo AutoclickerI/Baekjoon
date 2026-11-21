@@ -1,4 +1,2 @@
-l=[0]
-for i in map(int,[*open(0)][1].split()[::-1]):
-    l+=min(l[-1]+1,i),
-print(sum(l))
+r=0
+print(sum(r:=min(r+1,int(i))for i in[*open(0)][1].split()[::-1]))

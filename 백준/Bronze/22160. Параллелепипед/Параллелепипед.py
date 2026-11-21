@@ -1,3 +1,1 @@
-for i in[*open(0)][:-1]:
-    s=sorted(map(int,i.split()))
-    print('yneos'[len({*s[:4]})+len({*s[4:8]})+len({*s[8:]})>3::2])
+while(l:=[*map(int,input().split())])[0]:print('yneos'[any(l.count(i)%4 for i in l)::2])

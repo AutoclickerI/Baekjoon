@@ -1,2 +1,2 @@
-S,L=map(input().count,'SL')
-print('SciCom'*S+'Love'*L)
+f=input().count
+print('SciCom'*f('S')+'Love'*f('L'))

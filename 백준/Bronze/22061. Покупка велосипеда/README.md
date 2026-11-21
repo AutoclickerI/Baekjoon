@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/22061) 
 
+### 선택한 제출
+
+[제출 59710734](https://acmicpc.net/source/59710734) · Python 3 · 81 B · Покупка велосипеда.py
+
 ### 성능 요약
 
-메모리: 41012 KB, 시간: 212 ms
+메모리: 40228 KB, 시간: 216 ms
 
 ### 분류
 

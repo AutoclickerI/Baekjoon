@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7523) 
 
+### 선택한 제출
+
+[제출 52458077](https://acmicpc.net/source/52458077) · Python 3 · 101 B · Gauß.py
+
 ### 성능 요약
 
 메모리: 30616 KB, 시간: 36 ms

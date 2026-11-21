@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4892) 
 
+### 선택한 제출
+
+[제출 49583035](https://acmicpc.net/source/49583035) · Python 3 · 70 B · 숫자 맞추기 게임.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 64 ms
+메모리: 30840 KB, 시간: 84 ms
 
 ### 분류
 

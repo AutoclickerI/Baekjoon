@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14681) 
 
+### 선택한 제출
+
+[제출 68016651](https://acmicpc.net/source/68016651) · Python 3 · 42 B · 사분면 고르기.py
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 76 ms
+메모리: 31120 KB, 시간: 40 ms
 
 ### 분류
 

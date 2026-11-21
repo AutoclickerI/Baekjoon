@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1358) 
 
+### 선택한 제출
+
+[제출 46441065](https://acmicpc.net/source/46441065) · Python 3 · 199 B · 하키.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

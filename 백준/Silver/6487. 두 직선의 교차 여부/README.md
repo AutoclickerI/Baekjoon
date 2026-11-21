@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6487) 
 
+### 선택한 제출
+
+[제출 58714807](https://acmicpc.net/source/58714807) · Python 3 · 905 B · 두 직선의 교차 여부.py
+
 ### 성능 요약
 
 메모리: 33376 KB, 시간: 44 ms

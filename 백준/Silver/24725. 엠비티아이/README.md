@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24725) 
 
+### 선택한 제출
+
+[제출 40711818](https://acmicpc.net/source/40711818) · Python 3 · 1312 B · 엠비티아이.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 140 ms

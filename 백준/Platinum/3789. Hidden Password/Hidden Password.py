@@ -1,7 +1,6 @@
-I=input
-exec('''n=len(s:=I().split()[1]*2);i=a=0
+exec('''n=len(s:=input().split()[1]*2);i=a=0
 while i<n/2:
- a=k=i;j=i+1
- while j<n and s[k]<=s[j]:k=i if s[k]<s[j]else 1+k;j+=1
+ a=k=j=i
+ while s[k]<=s[(j:=j+1):]:k=[k+1,i][s[k]<s[j]]
  while i<=k:i+=j-k
-print(a);'''*int(I()))
+print(a);'''*int(input()))

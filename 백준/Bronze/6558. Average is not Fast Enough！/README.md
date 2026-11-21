@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6558) 
 
+### 선택한 제출
+
+[제출 66789577](https://acmicpc.net/source/66789577) · Python 3 · 410 B · Average is not Fast Enough！.py
+
 ### 성능 요약
 
 메모리: 36568 KB, 시간: 124 ms

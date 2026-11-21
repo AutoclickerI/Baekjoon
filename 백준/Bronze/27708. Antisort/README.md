@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/27708) 
 
+### 선택한 제출
+
+[제출 66467697](https://acmicpc.net/source/66467697) · Python 3 · 137 B · Antisort.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 272 ms

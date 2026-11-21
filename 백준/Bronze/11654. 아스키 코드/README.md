@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11654) 
 
+### 선택한 제출
+
+[제출 104322441](https://acmicpc.net/source/104322441) · Python 3 · 19 B · 아스키 코드.py
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 72 ms
+메모리: 32412 KB, 시간: 36 ms
 
 ### 분류
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1065) 
 
+### 선택한 제출
+
+[제출 39303151](https://acmicpc.net/source/39303151) · Python 3 · 208 B · 한수.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

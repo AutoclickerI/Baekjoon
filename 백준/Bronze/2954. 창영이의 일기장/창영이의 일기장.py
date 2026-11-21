@@ -1,3 +1,2 @@
-s=input()
-for i in'aeiou':s=s.replace(i+'p'+i,i)
-print(s)
+import re
+print(re.sub('([aeiou])p.',r'\1',input()))

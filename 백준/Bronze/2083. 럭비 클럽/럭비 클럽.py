@@ -1,1 +1,1 @@
-while(l:=input())[0]!='#':p,q,r=l.split();print(p,'JSue'[(int(q)>17)or(int(r)>79)::2]+'nior')
+while(l:=input())>'#1':p,q,r=l.split();print(p,'SJeu'[(int(q)<18)*(int(r)<80)::2]+'nior')

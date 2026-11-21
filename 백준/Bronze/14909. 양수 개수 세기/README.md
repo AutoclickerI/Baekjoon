@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14909) 
 
+### 선택한 제출
+
+[제출 46720708](https://acmicpc.net/source/46720708) · Python 3 · 49 B · 양수 개수 세기.py
+
 ### 성능 요약
 
 메모리: 122624 KB, 시간: 416 ms

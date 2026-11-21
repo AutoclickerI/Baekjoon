@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/29677) 
 
+### 선택한 제출
+
+[제출 69751699](https://acmicpc.net/source/69751699) · Python 3 · 342 B · ШАШКА.py
+
 ### 성능 요약
 
 메모리: 31120 KB, 시간: 132 ms

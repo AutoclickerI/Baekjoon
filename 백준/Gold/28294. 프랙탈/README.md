@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28294) 
 
+### 선택한 제출
+
+[제출 63334999](https://acmicpc.net/source/63334999) · Python 3 · 84 B · 프랙탈.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

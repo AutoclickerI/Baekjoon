@@ -1,4 +1,4 @@
-a=2*input().count('A')
-n=2
-while-a<=n*~n:n+=1
-print(n-1)
+c=input().count('A')
+i=0
+while c>i:c+=~i;i+=1
+print(i)

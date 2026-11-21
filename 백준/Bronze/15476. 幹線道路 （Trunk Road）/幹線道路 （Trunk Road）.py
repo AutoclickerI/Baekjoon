@@ -1,3 +1,4 @@
-H,W=map(int,input().split())
-a=eval('[*map(int,input().split())],'*H)
-print(min(min(sum(sum(a[s][t]*min(abs(i-s),abs(j-t))for t in range(W))for s in range(H))for j in range(W))for i in range(H)))
+I=lambda:map(int,input().split())
+R,C=map(range,I())
+m=[[*I()]for i in R]
+print(min(sum(m[v][w]*min(abs(v-i),abs(w-j))for v in R for w in C)for i in R for j in C))

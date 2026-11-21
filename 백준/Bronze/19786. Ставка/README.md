@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/19786) 
 
+### 선택한 제출
+
+[제출 60018950](https://acmicpc.net/source/60018950) · Python 3 · 193 B · Ставка.py
+
 ### 성능 요약
 
-메모리: 33148 KB, 시간: 656 ms
+메모리: 33148 KB, 시간: 964 ms
 
 ### 분류
 

@@ -1,4 +1,3 @@
-N=int(input())
-s=set()
-while{N}-s:s|={N};N=(N%1000//10)**2
+s={N:=int(input())}
+while{N:=(N%1000//10)**2}-s:s|={N}
 print(len(s))

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17931) 
 
+### 선택한 제출
+
+[제출 92376490](https://acmicpc.net/source/92376490) · Python 3 · 86 B · Greedily Increasing Subsequence.py
+
 ### 성능 요약
 
-메모리: 132864 KB, 시간: 772 ms
+메모리: 132864 KB, 시간: 996 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 4월 1일 15:47:20
+2025년 4월 1일 15:53:26
 
 ### 문제 설명
 

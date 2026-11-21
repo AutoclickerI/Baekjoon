@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5361) 
 
+### 선택한 제출
+
+[제출 46704880](https://acmicpc.net/source/46704880) · Python 3 · 127 B · 전투 드로이드 가격.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 64 ms

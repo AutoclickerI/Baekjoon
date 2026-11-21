@@ -1,3 +1,3 @@
-p,q=map(int,input().split(':'))
-t=p*3540+q*59
+s=input()
+t=int(s[:2])*3540+int(s[3:])*59
 print(f'{t//3600:02d}:{t//60%60:02d}:{t%60:02d}')

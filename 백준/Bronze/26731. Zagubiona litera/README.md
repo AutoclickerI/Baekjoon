@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/26731) 
 
+### 선택한 제출
+
+[제출 79743581](https://acmicpc.net/source/79743581) · Python 3 · 35 B · Zagubiona litera.py
+
 ### 성능 요약
 
-메모리: 30616 KB, 시간: 36 ms
+메모리: 31120 KB, 시간: 40 ms
 
 ### 분류
 

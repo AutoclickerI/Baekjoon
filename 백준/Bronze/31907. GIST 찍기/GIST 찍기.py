@@ -1,4 +1,2 @@
 n=int(input())
-for i in'G...','.I.T','..S.':
-    for _ in[0]*n:
-        print(''.join(n*j for j in i))
+for a,b,c,d in'G...','.I.T','..S.':print(*[a*n+b*n+c*n+d*n]*n)

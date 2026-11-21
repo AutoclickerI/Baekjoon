@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1357) 
 
+### 선택한 제출
+
+[제출 58859847](https://acmicpc.net/source/58859847) · Python 3 · 58 B · 뒤집힌 덧셈.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

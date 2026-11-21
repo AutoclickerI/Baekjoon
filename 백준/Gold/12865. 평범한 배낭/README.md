@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/12865) 
 
+### 선택한 제출
+
+[제출 81437096](https://acmicpc.net/source/81437096) · Python 3 · 129 B · 평범한 배낭.py
+
 ### 성능 요약
 
-메모리: 35108 KB, 시간: 3332 ms
+메모리: 34972 KB, 시간: 3556 ms
 
 ### 분류
 

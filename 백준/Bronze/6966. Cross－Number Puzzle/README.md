@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6966) 
 
+### 선택한 제출
+
+[제출 84913120](https://acmicpc.net/source/84913120) · Text · 20 B · Cross－Number Puzzle.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

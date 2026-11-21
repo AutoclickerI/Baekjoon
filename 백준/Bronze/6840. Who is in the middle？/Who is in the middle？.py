@@ -1,2 +1,1 @@
-l=sorted(map(int,open(0)))
-print(l[len(l)//2])
+print(sorted(open(0),key=int)[1])

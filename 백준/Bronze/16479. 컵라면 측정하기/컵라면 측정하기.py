@@ -1,2 +1,1 @@
-p,q,r=map(int,open(0).read().split())
-print(p*p-((q-r)/2)**2)
+print(int(input())**2-eval(input().replace(*' -'))**2/4)

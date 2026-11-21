@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2798) 
 
+### 선택한 제출
+
+[제출 39665295](https://acmicpc.net/source/39665295) · Python 3 · 313 B · 블랙잭.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 132 ms

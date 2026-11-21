@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6526) 
 
+### 선택한 제출
+
+[제출 85069519](https://acmicpc.net/source/85069519) · Python 3 · 111 B · Ambiguous permutations.py
+
 ### 성능 요약
 
-메모리: 46816 KB, 시간: 160 ms
+메모리: 46816 KB, 시간: 164 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 11일 18:56:14
+2024년 10월 11일 18:57:21
 
 ### 문제 설명
 

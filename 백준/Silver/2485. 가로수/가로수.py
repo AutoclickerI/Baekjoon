@@ -1,5 +1,4 @@
 _,*l=map(int,open(0))
-l.sort()
 m=l[0]
 M=l[-1]-l[0]
 import math

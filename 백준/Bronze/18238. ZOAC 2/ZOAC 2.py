@@ -1,3 +1,2 @@
-p=65;t=0
-for c in input():t+=min(x:=abs(p-(p:=ord(c))),26-x)
-print(t)
+p=65
+print(sum(min(x:=abs(p-(p:=ord(c))),26-x)for c in input()))

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1229) 
 
+### 선택한 제출
+
+[제출 45892457](https://acmicpc.net/source/45892457) · PyPy3 · 224 B · 육각수.py
+
 ### 성능 요약
 
 메모리: 144796 KB, 시간: 7048 ms

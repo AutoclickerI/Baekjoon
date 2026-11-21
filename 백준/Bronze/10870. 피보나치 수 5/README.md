@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10870) 
 
+### 선택한 제출
+
+[제출 39661434](https://acmicpc.net/source/39661434) · Python 3 · 108 B · 피보나치 수 5.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 68 ms

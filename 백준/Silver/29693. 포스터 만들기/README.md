@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/29693) 
 
+### 선택한 제출
+
+[제출 66801523](https://acmicpc.net/source/66801523) · Python 3 · 175 B · 100점 · 포스터 만들기.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 32 ms
+메모리: 31256 KB, 시간: 40 ms
 
 ### 분류
 

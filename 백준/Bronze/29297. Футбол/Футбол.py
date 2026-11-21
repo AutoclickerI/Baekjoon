@@ -1,7 +1,1 @@
-for _ in[0]*int(input()):
-    x,y=map(int,input().split(':'))
-    a=0
-    for i in range(10):
-        for j in range(10):
-            a+=x+i>y+j or x+i==y+j and i>y
-    print(a,99-a)
+for i in[*open(0)][1:]:x=int(i[0]);y=int(i[2]);print(a:=sum(x+i//10>y+i%10or(x+i//10==y+i%10)*(i//10>y)for i in range(100)),99-a)

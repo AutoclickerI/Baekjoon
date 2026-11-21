@@ -1,4 +1,3 @@
-f=lambda:map(int,input().split())
-N,M=f()
-for A,B in sorted(zip(f(),f())):M+=(B-A)*(A<=min(M,B))
-print(M)
+n,m,*l=map(int,open(0).read().split())
+for i,j in sorted(zip(l,l[n:])):m+=(j-i)*(m>i<j)
+print(m)

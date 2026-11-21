@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13711) 
 
+### 선택한 제출
+
+[제출 45807833](https://acmicpc.net/source/45807833) · PyPy3 · 284 B · LCS 4.py
+
 ### 성능 요약
 
 메모리: 144748 KB, 시간: 2616 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6497) 
 
+### 선택한 제출
+
+[제출 48558882](https://acmicpc.net/source/48558882) · PyPy3 · 288 B · 전력난.py
+
 ### 성능 요약
 
 메모리: 218320 KB, 시간: 1468 ms

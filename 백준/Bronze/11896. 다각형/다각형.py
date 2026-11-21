@@ -1,4 +1,4 @@
 a,b=map(int,input().split())
-a=max(a+a%2,4)
-b&=-2
-print(max(0,(b+a)*(b-a+2)//4))
+x=max(2,-~a//2)
+y=b//2or 1
+print(x-y*~y-x*x)

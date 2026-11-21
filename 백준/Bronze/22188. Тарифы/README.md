@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/22188) 
 
+### 선택한 제출
+
+[제출 66791940](https://acmicpc.net/source/66791940) · Python 3 · 272 B · Тарифы.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 48 ms

@@ -1,2 +1,3 @@
-p,q,r=map(int,input().split())
-print([r*r-p-q,int((p+q)**.5)][0<p*q])
+a,b,c=map(int,input().split())
+a+=b
+print('%d'%max(c*c-a,a**.5))

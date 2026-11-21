@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4949) 
 
+### 선택한 제출
+
+[제출 50529656](https://acmicpc.net/source/50529656) · Python 3 · 364 B · 균형잡힌 세상.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 112 ms

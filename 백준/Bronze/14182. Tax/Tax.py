@@ -1,1 +1,1 @@
-while s:=int(input()):print(s-s//10*((s>999999)+(s>4999999)))
+while s:=int(input()):print(s-s//10*((s>1e6-1)+(s>5e6-1)))

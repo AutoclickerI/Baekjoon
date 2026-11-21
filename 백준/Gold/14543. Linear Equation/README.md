@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14543) 
 
+### 선택한 제출
+
+[제출 61680230](https://acmicpc.net/source/61680230) · Python 3 · 373 B · Linear Equation.py
+
 ### 성능 요약
 
 메모리: 38724 KB, 시간: 76 ms

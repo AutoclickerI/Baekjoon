@@ -1,2 +1,2 @@
 n=int(input())
-print((n>6)*n*~n//-2&-2)
+print((n>6)*n*-~n//4*2)

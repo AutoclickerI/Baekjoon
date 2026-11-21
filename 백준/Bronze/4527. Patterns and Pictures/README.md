@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4527) 
 
+### 선택한 제출
+
+[제출 66788423](https://acmicpc.net/source/66788423) · Python 3 · 108 B · Patterns and Pictures.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 44 ms
+메모리: 31256 KB, 시간: 48 ms
 
 ### 분류
 

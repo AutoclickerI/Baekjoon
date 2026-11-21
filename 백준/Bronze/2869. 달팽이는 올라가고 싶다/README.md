@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2869) 
 
+### 선택한 제출
+
+[제출 39343369](https://acmicpc.net/source/39343369) · Python 3 · 189 B · 달팽이는 올라가고 싶다.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

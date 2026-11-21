@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/22150) 
 
+### 선택한 제출
+
+[제출 60176678](https://acmicpc.net/source/60176678) · Python 3 · 160 B · Шоколадка.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 56 ms

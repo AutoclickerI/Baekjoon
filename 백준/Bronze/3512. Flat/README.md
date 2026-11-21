@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3512) 
 
+### 선택한 제출
+
+[제출 46822041](https://acmicpc.net/source/46822041) · Python 3 · 196 B · Flat.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

@@ -1,12 +1,1 @@
-*l,_=open(0)
-while l:
-    n,m,*t=map(int,l.pop(0).split())
-    for _ in[0]*n:
-        a,b=map(int,l.pop(0).split())
-        if a<=m:
-            t+=(a,b),
-    if t:
-        a,b=min(t,key=lambda x: (int(x[1])/int(x[0]),-int(x[0])))
-        print(f'Buy {a} tickets for ${b}')
-    else:
-        print('No suitable tickets offered')
+while(i:=input())>'1':n,m=map(int,i.split());r,R=1,99;exec('a,b=map(int,input().split())\nif a<=m:\n p=R/r;q=b/a\n if p>q or p==q!=r<a:r,R=a,b\n'*n);print(['No suitable tickets offered',f'Buy {r} tickets for ${R}'][R<99])

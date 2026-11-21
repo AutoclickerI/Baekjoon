@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13670) 
 
+### 선택한 제출
+
+[제출 59777466](https://acmicpc.net/source/59777466) · Python 3 · 76 B · Alarme Despertador.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 44 ms
+메모리: 31256 KB, 시간: 52 ms
 
 ### 분류
 

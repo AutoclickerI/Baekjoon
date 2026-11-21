@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/12351) 
 
+### 선택한 제출
+
+[제출 60278013](https://acmicpc.net/source/60278013) · Python 3 · 157 B · Hedgemony （Small）.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 60 ms

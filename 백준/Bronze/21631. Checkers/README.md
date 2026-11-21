@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21631) 
 
+### 선택한 제출
+
+[제출 44849543](https://acmicpc.net/source/44849543) · Python 3 · 60 B · Checkers.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

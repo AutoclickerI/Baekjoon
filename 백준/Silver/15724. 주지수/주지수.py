@@ -1,6 +1,3 @@
-import sys
-input=sys.stdin.readline
-
 N,M=map(int,input().split())
 b=[[0]*-~M]
 for _ in[0]*N:

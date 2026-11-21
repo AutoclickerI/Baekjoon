@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/26716) 
 
+### 선택한 제출
+
+[제출 66128380](https://acmicpc.net/source/66128380) · Python 3 · 193 B · Muzyka pop 2.py
+
 ### 성능 요약
 
 메모리: 38168 KB, 시간: 132 ms

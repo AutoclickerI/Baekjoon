@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6887) 
 
+### 선택한 제출
+
+[제출 53432593](https://acmicpc.net/source/53432593) · Python 3 · 69 B · Squares.py
+
 ### 성능 요약
 
 메모리: 30616 KB, 시간: 36 ms

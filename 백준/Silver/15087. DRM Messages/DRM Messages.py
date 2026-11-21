@@ -1,2 +1,2 @@
-m,l=sum(map(o:=ord,S:=input())),len(S)>>1
-print(''.join(chr(65+(o(S[i])+o(S[i+l])+m)%26)for i in range(l)))
+s=input().encode()
+for i in range(l:=len(s)//2):print(end=chr(65+sum(s+s[i::l])%26))

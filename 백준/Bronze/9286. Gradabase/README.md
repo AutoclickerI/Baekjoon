@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9286) 
 
+### 선택한 제출
+
+[제출 77493114](https://acmicpc.net/source/77493114) · Python 3 · 97 B · Gradabase.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 144 ms
+메모리: 31120 KB, 시간: 4772 ms
 
 ### 분류
 

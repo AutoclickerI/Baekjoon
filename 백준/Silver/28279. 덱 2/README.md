@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28279) 
 
+### 선택한 제출
+
+[제출 62541472](https://acmicpc.net/source/62541472) · Python 3 · 407 B · 덱 2.py
+
 ### 성능 요약
 
 메모리: 141824 KB, 시간: 1440 ms

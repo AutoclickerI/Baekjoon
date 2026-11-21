@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16928) 
 
+### 선택한 제출
+
+[제출 60746678](https://acmicpc.net/source/60746678) · Python 3 · 454 B · 뱀과 사다리 게임.py
+
 ### 성능 요약
 
 메모리: 34128 KB, 시간: 64 ms

@@ -1,2 +1,2 @@
-a,b,c,d=map(int,open(0).read().replace(*': ').split())
-print('YNEOS'[c>a or d>b::2])
+x,y=open(0)
+print('YNEOS'[x[0]<y[0]or x[2]<y[2]::2])

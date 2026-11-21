@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23825) 
 
+### 선택한 제출
+
+[제출 42989318](https://acmicpc.net/source/42989318) · Python 3 · 39 B · SASA 모형을 만들어보자.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

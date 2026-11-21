@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7568) 
 
+### 선택한 제출
+
+[제출 39685361](https://acmicpc.net/source/39685361) · Python 3 · 215 B · 덩치.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

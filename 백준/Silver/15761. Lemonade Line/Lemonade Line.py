@@ -1,4 +1,2 @@
-for i in sorted(map(int,[*open(a:=0)][1].split()))[::-1]:
- if i<a:break
- a+=1
-print(a)
+for x in sorted(map(int,[*open(s:=0)][1].split()))[::-1]:s+=s<=x
+print(s)

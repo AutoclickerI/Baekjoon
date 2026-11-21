@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21614) 
 
+### 선택한 제출
+
+[제출 64080536](https://acmicpc.net/source/64080536) · Python 3 · 91 B · Secret Instructions.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 52 ms
+메모리: 31256 KB, 시간: 64 ms
 
 ### 분류
 

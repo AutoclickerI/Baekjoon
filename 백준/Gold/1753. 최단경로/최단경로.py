@@ -1,20 +1,14 @@
-import sys
-input=sys.stdin.readline
-
-V,E=map(int,input().split())
-
-K=int(input())
+[V,E],[K],*l=[map(int,i.split())for i in open(0)]
 
 edges=[[]for _ in[0]*-~V]
 
-for _ in[0]*E:
-    s,e,c=map(int,input().split())
+for s,e,c in l:
     edges[s]+=(e,c),
 
 from heapq import*
 
 hq=[(0,K)]
-v=[1e9]*-~V
+v=[float('inf')]*(V+1)
 v[K]=0
 while hq:
     c,s=heappop(hq)
@@ -26,4 +20,7 @@ while hq:
             heappush(hq,(co+c,n))
 
 for i in v[1:]:
-    print(['INF',i][i<1e9])
+    if i==float('inf'):
+        print('INF')
+    else:
+        print(i)

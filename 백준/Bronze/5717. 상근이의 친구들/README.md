@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5717) 
 
+### 선택한 제출
+
+[제출 46690971](https://acmicpc.net/source/46690971) · C++20 · 101 B · 상근이의 친구들.cc
+
 ### 성능 요약
 
 메모리: 2020 KB, 시간: 0 ms

@@ -1,15 +1,5 @@
 from heapq import*
-N,hl,*l=map(int,open(0))
-hh=[]
-print(hl)
-hl=[-hl]
-for v in l:
-    if -hl[0]>v:
-        heappush(hl,-v)
-    else:
-        heappush(hh,v)
-    while len(hl)-len(hh)>1:
-        heappush(hh,-heappop(hl))
-    while len(hh)-len(hl)>0:
-        heappush(hl,-heappop(hh))
-    print(-hl[0])
+i=heappush
+o=heappop
+l,r=[],[]
+for a in[*open(0)][1:]:i(l,-int(a));i(r,-o(l));len(r)==len(l)or i(l,-o(r));print(-l[0])

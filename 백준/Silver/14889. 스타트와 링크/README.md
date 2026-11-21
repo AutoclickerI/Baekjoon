@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14889) 
 
+### 선택한 제출
+
+[제출 40257296](https://acmicpc.net/source/40257296) · Python 3 · 440 B · 스타트와 링크.py
+
 ### 성능 요약
 
 메모리: 56000 KB, 시간: 2004 ms

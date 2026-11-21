@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14913) 
 
+### 선택한 제출
+
+[제출 52407498](https://acmicpc.net/source/52407498) · Python 3 · 74 B · 등차수열에서 항 번호 찾기.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

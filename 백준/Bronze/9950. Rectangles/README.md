@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9950) 
 
+### 선택한 제출
+
+[제출 58914982](https://acmicpc.net/source/58914982) · Python 3 · 107 B · Rectangles.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 48 ms

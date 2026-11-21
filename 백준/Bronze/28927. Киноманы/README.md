@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28927) 
 
+### 선택한 제출
+
+[제출 65057680](https://acmicpc.net/source/65057680) · Python 3 · 154 B · Киноманы.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

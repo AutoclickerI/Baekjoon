@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11778) 
 
+### 선택한 제출
+
+[제출 40477428](https://acmicpc.net/source/40477428) · Python 3 · 349 B · 피보나치 수와 최대공약수.py
+
 ### 성능 요약
 
 메모리: 32976 KB, 시간: 72 ms

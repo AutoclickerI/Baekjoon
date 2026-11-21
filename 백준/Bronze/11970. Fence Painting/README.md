@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11970) 
 
+### 선택한 제출
+
+[제출 50932078](https://acmicpc.net/source/50932078) · Python 3 · 77 B · Fence Painting.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

@@ -1,1 +1,1 @@
-print(6*(int(input())*2/3**1.5)**.5)
+print(3.72242*int(input())**.5)

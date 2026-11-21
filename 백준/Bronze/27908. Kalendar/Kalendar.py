@@ -1,10 +1,5 @@
 n,d=map(int,input().split())
-l=['.']*~-d+[*range(1,n+1)]
-l+=-len(l)%7*['.']
-z='+---------------------+'
-print(z)
-for i in zip(*[iter(l)]*7):
-    print(end='|')
-    for j in i:print(end=('..'+str(j))[-3:])
-    print('|')
-print(z)
+s=z='+'+'-'*21+'+ '
+l=*'.'*~-d,*range(1,n+1),*(1-n-d)%7*'.'
+for i in range(len(l)):s+='|'*(i%7<1)+f'..{l[i]}'[-3:]+'| '*(i%7>5)
+print(s+z)

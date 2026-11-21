@@ -1,8 +1,2 @@
-for _ in[0]*int(input()):
-    input()
-    c,e=map(int,input().split())
-    *l1,=map(int,input().split())
-    *l2,=map(int,input().split())
-    s1=sum(l1)
-    s2=sum(l2)
-    print(sum(i*c<s1 and s2<i*e for i in l1))
+f=lambda:[*map(int,input().split())]
+exec('f();c,e=f();p=sum(C:=f())/c;q=sum(E:=f())/e;print(sum(p>s>q for s in C));'*f()[0])

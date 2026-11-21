@@ -1,7 +1,1 @@
-*z,=zip(*[map(int,i.split())for i in open(0)][1:])
-l=[]
-for i in z:
-    m=max(i)
-    if i.count(m)==1:
-        l+=i.index(m),
-print(len({*l}))
+print(len({i.index(m)for i in zip(*map(str.split,[*open(0)][1:]))if i.count(m:=max(i,key=int))<2}))

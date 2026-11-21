@@ -1,1 +1,1 @@
-print(input().rstrip('0').count('0'))
+print(input().strip('0').count('0'))

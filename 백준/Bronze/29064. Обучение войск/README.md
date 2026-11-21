@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/29064) 
 
+### 선택한 제출
+
+[제출 65713114](https://acmicpc.net/source/65713114) · Python 3 · 50 B · Обучение войск.py
+
 ### 성능 요약
 
-메모리: 32820 KB, 시간: 60 ms
+메모리: 31256 KB, 시간: 44 ms
 
 ### 분류
 

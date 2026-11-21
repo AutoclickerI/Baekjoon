@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17505) 
 
+### 선택한 제출
+
+[제출 80147088](https://acmicpc.net/source/80147088) · C99 · 92 B · 링고와 순열.c
+
 ### 성능 요약
 
 메모리: 1112 KB, 시간: 36 ms

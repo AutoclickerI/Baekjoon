@@ -1,1 +1,1 @@
-print(sum([1,5,10,50]['628'.find(i[2])]for i in[*open(0)][1:])*1000)
+print(sum(10**int(a)>>(b<a)for _,a,b,*_ in[*open(0)][1:]))

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/25317) 
 
+### 선택한 제출
+
+[제출 63965394](https://acmicpc.net/source/63965394) · C++20 · 2423 B · functionx.cc
+
 ### 성능 요약
 
 메모리: 18992 KB, 시간: 232 ms

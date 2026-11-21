@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11651) 
 
+### 선택한 제출
+
+[제출 39790737](https://acmicpc.net/source/39790737) · Python 3 · 161 B · 좌표 정렬하기 2.py
+
 ### 성능 요약
 
 메모리: 58564 KB, 시간: 4612 ms

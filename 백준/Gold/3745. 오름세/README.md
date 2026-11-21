@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3745) 
 
+### 선택한 제출
+
+[제출 41912952](https://acmicpc.net/source/41912952) · Python 3 · 300 B · 오름세.py
+
 ### 성능 요약
 
 메모리: 43724 KB, 시간: 176 ms

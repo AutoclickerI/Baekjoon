@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18414) 
 
+### 선택한 제출
+
+[제출 43709632](https://acmicpc.net/source/43709632) · Python 3 · 105 B · X に最も近い値 （The Nearest Value）.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/26069) 
 
+### 선택한 제출
+
+[제출 62512176](https://acmicpc.net/source/62512176) · Python 3 · 168 B · 붙임성 좋은 총총이.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 116 ms

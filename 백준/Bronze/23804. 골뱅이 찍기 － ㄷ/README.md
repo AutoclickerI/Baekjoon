@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23804) 
 
+### 선택한 제출
+
+[제출 60425744](https://acmicpc.net/source/60425744) · Python 3 · 52 B · 골뱅이 찍기 － ㄷ.py
+
 ### 성능 요약
 
-메모리: 30616 KB, 시간: 36 ms
+메모리: 31256 KB, 시간: 40 ms
 
 ### 분류
 

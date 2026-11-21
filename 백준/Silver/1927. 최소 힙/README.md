@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1927) 
 
+### 선택한 제출
+
+[제출 60320934](https://acmicpc.net/source/60320934) · Python 3 · 116 B · 최소 힙.py
+
 ### 성능 요약
 
 메모리: 38104 KB, 시간: 120 ms

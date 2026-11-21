@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5157) 
 
+### 선택한 제출
+
+[제출 60175645](https://acmicpc.net/source/60175645) · Python 3 · 230 B · Bailout Bonus.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 940 ms

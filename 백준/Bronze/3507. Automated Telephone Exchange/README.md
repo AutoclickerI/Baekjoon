@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3507) 
 
+### 선택한 제출
+
+[제출 65320029](https://acmicpc.net/source/65320029) · Python 3 · 30 B · Automated Telephone Exchange.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

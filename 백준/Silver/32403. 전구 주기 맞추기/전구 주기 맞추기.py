@@ -1,3 +1,2 @@
-N,T,*A=map(int,open(0).read().split())
-l=[i for i in range(1,T+1)if T%i<1]
-print(sum(min(abs(i-j)for j in l)for i in A))
+n,t,*a=map(int,open(0).read().split())
+print(sum(min(abs(x+~i)for i in range(t)if-1<t%~i)for x in a))

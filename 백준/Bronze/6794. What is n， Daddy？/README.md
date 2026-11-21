@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6794) 
 
+### 선택한 제출
+
+[제출 66088259](https://acmicpc.net/source/66088259) · Python 3 · 31 B · What is n， Daddy？.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

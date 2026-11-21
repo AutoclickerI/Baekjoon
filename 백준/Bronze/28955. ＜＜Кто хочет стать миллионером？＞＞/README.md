@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28955) 
 
+### 선택한 제출
+
+[제출 66155977](https://acmicpc.net/source/66155977) · Python 3 · 78 B · ＜＜Кто хочет стать миллионером？＞＞.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

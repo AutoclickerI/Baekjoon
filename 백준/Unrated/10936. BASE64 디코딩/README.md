@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10936) 
 
+### 선택한 제출
+
+[제출 45935430](https://acmicpc.net/source/45935430) · Python 3 · 63 B · BASE64 디코딩.py
+
 ### 성능 요약
 
 메모리: 38892 KB, 시간: 132 ms

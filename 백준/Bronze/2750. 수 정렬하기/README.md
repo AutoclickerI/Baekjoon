@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2750) 
 
+### 선택한 제출
+
+[제출 39665386](https://acmicpc.net/source/39665386) · Python 3 · 97 B · 수 정렬하기.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 108 ms

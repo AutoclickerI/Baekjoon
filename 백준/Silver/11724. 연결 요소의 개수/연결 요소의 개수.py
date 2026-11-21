@@ -2,7 +2,7 @@ import sys
 input=sys.stdin.readline
 N,M=map(int,input().split())
 v=[0]*N*2
-l=[[]for _ in[0]*N*2]
+l=[[]for _ in v]
 for _ in[0]*M:
     p,q=map(int,input().split())
     l[p]+=[q]

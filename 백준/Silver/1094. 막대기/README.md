@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1094) 
 
+### 선택한 제출
+
+[제출 40742617](https://acmicpc.net/source/40742617) · Python 3 · 106 B · 막대기.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

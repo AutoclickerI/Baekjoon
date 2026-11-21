@@ -1,14 +1,8 @@
 import sys
 input=sys.stdin.readline
 
-flag=1
-try:
-    *l,=map(int,open(0).read().split())
-    iterator=iter(l)
-except:
-    flag=0
-
-assert flag
+*l,=map(int,open(0).read().split())
+iterator=iter(l)
 
 from heapq import*
 

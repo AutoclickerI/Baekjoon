@@ -1,2 +1,2 @@
-N,_,*l=map(int,open(0).read().split())
-print('Padaeng_i',['Happy','Cry'][N>sum(l)])
+T,_,L=open(0)
+print('Padaeng_i','HCarpyp y'[eval(L.replace(*' +'))<int(T)::2])

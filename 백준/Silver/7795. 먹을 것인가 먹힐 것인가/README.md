@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7795) 
 
+### 선택한 제출
+
+[제출 58587395](https://acmicpc.net/source/58587395) · Python 3 · 132 B · 먹을 것인가 먹힐 것인가.py
+
 ### 성능 요약
 
 메모리: 36252 KB, 시간: 144 ms

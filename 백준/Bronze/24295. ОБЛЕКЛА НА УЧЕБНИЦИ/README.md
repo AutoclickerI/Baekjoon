@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24295) 
 
+### 선택한 제출
+
+[제출 60053260](https://acmicpc.net/source/60053260) · Python 3 · 367 B · ОБЛЕКЛА НА УЧЕБНИЦИ.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

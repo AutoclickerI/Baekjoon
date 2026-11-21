@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9176) 
 
+### 선택한 제출
+
+[제출 42215934](https://acmicpc.net/source/42215934) · Python 3 · 641 B · 메르센 합성수.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 64 ms

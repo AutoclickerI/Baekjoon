@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23303) 
 
+### 선택한 제출
+
+[제출 52057368](https://acmicpc.net/source/52057368) · Python 3 · 47 B · 이 문제는 D2 입니다．.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 68 ms
+메모리: 30852 KB, 시간: 68 ms
 
 ### 분류
 

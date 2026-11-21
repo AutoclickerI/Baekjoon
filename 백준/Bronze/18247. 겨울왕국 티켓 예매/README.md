@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18247) 
 
+### 선택한 제출
+
+[제출 49085102](https://acmicpc.net/source/49085102) · Python 3 · 74 B · 겨울왕국 티켓 예매.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

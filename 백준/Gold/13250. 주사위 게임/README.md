@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13250) 
 
+### 선택한 제출
+
+[제출 41185020](https://acmicpc.net/source/41185020) · PyPy3 · 69 B · 주사위 게임.py
+
 ### 성능 요약
 
-메모리: 199380 KB, 시간: 276 ms
+메모리: 208820 KB, 시간: 300 ms
 
 ### 분류
 

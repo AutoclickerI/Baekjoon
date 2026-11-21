@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/30310) 
 
+### 선택한 제출
+
+[제출 67597311](https://acmicpc.net/source/67597311) · Python 3 · 54 B · Finding Forks.py
+
 ### 성능 요약
 
 메모리: 42176 KB, 시간: 88 ms

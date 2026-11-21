@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11295) 
 
+### 선택한 제출
+
+[제출 65640528](https://acmicpc.net/source/65640528) · Python 3 · 99 B · Exercising.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 76 ms
+메모리: 31256 KB, 시간: 52 ms
 
 ### 분류
 

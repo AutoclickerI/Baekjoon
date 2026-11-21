@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14683) 
 
+### 선택한 제출
+
+[제출 64231756](https://acmicpc.net/source/64231756) · Python 3 · 86 B · Exactly Electrical.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 44 ms
 
 ### 분류
 

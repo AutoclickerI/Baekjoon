@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18108) 
 
+### 선택한 제출
+
+[제출 67786816](https://acmicpc.net/source/67786816) · Scheme · 21 B · 1998년생인 내가 태국에서는 2541년생？！.scm
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 68 ms
+메모리: 17508 KB, 시간: 4 ms
 
 ### 분류
 

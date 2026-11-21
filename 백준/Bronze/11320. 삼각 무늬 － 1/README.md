@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11320) 
 
+### 선택한 제출
+
+[제출 47782430](https://acmicpc.net/source/47782430) · Python 3 · 67 B · 삼각 무늬 － 1.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 76 ms

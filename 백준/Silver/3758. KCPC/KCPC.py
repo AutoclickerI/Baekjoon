@@ -1,6 +1,3 @@
-import sys
-input=sys.stdin.readline
-
 for T in[0]*int(input()):
     n,k,t,m=map(int,input().split())
     d=[{'cnt':0}for _ in[0]*n]

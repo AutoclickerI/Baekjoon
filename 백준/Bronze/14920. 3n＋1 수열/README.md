@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14920) 
 
+### 선택한 제출
+
+[제출 46719186](https://acmicpc.net/source/46719186) · Python 3 · 76 B · 3n＋1 수열.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

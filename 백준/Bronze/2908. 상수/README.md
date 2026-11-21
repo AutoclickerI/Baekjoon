@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2908) 
 
+### 선택한 제출
+
+[제출 39330433](https://acmicpc.net/source/39330433) · Python 3 · 141 B · 상수.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 64 ms

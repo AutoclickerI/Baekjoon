@@ -1,11 +1,4 @@
-input()
-b=input()
-k=input()
-B=input()
-K=input()
-k1=[i for i,s,S in zip(k,b,B)if s==S]
-k2=[i for i,s,S in zip(K,b,B)if s==S]
-if k1==k2:
-    print(*k1,sep='')
-else:
-    print('htg!')
+s=''
+for i,j,k,l in zip(*[*open(f:=0)][1:]):
+ if i==k:s+=j;f|=j>l
+print(f*'htg!'or s)

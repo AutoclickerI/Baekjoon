@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:print('YNEOS'[sum(int(j)for j in i[:-1])%9>0::2])
+for i in[*open(0)][1:]:print('YNEOS'[int(i)%9>0::2])

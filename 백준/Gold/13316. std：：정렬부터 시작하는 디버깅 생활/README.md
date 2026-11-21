@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13316) 
 
+### 선택한 제출
+
+[제출 46427759](https://acmicpc.net/source/46427759) · Text · 21 B · std：：정렬부터 시작하는 디버깅 생활.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

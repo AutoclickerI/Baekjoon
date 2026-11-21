@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23746) 
 
+### 선택한 제출
+
+[제출 41627871](https://acmicpc.net/source/41627871) · Python 3 · 120 B · 문자열 압축 해제.py
+
 ### 성능 요약
 
-메모리: 32816 KB, 시간: 80 ms
+메모리: 32820 KB, 시간: 84 ms
 
 ### 분류
 

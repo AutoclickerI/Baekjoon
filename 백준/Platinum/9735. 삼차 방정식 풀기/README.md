@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9735) 
 
+### 선택한 제출
+
+[제출 44046028](https://acmicpc.net/source/44046028) · Python 3 · 460 B · 삼차 방정식 풀기.py
+
 ### 성능 요약
 
-메모리: 34952 KB, 시간: 128 ms
+메모리: 34920 KB, 시간: 148 ms
 
 ### 분류
 

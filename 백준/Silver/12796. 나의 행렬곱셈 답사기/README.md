@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/12796) 
 
+### 선택한 제출
+
+[제출 61609638](https://acmicpc.net/source/61609638) · Python 3 · 29 B · 나의 행렬곱셈 답사기.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

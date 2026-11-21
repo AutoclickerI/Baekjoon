@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14489) 
 
+### 선택한 제출
+
+[제출 44602646](https://acmicpc.net/source/44602646) · Python 3 · 75 B · 치킨 두 마리 （．．．）.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

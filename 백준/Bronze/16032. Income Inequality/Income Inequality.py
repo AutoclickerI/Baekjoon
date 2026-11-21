@@ -1,1 +1,1 @@
-for i in[*open(0)][1::2]:*l,=map(int,i.split());print(sum(i*len(l)<=sum(l)for i in l))
+while n:=int(input()):*l,=map(int,input().split());print(sum(i*n<=sum(l)for i in l))

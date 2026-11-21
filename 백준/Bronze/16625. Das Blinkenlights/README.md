@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16625) 
 
+### 선택한 제출
+
+[제출 64399713](https://acmicpc.net/source/64399713) · Python 3 · 77 B · Das Blinkenlights.py
+
 ### 성능 요약
 
 메모리: 33508 KB, 시간: 52 ms

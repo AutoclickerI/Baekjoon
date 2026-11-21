@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21420) 
 
+### 선택한 제출
+
+[제출 60324012](https://acmicpc.net/source/60324012) · Python 3 · 47 B · Монетки.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 44 ms
+메모리: 31256 KB, 시간: 48 ms
 
 ### 분류
 

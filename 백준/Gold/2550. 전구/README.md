@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2550) 
 
+### 선택한 제출
+
+[제출 45807770](https://acmicpc.net/source/45807770) · Python 3 · 362 B · 전구.py
+
 ### 성능 요약
 
 메모리: 34952 KB, 시간: 604 ms

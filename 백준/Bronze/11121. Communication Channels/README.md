@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11121) 
 
+### 선택한 제출
+
+[제출 45974112](https://acmicpc.net/source/45974112) · Python 3 · 90 B · Communication Channels.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 80 ms

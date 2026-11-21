@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13075) 
 
+### 선택한 제출
+
+[제출 41147296](https://acmicpc.net/source/41147296) · Python 3 · 348 B · Fibonacci Sequence.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 112 ms

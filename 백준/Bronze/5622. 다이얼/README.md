@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5622) 
 
+### 선택한 제출
+
+[제출 39330578](https://acmicpc.net/source/39330578) · Python 3 · 372 B · 다이얼.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 68 ms

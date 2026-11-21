@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18870) 
 
+### 선택한 제출
+
+[제출 39785354](https://acmicpc.net/source/39785354) · Python 3 · 149 B · 좌표 압축.py
+
 ### 성능 요약
 
 메모리: 148208 KB, 시간: 2104 ms

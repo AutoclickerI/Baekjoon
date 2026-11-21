@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2387) 
 
+### 선택한 제출
+
+[제출 60394756](https://acmicpc.net/source/60394756) · Algol 68 · 470 B · Howl.a
+
 ### 성능 요약
 
 메모리: 80292 KB, 시간: 12 ms

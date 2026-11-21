@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21200) 
 
+### 선택한 제출
+
+[제출 60233858](https://acmicpc.net/source/60233858) · Python 3 · 101 B · Forced Choice.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 48 ms

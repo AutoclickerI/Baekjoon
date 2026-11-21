@@ -1,1 +1,1 @@
-while'0'<input():*n,=map(int,input().split());print(sum((a<b)^(b<c)for a,b,c in zip(n[-1:]+n,n,n[1:]+n)))
+while'0'<input():*n,=map(int,input().split());print(sum((a<b)^(b<c)for a,b,c in zip(n,n[1:]+n,n[2:]+n)))

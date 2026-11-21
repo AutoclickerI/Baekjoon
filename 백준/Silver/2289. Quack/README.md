@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2289) 
 
+### 선택한 제출
+
+[제출 60753067](https://acmicpc.net/source/60753067) · Assembly (64bit) · 176 B · Quack.o
+
 ### 성능 요약
 
 메모리: 4212 KB, 시간: 0 ms

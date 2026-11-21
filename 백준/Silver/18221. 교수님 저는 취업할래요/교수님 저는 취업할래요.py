@@ -1,7 +1,4 @@
 n,*a=map(int,open(0).read().split())
-f=lambda i:divmod(a.index(i),n)
-x,y=f(2);w,z=f(5)
-p,q=sorted([x,w])
-r,s=sorted([y,z])
-c=sum(a[i*n+r:i*n-~s].count(1)for i in range(p,q+1))
-print(+(((x-w)**2+(y-z)**2>24)*c>2))
+f,d=a.index,divmod
+(p,q),(r,s)=map(sorted,zip(d(f(2),n),d(f(5),n)))
+print(+(((p-q)**2+(r-s)**2>24)*sum(a[i*n+r:i*n-~s].count(1)for i in range(p,q+1))>2))

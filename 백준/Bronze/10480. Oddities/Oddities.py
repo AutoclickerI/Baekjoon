@@ -1,2 +1,1 @@
-p,*q=open(0)
-for i in q:print(i:=int(i),'is','eovdedn'[i%2::2])
+for i in[*open(0)][1:]:print(i:=int(i),'is','eovdedn'[i%2::2])

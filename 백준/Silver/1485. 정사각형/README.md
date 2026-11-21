@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1485) 
 
+### 선택한 제출
+
+[제출 59651975](https://acmicpc.net/source/59651975) · Python 3 · 473 B · 정사각형.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 252 ms

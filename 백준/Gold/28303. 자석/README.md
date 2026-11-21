@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28303) 
 
+### 선택한 제출
+
+[제출 63547731](https://acmicpc.net/source/63547731) · Python 3 · 212 B · 자석.py
+
 ### 성능 요약
 
-메모리: 94480 KB, 시간: 908 ms
+메모리: 94192 KB, 시간: 828 ms
 
 ### 분류
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1005) 
 
+### 선택한 제출
+
+[제출 63468864](https://acmicpc.net/source/63468864) · PyPy3 · 390 B · ACM Craft.py
+
 ### 성능 요약
 
 메모리: 388856 KB, 시간: 916 ms

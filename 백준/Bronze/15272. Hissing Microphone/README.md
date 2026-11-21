@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15272) 
 
+### 선택한 제출
+
+[제출 65996057](https://acmicpc.net/source/65996057) · Python 3 · 37 B · Hissing Microphone.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 44 ms
 
 ### 분류
 

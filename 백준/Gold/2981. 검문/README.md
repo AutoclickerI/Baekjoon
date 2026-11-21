@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2981) 
 
+### 선택한 제출
+
+[제출 47986850](https://acmicpc.net/source/47986850) · PyPy3 · 174 B · 검문.py
+
 ### 성능 요약
 
-메모리: 114328 KB, 시간: 4588 ms
+메모리: 114328 KB, 시간: 4736 ms
 
 ### 분류
 

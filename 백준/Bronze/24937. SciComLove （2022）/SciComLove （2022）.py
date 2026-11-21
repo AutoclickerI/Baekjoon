@@ -1,2 +1,1 @@
-N=int(input())%10
-print((2*'SciComLove')[N:N+10])
+print(('SciComLove'*2)[int(input())%10:][:10])

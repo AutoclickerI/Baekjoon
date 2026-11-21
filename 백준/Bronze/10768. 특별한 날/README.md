@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10768) 
 
+### 선택한 제출
+
+[제출 40755009](https://acmicpc.net/source/40755009) · Python 3 · 203 B · 특별한 날.py
+
 ### 성능 요약
 
-메모리: 30860 KB, 시간: 68 ms
+메모리: 30864 KB, 시간: 72 ms
 
 ### 분류
 

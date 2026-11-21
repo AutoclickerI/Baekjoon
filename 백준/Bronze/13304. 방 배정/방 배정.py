@@ -1,7 +1,4 @@
-d={}
-N,K=map(int,input().split())
-for _ in[0]*N:
-    p,q=map(int,input().split())
-    v=max(5,(q+1)//2*4+p)
-    d[v]=d.get(v,0)+1
-print(-sum(i//-K for i in d.values()))
+(n,k),*x=[map(int,i.split())for i in open(0)]
+l=[0]*6
+for a,b in x:l[~-b//2*2+a*(b>2)]+=1
+print(-sum(i//-k for i in l))

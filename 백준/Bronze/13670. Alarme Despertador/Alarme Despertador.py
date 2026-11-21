@@ -1,1 +1,1 @@
-for i in[*open(0)][:-1]:p,q,r,s=map(int,i.split());print((60*(r-p)+s-q)%1440)
+while 1:p,q,r,s=map(int,input().split());print((60*(r-p)+s-q)%1440or exit())

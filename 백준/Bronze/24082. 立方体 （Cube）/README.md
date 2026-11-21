@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24082) 
 
+### 선택한 제출
+
+[제출 40223296](https://acmicpc.net/source/40223296) · Python 3 · 22 B · 立方体 （Cube）.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

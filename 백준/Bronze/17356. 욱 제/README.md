@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17356) 
 
+### 선택한 제출
+
+[제출 43558644](https://acmicpc.net/source/43558644) · Python 3 · 57 B · 욱 제.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 68 ms
+메모리: 30840 KB, 시간: 72 ms
 
 ### 분류
 

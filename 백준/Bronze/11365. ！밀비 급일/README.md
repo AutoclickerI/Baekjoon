@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11365) 
 
+### 선택한 제출
+
+[제출 44645938](https://acmicpc.net/source/44645938) · Python 3 · 39 B · ！밀비 급일.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

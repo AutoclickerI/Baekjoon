@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11238) 
 
+### 선택한 제출
+
+[제출 41147354](https://acmicpc.net/source/41147354) · Python 3 · 387 B · Fibo.py
+
 ### 성능 요약
 
 메모리: 32972 KB, 시간: 160 ms

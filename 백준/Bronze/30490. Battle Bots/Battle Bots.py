@@ -1,4 +1,1 @@
-n=int(input())
-c=0
-while n>2**c:c+=1
-print(c+1)
+print((int(input())-1).bit_length()+1)

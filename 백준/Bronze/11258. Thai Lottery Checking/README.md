@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11258) 
 
+### 선택한 제출
+
+[제출 59740628](https://acmicpc.net/source/59740628) · Python 3 · 239 B · Thai Lottery Checking.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 128 ms

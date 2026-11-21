@@ -1,1 +1,1 @@
-print('GBoaodd'[sorted(n:=[*map(int,input().split())])!=n::2])
+print('GBoaodd'[sorted(x:=input().split(),key=int)!=x::2])

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2010) 
 
+### 선택한 제출
+
+[제출 46090148](https://acmicpc.net/source/46090148) · Python 3 · 94 B · 플러그.py
+
 ### 성능 요약
 
 메모리: 38816 KB, 시간: 212 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5389) 
 
+### 선택한 제출
+
+[제출 58721765](https://acmicpc.net/source/58721765) · Python 3 · 1456 B · 제곱근 작도.py
+
 ### 성능 요약
 
 메모리: 39940 KB, 시간: 68 ms

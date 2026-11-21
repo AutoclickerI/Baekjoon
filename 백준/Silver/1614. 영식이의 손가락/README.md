@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1614) 
 
+### 선택한 제출
+
+[제출 59656394](https://acmicpc.net/source/59656394) · Python 3 · 130 B · 영식이의 손가락.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

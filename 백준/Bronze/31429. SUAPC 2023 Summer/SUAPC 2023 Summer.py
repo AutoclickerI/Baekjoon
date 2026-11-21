@@ -1,1 +1,1 @@
-print(*[ord(i)-9for i in'ى·ԸԨϵңՖ͎Шȵ̎'][~-int(input())::11])
+n=ord('0搌㟫勻出㻉䦩哙㑘䇷⋆ざ'[int(input())]);print(n%16,n>>4)

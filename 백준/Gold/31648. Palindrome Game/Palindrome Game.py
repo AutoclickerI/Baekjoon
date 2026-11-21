@@ -1,1 +1,1 @@
-exec("print('BE'[input()[-1]<'1']),"*int(input()))
+for i in[*open(0)][1:]:print('BE'[i[-2]<'1'])

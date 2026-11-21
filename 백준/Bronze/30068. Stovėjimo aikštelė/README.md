@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/30068) 
 
+### 선택한 제출
+
+[제출 67529766](https://acmicpc.net/source/67529766) · Python 3 · 303 B · Stovėjimo aikštelė.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 88 ms

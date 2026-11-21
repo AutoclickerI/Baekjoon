@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17009) 
 
+### 선택한 제출
+
+[제출 42761825](https://acmicpc.net/source/42761825) · Python 3 · 128 B · Winning Score.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

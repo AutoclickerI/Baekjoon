@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18186) 
 
+### 선택한 제출
+
+[제출 67766247](https://acmicpc.net/source/67766247) · Python 3 · 119 B · 라면 사기 （Large）.py
+
 ### 성능 요약
 
-메모리: 150704 KB, 시간: 1112 ms
+메모리: 150704 KB, 시간: 1276 ms
 
 ### 분류
 

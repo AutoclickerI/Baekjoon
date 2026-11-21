@@ -4,9 +4,6 @@ using namespace std;
 int p[100000][3];
 
 int main(){
-    cin.tie(0);
-    cout.tie(0);
-    ios_base::sync_with_stdio(false);
     int N,M,x,y,z,a;
     long long dx,dy,dz,r;
     cin>>N;

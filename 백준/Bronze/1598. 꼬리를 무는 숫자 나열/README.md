@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1598) 
 
+### 선택한 제출
+
+[제출 46705422](https://acmicpc.net/source/46705422) · Python 3 · 73 B · 꼬리를 무는 숫자 나열.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

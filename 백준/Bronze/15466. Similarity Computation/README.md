@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15466) 
 
+### 선택한 제출
+
+[제출 85230510](https://acmicpc.net/source/85230510) · Python 3 · 91 B · Similarity Computation.py
+
 ### 성능 요약
 
-메모리: 31120 KB, 시간: 28 ms
+메모리: 31120 KB, 시간: 32 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 15일 16:26:32
+2024년 10월 15일 16:29:41
 
 ### 문제 설명
 

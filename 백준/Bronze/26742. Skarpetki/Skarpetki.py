@@ -1,2 +1,1 @@
-f=input().count
-print(f('C')//2+f('B')//2)
+print(len(s:=input())-s.count('C')%2>>1)

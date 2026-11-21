@@ -1,2 +1,1 @@
-*l,n=open(0)
-for i in l:print(sum(b'%a'%i)%51)
+while a:=sum(b'%a'%input())%103:print(a)

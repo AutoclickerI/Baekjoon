@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10757) 
 
+### 선택한 제출
+
+[제출 39331213](https://acmicpc.net/source/39331213) · Python 3 · 46 B · 큰 수 A＋B.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 76 ms

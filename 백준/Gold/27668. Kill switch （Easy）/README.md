@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/27668) 
 
+### 선택한 제출
+
+[제출 102285269](https://acmicpc.net/source/102285269) · Text · 180422 B · Kill switch （Easy）.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

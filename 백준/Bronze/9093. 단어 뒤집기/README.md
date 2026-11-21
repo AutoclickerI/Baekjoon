@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9093) 
 
+### 선택한 제출
+
+[제출 66849303](https://acmicpc.net/source/66849303) · Python 3 · 52 B · 단어 뒤집기.py
+
 ### 성능 요약
 
-메모리: 105132 KB, 시간: 1036 ms
+메모리: 48484 KB, 시간: 116 ms
 
 ### 분류
 

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/22901) 
 
+### 선택한 제출
+
+[제출 92207748](https://acmicpc.net/source/92207748) · Python 3 · 321 B · 100점 · ko＿orange.py
+
 ### 성능 요약
 
-메모리: 13948 KB, 시간: 504 ms
+메모리: 13948 KB, 시간: 368 ms
 
 ### 분류
 

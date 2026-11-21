@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2864) 
 
+### 선택한 제출
+
+[제출 66835023](https://acmicpc.net/source/66835023) · Python 3 · 63 B · 5와 6의 차이.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

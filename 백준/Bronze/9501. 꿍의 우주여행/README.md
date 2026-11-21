@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9501) 
 
+### 선택한 제출
+
+[제출 46721176](https://acmicpc.net/source/46721176) · Python 3 · 165 B · 꿍의 우주여행.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 260 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9019) 
 
+### 선택한 제출
+
+[제출 60748913](https://acmicpc.net/source/60748913) · PyPy3 · 349 B · DSLR.py
+
 ### 성능 요약
 
 메모리: 218412 KB, 시간: 13560 ms

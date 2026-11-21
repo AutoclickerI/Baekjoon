@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14682) 
 
+### 선택한 제출
+
+[제출 62956587](https://acmicpc.net/source/62956587) · Python 3 · 41 B · Shifty Sum.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 48 ms
 
 ### 분류
 

@@ -1,2 +1,2 @@
-_,p,q=open(0)
-print(*sorted({*p.split()}&{*q.split()},key=int))
+_,p,q=map(str.split,open(0))
+print(*sorted({*p}&{*q},key=int))

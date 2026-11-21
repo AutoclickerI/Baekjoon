@@ -3,16 +3,10 @@ alist=[]
 a=0
 for i in range(m):
     count = l[i]
-    if 2*n>=count>=n:
-        print(1)
-        print(i+1)
-        break
+    if 2*n>=count>=n:exit(print(1,i+1))
     elif count>2*n:
         continue
     else:
         alist+=[i+1]
         a+=count
-        if a>=n:
-            print(len(alist))
-            print(*alist,sep='\n')
-            break
+        if a>=n:exit(print(len(alist),*alist))

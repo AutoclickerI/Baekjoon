@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/29002) 
 
+### 선택한 제출
+
+[제출 65856714](https://acmicpc.net/source/65856714) · Python 3 · 69 B · Космический корабль.py
+
 ### 성능 요약
 
 메모리: 42340 KB, 시간: 116 ms

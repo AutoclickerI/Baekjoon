@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13705) 
 
+### 선택한 제출
+
+[제출 47348166](https://acmicpc.net/source/47348166) · Python 3 · 248 B · Ax＋Bsin（x）＝C.py
+
 ### 성능 요약
 
-메모리: 37004 KB, 시간: 76 ms
+메모리: 37088 KB, 시간: 76 ms
 
 ### 분류
 

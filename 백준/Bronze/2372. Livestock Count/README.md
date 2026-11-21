@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2372) 
 
+### 선택한 제출
+
+[제출 53114843](https://acmicpc.net/source/53114843) · Ada · 311 B · Livestock Count.ada
+
 ### 성능 요약
 
 메모리: 6564 KB, 시간: 0 ms

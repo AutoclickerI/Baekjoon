@@ -1,6 +1,2 @@
-_,*l=map(int,open(0))
-m=a=0
-for i in l[::-1]:
-    a+=i>m
-    m=max(i,m)
-print(a)
+x=-1
+print(sum(h>x<(x:=h)for h in[*map(int,open(0))][:0:x]))

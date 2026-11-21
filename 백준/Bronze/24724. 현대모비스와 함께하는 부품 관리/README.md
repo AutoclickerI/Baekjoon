@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24724) 
 
+### 선택한 제출
+
+[제출 40710767](https://acmicpc.net/source/40710767) · PyPy3 · 162 B · 현대모비스와 함께하는 부품 관리.py
+
 ### 성능 요약
 
 메모리: 127632 KB, 시간: 276 ms

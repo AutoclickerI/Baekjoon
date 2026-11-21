@@ -1,4 +1,3 @@
-(n,s),*L=map(str.split,open(0))
-s=int(s)
-for l,r in L:s+=int(l)<=s<=int(r)
+(n,s),*L=[map(int,i.split())for i in open(0)]
+for l,r in L:s+=l<=s<=r
 print(s)

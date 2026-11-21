@@ -18,12 +18,12 @@ for t,n in l:
 i=0
 mv=float('inf')
 while K<500001:
-    if ~i%2:
-        if vz[K]<=i:
-            mv=min(mv,i)
+    if i%2:
+        vv=vo
     else:
-        if vo[K]<=i:
-            mv=min(mv,i)
+        vv=vz
+    if vv[K]<=i:
+        mv=min(mv,i)
     i+=1
     K+=i
 print(-(mv==float('inf'))or mv)

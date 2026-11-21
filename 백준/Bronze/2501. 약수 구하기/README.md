@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2501) 
 
+### 선택한 제출
+
+[제출 53554176](https://acmicpc.net/source/53554176) · Python 3 · 107 B · 약수 구하기.py
+
 ### 성능 요약
 
 메모리: 30616 KB, 시간: 40 ms

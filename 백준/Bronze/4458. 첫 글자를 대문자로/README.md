@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4458) 
 
+### 선택한 제출
+
+[제출 46578131](https://acmicpc.net/source/46578131) · Python 3 · 57 B · 첫 글자를 대문자로.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

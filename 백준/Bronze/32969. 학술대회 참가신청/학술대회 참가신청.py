@@ -1,2 +1,2 @@
-s=input()
-print(['digital humanities','public bigdata'][any(i in s for i in['bigdata','public','society'])])
+l='public','bigdata'
+print(*{*input().split()}&{*l,'society'}and l or['digital humanities'])

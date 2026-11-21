@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11287) 
 
+### 선택한 제출
+
+[제출 85129572](https://acmicpc.net/source/85129572) · Python 3 · 266 B · Margaret’s Minute Minute Manipulation.py
+
 ### 성능 요약
 
-메모리: 31120 KB, 시간: 28 ms
+메모리: 31120 KB, 시간: 32 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 13일 02:33:00
+2024년 10월 13일 02:35:01
 
 ### 문제 설명
 

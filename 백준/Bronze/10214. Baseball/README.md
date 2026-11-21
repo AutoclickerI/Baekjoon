@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10214) 
 
+### 선택한 제출
+
+[제출 46692019](https://acmicpc.net/source/46692019) · Python 3 · 185 B · Baseball.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 104 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5337) 
 
+### 선택한 제출
+
+[제출 40216470](https://acmicpc.net/source/40216470) · Python 3 · 66 B · 웰컴.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 72 ms

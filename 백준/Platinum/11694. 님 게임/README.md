@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11694) 
 
+### 선택한 제출
+
+[제출 59075698](https://acmicpc.net/source/59075698) · Python 3 · 101 B · 님 게임.py
+
 ### 성능 요약
 
-메모리: 31388 KB, 시간: 40 ms
+메모리: 31120 KB, 시간: 36 ms
 
 ### 분류
 

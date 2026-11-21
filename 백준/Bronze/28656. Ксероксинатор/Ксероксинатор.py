@@ -1,4 +1,4 @@
-n,b=map(int,input().split())
-a=q=0
-for i in map(int,input().split()):q+=i;a+=q;q-=min(b,q)
-print(a+q)
+_,b,*l=map(int,open(0).read().split())
+s=w=0
+for i in l:w+=i;s+=w;w-=min(w,b)
+print(s+w)

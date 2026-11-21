@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11724) 
 
+### 선택한 제출
+
+[제출 60613764](https://acmicpc.net/source/60613764) · PyPy3 · 331 B · 연결 요소의 개수.py
+
 ### 성능 요약
 
-메모리: 175940 KB, 시간: 412 ms
+메모리: 170412 KB, 시간: 384 ms
 
 ### 분류
 

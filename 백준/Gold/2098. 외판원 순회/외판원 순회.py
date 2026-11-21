@@ -1,5 +1,5 @@
 N=int(input())
-c=[[*map(int,input().split())]for _ in[0]*N]
+c=[[i or float('inf')for i in map(int,input().split())]for _ in[0]*N]
 
 from heapq import*
 
@@ -20,8 +20,8 @@ while hq:
         f^=last
         next_node=last.bit_length()-1
         nc=c[current][next_node]+cost
-        if c[current][next_node]and nc<v[next_node][state^last]:
+        if nc<v[next_node][state^last]:
             v[next_node][state^last]=nc
             heappush(hq,(nc,state^last,next_node))
 
-print(min(v[i][0]+c[i][0]for i in range(1,N)if c[i][0]))
+print(min(v[i][0]+c[i][0]for i in range(1,N)))

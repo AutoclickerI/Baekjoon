@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15751) 
 
+### 선택한 제출
+
+[제출 52342152](https://acmicpc.net/source/52342152) · Python 3 · 85 B · Teleportation.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

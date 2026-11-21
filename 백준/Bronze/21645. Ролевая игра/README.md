@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21645) 
 
+### 선택한 제출
+
+[제출 64074690](https://acmicpc.net/source/64074690) · Python 3 · 55 B · Ролевая игра.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 60 ms
+메모리: 31256 KB, 시간: 40 ms
 
 ### 분류
 

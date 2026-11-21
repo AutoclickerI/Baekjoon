@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17924) 
 
+### 선택한 제출
+
+[제출 63832310](https://acmicpc.net/source/63832310) · Python 3 · 180 B · Cooking Water.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 128 ms

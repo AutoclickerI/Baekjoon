@@ -1,3 +1,4 @@
 n=int(input())
-l=['@'*5*n]*n
-print(*l+['@'*n+' '*3*n+'@'*n]*3*n+l)
+s='@'*n
+l=[s*5]*n
+print(*l+[s+' '*3*n+s]*3*n+l)

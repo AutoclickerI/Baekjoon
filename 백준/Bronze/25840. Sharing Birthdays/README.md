@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/25840) 
 
+### 선택한 제출
+
+[제출 63996100](https://acmicpc.net/source/63996100) · Python 3 · 24 B · Sharing Birthdays.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

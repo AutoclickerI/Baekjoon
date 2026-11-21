@@ -1,1 +1,1 @@
-print(sorted(map(str.replace,open(0),'   ',['']*3),key=int)[1])
+print(min(open(0).read()[1:].replace(' ','').split(),key=int))

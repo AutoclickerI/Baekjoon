@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24365) 
 
+### 선택한 제출
+
+[제출 40967522](https://acmicpc.net/source/40967522) · Python 3 · 85 B · ПЧЕЛИЧКАТА МАЯ.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 76 ms

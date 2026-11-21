@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6162) 
 
+### 선택한 제출
+
+[제출 65956028](https://acmicpc.net/source/65956028) · Python 3 · 138 B · Superlatives.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

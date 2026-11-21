@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20473) 
 
+### 선택한 제출
+
+[제출 59740033](https://acmicpc.net/source/59740033) · Python 3 · 37 B · Гостиница.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 56 ms
 
 ### 분류
 

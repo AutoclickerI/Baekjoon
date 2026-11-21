@@ -1,2 +1,2 @@
-_,n,*l=map(int,open(0).read().split())
-print(sum(i<=n for i in l))
+H,A=open(0)
+print(sum(eval(i+'<='+H[2:])for i in A.split()))

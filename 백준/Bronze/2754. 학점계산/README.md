@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2754) 
 
+### 선택한 제출
+
+[제출 44253961](https://acmicpc.net/source/44253961) · Python 3 · 158 B · 학점계산.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

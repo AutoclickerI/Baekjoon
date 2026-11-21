@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10178) 
 
+### 선택한 제출
+
+[제출 46697470](https://acmicpc.net/source/46697470) · Python 3 · 121 B · 할로윈의 사탕.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

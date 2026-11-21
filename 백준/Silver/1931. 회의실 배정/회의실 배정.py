@@ -1,3 +1,2 @@
-*l,=map(int,open(0).read().split())
-e=0
-print(sum((e:=i)and 1for i,j in sorted(zip(l[2::2],l[1::2]))if e<=j))
+t=-1
+print(sum(b>t-1<(t:=a)for a,b in sorted([*map(int,x.split()),t][1::t]for x in open(0)))-1)

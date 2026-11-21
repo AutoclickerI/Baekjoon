@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2188) 
 
+### 선택한 제출
+
+[제출 57287023](https://acmicpc.net/source/57287023) · Python 3 · 393 B · 축사 배정.py
+
 ### 성능 요약
 
 메모리: 31268 KB, 시간: 88 ms

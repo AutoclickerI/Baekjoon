@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14542) 
 
+### 선택한 제출
+
+[제출 96646471](https://acmicpc.net/source/96646471) · Python 3 · 133 B · Outer Triangle Sum.py
+
 ### 성능 요약
 
 메모리: 32412 KB, 시간: 32 ms
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 7월 23일 12:19:26
+2025년 7월 23일 12:26:36
 
 ### 문제 설명
 

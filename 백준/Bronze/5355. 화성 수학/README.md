@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5355) 
 
+### 선택한 제출
+
+[제출 40239095](https://acmicpc.net/source/40239095) · Python 3 · 257 B · 화성 수학.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 68 ms

@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:print(f'The height of the triangle is {eval(i.replace(" ","*2/")):.2f} units')
+for i in[*open(0)][1:]:print('The height of the triangle is %.2f units'%eval(i.replace(' ','*2/')))

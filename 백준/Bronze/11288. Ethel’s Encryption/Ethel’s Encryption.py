@@ -1,2 +1,3 @@
-n=pow(*map(int,input().split()[1:]),26)
-for i in input().split():print(*[chr((ord(j)+13-n)%26+65)for j in i],sep='')
+i,s=open(0,'rb')
+_,a,b=map(int,i.split())
+for i in s:print(end=chr(32+i//65*((i+13-a**b)%26+33)))

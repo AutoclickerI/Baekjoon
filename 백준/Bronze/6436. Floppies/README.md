@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6436) 
 
+### 선택한 제출
+
+[제출 64045267](https://acmicpc.net/source/64045267) · Python 3 · 123 B · Floppies.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

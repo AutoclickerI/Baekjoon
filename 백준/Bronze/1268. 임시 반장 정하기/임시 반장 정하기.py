@@ -1,1 +1,1 @@
-print(min(enumerate(l:=[[*map(int,i.split())]for i in open(0)][1:]),key=lambda s:sum(all(j!=k for j,k in zip(i,s[1]))for i in l))[0]+1)
+print(min(enumerate(l:=[*map(str.split,open(0))][1:]),key=lambda s:sum(all(j!=k for j,k in zip(i,s[1]))for i in l))[0]+1)

@@ -1,2 +1,2 @@
-N,M,T,*l=map(int,open(0).read().split())
-print(l[0]-M+max(0,T-l[-1]-M)+sum(max(0,j-i-2*M)for i,j in zip(l,l[1:])))
+n,m,t,a,*l=map(int,open(0).read().split())
+print(max(a-m,0)+sum(i-min(a+2*m,a:=i)for i in l)+max(t-a-m,0))

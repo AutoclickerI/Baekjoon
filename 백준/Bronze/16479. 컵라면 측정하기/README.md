@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16479) 
 
+### 선택한 제출
+
+[제출 69040107](https://acmicpc.net/source/69040107) · Python 3 · 56 B · 40점 · 컵라면 측정하기.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 68 ms
+메모리: 31120 KB, 시간: 48 ms
 
 ### 분류
 

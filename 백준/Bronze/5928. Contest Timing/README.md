@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5928) 
 
+### 선택한 제출
+
+[제출 40448304](https://acmicpc.net/source/40448304) · Python 3 · 91 B · Contest Timing.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 72 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18917) 
 
+### 선택한 제출
+
+[제출 42167897](https://acmicpc.net/source/42167897) · Python 3 · 262 B · 수열과 쿼리 38.py
+
 ### 성능 요약
 
 메모리: 34744 KB, 시간: 764 ms

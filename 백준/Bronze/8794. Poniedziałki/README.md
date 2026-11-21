@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8794) 
 
+### 선택한 제출
+
+[제출 59857537](https://acmicpc.net/source/59857537) · Python 3 · 79 B · Poniedziałki.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

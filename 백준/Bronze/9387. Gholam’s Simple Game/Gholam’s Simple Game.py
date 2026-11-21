@@ -1,12 +1,7 @@
-for _ in[0]*int(input()):
-    m,n=map(int,input().split())
-    *a,=map(int, input().split())
-    l=3 in a
-    r=a.index(2+l)
-    
-    t=0
-    while n:
-        if r==0:l=0
-        if r==m-1:l=1
-        r+=1-2*l;t+=a[r]<1;n-=1
-    print(t)
+T=input
+for _ in[0]*int(T()):
+ M=int(T().split()[1]);*L,=map(int,T().split())
+ if 3in L:L=L[::-1]
+ I=L.index([2,3][3in L])+1
+ while len(L)<1e4:L=L+(L[:-1])[::-1]
+ print(sum([L[i]<1for i in range(I,I+M)]))

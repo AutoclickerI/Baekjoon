@@ -1,2 +1,2 @@
-from math import*
-print(comb(int(input())-1,3))
+import math
+print(math.comb(int(input())-1,3))

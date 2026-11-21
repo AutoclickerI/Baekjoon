@@ -1,12 +1,2 @@
-while True:
-    a,b,c=sorted(map(eval,input().split()));a+b+c<1<exit()
-    if a < 0.25 or b < 90 or c < 125:
-        print('not mailable')
-    elif a <= 7 and b <= 155 and c <= 290:
-        print('letter')
-    elif a <= 50 and b <= 300 and c <= 380:
-        print('packet')
-    elif 2 * a + 2 * b + c <= 2100:
-        print('parcel')
-    else:
-        print('not mailable')
+g=lambda *l:all([.25,90,125][i]<=s[i]<=l[i]for i in range(3))
+while any(s:=sorted(map(eval,input().split()))):print([[['not mailable','parcel'][g(*[2100]*3)&(sum(s)*2-s[2]<=2100)],'packet'][g(50,300,380)],'letter'][g(7,155,290)])

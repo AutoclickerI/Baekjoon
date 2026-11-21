@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24349) 
 
+### 선택한 제출
+
+[제출 59552859](https://acmicpc.net/source/59552859) · Python 3 · 265 B · МЕД.py
+
 ### 성능 요약
 
 메모리: 31388 KB, 시간: 40 ms

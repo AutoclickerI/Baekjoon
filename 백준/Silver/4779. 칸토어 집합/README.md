@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4779) 
 
+### 선택한 제출
+
+[제출 62513328](https://acmicpc.net/source/62513328) · Python 3 · 84 B · 칸토어 집합.py
+
 ### 성능 요약
 
 메모리: 61364 KB, 시간: 68 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9806) 
 
+### 선택한 제출
+
+[제출 61959182](https://acmicpc.net/source/61959182) · Python 3 · 76 B · The King.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

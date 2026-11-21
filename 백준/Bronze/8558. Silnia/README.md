@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8558) 
 
+### 선택한 제출
+
+[제출 44916640](https://acmicpc.net/source/44916640) · Python 3 · 57 B · Silnia.py
+
 ### 성능 요약
 
 메모리: 32952 KB, 시간: 288 ms

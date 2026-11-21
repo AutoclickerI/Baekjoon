@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11401) 
 
+### 선택한 제출
+
+[제출 41813132](https://acmicpc.net/source/41813132) · PyPy3 · 207 B · 이항 계수 3.py
+
 ### 성능 요약
 
 메모리: 114328 KB, 시간: 148 ms

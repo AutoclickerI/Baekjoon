@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28305) 
 
+### 선택한 제출
+
+[제출 62851578](https://acmicpc.net/source/62851578) · PyPy3 · 203 B · 세미나 배정.py
+
 ### 성능 요약
 
-메모리: 173440 KB, 시간: 288 ms
+메모리: 172716 KB, 시간: 272 ms
 
 ### 분류
 

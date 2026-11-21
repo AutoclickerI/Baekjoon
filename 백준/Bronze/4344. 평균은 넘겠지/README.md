@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4344) 
 
+### 선택한 제출
+
+[제출 62716504](https://acmicpc.net/source/62716504) · Python 3 · 104 B · 평균은 넘겠지.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 104 ms

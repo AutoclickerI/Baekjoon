@@ -1,6 +1,3 @@
-n,d=map(int,input().split())
-l=[]
-for _ in[0]*n:
-    p,q=map(int,input().split())
-    l+=(d-p)/(q+1e-9),
-print(l.index(min(l))+1)
+k=0
+(n,s),*a=[map(int,s.split())for s in open(0)]
+print(min(((s-i)/j,k:=k+1)for i,j in a)[1])

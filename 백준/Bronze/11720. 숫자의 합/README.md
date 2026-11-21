@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11720) 
 
+### 선택한 제출
+
+[제출 46477596](https://acmicpc.net/source/46477596) · Python 3 · 36 B · 숫자의 합.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

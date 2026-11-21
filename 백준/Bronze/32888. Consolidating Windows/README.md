@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/32888) 
 
+### 선택한 제출
+
+[제출 87513423](https://acmicpc.net/source/87513423) · Python 3 · 49 B · Consolidating Windows.py
+
 ### 성능 요약
 
-메모리: 32412 KB, 시간: 36 ms
+메모리: 32412 KB, 시간: 40 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 16일 17:33:50
+2024년 12월 16일 17:34:20
 
 ### 문제 설명
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3179) 
 
+### 선택한 제출
+
+[제출 63584177](https://acmicpc.net/source/63584177) · PyPy3 · 873 B · 삼각형.py
+
 ### 성능 요약
 
 메모리: 120400 KB, 시간: 7636 ms

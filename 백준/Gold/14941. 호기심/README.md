@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14941) 
 
+### 선택한 제출
+
+[제출 53321232](https://acmicpc.net/source/53321232) · PyPy3 · 499 B · 호기심.py
+
 ### 성능 요약
 
-메모리: 127236 KB, 시간: 304 ms
+메모리: 126360 KB, 시간: 328 ms
 
 ### 분류
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9653) 
 
+### 선택한 제출
+
+[제출 40217308](https://acmicpc.net/source/40217308) · Python 3 · 338 B · 스타워즈 로고.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 68 ms

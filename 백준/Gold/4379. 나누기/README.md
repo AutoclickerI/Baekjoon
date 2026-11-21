@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4379) 
 
+### 선택한 제출
+
+[제출 41290155](https://acmicpc.net/source/41290155) · Python 3 · 307 B · 나누기.py
+
 ### 성능 요약
 
-메모리: 32972 KB, 시간: 68 ms
+메모리: 32972 KB, 시간: 72 ms
 
 ### 분류
 

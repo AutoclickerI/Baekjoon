@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21185) 
 
+### 선택한 제출
+
+[제출 66121422](https://acmicpc.net/source/66121422) · Python 3 · 51 B · Some Sum.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

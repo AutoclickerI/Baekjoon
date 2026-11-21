@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1940) 
 
+### 선택한 제출
+
+[제출 58824399](https://acmicpc.net/source/58824399) · Python 3 · 174 B · 주몽.py
+
 ### 성능 요약
 
-메모리: 32276 KB, 시간: 60 ms
+메모리: 32276 KB, 시간: 52 ms
 
 ### 분류
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2997) 
 
+### 선택한 제출
+
+[제출 46716195](https://acmicpc.net/source/46716195) · Python 3 · 162 B · 네 번째 수.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

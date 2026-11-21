@@ -1,5 +1,1 @@
-a=0
-b=1
-for _ in range(int(input())):
-    a,b=b,a+b
-print(a)
+a,b=0,1;exec('a,b=b,a+b;'*int(input()));print(a)

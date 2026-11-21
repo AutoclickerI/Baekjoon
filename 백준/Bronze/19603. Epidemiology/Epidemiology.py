@@ -1,3 +1,4 @@
-import math
-P,N,R=map(int,open(0))
-print(R>1 and int(math.log((R*P-P+N)/N,R))or P//N)
+p,n,r=map(int,open(0))
+t=d=0
+while t<=p:t+=n;n*=r;d+=1
+print(d-1)

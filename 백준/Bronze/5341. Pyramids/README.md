@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5341) 
 
+### 선택한 제출
+
+[제출 52780546](https://acmicpc.net/source/52780546) · Python 3 · 63 B · Pyramids.py
+
 ### 성능 요약
 
 메모리: 30616 KB, 시간: 36 ms

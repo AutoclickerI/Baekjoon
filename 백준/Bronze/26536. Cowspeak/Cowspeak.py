@@ -1,3 +1,1 @@
-for i in[*open(0)][1:]:
-    for s in i.split():print(end=chr(s.count('M')*16+s.count('O')))
-    print()
+for s in[*open(0)][1:]:print(''.join(chr(i.count('M')*15+len(i))for i in s.split()))

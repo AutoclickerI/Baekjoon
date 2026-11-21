@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2003) 
 
+### 선택한 제출
+
+[제출 58824267](https://acmicpc.net/source/58824267) · Python 3 · 179 B · 수들의 합 2.py
+
 ### 성능 요약
 
 메모리: 32276 KB, 시간: 60 ms

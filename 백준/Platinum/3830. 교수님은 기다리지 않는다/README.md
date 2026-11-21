@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3830) 
 
+### 선택한 제출
+
+[제출 56053069](https://acmicpc.net/source/56053069) · Python 3 · 383 B · 교수님은 기다리지 않는다.py
+
 ### 성능 요약
 
-메모리: 48620 KB, 시간: 3140 ms
+메모리: 48620 KB, 시간: 3268 ms
 
 ### 분류
 

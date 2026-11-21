@@ -1,8 +1,4 @@
-N=int(input())
-t=0
-c=1
-while t+c<N:
-    t+=c
-    c+=1
-N-=t
-print(c-N+1,N)
+n=int(input())
+i=1
+while n>i:n-=i;i+=1
+print(i+1-n,n)

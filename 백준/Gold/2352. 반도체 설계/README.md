@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2352) 
 
+### 선택한 제출
+
+[제출 41912605](https://acmicpc.net/source/41912605) · Python 3 · 201 B · 반도체 설계.py
+
 ### 성능 요약
 
 메모리: 36956 KB, 시간: 100 ms

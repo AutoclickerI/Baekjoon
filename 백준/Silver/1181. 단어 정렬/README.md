@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1181) 
 
+### 선택한 제출
+
+[제출 39789890](https://acmicpc.net/source/39789890) · Python 3 · 244 B · 단어 정렬.py
+
 ### 성능 요약
 
 메모리: 33940 KB, 시간: 888 ms

@@ -8,5 +8,5 @@ for T in[0]*int(input()):
         f&=0<=s[i]
         r+=s[i]
         s=[j-s[i]*k for j,k in zip(s,l[i])]
-    f&=r<=2*10**9
+    f&=r<2*10**9
     print(*[f,r][:f+1])

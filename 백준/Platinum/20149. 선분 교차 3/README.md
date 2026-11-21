@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20149) 
 
+### 선택한 제출
+
+[제출 55302702](https://acmicpc.net/source/55302702) · Python 3 · 1471 B · 선분 교차 3.py
+
 ### 성능 요약
 
-메모리: 36752 KB, 시간: 76 ms
+메모리: 36788 KB, 시간: 64 ms
 
 ### 분류
 

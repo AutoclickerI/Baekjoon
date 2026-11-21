@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6750) 
 
+### 선택한 제출
+
+[제출 66591037](https://acmicpc.net/source/66591037) · Python 3 · 44 B · Rotating letters.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

@@ -1,6 +1,7 @@
 import sys
 import math
 from random import*
+from bisect import*
 sys.setrecursionlimit(9**9)
 
 def miller_rabin(n,a):
@@ -50,14 +51,11 @@ def factors(d):
         l+=temp
         temp=[]
     return sorted(l)
-import bisect
 
 while(n:=int(input())):
     m=n+2
     F=factors(factorize(n))
     for i in F:
-        j=bisect.bisect_right(F,int(i**.5))
-        for k in F[max(0,j-5):min(j+5,len(F)+1)]:
-            if not i%k:
-                m=min(m,n//i+i//k+k)
+        j=bisect_right(F,int(i**.5))
+        m=min(m,m,*(n//i+i//k+k for k in F[max(0,j-5):min(j+5,len(F)+1)]if not i%k))
     print(m)

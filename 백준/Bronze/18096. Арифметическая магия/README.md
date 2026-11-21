@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18096) 
 
+### 선택한 제출
+
+[제출 77835598](https://acmicpc.net/source/77835598) · Text · 1 B · Арифметическая магия.txt
+
 ### 성능 요약
 
-메모리: 30860 KB, 시간: 72 ms
+메모리: 4528 KB, 시간: 0 ms
 
 ### 분류
 

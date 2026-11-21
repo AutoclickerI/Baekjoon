@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4655) 
 
+### 선택한 제출
+
+[제출 66064025](https://acmicpc.net/source/66064025) · Python 3 · 75 B · Hangover.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 108 ms

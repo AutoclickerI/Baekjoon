@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24609) 
 
+### 선택한 제출
+
+[제출 64580395](https://acmicpc.net/source/64580395) · Python 3 · 53 B · Overdraft.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

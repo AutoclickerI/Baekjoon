@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2606) 
 
+### 선택한 제출
+
+[제출 56303380](https://acmicpc.net/source/56303380) · Python 3 · 250 B · 바이러스.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 48 ms
+메모리: 31256 KB, 시간: 52 ms
 
 ### 분류
 

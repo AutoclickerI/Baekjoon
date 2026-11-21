@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13194) 
 
+### 선택한 제출
+
+[제출 85357217](https://acmicpc.net/source/85357217) · Python 3 · 404 B · Router 3.py
+
 ### 성능 요약
 
 메모리: 31120 KB, 시간: 36 ms

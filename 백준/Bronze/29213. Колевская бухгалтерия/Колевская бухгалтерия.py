@@ -1,6 +1,2 @@
 a,b,c=map(int,input().split())
-ans=0
-for i in range(c+1):
-    for j in range(c+1-i):
-        ans+=a+i>b+j
-print(ans)
+print(sum(b+i<a+j*2for i in range(c+1)for j in range(i+1)))

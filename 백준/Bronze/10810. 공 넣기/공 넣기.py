@@ -1,6 +1,4 @@
-p,*l=open(0)
-L=[0]*int(p.split()[0])
-for i in l:
- p,q,r=map(int,i.split())
- for j in range(p-1,q):L[j]=r
+p,_,*l=map(int,open(0).read().split())
+L=[0]*p
+while l:p,q,r,*l=l;L[p-1:q]=[r]*(q-p+1)
 print(*L)

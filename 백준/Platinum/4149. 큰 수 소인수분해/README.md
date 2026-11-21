@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4149) 
 
+### 선택한 제출
+
+[제출 62991176](https://acmicpc.net/source/62991176) · Python 3 · 834 B · 161점 · 큰 수 소인수분해.py
+
 ### 성능 요약
 
-메모리: 39924 KB, 시간: 156 ms
+메모리: 39868 KB, 시간: 184 ms
 
 ### 분류
 

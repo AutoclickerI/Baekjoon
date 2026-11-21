@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11866) 
 
+### 선택한 제출
+
+[제출 40209245](https://acmicpc.net/source/40209245) · Python 3 · 263 B · 요세푸스 문제 0.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

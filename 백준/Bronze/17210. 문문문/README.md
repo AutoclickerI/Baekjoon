@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17210) 
 
+### 선택한 제출
+
+[제출 62032726](https://acmicpc.net/source/62032726) · Python 3 · 74 B · 문문문.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

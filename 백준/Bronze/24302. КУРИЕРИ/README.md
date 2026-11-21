@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24302) 
 
+### 선택한 제출
+
+[제출 60277610](https://acmicpc.net/source/60277610) · Python 3 · 238 B · КУРИЕРИ.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

@@ -1,7 +1,3 @@
-import sys
-input=sys.stdin.readline
-p,q=map(eval,input().split())
-l=[p/q,q/p]
-for _ in[0]*int(input()):
-    p,q=input().split()
-    print(eval(p)*l[q=='A'])
+x,_,*l=open(0)
+x,y=map(eval,x.split())
+for i in l:print(eval(i[:-2])*[x/y,y/x][i[-2]<'B'])

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15740) 
 
+### 선택한 제출
+
+[제출 66868625](https://acmicpc.net/source/66868625) · Python 3 · 35 B · 100점 · A＋B － 9.py
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 92 ms
+메모리: 31388 KB, 시간: 48 ms
 
 ### 분류
 

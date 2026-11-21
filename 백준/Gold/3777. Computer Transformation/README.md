@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3777) 
 
+### 선택한 제출
+
+[제출 42717609](https://acmicpc.net/source/42717609) · Python 3 · 92 B · Computer Transformation.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 956 ms

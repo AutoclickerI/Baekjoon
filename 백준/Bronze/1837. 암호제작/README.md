@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1837) 
 
+### 선택한 제출
+
+[제출 46714118](https://acmicpc.net/source/46714118) · Python 3 · 115 B · 암호제작.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 332 ms

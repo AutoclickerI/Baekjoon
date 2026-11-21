@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/22965) 
 
+### 선택한 제출
+
+[제출 63218141](https://acmicpc.net/source/63218141) · Python 3 · 133 B · k개의 부분 배열.py
+
 ### 성능 요약
 
 메모리: 61924 KB, 시간: 236 ms

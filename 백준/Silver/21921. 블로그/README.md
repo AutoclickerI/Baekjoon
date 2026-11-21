@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21921) 
 
+### 선택한 제출
+
+[제출 58341581](https://acmicpc.net/source/58341581) · Python 3 · 161 B · 블로그.py
+
 ### 성능 요약
 
 메모리: 60696 KB, 시간: 180 ms

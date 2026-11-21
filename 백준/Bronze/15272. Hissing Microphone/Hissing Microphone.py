@@ -1,1 +1,1 @@
-print('no '[('ss'in input())*3:]+'hiss')
+print('no hiss'[('ss'in input())*3:])

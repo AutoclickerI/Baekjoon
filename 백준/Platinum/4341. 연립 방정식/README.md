@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4341) 
 
+### 선택한 제출
+
+[제출 47501495](https://acmicpc.net/source/47501495) · Python 3 · 2642 B · 연립 방정식.py
+
 ### 성능 요약
 
-메모리: 37136 KB, 시간: 152 ms
+메모리: 61580 KB, 시간: 244 ms
 
 ### 분류
 

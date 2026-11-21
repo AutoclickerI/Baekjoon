@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/29410) 
 
+### 선택한 제출
+
+[제출 66463215](https://acmicpc.net/source/66463215) · Python 3 · 121 B · Дома.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 56 ms
+메모리: 31440 KB, 시간: 52 ms
 
 ### 분류
 

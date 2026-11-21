@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10808) 
 
+### 선택한 제출
+
+[제출 40210019](https://acmicpc.net/source/40210019) · Python 3 · 246 B · 알파벳 개수.py
+
 ### 성능 요약
 
 메모리: 32344 KB, 시간: 92 ms

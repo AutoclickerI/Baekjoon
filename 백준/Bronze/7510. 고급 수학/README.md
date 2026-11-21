@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7510) 
 
+### 선택한 제출
+
+[제출 46718854](https://acmicpc.net/source/46718854) · Python 3 · 143 B · 고급 수학.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 76 ms

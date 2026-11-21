@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9184) 
 
+### 선택한 제출
+
+[제출 40295157](https://acmicpc.net/source/40295157) · Python 3 · 761 B · 신나는 함수 실행.py
+
 ### 성능 요약
 
-메모리: 32460 KB, 시간: 1008 ms
+메모리: 32460 KB, 시간: 1016 ms
 
 ### 분류
 

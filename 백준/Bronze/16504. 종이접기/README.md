@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16504) 
 
+### 선택한 제출
+
+[제출 51540533](https://acmicpc.net/source/51540533) · Python 3 · 50 B · 종이접기.py
+
 ### 성능 요약
 
 메모리: 153528 KB, 시간: 308 ms

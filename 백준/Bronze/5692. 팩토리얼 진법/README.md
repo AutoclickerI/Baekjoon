@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5692) 
 
+### 선택한 제출
+
+[제출 46721081](https://acmicpc.net/source/46721081) · PyPy3 · 105 B · 팩토리얼 진법.py
+
 ### 성능 요약
 
 메모리: 116856 KB, 시간: 4928 ms

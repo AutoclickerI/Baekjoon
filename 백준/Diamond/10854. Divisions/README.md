@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10854) 
 
+### 선택한 제출
+
+[제출 55583636](https://acmicpc.net/source/55583636) · Python 3 · 903 B · Divisions.py
+
 ### 성능 요약
 
 메모리: 39980 KB, 시간: 152 ms

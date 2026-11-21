@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11431) 
 
+### 선택한 제출
+
+[제출 85138888](https://acmicpc.net/source/85138888) · Python 3 · 181 B · Mr． Gorbachev， Tear Down This Wall！.py
+
 ### 성능 요약
 
-메모리: 31120 KB, 시간: 176 ms
+메모리: 32180 KB, 시간: 196 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 13일 14:24:24
+2024년 10월 13일 14:27:49
 
 ### 문제 설명
 

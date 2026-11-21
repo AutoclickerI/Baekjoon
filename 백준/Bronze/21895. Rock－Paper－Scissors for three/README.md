@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21895) 
 
+### 선택한 제출
+
+[제출 80654768](https://acmicpc.net/source/80654768) · Python 3 · 98 B · Rock－Paper－Scissors for three.py
+
 ### 성능 요약
 
-메모리: 31120 KB, 시간: 32 ms
+메모리: 31120 KB, 시간: 36 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 7월 7일 17:17:40
+2024년 7월 7일 17:19:14
 
 ### 문제 설명
 

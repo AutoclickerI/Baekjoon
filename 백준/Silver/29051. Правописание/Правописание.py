@@ -1,1 +1,1 @@
-print(len(s:=input())+sum(map('AEFJRTXYHHIIKK'.count,s)))
+print(sum(1+'AEFJRTXYHHIIKK'.count(i)for i in input()))

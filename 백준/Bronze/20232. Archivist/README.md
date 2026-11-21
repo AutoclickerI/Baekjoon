@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20232) 
 
+### 선택한 제출
+
+[제출 44116904](https://acmicpc.net/source/44116904) · Python 3 · 390 B · Archivist.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13684) 
 
+### 선택한 제출
+
+[제출 60123825](https://acmicpc.net/source/60123825) · Python 3 · 287 B · Divisão da Nlogõnia.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 160 ms

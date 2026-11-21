@@ -1,3 +1,2 @@
-l=open(0).read().split()[1:]
-l2=sorted([(i.replace(*'kc').replace(*'pq').replace(*'op').replace('ng','o'),i)for i in l])
-for i,j in l2:print(j)
+f=str.replace
+print(*sorted(open(0),key=lambda s:f(f(f(f(s,*'kc'),*'pq'),*'op'),'ng','o'))[1:],sep='')

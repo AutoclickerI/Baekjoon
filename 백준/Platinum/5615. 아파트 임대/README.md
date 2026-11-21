@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5615) 
 
+### 선택한 제출
+
+[제출 55693294](https://acmicpc.net/source/55693294) · Python 3 · 490 B · 아파트 임대.py
+
 ### 성능 요약
 
 메모리: 47620 KB, 시간: 1824 ms

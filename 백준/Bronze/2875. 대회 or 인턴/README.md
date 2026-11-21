@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2875) 
 
+### 선택한 제출
+
+[제출 46049847](https://acmicpc.net/source/46049847) · Python 3 · 93 B · 대회 or 인턴.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 76 ms

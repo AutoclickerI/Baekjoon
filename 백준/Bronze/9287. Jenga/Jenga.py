@@ -1,2 +1,2 @@
-_,*l=open(T:=0)
-while l:T+=1;print(f'Case {T}:','SFtaalnldeinn g'[max('00'in l.pop(0)for _ in[0]*int(l.pop(0)))::2])
+I=input
+for i in range(int(I())):print(f'Case {i+1}:','SFtaalnldeinn g'[0<eval("+('00'in I())"*int(I()))::2])

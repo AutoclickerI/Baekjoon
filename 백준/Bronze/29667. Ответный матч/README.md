@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/29667) 
 
+### 선택한 제출
+
+[제출 66257218](https://acmicpc.net/source/66257218) · Python 3 · 52 B · Ответный матч.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 52 ms
 
 ### 분류
 

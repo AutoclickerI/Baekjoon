@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/26264) 
 
+### 선택한 제출
+
+[제출 62314515](https://acmicpc.net/source/62314515) · Python 3 · 79 B · 빅데이터？ 정보보호！.py
+
 ### 성능 요약
 
-메모리: 32724 KB, 시간: 48 ms
+메모리: 32724 KB, 시간: 44 ms
 
 ### 분류
 

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13177) 
 
+### 선택한 제출
+
+[제출 55990809](https://acmicpc.net/source/55990809) · Python 3 · 448 B · 로봇.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 48 ms
 
 ### 분류
 

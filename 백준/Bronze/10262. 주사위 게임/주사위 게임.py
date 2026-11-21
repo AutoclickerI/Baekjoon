@@ -1,2 +1,2 @@
-p,q=map(eval,map(str.replace,open(0),'  ','++'))
-print(['Tie','Gunnar','Emma'][(p>q)-(p<q)])
+a,b=eval('sum(map(int,input().split())),'*2)
+print(['Tie','Gunnar','Emma'][(a>b)-(a<b)])

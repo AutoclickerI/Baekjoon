@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13610) 
 
+### 선택한 제출
+
+[제출 64726973](https://acmicpc.net/source/64726973) · Python 3 · 46 B · Volta.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

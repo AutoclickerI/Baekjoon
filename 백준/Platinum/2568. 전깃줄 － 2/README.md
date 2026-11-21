@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2568) 
 
+### 선택한 제출
+
+[제출 45799207](https://acmicpc.net/source/45799207) · Python 3 · 328 B · 전깃줄 － 2.py
+
 ### 성능 요약
 
 메모리: 55680 KB, 시간: 3896 ms

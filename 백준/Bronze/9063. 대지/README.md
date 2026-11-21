@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9063) 
 
+### 선택한 제출
+
+[제출 59810647](https://acmicpc.net/source/59810647) · Python 3 · 89 B · 대지.py
+
 ### 성능 요약
 
 메모리: 42172 KB, 시간: 68 ms

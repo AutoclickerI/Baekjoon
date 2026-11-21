@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20950) 
 
+### 선택한 제출
+
+[제출 66579543](https://acmicpc.net/source/66579543) · PyPy3 · 555 B · 미술가 미미.py
+
 ### 성능 요약
 
 메모리: 115556 KB, 시간: 808 ms

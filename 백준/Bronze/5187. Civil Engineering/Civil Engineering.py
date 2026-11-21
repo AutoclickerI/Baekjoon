@@ -1,8 +1,2 @@
-for T in range(int(input())):
-    m, n = map(int, input().split())
-    a = [int(input()) for _ in range(m)]
-    ans = 0
-    for _ in range(n):
-        h, w, d, i = map(int, input().split())
-        ans += h * w * d * a[i-1]
-    print(f'Data Set {T+1}:\n{ans}')
+f=lambda:map(int,input().split())
+for T in range(*f()):n,m=f();l=eval('int(input()),'*n);s=0;exec('h,w,d,i=f();s+=h*w*d*l[i-1];'*m);print(f'Data Set {T+1}:\n{s}')

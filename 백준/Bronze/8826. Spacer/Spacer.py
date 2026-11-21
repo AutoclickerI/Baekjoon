@@ -1,1 +1,1 @@
-for i in[*open(0)][2::2]:f=i.count;print(abs(f('E')-f('W'))+abs(f('S')-f('N')))
+for i in[*open(0)][2::2]:a,b,c,d=map(i.count,'EWNS');print(abs(a-b)+abs(c-d))

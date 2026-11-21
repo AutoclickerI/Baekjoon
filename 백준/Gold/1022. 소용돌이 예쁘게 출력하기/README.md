@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1022) 
 
+### 선택한 제출
+
+[제출 65523296](https://acmicpc.net/source/65523296) · Python 3 · 597 B · 소용돌이 예쁘게 출력하기.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

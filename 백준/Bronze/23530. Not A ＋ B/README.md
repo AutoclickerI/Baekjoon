@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23530) 
 
+### 선택한 제출
+
+[제출 52704771](https://acmicpc.net/source/52704771) · Python 3 · 24 B · Not A ＋ B.py
+
 ### 성능 요약
 
-메모리: 30616 KB, 시간: 40 ms
+메모리: 30616 KB, 시간: 60 ms
 
 ### 분류
 

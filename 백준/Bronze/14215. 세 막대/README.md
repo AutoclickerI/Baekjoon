@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14215) 
 
+### 선택한 제출
+
+[제출 58645875](https://acmicpc.net/source/58645875) · Python 3 · 62 B · 세 막대.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

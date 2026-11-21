@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1284) 
 
+### 선택한 제출
+
+[제출 46704242](https://acmicpc.net/source/46704242) · Python 3 · 122 B · 집 주소.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

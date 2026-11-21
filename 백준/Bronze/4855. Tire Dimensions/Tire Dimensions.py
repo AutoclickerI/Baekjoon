@@ -1,1 +1,1 @@
-for i in open(0):I=int;d=i.split();print(f"{i[:-1]}: {I(.5+(I(d[1])*I(d[3])+I(d[-1])*1270)*0.006283184)}")
+for i in open(0):d=i.split();print(f"{i[:-1]}: {int(.5+eval(d[1]+'*'+d[3]+'+1270*'+d[-1])/159.15497)}")

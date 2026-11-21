@@ -1,4 +1,4 @@
-import math
 while N:=int(input()):
-    for i in range(math.isqrt(N)):print(~i*~i)
-    print()
+ i=1
+ while i*i<=N:print(i*i);i+=1
+ print()

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4948) 
 
+### 선택한 제출
+
+[제출 39634449](https://acmicpc.net/source/39634449) · Python 3 · 360 B · 베르트랑 공준.py
+
 ### 성능 요약
 
 메모리: 36388 KB, 시간: 184 ms

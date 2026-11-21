@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2557) 
 
+### 선택한 제출
+
+[제출 39102926](https://acmicpc.net/source/39102926) · Python 3 · 21 B · Hello World.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 64 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/22209) 
 
+### 선택한 제출
+
+[제출 47545796](https://acmicpc.net/source/47545796) · Text · 49726 B · Mines － 4.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

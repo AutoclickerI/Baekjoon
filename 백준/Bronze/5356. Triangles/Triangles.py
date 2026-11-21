@@ -1,5 +1,3 @@
-for _ in[0]*int(input()):
-    p,q=input().split()
-    for i in range(int(p)):
-        print((i+1)*chr(65+(ord(q)+i-65)%26))
-    print()
+l=[]
+for i in[*open(0)][1:]:a,b=i.split();l+=[-~i*chr(65+(ord(b)-65+i)%26)for i in range(int(a))]+['']
+print(*l,sep='\n')

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2775) 
 
+### 선택한 제출
+
+[제출 39347055](https://acmicpc.net/source/39347055) · Python 3 · 214 B · 부녀회장이 될테야.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 80 ms

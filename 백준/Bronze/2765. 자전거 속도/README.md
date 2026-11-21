@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2765) 
 
+### 선택한 제출
+
+[제출 59826804](https://acmicpc.net/source/59826804) · Python 3 · 130 B · 자전거 속도.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

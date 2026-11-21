@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20917) 
 
+### 선택한 제출
+
+[제출 66089082](https://acmicpc.net/source/66089082) · Python 3 · 256 B · 사회적 거리 두기.py
+
 ### 성능 요약
 
 메모리: 63664 KB, 시간: 7572 ms

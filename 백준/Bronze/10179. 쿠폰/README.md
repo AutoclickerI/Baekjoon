@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10179) 
 
+### 선택한 제출
+
+[제출 46701197](https://acmicpc.net/source/46701197) · Python 3 · 67 B · 쿠폰.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

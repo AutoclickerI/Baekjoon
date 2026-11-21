@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13172) 
 
+### 선택한 제출
+
+[제출 47697235](https://acmicpc.net/source/47697235) · Python 3 · 119 B · Σ.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 604 ms

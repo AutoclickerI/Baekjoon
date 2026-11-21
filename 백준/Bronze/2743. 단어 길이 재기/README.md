@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2743) 
 
+### 선택한 제출
+
+[제출 40265517](https://acmicpc.net/source/40265517) · Python 3 · 19 B · 단어 길이 재기.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

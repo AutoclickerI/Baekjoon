@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14929) 
 
+### 선택한 제출
+
+[제출 66089321](https://acmicpc.net/source/66089321) · Python 3 · 66 B · 귀찮아 （SIB）.py
+
 ### 성능 요약
 
-메모리: 42340 KB, 시간: 72 ms
+메모리: 38672 KB, 시간: 84 ms
 
 ### 분류
 

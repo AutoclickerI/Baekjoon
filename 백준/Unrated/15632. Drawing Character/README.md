@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15632) 
 
+### 선택한 제출
+
+[제출 52615344](https://acmicpc.net/source/52615344) · PyPy3 · 198 B · Drawing Character.py
+
 ### 성능 요약
 
-메모리: 115284 KB, 시간: 7120 ms
+메모리: 115188 KB, 시간: 7656 ms
 
 ### 분류
 

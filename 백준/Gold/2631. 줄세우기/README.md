@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2631) 
 
+### 선택한 제출
+
+[제출 45822814](https://acmicpc.net/source/45822814) · Python 3 · 172 B · 줄세우기.py
+
 ### 성능 요약
 
 메모리: 32904 KB, 시간: 88 ms

@@ -1,3 +1,2 @@
-p,q=input().split()
-l=input().split()
-print(sorted(l,key=int)[-int(q)])
+p,q,*l=map(int,open(0).read().split())
+print(sorted(l)[-q])

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17893) 
 
+### 선택한 제출
+
+[제출 66290312](https://acmicpc.net/source/66290312) · PyPy3 · 366 B · Assassins.py
+
 ### 성능 요약
 
 메모리: 117252 KB, 시간: 556 ms

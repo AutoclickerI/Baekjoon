@@ -1,1 +1,1 @@
-print(['No Money','CUTE'][input()in{f'{i}+{i}'for i in range(1,1000)}])
+print(['No Money','CUTE'][input()in{f'{i}+{i}'for i in range(1,999)}])

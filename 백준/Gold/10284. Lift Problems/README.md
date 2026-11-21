@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10284) 
 
+### 선택한 제출
+
+[제출 46060786](https://acmicpc.net/source/46060786) · PyPy3 · 221 B · Lift Problems.py
+
 ### 성능 요약
 
-메모리: 123348 KB, 시간: 1180 ms
+메모리: 126988 KB, 시간: 1452 ms
 
 ### 분류
 

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/29141) 
 
+### 선택한 제출
+
+[제출 66214918](https://acmicpc.net/source/66214918) · Python 3 · 105 B · Лестница.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 52 ms
+메모리: 31256 KB, 시간: 40 ms
 
 ### 분류
 

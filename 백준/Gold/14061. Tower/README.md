@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14061) 
 
+### 선택한 제출
+
+[제출 66129730](https://acmicpc.net/source/66129730) · Python 3 · 165 B · Tower.py
+
 ### 성능 요약
 
 메모리: 126740 KB, 시간: 924 ms

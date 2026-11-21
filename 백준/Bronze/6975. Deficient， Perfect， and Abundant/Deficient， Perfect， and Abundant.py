@@ -1,5 +1,1 @@
-f=lambda n:sum(i for i in range(1,n)if n%i==0)
-for _ in[0]*int(input()):
-    i=int(input())
-    j=f(i)
-    print(i,'is',['a perfect','an abundant','a deficient'][(i<j)-(i>j)],'number.\n')
+for i in[*open(0)][1:]:n=int(i);j=sum(i*(n%i<1)for i in range(1,n));print(n,'is',['a perfect','an abundant','a deficient'][(n<j)-(n>j)],'number.\n')

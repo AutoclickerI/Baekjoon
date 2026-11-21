@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10830) 
 
+### 선택한 제출
+
+[제출 101775155](https://acmicpc.net/source/101775155) · Python 3 · 349 B · 행렬 제곱.py
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 76 ms
+메모리: 32412 KB, 시간: 36 ms
 
 ### 분류
 

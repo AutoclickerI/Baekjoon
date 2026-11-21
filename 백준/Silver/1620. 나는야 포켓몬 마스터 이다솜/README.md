@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1620) 
 
+### 선택한 제출
+
+[제출 49884609](https://acmicpc.net/source/49884609) · Python 3 · 171 B · 나는야 포켓몬 마스터 이다솜.py
+
 ### 성능 요약
 
-메모리: 59928 KB, 시간: 308 ms
+메모리: 71776 KB, 시간: 7724 ms
 
 ### 분류
 

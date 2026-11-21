@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21197) 
 
+### 선택한 제출
+
+[제출 64221836](https://acmicpc.net/source/64221836) · Python 3 · 71 B · Stopwatch.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

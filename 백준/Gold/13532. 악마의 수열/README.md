@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13532) 
 
+### 선택한 제출
+
+[제출 41266339](https://acmicpc.net/source/41266339) · Python 3 · 150 B · 악마의 수열.py
+
 ### 성능 요약
 
 메모리: 34804 KB, 시간: 296 ms

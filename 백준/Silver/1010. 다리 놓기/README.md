@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1010) 
 
+### 선택한 제출
+
+[제출 40145211](https://acmicpc.net/source/40145211) · Python 3 · 145 B · 다리 놓기.py
+
 ### 성능 요약
 
 메모리: 32972 KB, 시간: 108 ms

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9935) 
 
+### 선택한 제출
+
+[제출 40494777](https://acmicpc.net/source/40494777) · Python 3 · 449 B · 문자열 폭발.py
+
 ### 성능 요약
 
-메모리: 48880 KB, 시간: 804 ms
+메모리: 49272 KB, 시간: 740 ms
 
 ### 분류
 

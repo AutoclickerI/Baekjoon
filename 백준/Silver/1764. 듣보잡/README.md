@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1764) 
 
+### 선택한 제출
+
+[제출 50015805](https://acmicpc.net/source/50015805) · Python 3 · 128 B · 듣보잡.py
+
 ### 성능 요약
 
-메모리: 41216 KB, 시간: 3784 ms
+메모리: 42304 KB, 시간: 2336 ms
 
 ### 분류
 

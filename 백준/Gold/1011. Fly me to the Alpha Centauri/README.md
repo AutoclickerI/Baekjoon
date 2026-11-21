@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1011) 
 
+### 선택한 제출
+
+[제출 40144489](https://acmicpc.net/source/40144489) · Python 3 · 144 B · Fly me to the Alpha Centauri.py
+
 ### 성능 요약
 
-메모리: 30860 KB, 시간: 80 ms
+메모리: 31256 KB, 시간: 48 ms
 
 ### 분류
 

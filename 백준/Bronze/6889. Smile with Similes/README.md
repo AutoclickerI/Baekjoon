@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6889) 
 
+### 선택한 제출
+
+[제출 59925320](https://acmicpc.net/source/59925320) · Python 3 · 131 B · Smile with Similes.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24573) 
 
+### 선택한 제출
+
+[제출 77916196](https://acmicpc.net/source/77916196) · Python 3 · 37 B · 15점 · Good Fours and Good Fives.py
+
 ### 성능 요약
 
-메모리: 31120 KB, 시간: 72 ms
+메모리: 31120 KB, 시간: 44 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 5월 6일 01:30:28
+2024년 5월 6일 01:31:33
 
 ### 문제 설명
 

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13182) 
 
+### 선택한 제출
+
+[제출 59188416](https://acmicpc.net/source/59188416) · Python 3 · 118 B · 제비.py
+
 ### 성능 요약
 
-메모리: 30616 KB, 시간: 48 ms
+메모리: 31256 KB, 시간: 52 ms
 
 ### 분류
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8678) 
 
+### 선택한 제출
+
+[제출 61204057](https://acmicpc.net/source/61204057) · Python 3 · 95 B · Zbiór.py
+
 ### 성능 요약
 
 메모리: 271096 KB, 시간: 1088 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28248) 
 
+### 선택한 제출
+
+[제출 63606119](https://acmicpc.net/source/63606119) · Python 3 · 47 B · Deliv－e－droid.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 52 ms

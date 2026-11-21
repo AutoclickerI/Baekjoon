@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4922) 
 
+### 선택한 제출
+
+[제출 66046897](https://acmicpc.net/source/66046897) · Python 3 · 43 B · Walk Like an Egyptian.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 44 ms
+메모리: 31256 KB, 시간: 60 ms
 
 ### 분류
 

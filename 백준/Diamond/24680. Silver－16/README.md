@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24680) 
 
+### 선택한 제출
+
+[제출 47446308](https://acmicpc.net/source/47446308) · Text · 795 B · Silver－16.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

@@ -1,13 +1,5 @@
-from datetime import datetime
-
-# 입력 읽기
-s = input()
-# 형식: "Month DD, YYYY HH:MM"
-dt = datetime.strptime(s, "%B %d, %Y %H:%M")
-
-year_start = datetime(dt.year, 1, 1, 0, 0)
-year_end   = datetime(dt.year + 1, 1, 1, 0, 0)
-
-elapsed = (dt - year_start).total_seconds()
-total   = (year_end - year_start).total_seconds()
-print(elapsed / total * 100)
+from datetime import*
+D=datetime
+c=D.strptime(input(),'%B %d, %Y %H:%M')
+s=D(y:=c.year,1,1)
+print(100*(c-s)/(D(y+1,1,1)-s))

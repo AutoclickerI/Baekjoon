@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5246) 
 
+### 선택한 제출
+
+[제출 59924844](https://acmicpc.net/source/59924844) · Python 3 · 117 B · Checkerboard Rows.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 52 ms

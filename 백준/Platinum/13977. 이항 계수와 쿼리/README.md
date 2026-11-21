@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13977) 
 
+### 선택한 제출
+
+[제출 41814401](https://acmicpc.net/source/41814401) · PyPy3 · 245 B · 이항 계수와 쿼리.py
+
 ### 성능 요약
 
-메모리: 431932 KB, 시간: 1456 ms
+메모리: 431932 KB, 시간: 1652 ms
 
 ### 분류
 

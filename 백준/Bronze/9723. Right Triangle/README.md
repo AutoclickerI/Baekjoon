@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9723) 
 
+### 선택한 제출
+
+[제출 66074162](https://acmicpc.net/source/66074162) · Python 3 · 109 B · Right Triangle.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

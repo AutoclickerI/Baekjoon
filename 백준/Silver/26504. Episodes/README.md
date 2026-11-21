@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/26504) 
 
+### 선택한 제출
+
+[제출 63198830](https://acmicpc.net/source/63198830) · Whitespace · 5402 B · Episodes.ws
+
 ### 성능 요약
 
 메모리: 4356 KB, 시간: 0 ms

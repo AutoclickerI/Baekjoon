@@ -1,1 +1,1 @@
-print('EH'[eval(input().replace(' ','*2<'))])
+print('EH'[eval(input().replace(*' /'))<.5])

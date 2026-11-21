@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4589) 
 
+### 선택한 제출
+
+[제출 45698225](https://acmicpc.net/source/45698225) · C++20 · 285 B · Gnome Sequencing.cc
+
 ### 성능 요약
 
 메모리: 2020 KB, 시간: 0 ms

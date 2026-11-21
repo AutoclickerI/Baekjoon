@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4909) 
 
+### 선택한 제출
+
+[제출 66047070](https://acmicpc.net/source/66047070) · Python 3 · 76 B · Judging Olympia.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 48 ms
+메모리: 31256 KB, 시간: 52 ms
 
 ### 분류
 

@@ -1,5 +1,3 @@
-input()
-*l,=map(int,input().split())
-a=0
-while l[1:]:p,q,*l=l;l+=p+q,;a+=p*q
+a=b=0
+for i in[*open(0)][1].split():i=int(i);a+=b*i;b+=i
 print(a)

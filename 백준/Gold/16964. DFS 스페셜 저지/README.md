@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16964) 
 
+### 선택한 제출
+
+[제출 56357134](https://acmicpc.net/source/56357134) · PyPy3 · 534 B · DFS 스페셜 저지.py
+
 ### 성능 요약
 
 메모리: 298332 KB, 시간: 488 ms

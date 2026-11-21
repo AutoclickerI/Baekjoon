@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6840) 
 
+### 선택한 제출
+
+[제출 52745725](https://acmicpc.net/source/52745725) · Python 3 · 33 B · Who is in the middle？.py
+
 ### 성능 요약
 
-메모리: 30616 KB, 시간: 36 ms
+메모리: 30616 KB, 시간: 40 ms
 
 ### 분류
 

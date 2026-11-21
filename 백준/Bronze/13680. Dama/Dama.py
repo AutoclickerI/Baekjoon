@@ -1,1 +1,1 @@
-for i in[*open(0)][:-1]:p,q,r,s=map(int,i.split());p-=r;q-=s;print(2-(p*q==0 or p/q in[1,-1])-(p*9+q==0))
+for i in[*open(0)][:-1]:p,q,r,s=map(int,i.split());p-=r;q-=s;print(2-(p*q==0 or abs(p/q)==1)-(p*9+q==0))

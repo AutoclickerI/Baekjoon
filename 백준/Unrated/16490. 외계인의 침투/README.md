@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16490) 
 
+### 선택한 제출
+
+[제출 45879632](https://acmicpc.net/source/45879632) · Python 3 · 43 B · 외계인의 침투.py
+
 ### 성능 요약
 
 메모리: 30852 KB, 시간: 72 ms

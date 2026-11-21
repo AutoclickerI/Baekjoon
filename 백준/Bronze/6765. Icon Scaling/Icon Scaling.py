@@ -1,2 +1,2 @@
 n=int(input())
-*map(lambda*s:exec("print(*[i*n for i in s],sep=''),"*n),'* *','xx ','*x*'),
+*map(lambda*s:exec("print(''.join(i*n for i in s)),"*n),'* *','xx ','*x*'),

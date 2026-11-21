@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11549) 
 
+### 선택한 제출
+
+[제출 42262731](https://acmicpc.net/source/42262731) · Python 3 · 82 B · Identifying tea.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

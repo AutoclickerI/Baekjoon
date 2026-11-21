@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9317) 
 
+### 선택한 제출
+
+[제출 66024608](https://acmicpc.net/source/66024608) · Python 3 · 124 B · Monitor DPI.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 92 ms
+메모리: 31256 KB, 시간: 320 ms
 
 ### 분류
 

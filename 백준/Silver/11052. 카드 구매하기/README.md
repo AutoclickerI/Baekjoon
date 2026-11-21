@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11052) 
 
+### 선택한 제출
+
+[제출 65970156](https://acmicpc.net/source/65970156) · Python 3 · 90 B · 카드 구매하기.py
+
 ### 성능 요약
 
-메모리: 42004 KB, 시간: 128 ms
+메모리: 31256 KB, 시간: 96 ms
 
 ### 분류
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15654) 
 
+### 선택한 제출
+
+[제출 40449494](https://acmicpc.net/source/40449494) · Python 3 · 148 B · N과 M （5）.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 180 ms

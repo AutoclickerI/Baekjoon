@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20673) 
 
+### 선택한 제출
+
+[제출 44712511](https://acmicpc.net/source/44712511) · Python 3 · 216 B · Covid－19.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

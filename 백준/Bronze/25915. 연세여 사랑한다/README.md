@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/25915) 
 
+### 선택한 제출
+
+[제출 62420574](https://acmicpc.net/source/62420574) · Python 3 · 30 B · 연세여 사랑한다.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

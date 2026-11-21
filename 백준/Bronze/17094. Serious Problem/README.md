@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17094) 
 
+### 선택한 제출
+
+[제출 51580813](https://acmicpc.net/source/51580813) · Python 3 · 65 B · Serious Problem.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 68 ms
+메모리: 30840 KB, 시간: 72 ms
 
 ### 분류
 

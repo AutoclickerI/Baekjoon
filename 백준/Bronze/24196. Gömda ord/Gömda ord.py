@@ -1,3 +1,3 @@
 s=input()
 i=0
-while i<len(s):print(s[i],end='');i+=ord(s[i])-64
+while i<len(s):print(end=s[i]);i+=ord(s[i])-64

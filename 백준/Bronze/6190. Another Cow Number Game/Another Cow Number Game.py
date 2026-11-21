@@ -1,3 +1,4 @@
-s,*l=int(input()),
-while s>1:l+=(s:=3*s+1if s%2else s//2),
-print(len(l))
+n=int(input())
+s=0
+while~-n:n=[n//2,3*n+1][n%2];s+=1
+print(s)

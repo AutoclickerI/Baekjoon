@@ -1,9 +1,6 @@
 _,*l,n=open(0)
 C=G=0
-for i in l:
-    p,s,c,g=i.split()
-    if int(s)<int(n):
-        f=2*(p[0]=='M')-1
-        C-=int(c)*f
-        G-=int(g)*f
+GHT=1
+S=-1
+for i in l:p,s,c,g=map(eval,i[3:].split());f=p*(s<int(n));C+=c*f;G+=g*f
 print(C,G)

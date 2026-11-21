@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17263) 
 
+### 선택한 제출
+
+[제출 47362919](https://acmicpc.net/source/47362919) · Python 3 · 51 B · Sort 마스터 배지훈.py
+
 ### 성능 요약
 
 메모리: 89472 KB, 시간: 324 ms

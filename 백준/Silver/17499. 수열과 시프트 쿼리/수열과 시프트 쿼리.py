@@ -1,13 +1,6 @@
-N,Q=map(int,input().split())
-*l,=map(int,input().split())
-idx=-1
-for _ in[0]*Q:
-    q,i,*x=map(int,input().split())
-    if q==1:
-        l[(i+idx)%N]+=x[0]
-    if q==2:
-        idx-=i
-    if q==3:
-        idx+=i
-i=(1+idx)%N
-print(*l[i:]+l[:i])
+(N,_),[*l],*Q=[map(int,i.split())for i in open(0)]
+v=0
+for q,i,*x in Q:
+ if~-q:v+=i*(q*2-5)
+ else:l[(i+v-1)%N]+=x[0]
+print(*l[v%N:]+l[:v%N])

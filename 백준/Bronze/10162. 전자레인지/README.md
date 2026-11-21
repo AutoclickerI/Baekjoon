@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10162) 
 
+### 선택한 제출
+
+[제출 40560018](https://acmicpc.net/source/40560018) · Python 3 · 213 B · 100점 · 전자레인지.py
+
 ### 성능 요약
 
 메모리: 31388 KB, 시간: 44 ms

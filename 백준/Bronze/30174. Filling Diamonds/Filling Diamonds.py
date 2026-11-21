@@ -1,1 +1,2 @@
-print(''.join([*open(0)][1:]))
+n,*l=open(0)
+print(*l,sep='')

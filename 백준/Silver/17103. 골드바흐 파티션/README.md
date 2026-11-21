@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17103) 
 
+### 선택한 제출
+
+[제출 62506321](https://acmicpc.net/source/62506321) · Python 3 · 427 B · 골드바흐 파티션.py
+
 ### 성능 요약
 
 메모리: 79248 KB, 시간: 2068 ms

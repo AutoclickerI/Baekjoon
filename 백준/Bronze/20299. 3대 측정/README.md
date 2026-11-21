@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20299) 
 
+### 선택한 제출
+
+[제출 51464032](https://acmicpc.net/source/51464032) · Python 3 · 131 B · 3대 측정.py
+
 ### 성능 요약
 
 메모리: 198416 KB, 시간: 964 ms

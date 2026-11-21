@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20360) 
 
+### 선택한 제출
+
+[제출 60722572](https://acmicpc.net/source/60722572) · Python 3 · 69 B · Binary numbers.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

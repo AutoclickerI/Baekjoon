@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23276) 
 
+### 선택한 제출
+
+[제출 93346147](https://acmicpc.net/source/93346147) · Python 3 · 89 B · Locust Locus.py
+
 ### 성능 요약
 
 메모리: 34536 KB, 시간: 36 ms

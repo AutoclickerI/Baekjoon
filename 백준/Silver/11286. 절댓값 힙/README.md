@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11286) 
 
+### 선택한 제출
+
+[제출 59228555](https://acmicpc.net/source/59228555) · Python 3 · 117 B · 절댓값 힙.py
+
 ### 성능 요약
 
-메모리: 41924 KB, 시간: 128 ms
+메모리: 48068 KB, 시간: 156 ms
 
 ### 분류
 

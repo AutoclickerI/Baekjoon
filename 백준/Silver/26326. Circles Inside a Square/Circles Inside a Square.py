@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:print(f'{eval(i)**2*34.3830164509006:.5f}')
+exec('print(34.3830164509*eval(input())**2);'*int(input()))

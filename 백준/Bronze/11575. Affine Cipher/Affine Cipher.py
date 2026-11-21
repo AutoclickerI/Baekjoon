@@ -1,1 +1,1 @@
-exec("a,b=map(int,input().split());print(''.join(chr((a*(ord(s)-65)+b)%26+65)for s in input()));"*int(input()))
+I=input;exec('a,b=map(int,I().split());print("".join(chr((b+13+a*ord(c))%26+65)for c in I()));'*int(I()))

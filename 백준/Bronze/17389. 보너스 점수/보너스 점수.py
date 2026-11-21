@@ -1,4 +1,3 @@
-n,s=open(0)
-b=p=0
-for i in range(int(n)):p+=(i-~b)*(t:=s[i]<'X');b=[0,b+1][t]
+b=p=i=0
+for c in[*open(0)][1]:i+=1;t=c=='O';p+=(i+b)*t;b=-~b*t
 print(p)

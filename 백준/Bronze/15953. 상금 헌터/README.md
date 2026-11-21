@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15953) 
 
+### 선택한 제출
+
+[제출 46684067](https://acmicpc.net/source/46684067) · Python 3 · 220 B · 상금 헌터.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 156 ms

@@ -1,1 +1,1 @@
-for i in[*open(0)][:-1]:D,V=map(eval,i.split());print('%.3f'%(D**3-1.9098593*V)**(1/3))
+for i in[*open(0)][:-1]:print('%.3f'%eval(i.replace(' ','**3-1.9098593*'))**(1/3))

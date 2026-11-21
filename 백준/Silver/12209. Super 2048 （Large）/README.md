@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/12209) 
 
+### 선택한 제출
+
+[제출 61657679](https://acmicpc.net/source/61657679) · Python 3 · 1349 B · Super 2048 （Large）.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 160 ms

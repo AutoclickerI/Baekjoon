@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5101) 
 
+### 선택한 제출
+
+[제출 64659345](https://acmicpc.net/source/64659345) · Python 3 · 125 B · Sequences.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8719) 
 
+### 선택한 제출
+
+[제출 64298083](https://acmicpc.net/source/64298083) · Python 3 · 79 B · Piłeczka.py
+
 ### 성능 요약
 
 메모리: 110808 KB, 시간: 1444 ms

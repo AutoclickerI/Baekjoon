@@ -1,2 +1,3 @@
 N=int(input())
-print(sorted(sorted(map(int,input().split()))[N//2]for _ in[0]*N)[N//2])
+S=sorted
+print(S(eval('S(map(int,input().split()))[N//2],'*N))[N//2])

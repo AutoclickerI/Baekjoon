@@ -1,3 +1,2 @@
-x,y,z,c,n=map(int,open(0).read().split())
-p=x-c
-print((p>=0)*((y*y<=4*z*p)or((-y<=2*n*p)*(p*n+y>=-z/n))))
+a,b,c,d,n=map(int,open(0).read().split())
+print(+all(d*i<=a*i+c*9801/i+b*99for i in range(n*99,99999)))

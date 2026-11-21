@@ -1,1 +1,2 @@
-for i,j in zip(s:=input(),'.'+s):print(end=i*(i!=j))
+import re
+print(re.sub(r'(.)\1*',r'\1',input()))

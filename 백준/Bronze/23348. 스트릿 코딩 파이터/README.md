@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23348) 
 
+### 선택한 제출
+
+[제출 52284461](https://acmicpc.net/source/52284461) · Python 3 · 181 B · 스트릿 코딩 파이터.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 192 ms

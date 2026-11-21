@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16482) 
 
+### 선택한 제출
+
+[제출 45974534](https://acmicpc.net/source/45974534) · Python 3 · 109 B · 50점 · 한 점에서 만나라！.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 76 ms

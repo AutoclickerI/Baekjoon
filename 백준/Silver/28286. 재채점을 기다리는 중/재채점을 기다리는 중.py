@@ -1,6 +1,7 @@
-N,K=map(int,input().split())
-*l1,=map(int,input().split())
-*l2,=map(int,input().split())
+I=lambda:map(int,input().split())
+N,K=I()
+*l1,=I()
+*l2,=I()
 a=sum(i==j for i,j in zip(l1,l2))
 def recur(l,depth):
     global a

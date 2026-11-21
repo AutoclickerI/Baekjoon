@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18964) 
 
+### 선택한 제출
+
+[제출 63947748](https://acmicpc.net/source/63947748) · Python 3 · 64 B · Questionnaire.py
+
 ### 성능 요약
 
-메모리: 42172 KB, 시간: 72 ms
+메모리: 39196 KB, 시간: 76 ms
 
 ### 분류
 

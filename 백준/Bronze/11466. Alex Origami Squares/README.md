@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11466) 
 
+### 선택한 제출
+
+[제출 64761858](https://acmicpc.net/source/64761858) · Python 3 · 63 B · Alex Origami Squares.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 64 ms
 
 ### 분류
 

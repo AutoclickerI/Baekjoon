@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4307) 
 
+### 선택한 제출
+
+[제출 61901594](https://acmicpc.net/source/61901594) · PyPy3 · 178 B · 개미.py
+
 ### 성능 요약
 
 메모리: 120476 KB, 시간: 232 ms

@@ -1,6 +1,2 @@
-d={}
-for i in input():
-    d[i]=d.get(i,0)+1
-for i in input():
-    d[i]=d.get(i,0)-1
-print(sum(map(abs,d.values())))
+a,b=open(0)
+print(sum(abs(a.count(i)-b.count(i))for i in{*a+b}))

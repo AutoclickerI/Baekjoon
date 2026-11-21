@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24296) 
 
+### 선택한 제출
+
+[제출 60171944](https://acmicpc.net/source/60171944) · Python 3 · 41 B · ЛИНИЯ.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

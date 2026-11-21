@@ -55,7 +55,7 @@ maxval=0
 ptr=0
 anslist=[get_val(0,N,i,i+1)for i in range(N)]
 
-for i in range(1,N):
+for i in range(N):
     while ptr<len(l) and l[ptr][0]<=i:
         s,e=l[ptr]
         update_lazy(0,N,s,e,-1)

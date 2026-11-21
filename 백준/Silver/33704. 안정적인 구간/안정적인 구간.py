@@ -1,2 +1,2 @@
-l=[*open(0)][1].split()
-print('YNEOS'[len(l)==2 and int(l[0])>int(l[1])::2])
+n,a,b,*l=map(int,open(0).read().split())
+print('YNEOS'[n==2>0<a>b::2])

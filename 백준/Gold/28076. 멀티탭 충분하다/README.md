@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28076) 
 
+### 선택한 제출
+
+[제출 63351061](https://acmicpc.net/source/63351061) · Python 3 · 207 B · 멀티탭 충분하다.py
+
 ### 성능 요약
 
 메모리: 55080 KB, 시간: 156 ms

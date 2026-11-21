@@ -1,2 +1,3 @@
 M,_,*l=map(int,open(0).read().split())
-print(sum(l)//M+(sum(l)%M>0))
+s=sum(l)
+print(s//M+(s%M>0))

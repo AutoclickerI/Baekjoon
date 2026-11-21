@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17143) 
 
+### 선택한 제출
+
+[제출 75264013](https://acmicpc.net/source/75264013) · Python 3 · 508 B · 낚시왕.py
+
 ### 성능 요약
 
-메모리: 33300 KB, 시간: 1024 ms
+메모리: 33164 KB, 시간: 1044 ms
 
 ### 분류
 

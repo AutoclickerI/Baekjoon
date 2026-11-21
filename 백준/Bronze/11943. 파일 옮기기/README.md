@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11943) 
 
+### 선택한 제출
+
+[제출 41068319](https://acmicpc.net/source/41068319) · Python 3 · 77 B · 파일 옮기기.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 72 ms

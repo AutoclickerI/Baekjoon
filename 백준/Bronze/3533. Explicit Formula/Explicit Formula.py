@@ -1,1 +1,1 @@
-print(+(eval(input().replace(*' +'))%4>0))
+print(input().count('1')%4and 1)

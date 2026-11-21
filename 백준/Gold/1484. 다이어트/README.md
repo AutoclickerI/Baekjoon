@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1484) 
 
+### 선택한 제출
+
+[제출 67116368](https://acmicpc.net/source/67116368) · Python 3 · 93 B · 다이어트.py
+
 ### 성능 요약
 
-메모리: 35352 KB, 시간: 60 ms
+메모리: 35484 KB, 시간: 64 ms
 
 ### 분류
 

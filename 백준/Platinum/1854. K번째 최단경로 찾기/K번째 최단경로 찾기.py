@@ -1,6 +1,3 @@
-import sys
-input=sys.stdin.readline
-
 N,M,K=map(int,input().split())
 edges=[[]for _ in[0]*-~N]
 for _ in[0]*M:

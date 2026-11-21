@@ -1,2 +1,1 @@
-f=input().replace(*' +').replace
-print(eval(f(*'65')),eval(f(*'56')))
+print(*map(eval,map(input().replace(*' +').replace,'65','56')))

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11945) 
 
+### 선택한 제출
+
+[제출 44842987](https://acmicpc.net/source/44842987) · Python 3 · 49 B · 뜨거운 붕어빵.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

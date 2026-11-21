@@ -1,6 +1,3 @@
-import sys
-input=sys.stdin.readline
-
 def move(n,cube):
     b=[*cube]
     if n==0:
@@ -114,24 +111,18 @@ while T:
             t=b
             for _ in[0]*(1+i//3*2):
                 t=move(i%3,t)
-            if t in sol_end:
-                print(sol_start[b]+sol_end[t]+1)
-                conti=0
-                break
             if t not in sol_start:
                 sol_start[t]=sol_start[b]+1
                 cub_start+=t,
-        if conti<1:
-            break
         e=cub_end.popleft()
+        if e in sol_start:
+            print(sol_start[e]+sol_end[e])
+            break
+        
         for i in range(6):
             t=e
             for _ in[0]*(1+i//3*2):
                 t=move(i%3,t)
-            if t in sol_start:
-                print(sol_start[t]+sol_end[e]+1)
-                conti=0
-                break
             if t not in sol_end:
                 sol_end[t]=sol_end[e]+1
                 cub_end+=t,

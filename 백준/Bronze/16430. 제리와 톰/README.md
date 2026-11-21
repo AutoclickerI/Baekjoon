@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16430) 
 
+### 선택한 제출
+
+[제출 40218935](https://acmicpc.net/source/40218935) · Python 3 · 47 B · 제리와 톰.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

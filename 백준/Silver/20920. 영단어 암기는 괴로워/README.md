@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20920) 
 
+### 선택한 제출
+
+[제출 62512776](https://acmicpc.net/source/62512776) · PyPy3 · 413 B · 영단어 암기는 괴로워.py
+
 ### 성능 요약
 
 메모리: 155572 KB, 시간: 944 ms

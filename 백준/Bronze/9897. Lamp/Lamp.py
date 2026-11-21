@@ -1,11 +1,3 @@
-s=open(0).read()
-assert s[-2]!='\n\n'
-
-s=s.split('\n')[:-1]
-iterator=iter(s)
-
-input=lambda:next(iterator)
-
 l,g,r=map(int,input().split())
 p={}
 d=[0]*l

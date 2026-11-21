@@ -1,5 +1,4 @@
-S,N,M,*l=map(int,open(o:=0).read().split())
-for i in l:
-    o+=2*i-1
-    if o>S:S*=2
+S,*l=open(o:=0)
+S=int(S[:2])
+for i in l:o+=2*int(i)-1;S*=1+(o>S)
 print(S)

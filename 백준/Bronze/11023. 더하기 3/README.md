@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11023) 
 
+### 선택한 제출
+
+[제출 46704278](https://acmicpc.net/source/46704278) · Python 3 · 36 B · 더하기 3.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

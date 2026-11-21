@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2083) 
 
+### 선택한 제출
+
+[제출 47674895](https://acmicpc.net/source/47674895) · Python 3 · 89 B · 럭비 클럽.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 60 ms
+메모리: 30840 KB, 시간: 72 ms
 
 ### 분류
 

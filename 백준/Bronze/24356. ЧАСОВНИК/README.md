@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24356) 
 
+### 선택한 제출
+
+[제출 41180381](https://acmicpc.net/source/41180381) · Python 3 · 69 B · ЧАСОВНИК.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 68 ms

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2839) 
 
+### 선택한 제출
+
+[제출 67649486](https://acmicpc.net/source/67649486) · Python 3 · 47 B · 설탕 배달.py
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 68 ms
+메모리: 31256 KB, 시간: 40 ms
 
 ### 분류
 

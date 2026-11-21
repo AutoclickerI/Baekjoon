@@ -1,6 +1,4 @@
-m=998244353
-N,T,*l=map(int,open(0).read().split())
-T+=1
-a=1
-for i in range(N)[::-1]:T-=l[i]-1;a=a*T%m
-print(a*(T-N)*pow(T,-1,m)%m)
+n,t,*L=map(int,open(s:=0).read().split())
+r=b=t-sum(L)+1
+while~-n:s+=L[-n];n-=1;r=r*(s+b+n)%998244353
+print(r)

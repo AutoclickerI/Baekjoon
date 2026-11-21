@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10172) 
 
+### 선택한 제출
+
+[제출 40617064](https://acmicpc.net/source/40617064) · Text · 48 B · 개.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

@@ -1,2 +1,1 @@
-k='int(input(),2)'
-exec('print(bin('+k+'*'+k+')[2:])')
+print(bin(int(input(),2)*int(input(),2))[2:])

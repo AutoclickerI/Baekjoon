@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11442) 
 
+### 선택한 제출
+
+[제출 40477024](https://acmicpc.net/source/40477024) · Python 3 · 308 B · 홀수번째 피보나치 수의 합.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

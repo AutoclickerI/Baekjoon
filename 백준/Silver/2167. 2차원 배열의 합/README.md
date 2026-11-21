@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2167) 
 
+### 선택한 제출
+
+[제출 58822126](https://acmicpc.net/source/58822126) · Python 3 · 307 B · 2차원 배열의 합.py
+
 ### 성능 요약
 
 메모리: 37200 KB, 시간: 972 ms

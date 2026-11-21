@@ -1,4 +1,4 @@
-a=input()
-while((l:=input())!='='):
-    a=str(eval((a+l+input()).replace('/','//')))
+I=input
+a=I()
+while(l:=I())<'=':a='%d'%int(eval(a+l+I()))
 print(a)

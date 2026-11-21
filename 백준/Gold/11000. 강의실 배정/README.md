@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11000) 
 
+### 선택한 제출
+
+[제출 100291947](https://acmicpc.net/source/100291947) · Python 3 · 109 B · 강의실 배정.py
+
 ### 성능 요약
 
-메모리: 87564 KB, 시간: 336 ms
+메모리: 91384 KB, 시간: 344 ms
 
 ### 분류
 

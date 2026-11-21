@@ -1,2 +1,2 @@
 n,m=sorted(map(int,input().split()))
-print([1,0,-~m//4][-n:][0])
+print(+(n>2)or n%2*-~m//4)

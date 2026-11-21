@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/27739) 
 
+### 선택한 제출
+
+[제출 66392387](https://acmicpc.net/source/66392387) · Python 3 · 700 B · 100점 · 수열 재배열.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 200 ms

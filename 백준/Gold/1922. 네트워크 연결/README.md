@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1922) 
 
+### 선택한 제출
+
+[제출 48558266](https://acmicpc.net/source/48558266) · Python 3 · 233 B · 네트워크 연결.py
+
 ### 성능 요약
 
 메모리: 53416 KB, 시간: 4428 ms

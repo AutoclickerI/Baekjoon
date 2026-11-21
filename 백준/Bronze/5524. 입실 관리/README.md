@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5524) 
 
+### 선택한 제출
+
+[제출 41825530](https://acmicpc.net/source/41825530) · Python 3 · 44 B · 100점 · 입실 관리.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 72 ms
+메모리: 30840 KB, 시간: 76 ms
 
 ### 분류
 

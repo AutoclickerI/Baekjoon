@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2476) 
 
+### 선택한 제출
+
+[제출 46680328](https://acmicpc.net/source/46680328) · C++20 · 379 B · 주사위 게임.cc
+
 ### 성능 요약
 
 메모리: 2020 KB, 시간: 0 ms

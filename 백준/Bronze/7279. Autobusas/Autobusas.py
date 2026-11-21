@@ -1,6 +1,2 @@
-N,K=map(int,input().split())
-s=m=0
-for _ in[0]*N:
-    s+=eval(input().replace(*' -'))
-    m=max(m,s-K)
-print(m)
+s=len(X:=[*open(0)])
+print(1-min(s:=s-eval(i.replace(*' -'))for i in X))

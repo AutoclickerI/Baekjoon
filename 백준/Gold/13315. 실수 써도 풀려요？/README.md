@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13315) 
 
+### 선택한 제출
+
+[제출 46646434](https://acmicpc.net/source/46646434) · Text · 52 B · 실수 써도 풀려요？.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

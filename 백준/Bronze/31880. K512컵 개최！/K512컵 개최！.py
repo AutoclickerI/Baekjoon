@@ -1,2 +1,3 @@
-_,q,r=open(0)
-print(eval(q.replace(*' +'))*eval('*'.join(i for i in r.split()if'0'!=i)or'1'))
+_,s,t=open(0)
+f=str.replace
+print(eval(f('('+s,*' +')+f(f(') '+t,' 0',''),*' *')))

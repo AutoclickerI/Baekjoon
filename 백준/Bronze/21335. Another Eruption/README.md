@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21335) 
 
+### 선택한 제출
+
+[제출 44839241](https://acmicpc.net/source/44839241) · Python 3 · 42 B · Another Eruption.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9493) 
 
+### 선택한 제출
+
+[제출 66115554](https://acmicpc.net/source/66115554) · Python 3 · 178 B · 길면 기차， 기차는 빨라， 빠른 것은 비행기.py
+
 ### 성능 요약
 
 메모리: 36536 KB, 시간: 76 ms

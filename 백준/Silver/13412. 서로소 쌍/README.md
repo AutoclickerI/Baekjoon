@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13412) 
 
+### 선택한 제출
+
+[제출 58501464](https://acmicpc.net/source/58501464) · Python 3 · 1004 B · 서로소 쌍.py
+
 ### 성능 요약
 
 메모리: 39980 KB, 시간: 72 ms

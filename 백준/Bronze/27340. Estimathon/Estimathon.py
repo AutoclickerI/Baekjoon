@@ -1,7 +1,2 @@
-n,m,*l=map(int,open(c:=0).read().split())
-for i in l:
-    q=i//4
-    if q==0:
-        c=-1e9
-    c+=q
-print('NDEA'[m<=n<=c::2])
+n,m,*l=map(int,open(0).read().split())
+print('NDEA'[m<=n<=sum(i//4-1e9*(i<4)for i in l)::2])

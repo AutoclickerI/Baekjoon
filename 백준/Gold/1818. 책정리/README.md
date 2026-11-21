@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1818) 
 
+### 선택한 제출
+
+[제출 43758045](https://acmicpc.net/source/43758045) · Python 3 · 208 B · 책정리.py
+
 ### 성능 요약
 
 메모리: 54404 KB, 시간: 252 ms

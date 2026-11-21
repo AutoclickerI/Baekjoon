@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15962) 
 
+### 선택한 제출
+
+[제출 40218790](https://acmicpc.net/source/40218790) · Python 3 · 20 B · 새로운 시작.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 68 ms

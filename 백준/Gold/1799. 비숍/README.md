@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1799) 
 
+### 선택한 제출
+
+[제출 48592266](https://acmicpc.net/source/48592266) · PyPy3 · 856 B · 비숍.py
+
 ### 성능 요약
 
-메모리: 154084 KB, 시간: 1824 ms
+메모리: 143976 KB, 시간: 1660 ms
 
 ### 분류
 

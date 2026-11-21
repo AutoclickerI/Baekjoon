@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28068) 
 
+### 선택한 제출
+
+[제출 63833467](https://acmicpc.net/source/63833467) · Python 3 · 277 B · I Am Knowledge.py
+
 ### 성능 요약
 
 메모리: 53812 KB, 시간: 256 ms

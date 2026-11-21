@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21105) 
 
+### 선택한 제출
+
+[제출 60506343](https://acmicpc.net/source/60506343) · Python 3 · 65 B · New Financial Year.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 208 ms

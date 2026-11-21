@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16588) 
 
+### 선택한 제출
+
+[제출 84173040](https://acmicpc.net/source/84173040) · Python 3 · 93 B · Substring Permutation.py
+
 ### 성능 요약
 
-메모리: 31120 KB, 시간: 44 ms
+메모리: 34000 KB, 시간: 56 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 9월 22일 15:21:06
+2024년 9월 22일 15:21:55
 
 ### 문제 설명
 

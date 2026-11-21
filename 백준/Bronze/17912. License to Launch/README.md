@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17912) 
 
+### 선택한 제출
+
+[제출 65956154](https://acmicpc.net/source/65956154) · Python 3 · 54 B · License to Launch.py
+
 ### 성능 요약
 
 메모리: 39148 KB, 시간: 68 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/29824) 
 
+### 선택한 제출
+
+[제출 79420626](https://acmicpc.net/source/79420626) · Python 3 · 146 B · Pliiatsite pööramine.py
+
 ### 성능 요약
 
 메모리: 31120 KB, 시간: 44 ms
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 6월 9일 16:42:03
+2024년 6월 9일 16:43:19
 
 ### 문제 설명
 

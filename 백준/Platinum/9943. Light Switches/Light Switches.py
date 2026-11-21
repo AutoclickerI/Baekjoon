@@ -46,8 +46,4 @@ for i in open(T:=0):
     p=[1]
     for i in d:
         p=[k*i**j for k in p for j in range(d[i]+1)]
-    p.sort()
-    c=t//N*len(p)
-    t%=N
-    c+=bisect(p,t)
-    print(f'Case {T}:','OOfnf'[c%2::2])
+    print(f'Case {T}:','OOfnf'[bisect(sorted(p),t)%2::2])

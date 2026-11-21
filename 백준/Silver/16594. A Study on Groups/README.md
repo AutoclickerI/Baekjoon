@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16594) 
 
+### 선택한 제출
+
+[제출 61721173](https://acmicpc.net/source/61721173) · PyPy3 · 205 B · A Study on Groups.py
+
 ### 성능 요약
 
 메모리: 126612 KB, 시간: 180 ms

@@ -1,2 +1,2 @@
-*l,=map(int,open(0).read().split())
-print(*sorted(l[2:]))
+_,_,*l=map(int,open(0).read().split())
+print(*sorted(l))

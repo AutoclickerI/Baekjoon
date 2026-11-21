@@ -1,3 +1,5 @@
-n,m=int(input()),2
-while 1^all(n*m%s**2for s in range(2,int((n*m)**.5)+1)):m+=1
-print(m)
+import math
+n=int(input())
+i=2
+while~-math.gcd(n,i):i+=1
+print(i)

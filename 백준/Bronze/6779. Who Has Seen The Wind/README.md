@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6779) 
 
+### 선택한 제출
+
+[제출 64445090](https://acmicpc.net/source/64445090) · Python 3 · 188 B · Who Has Seen The Wind.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 44 ms
 
 ### 분류
 

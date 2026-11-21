@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16017) 
 
+### 선택한 제출
+
+[제출 43168700](https://acmicpc.net/source/43168700) · Python 3 · 93 B · Telemarketer or not？.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

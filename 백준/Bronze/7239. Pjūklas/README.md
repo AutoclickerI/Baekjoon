@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7239) 
 
+### 선택한 제출
+
+[제출 67379361](https://acmicpc.net/source/67379361) · Python 3 · 123 B · Pjūklas.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

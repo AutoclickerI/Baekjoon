@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17256) 
 
+### 선택한 제출
+
+[제출 40219129](https://acmicpc.net/source/40219129) · Python 3 · 93 B · 달달함이 넘쳐흘러.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

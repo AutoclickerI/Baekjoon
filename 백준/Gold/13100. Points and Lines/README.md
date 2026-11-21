@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13100) 
 
+### 선택한 제출
+
+[제출 62609159](https://acmicpc.net/source/62609159) · Python 3 · 943 B · Points and Lines.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 52 ms

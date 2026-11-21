@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/19532) 
 
+### 선택한 제출
+
+[제출 62497004](https://acmicpc.net/source/62497004) · Python 3 · 124 B · 수학은 비대면강의입니다.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 380 ms

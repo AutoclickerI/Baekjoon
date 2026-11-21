@@ -1,1 +1,1 @@
-for i in map(int,[*open(0)][1:]):print(3-(i<3)*2)
+for i in[*open(0)][1:]:print('31'[int(i)<3])

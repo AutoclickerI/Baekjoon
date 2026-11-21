@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5596) 
 
+### 선택한 제출
+
+[제출 40447662](https://acmicpc.net/source/40447662) · Python 3 · 83 B · 시험 점수.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

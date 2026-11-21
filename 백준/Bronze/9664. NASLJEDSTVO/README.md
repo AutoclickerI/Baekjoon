@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9664) 
 
+### 선택한 제출
+
+[제출 65912694](https://acmicpc.net/source/65912694) · Python 3 · 49 B · NASLJEDSTVO.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

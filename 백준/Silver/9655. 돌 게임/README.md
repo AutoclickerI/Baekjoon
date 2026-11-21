@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9655) 
 
+### 선택한 제출
+
+[제출 67179949](https://acmicpc.net/source/67179949) · Python 3 · 32 B · 돌 게임.py
+
 ### 성능 요약
 
 메모리: 31388 KB, 시간: 40 ms

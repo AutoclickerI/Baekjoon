@@ -1,3 +1,1 @@
-*l,=map(int,[*open(0)][1].split())
-s=l.index(-1)
-print(min(l[:s])+min(l[s+1:]))
+print(sum(min(map(int,i.split()))for i in[*open(0)][1].split('-1')))

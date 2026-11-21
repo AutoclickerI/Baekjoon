@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3460) 
 
+### 선택한 제출
+
+[제출 46683571](https://acmicpc.net/source/46683571) · Python 3 · 125 B · 이진수.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

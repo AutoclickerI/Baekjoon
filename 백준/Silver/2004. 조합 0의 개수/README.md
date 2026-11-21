@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2004) 
 
+### 선택한 제출
+
+[제출 50106101](https://acmicpc.net/source/50106101) · PyPy3 · 217 B · 조합 0의 개수.py
+
 ### 성능 요약
 
 메모리: 113248 KB, 시간: 120 ms

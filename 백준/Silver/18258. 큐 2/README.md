@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18258) 
 
+### 선택한 제출
+
+[제출 50480081](https://acmicpc.net/source/50480081) · Python 3 · 245 B · 큐 2.py
+
 ### 성능 요약
 
-메모리: 318184 KB, 시간: 1768 ms
+메모리: 318184 KB, 시간: 1972 ms
 
 ### 분류
 

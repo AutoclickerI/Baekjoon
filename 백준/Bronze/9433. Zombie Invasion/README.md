@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9433) 
 
+### 선택한 제출
+
+[제출 75329928](https://acmicpc.net/source/75329928) · Python 3 · 110 B · Zombie Invasion.py
+
 ### 성능 요약
 
 메모리: 31120 KB, 시간: 40 ms
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 3월 20일 14:27:58
+2024년 3월 20일 14:28:16
 
 ### 문제 설명
 

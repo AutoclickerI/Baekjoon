@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11557) 
 
+### 선택한 제출
+
+[제출 64425555](https://acmicpc.net/source/64425555) · Python 3 · 28 B · Yangjojang of The Year.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 48 ms

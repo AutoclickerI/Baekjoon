@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10933) 
 
+### 선택한 제출
+
+[제출 45919949](https://acmicpc.net/source/45919949) · node.js · 224 B · RIPEMD－160.js
+
 ### 성능 요약
 
 메모리: 9792 KB, 시간: 152 ms

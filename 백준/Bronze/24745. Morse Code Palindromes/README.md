@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24745) 
 
+### 선택한 제출
+
+[제출 40394636](https://acmicpc.net/source/40394636) · Python 3 · 564 B · Morse Code Palindromes.py
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 68 ms
+메모리: 30864 KB, 시간: 72 ms
 
 ### 분류
 

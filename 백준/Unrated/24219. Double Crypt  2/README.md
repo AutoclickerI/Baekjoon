@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24219) 
 
+### 선택한 제출
+
+[제출 46698853](https://acmicpc.net/source/46698853) · Text · 65 B · Double Crypt  2.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

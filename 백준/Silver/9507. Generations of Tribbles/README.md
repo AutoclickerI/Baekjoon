@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9507) 
 
+### 선택한 제출
+
+[제출 83749760](https://acmicpc.net/source/83749760) · Python 3 · 71 B · Generations of Tribbles.py
+
 ### 성능 요약
 
-메모리: 31120 KB, 시간: 32 ms
+메모리: 31264 KB, 시간: 36 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 9월 11일 14:10:06
+2024년 9월 11일 14:12:19
 
 ### 문제 설명
 

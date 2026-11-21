@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2559) 
 
+### 선택한 제출
+
+[제출 59220942](https://acmicpc.net/source/59220942) · Python 3 · 104 B · 수열.py
+
 ### 성능 요약
 
 메모리: 40292 KB, 시간: 72 ms

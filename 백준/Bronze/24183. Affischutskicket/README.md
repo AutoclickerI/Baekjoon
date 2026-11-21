@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24183) 
 
+### 선택한 제출
+
+[제출 40223662](https://acmicpc.net/source/40223662) · Python 3 · 87 B · Affischutskicket.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

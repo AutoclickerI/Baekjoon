@@ -1,11 +1,6 @@
-for _ in[0]*int(input()):
-    input()
-    *l,=map(int,input().split())
-    M=int(input())
-    v=[0]*-~M
-    v[0]=1
-    for i in l:
-        for j in range(M+1):
-            if 0<=j-i:
-                v[j]+=v[j-i]
-    print(v[-1])
+_,*l=open(0)
+while l:
+ a,b,c,*l=l;d=[1]+[0]*6**6
+ for i in map(int,b.split()):
+  for j in range(5**6):d[j]+=d[j-i]
+ print(d[int(c)])

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/22123) 
 
+### 선택한 제출
+
+[제출 59631606](https://acmicpc.net/source/59631606) · Python 3 · 283 B · Экзамен.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 1340 ms

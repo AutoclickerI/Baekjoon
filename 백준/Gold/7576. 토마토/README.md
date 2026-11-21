@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7576) 
 
+### 선택한 제출
+
+[제출 60404846](https://acmicpc.net/source/60404846) · Python 3 · 544 B · 토마토.py
+
 ### 성능 요약
 
 메모리: 98572 KB, 시간: 2180 ms

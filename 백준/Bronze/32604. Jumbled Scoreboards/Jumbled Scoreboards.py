@@ -1,2 +1,3 @@
-n,*l=map(int,open(0).read().split())
-print('yneos'[any(l[2*i]>l[2*i+2]or l[2*i+1]>l[2*i+3]for i in range(n-1))::2])
+_,*l=map(str.split,open(0))
+I=int
+print('yneos'[any(I(i)>I(k)or I(j)>I(l)for(i,j),(k,l)in zip(l,l[1:]))::2])

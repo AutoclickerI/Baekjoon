@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24262) 
 
+### 선택한 제출
+
+[제출 40224354](https://acmicpc.net/source/40224354) · Python 3 · 13 B · 알고리즘 수업 － 알고리즘의 수행 시간 1.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

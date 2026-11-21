@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/26326) 
 
+### 선택한 제출
+
+[제출 82331643](https://acmicpc.net/source/82331643) · Python 3 · 59 B · Circles Inside a Square.py
+
 ### 성능 요약
 
-메모리: 31120 KB, 시간: 56 ms
+메모리: 49768 KB, 시간: 268 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 8월 11일 16:08:09
+2024년 8월 11일 16:08:40
 
 ### 문제 설명
 

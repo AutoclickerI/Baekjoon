@@ -1,14 +1,5 @@
-f=lambda:map(int,input().split())
-
-*A,=f()
-cnt=[0]*7
-for i in f():cnt[i]+=1
-
-for i in range(2,7):
-    cnt[i]+=cnt[i-1]
-a,t=0,36
-for n in A:
-    a+=cnt[n-1]
-    t-=cnt[n]-cnt[n-1]
-a/=t
-print('%.5f'%a)
+t=36
+*l,=map(int,open(s:=0).read().split())
+for i in l[:6]:
+  for j in l[6:]:s+=i>j;t-=i==j
+print(f'{s/t:.5f}')

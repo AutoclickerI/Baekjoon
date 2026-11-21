@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/26594) 
 
+### 선택한 제출
+
+[제출 66120620](https://acmicpc.net/source/66120620) · Python 3 · 30 B · ZOAC 5.py
+
 ### 성능 요약
 
 메모리: 33212 KB, 시간: 56 ms

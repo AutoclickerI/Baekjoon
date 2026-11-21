@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17874) 
 
+### 선택한 제출
+
+[제출 43804082](https://acmicpc.net/source/43804082) · Python 3 · 61 B · Piece of Cake！.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

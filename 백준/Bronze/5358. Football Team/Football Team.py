@@ -1,1 +1,1 @@
-print(open(0).read().translate(''.maketrans("eiEI","ieIE")))
+print(open(0).read().translate(dict(zip(b'eiEI',b'ieIE'))))

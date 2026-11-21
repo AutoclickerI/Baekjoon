@@ -1,8 +1,7 @@
-g=lambda c:c and c//abs(c)
+g=lambda c:c and(c>0)*2-1
 n,*a=map(int,open(0).read().split())
-a+=a[0],
 r=[0,0,0]
-p=[g(a[i+1]-a[i])for i in range(n)]
+p=[g(a[i+1-n]-a[i])for i in range(n)]
 r[p[0]]+=1
-for i in range(1,n):r[p[i]]+=p[i]!=p[i-1]
+for i,j in zip(p,p[1:]):r[j]+=j!=i
 print(*r)

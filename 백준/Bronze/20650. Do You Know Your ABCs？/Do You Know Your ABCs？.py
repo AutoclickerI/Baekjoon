@@ -1,2 +1,2 @@
-a,b,c,d,e,*_=sorted(map(int,input().split()))
-print(a,b,e-a)
+a,b,*s=sorted(map(int,input().split()))
+print(a,b,s[2]-a)

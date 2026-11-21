@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11055) 
 
+### 선택한 제출
+
+[제출 40603318](https://acmicpc.net/source/40603318) · Python 3 · 252 B · 가장 큰 증가하는 부분 수열.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 188 ms

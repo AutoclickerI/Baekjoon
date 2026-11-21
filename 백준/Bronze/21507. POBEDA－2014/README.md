@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21507) 
 
+### 선택한 제출
+
+[제출 59296222](https://acmicpc.net/source/59296222) · Python 3 · 118 B · POBEDA－2014.py
+
 ### 성능 요약
 
 메모리: 36536 KB, 시간: 72 ms

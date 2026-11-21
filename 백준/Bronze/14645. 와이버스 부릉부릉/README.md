@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14645) 
 
+### 선택한 제출
+
+[제출 40218079](https://acmicpc.net/source/40218079) · Python 3 · 18 B · 와이버스 부릉부릉.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 64 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6778) 
 
+### 선택한 제출
+
+[제출 40469374](https://acmicpc.net/source/40469374) · Python 3 · 158 B · Which Alien？.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

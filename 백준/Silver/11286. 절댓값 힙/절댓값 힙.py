@@ -1,3 +1,3 @@
 from heapq import*
 h=[]
-for n in[*map(int,open(0))][1:]:(n or print(len(h)and heappop(h)[1]))and heappush(h,(abs(n),n))
+for n in[*open(0)][1:]:heappush(h,(abs(a),a))if(a:=int(n))else print(len(h)and heappop(h)[1])

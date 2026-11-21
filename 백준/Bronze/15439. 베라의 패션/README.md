@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15439) 
 
+### 선택한 제출
+
+[제출 40218428](https://acmicpc.net/source/40218428) · Python 3 · 29 B · 베라의 패션.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

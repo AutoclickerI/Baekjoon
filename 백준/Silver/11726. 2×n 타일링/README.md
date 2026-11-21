@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11726) 
 
+### 선택한 제출
+
+[제출 58533298](https://acmicpc.net/source/58533298) · Python 3 · 65 B · 2×n 타일링.py
+
 ### 성능 요약
 
 메모리: 36120 KB, 시간: 56 ms

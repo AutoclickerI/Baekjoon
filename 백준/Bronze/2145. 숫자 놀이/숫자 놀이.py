@@ -1,3 +1,1 @@
-while int(N:=input()):
- while len(N)>1:N=str(sum(map(int,N)))
- print(N)
+while n:=int(input()):print(n%-9+9)

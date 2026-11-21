@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9443) 
 
+### 선택한 제출
+
+[제출 102449042](https://acmicpc.net/source/102449042) · Python 3 · 55 B · Arrangement of Contest.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 44 ms
+메모리: 32544 KB, 시간: 32 ms
 
 ### 분류
 

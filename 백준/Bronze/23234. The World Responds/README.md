@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23234) 
 
+### 선택한 제출
+
+[제출 40223228](https://acmicpc.net/source/40223228) · Python 3 · 30 B · The World Responds.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 64 ms

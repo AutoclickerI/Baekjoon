@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7659) 
 
+### 선택한 제출
+
+[제출 93249130](https://acmicpc.net/source/93249130) · PyPy3 · 3016 B · Rubik 2＾3.py
+
 ### 성능 요약
 
 메모리: 119380 KB, 시간: 196 ms

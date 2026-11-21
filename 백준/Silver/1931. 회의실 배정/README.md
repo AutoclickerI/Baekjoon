@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1931) 
 
+### 선택한 제출
+
+[제출 67248295](https://acmicpc.net/source/67248295) · Python 3 · 95 B · 회의실 배정.py
+
 ### 성능 요약
 
-메모리: 53684 KB, 시간: 160 ms
+메모리: 46764 KB, 시간: 284 ms
 
 ### 분류
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1365) 
 
+### 선택한 제출
+
+[제출 41912720](https://acmicpc.net/source/41912720) · Python 3 · 208 B · 꼬인 전깃줄.py
+
 ### 성능 요약
 
 메모리: 44200 KB, 시간: 160 ms

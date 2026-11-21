@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4435) 
 
+### 선택한 제출
+
+[제출 46720691](https://acmicpc.net/source/46720691) · Python 3 · 318 B · 중간계 전쟁.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 84 ms

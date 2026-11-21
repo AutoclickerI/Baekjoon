@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20254) 
 
+### 선택한 제출
+
+[제출 40222678](https://acmicpc.net/source/40222678) · Python 3 · 77 B · Site Score.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

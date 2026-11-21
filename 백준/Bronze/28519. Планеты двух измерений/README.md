@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28519) 
 
+### 선택한 제출
+
+[제출 64957264](https://acmicpc.net/source/64957264) · Python 3 · 53 B · Планеты двух измерений.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 52 ms

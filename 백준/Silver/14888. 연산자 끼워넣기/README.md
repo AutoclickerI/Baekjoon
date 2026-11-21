@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14888) 
 
+### 선택한 제출
+
+[제출 40243499](https://acmicpc.net/source/40243499) · PyPy3 · 539 B · 연산자 끼워넣기.py
+
 ### 성능 요약
 
-메모리: 681136 KB, 시간: 2588 ms
+메모리: 670512 KB, 시간: 2504 ms
 
 ### 분류
 

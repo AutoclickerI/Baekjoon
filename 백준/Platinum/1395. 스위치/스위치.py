@@ -17,8 +17,7 @@ def propagate(start,end,idx):
 # [start,end), [left,right)
 def update_lazy(start,end,left,right,idx=1):
     if end<=left or right<=start:
-        propagate(start,end,idx)
-        return tree[idx]
+        return get_val(0,N,start,end)
     if left<=start and end<=right:
         lazy[idx]^=1
         return [tree[idx],end-start-tree[idx]][lazy[idx]]

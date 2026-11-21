@@ -1,6 +1,3 @@
-import sys
-input=sys.stdin.readline
-
 def update(i,v):
     i+=N
     tree[i]=v

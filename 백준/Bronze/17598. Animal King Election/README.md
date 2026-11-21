@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17598) 
 
+### 선택한 제출
+
+[제출 64232702](https://acmicpc.net/source/64232702) · Python 3 · 25 B · Animal King Election.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

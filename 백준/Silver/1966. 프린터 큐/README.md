@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1966) 
 
+### 선택한 제출
+
+[제출 40189216](https://acmicpc.net/source/40189216) · Python 3 · 415 B · 프린터 큐.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 96 ms

@@ -1,2 +1,2 @@
-g=[*open(0)]
-print(max(g.count(i)for i in g))
+*l,=open(0)
+print(max(l.count(i)for i in l))

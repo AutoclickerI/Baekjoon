@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/12764) 
 
+### 선택한 제출
+
+[제출 62568232](https://acmicpc.net/source/62568232) · Python 3 · 515 B · 싸지방에 간 준하.py
+
 ### 성능 요약
 
 메모리: 60424 KB, 시간: 4540 ms

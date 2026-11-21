@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3053) 
 
+### 선택한 제출
+
+[제출 39395571](https://acmicpc.net/source/39395571) · Python 3 · 60 B · 택시 기하학.py
+
 ### 성능 요약
 
 메모리: 32972 KB, 시간: 68 ms

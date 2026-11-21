@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16489) 
 
+### 선택한 제출
+
+[제출 45977450](https://acmicpc.net/source/45977450) · Python 3 · 247 B · 삼각형 해커.py
+
 ### 성능 요약
 
 메모리: 34876 KB, 시간: 96 ms

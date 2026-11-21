@@ -1,2 +1,2 @@
-t=''
-print(1+sum(t>=(t:=i)for i in input()))
+t='{'
+print(sum(t>=(t:=i)for i in input()))

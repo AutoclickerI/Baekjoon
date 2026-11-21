@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7181) 
 
+### 선택한 제출
+
+[제출 66755275](https://acmicpc.net/source/66755275) · Python 3 · 94 B · Mõttemeister.py
+
 ### 성능 요약
 
 메모리: 32276 KB, 시간: 64 ms

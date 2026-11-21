@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2739) 
 
+### 선택한 제출
+
+[제출 39118354](https://acmicpc.net/source/39118354) · Python 3 · 70 B · 구구단.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 72 ms

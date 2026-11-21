@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1809) 
 
+### 선택한 제출
+
+[제출 52922284](https://acmicpc.net/source/52922284) · Golfscript · 59 B · Moo.gs
+
 ### 성능 요약
 
 메모리: 98544 KB, 시간: 180 ms

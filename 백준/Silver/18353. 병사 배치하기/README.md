@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18353) 
 
+### 선택한 제출
+
+[제출 43758085](https://acmicpc.net/source/43758085) · Python 3 · 214 B · 병사 배치하기.py
+
 ### 성능 요약
 
 메모리: 32904 KB, 시간: 72 ms

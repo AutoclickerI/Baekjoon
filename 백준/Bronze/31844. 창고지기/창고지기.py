@@ -1,2 +1,2 @@
-b,r,f=map(input().find,'#@!')
-print((f<b<r or r<b<f)*abs(r-f)-1)
+x,y,z=map(input().find,'@#!')
+print(abs(z-x)*((x<y)^(y>z))-1)

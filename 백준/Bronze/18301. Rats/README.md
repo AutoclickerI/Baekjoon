@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18301) 
 
+### 선택한 제출
+
+[제출 40222582](https://acmicpc.net/source/40222582) · Python 3 · 68 B · Rats.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7130) 
 
+### 선택한 제출
+
+[제출 66636705](https://acmicpc.net/source/66636705) · Python 3 · 84 B · Milk and Honey.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

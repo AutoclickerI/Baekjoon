@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13301) 
 
+### 선택한 제출
+
+[제출 58501813](https://acmicpc.net/source/58501813) · Python 3 · 69 B · 100점 · 타일 장식물.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 56 ms

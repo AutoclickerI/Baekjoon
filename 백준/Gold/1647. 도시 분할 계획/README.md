@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1647) 
 
+### 선택한 제출
+
+[제출 48553989](https://acmicpc.net/source/48553989) · PyPy3 · 246 B · 도시 분할 계획.py
+
 ### 성능 요약
 
-메모리: 282608 KB, 시간: 3020 ms
+메모리: 284032 KB, 시간: 2868 ms
 
 ### 분류
 

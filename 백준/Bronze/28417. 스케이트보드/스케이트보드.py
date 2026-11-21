@@ -1,3 +1,1 @@
-a=[]
-for i in[*open(0)][1:]:p,q,*l=map(int,i.split());a+=max(p,q)+sum(sorted(l)[3:]),
-print(max(a))
+print(max(max(x,y)+sum(sorted(z)[3:])for x,y,*z in[map(int,i.split())for i in open(0)][1:]))

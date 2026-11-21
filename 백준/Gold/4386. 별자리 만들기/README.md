@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4386) 
 
+### 선택한 제출
+
+[제출 48558110](https://acmicpc.net/source/48558110) · PyPy3 · 310 B · 별자리 만들기.py
+
 ### 성능 요약
 
 메모리: 115712 KB, 시간: 128 ms

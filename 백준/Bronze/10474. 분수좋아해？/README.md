@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10474) 
 
+### 선택한 제출
+
+[제출 46717581](https://acmicpc.net/source/46717581) · Python 3 · 83 B · 분수좋아해？.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 160 ms

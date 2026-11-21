@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6376) 
 
+### 선택한 제출
+
+[제출 40620364](https://acmicpc.net/source/40620364) · Text · 129 B · e 계산.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

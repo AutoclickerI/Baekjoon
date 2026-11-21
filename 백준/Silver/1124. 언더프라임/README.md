@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1124) 
 
+### 선택한 제출
+
+[제출 58859324](https://acmicpc.net/source/58859324) · Python 3 · 1034 B · 언더프라임.py
+
 ### 성능 요약
 
 메모리: 39988 KB, 시간: 2376 ms

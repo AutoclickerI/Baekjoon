@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21292) 
 
+### 선택한 제출
+
+[제출 41301854](https://acmicpc.net/source/41301854) · Python 3 · 3515 B · le français.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 76 ms

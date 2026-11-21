@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9765) 
 
+### 선택한 제출
+
+[제출 41249753](https://acmicpc.net/source/41249753) · Python 3 · 213 B · 여섯 방정식.py
+
 ### 성능 요약
 
 메모리: 36712 KB, 시간: 140 ms

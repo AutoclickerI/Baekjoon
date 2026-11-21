@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/30328) 
 
+### 선택한 제출
+
+[제출 67729423](https://acmicpc.net/source/67729423) · Python 3 · 24 B · Java Warriors.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

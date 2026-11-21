@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23925) 
 
+### 선택한 제출
+
+[제출 60171885](https://acmicpc.net/source/60171885) · Python 3 · 93 B · 11점 · Retype.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

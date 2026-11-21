@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2579) 
 
+### 선택한 제출
+
+[제출 40542369](https://acmicpc.net/source/40542369) · Python 3 · 285 B · 계단 오르기.py
+
 ### 성능 요약
 
-메모리: 30860 KB, 시간: 92 ms
+메모리: 31256 KB, 시간: 60 ms
 
 ### 분류
 

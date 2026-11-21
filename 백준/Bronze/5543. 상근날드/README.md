@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5543) 
 
+### 선택한 제출
+
+[제출 40142941](https://acmicpc.net/source/40142941) · Python 3 · 105 B · 상근날드.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 64 ms

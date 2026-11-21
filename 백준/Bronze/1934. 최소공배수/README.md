@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1934) 
 
+### 선택한 제출
+
+[제출 40144859](https://acmicpc.net/source/40144859) · Python 3 · 96 B · 최소공배수.py
+
 ### 성능 요약
 
 메모리: 32972 KB, 시간: 160 ms

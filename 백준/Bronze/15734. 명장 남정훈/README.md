@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15734) 
 
+### 선택한 제출
+
+[제출 51814049](https://acmicpc.net/source/51814049) · Python 3 · 101 B · 명장 남정훈.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

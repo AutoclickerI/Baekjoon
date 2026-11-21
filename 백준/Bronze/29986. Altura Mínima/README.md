@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/29986) 
 
+### 선택한 제출
+
+[제출 66635781](https://acmicpc.net/source/66635781) · Python 3 · 60 B · Altura Mínima.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

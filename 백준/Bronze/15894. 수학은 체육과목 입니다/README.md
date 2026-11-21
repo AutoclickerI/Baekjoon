@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15894) 
 
+### 선택한 제출
+
+[제출 40218769](https://acmicpc.net/source/40218769) · Python 3 · 21 B · 수학은 체육과목 입니다.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 88 ms

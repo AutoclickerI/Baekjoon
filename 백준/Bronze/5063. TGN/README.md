@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5063) 
 
+### 선택한 제출
+
+[제출 46684526](https://acmicpc.net/source/46684526) · C++20 · 264 B · TGN.cc
+
 ### 성능 요약
 
 메모리: 2020 KB, 시간: 4 ms

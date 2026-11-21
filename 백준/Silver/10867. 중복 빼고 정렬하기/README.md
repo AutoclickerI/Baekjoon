@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10867) 
 
+### 선택한 제출
+
+[제출 67180014](https://acmicpc.net/source/67180014) · Python 3 · 48 B · 중복 빼고 정렬하기.py
+
 ### 성능 요약
 
 메모리: 38612 KB, 시간: 92 ms

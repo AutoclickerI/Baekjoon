@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/27669) 
 
+### 선택한 제출
+
+[제출 102285411](https://acmicpc.net/source/102285411) · Text · 97 B · Kill switch （Hard）.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

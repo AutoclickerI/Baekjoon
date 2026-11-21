@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11478) 
 
+### 선택한 제출
+
+[제출 64108184](https://acmicpc.net/source/64108184) · Python 3 · 63 B · 서로 다른 부분 문자열의 개수.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 244 ms
+메모리: 240796 KB, 시간: 580 ms
 
 ### 분류
 

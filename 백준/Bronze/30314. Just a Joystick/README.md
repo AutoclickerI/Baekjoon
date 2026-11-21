@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/30314) 
 
+### 선택한 제출
+
+[제출 67622200](https://acmicpc.net/source/67622200) · Python 3 · 69 B · Just a Joystick.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 76 ms
+메모리: 31256 KB, 시간: 68 ms
 
 ### 분류
 

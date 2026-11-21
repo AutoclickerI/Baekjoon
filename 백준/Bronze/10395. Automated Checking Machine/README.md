@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10395) 
 
+### 선택한 제출
+
+[제출 66110001](https://acmicpc.net/source/66110001) · Python 3 · 54 B · Automated Checking Machine.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 48 ms
+메모리: 31256 KB, 시간: 56 ms
 
 ### 분류
 

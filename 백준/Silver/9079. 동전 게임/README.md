@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9079) 
 
+### 선택한 제출
+
+[제출 53067211](https://acmicpc.net/source/53067211) · Python 3 · 320 B · 동전 게임.py
+
 ### 성능 요약
 
-메모리: 30616 KB, 시간: 488 ms
+메모리: 30820 KB, 시간: 504 ms
 
 ### 분류
 

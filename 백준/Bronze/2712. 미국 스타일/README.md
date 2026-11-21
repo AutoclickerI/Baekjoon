@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2712) 
 
+### 선택한 제출
+
+[제출 49567541](https://acmicpc.net/source/49567541) · Python 3 · 143 B · 미국 스타일.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 72 ms
+메모리: 31256 KB, 시간: 40 ms
 
 ### 분류
 

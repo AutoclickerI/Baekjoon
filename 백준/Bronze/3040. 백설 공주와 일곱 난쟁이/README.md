@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3040) 
 
+### 선택한 제출
+
+[제출 46721226](https://acmicpc.net/source/46721226) · Python 3 · 208 B · 백설 공주와 일곱 난쟁이.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

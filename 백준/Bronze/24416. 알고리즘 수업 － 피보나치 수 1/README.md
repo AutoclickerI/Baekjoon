@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24416) 
 
+### 선택한 제출
+
+[제출 50296121](https://acmicpc.net/source/50296121) · Python 3 · 67 B · 알고리즘 수업 － 피보나치 수 1.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10993) 
 
+### 선택한 제출
+
+[제출 40394898](https://acmicpc.net/source/40394898) · Python 3 · 414 B · 별 찍기 － 18.py
+
 ### 성능 요약
 
-메모리: 32440 KB, 시간: 148 ms
+메모리: 32440 KB, 시간: 160 ms
 
 ### 분류
 

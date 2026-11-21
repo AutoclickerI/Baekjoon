@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1427) 
 
+### 선택한 제출
+
+[제출 39708763](https://acmicpc.net/source/39708763) · Python 3 · 71 B · 소트인사이드.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28292) 
 
+### 선택한 제출
+
+[제출 63097872](https://acmicpc.net/source/63097872) · Python 3 · 31 B · 개미 수열.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

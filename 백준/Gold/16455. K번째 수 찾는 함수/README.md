@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16455) 
 
+### 선택한 제출
+
+[제출 76572290](https://acmicpc.net/source/76572290) · PyPy3 · 421 B · K번째 수 찾는 함수.py
+
 ### 성능 요약
 
 메모리: 642292 KB, 시간: 136 ms

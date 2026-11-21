@@ -1,2 +1,2 @@
 i=2
-while' 'not in(s:=input()):print(s[::i]);i+=1
+for s in[*open(0)][:-1]:print(s[:-1:i]);i+=1

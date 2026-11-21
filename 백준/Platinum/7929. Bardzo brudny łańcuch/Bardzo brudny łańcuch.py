@@ -1,7 +1,6 @@
-for i in[0]*int(input()):
- n=len(s:=input());s+=s;a=0
- while i<n:
-  a=k=i;j=i+1
-  while j<n*2and s[k]<=s[j]:k=i if s[k]<s[j]else 1+k;j+=1
-  while i<=k:i+=j-k
- print(s[a:a+n])
+exec('''n=len(s:=input());s+=s;i=a=0
+while i<n:
+ a=k=j=i
+ while s[k]<=s[(j:=j+1):j+1]:k=[k+1,i][s[k]<s[j]]
+ while i<=k:i+=j-k
+print(s[a:a+n]);'''*int(input()))

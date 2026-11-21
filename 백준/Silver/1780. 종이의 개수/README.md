@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1780) 
 
+### 선택한 제출
+
+[제출 60560023](https://acmicpc.net/source/60560023) · Python 3 · 362 B · 종이의 개수.py
+
 ### 성능 요약
 
 메모리: 69484 KB, 시간: 7500 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/26752) 
 
+### 선택한 제출
+
+[제출 63964944](https://acmicpc.net/source/63964944) · Python 3 · 100 B · Zegarek.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

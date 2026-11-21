@@ -1,3 +1,2 @@
-N=int(input())+1
-l=sorted(map(int,input().split()))
-print(sum(l)+sum(~i//2for i in l[:N//2]))
+N,*l=map(int,open(0).read().split())
+print(sum(l+[~i//2for i in sorted(l)[:N//2+1]]))

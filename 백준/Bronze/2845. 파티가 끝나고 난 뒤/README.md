@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2845) 
 
+### 선택한 제출
+
+[제출 40215843](https://acmicpc.net/source/40215843) · Python 3 · 100 B · 파티가 끝나고 난 뒤.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 68 ms

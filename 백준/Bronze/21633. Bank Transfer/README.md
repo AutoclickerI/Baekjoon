@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21633) 
 
+### 선택한 제출
+
+[제출 44839400](https://acmicpc.net/source/44839400) · Python 3 · 44 B · Bank Transfer.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 68 ms
+메모리: 30840 KB, 시간: 72 ms
 
 ### 분류
 

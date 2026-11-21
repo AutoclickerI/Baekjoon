@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28853) 
 
+### 선택한 제출
+
+[제출 65734326](https://acmicpc.net/source/65734326) · Python 3 · 60 B · Разбиение на пары.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

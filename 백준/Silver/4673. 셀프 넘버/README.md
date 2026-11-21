@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4673) 
 
+### 선택한 제출
+
+[제출 39302217](https://acmicpc.net/source/39302217) · Python 3 · 234 B · 셀프 넘버.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 1048 ms

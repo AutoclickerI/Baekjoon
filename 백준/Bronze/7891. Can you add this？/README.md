@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7891) 
 
+### 선택한 제출
+
+[제출 45213728](https://acmicpc.net/source/45213728) · Python 3 · 67 B · Can you add this？.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 84 ms

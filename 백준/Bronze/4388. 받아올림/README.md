@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4388) 
 
+### 선택한 제출
+
+[제출 59812156](https://acmicpc.net/source/59812156) · Python 3 · 110 B · 받아올림.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

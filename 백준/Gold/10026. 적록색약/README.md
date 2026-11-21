@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10026) 
 
+### 선택한 제출
+
+[제출 81648937](https://acmicpc.net/source/81648937) · Python 3 · 205 B · 적록색약.py
+
 ### 성능 요약
 
-메모리: 31588 KB, 시간: 124 ms
+메모리: 32332 KB, 시간: 904 ms
 
 ### 분류
 

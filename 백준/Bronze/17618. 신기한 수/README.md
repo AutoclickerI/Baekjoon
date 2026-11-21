@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17618) 
 
+### 선택한 제출
+
+[제출 46720133](https://acmicpc.net/source/46720133) · PyPy3 · 81 B · 100점 · 신기한 수.py
+
 ### 성능 요약
 
 메모리: 115136 KB, 시간: 2236 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10205) 
 
+### 선택한 제출
+
+[제출 59827027](https://acmicpc.net/source/59827027) · Python 3 · 113 B · 헤라클레스와 히드라.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

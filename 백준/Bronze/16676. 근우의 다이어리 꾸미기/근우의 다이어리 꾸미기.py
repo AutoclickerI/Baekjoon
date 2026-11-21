@@ -1,3 +1,4 @@
-c,t,n=1,10,int(input())
-while n>t:t=10*-~t;c+=1
-print(c)
+n=int(input())
+s=2
+while n*9+2>10**s:s+=1
+print(s-1)

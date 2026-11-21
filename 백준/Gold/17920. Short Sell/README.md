@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17920) 
 
+### 선택한 제출
+
+[제출 46761412](https://acmicpc.net/source/46761412) · Python 3 · 117 B · Short Sell.py
+
 ### 성능 요약
 
 메모리: 38276 KB, 시간: 172 ms

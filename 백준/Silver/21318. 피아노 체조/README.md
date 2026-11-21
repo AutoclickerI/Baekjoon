@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21318) 
 
+### 선택한 제출
+
+[제출 58481223](https://acmicpc.net/source/58481223) · Python 3 · 144 B · 피아노 체조.py
+
 ### 성능 요약
 
-메모리: 50040 KB, 시간: 256 ms
+메모리: 50040 KB, 시간: 284 ms
 
 ### 분류
 

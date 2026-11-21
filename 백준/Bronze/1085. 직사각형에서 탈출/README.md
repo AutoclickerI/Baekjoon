@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1085) 
 
+### 선택한 제출
+
+[제출 39473302](https://acmicpc.net/source/39473302) · Python 3 · 95 B · 직사각형에서 탈출.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 76 ms

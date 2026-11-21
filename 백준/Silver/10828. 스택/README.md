@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10828) 
 
+### 선택한 제출
+
+[제출 46435426](https://acmicpc.net/source/46435426) · PyPy3 · 369 B · 스택.py
+
 ### 성능 요약
 
 메모리: 116612 KB, 시간: 160 ms

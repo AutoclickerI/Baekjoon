@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24387) 
 
+### 선택한 제출
+
+[제출 63467498](https://acmicpc.net/source/63467498) · Python 3 · 81 B · ИЗЛОЖЕНИЕ НА ПЧЕЛЕН МЕД.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

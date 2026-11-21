@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28283) 
 
+### 선택한 제출
+
+[제출 63828449](https://acmicpc.net/source/63828449) · PyPy3 · 615 B · 해킹.py
+
 ### 성능 요약
 
 메모리: 262172 KB, 시간: 1456 ms

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10480) 
 
+### 선택한 제출
+
+[제출 54489845](https://acmicpc.net/source/54489845) · Python 3 · 62 B · Oddities.py
+
 ### 성능 요약
 
-메모리: 30616 KB, 시간: 36 ms
+메모리: 30616 KB, 시간: 40 ms
 
 ### 분류
 

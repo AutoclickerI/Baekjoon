@@ -1,3 +1,2 @@
-n,*l=map(int,open(0).read().split())
-s=sum(~i%2for i in l)
-print(+(s==n//2))
+i,j=open(0)
+print(+(int(i)//2==sum(~int(x)%2for x in j.split())))

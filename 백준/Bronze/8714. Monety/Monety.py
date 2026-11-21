@@ -1,2 +1,1 @@
-n,s=open(0)
-print(int(n)-max(map(s.count,'01')))
+print(min(map([*open(0)][1].count,'01')))

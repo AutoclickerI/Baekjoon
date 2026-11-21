@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7279) 
 
+### 선택한 제출
+
+[제출 67482535](https://acmicpc.net/source/67482535) · Python 3 · 72 B · Autobusas.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 100 ms
+메모리: 31256 KB, 시간: 48 ms
 
 ### 분류
 

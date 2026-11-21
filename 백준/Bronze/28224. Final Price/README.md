@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28224) 
 
+### 선택한 제출
+
+[제출 61928882](https://acmicpc.net/source/61928882) · Python 3 · 35 B · Final Price.py
+
 ### 성능 요약
 
 메모리: 31388 KB, 시간: 44 ms

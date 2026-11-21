@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16505) 
 
+### 선택한 제출
+
+[제출 40371940](https://acmicpc.net/source/40371940) · Python 3 · 276 B · 별.py
+
 ### 성능 요약
 
 메모리: 31120 KB, 시간: 144 ms

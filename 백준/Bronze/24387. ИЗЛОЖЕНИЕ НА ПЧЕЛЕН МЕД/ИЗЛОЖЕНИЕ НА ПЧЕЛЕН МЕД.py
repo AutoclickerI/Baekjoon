@@ -1,1 +1,2 @@
-print(sum(i*j for i,j in zip(sorted(map(int,input().split())),sorted(map(int,input().split())))))
+f=lambda:sorted(map(int,input().split()))
+print(sum(i*j for i,j in zip(f(),f())))

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23722) 
 
+### 선택한 제출
+
+[제출 85224517](https://acmicpc.net/source/85224517) · Python 3 · 65 B · Marbles Tell Your Lucky Number.py
+
 ### 성능 요약
 
-메모리: 31120 KB, 시간: 36 ms
+메모리: 33240 KB, 시간: 36 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 15일 14:32:17
+2024년 10월 15일 14:32:51
 
 ### 문제 설명
 

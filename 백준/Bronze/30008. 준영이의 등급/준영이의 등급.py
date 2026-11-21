@@ -1,2 +1,2 @@
-N,_,*l=map(int,open(0).read().split())
-for i in l:print(sum(j<i*100//N for j in[96,89,77,60,40,23,11,4])+1)
+N,G=open(0)
+for i in G.split():print(sum(j-4<eval(i+'00//'+N[:3])for j in b',@Q]d')+1)

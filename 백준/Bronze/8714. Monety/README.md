@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8714) 
 
+### 선택한 제출
+
+[제출 65997604](https://acmicpc.net/source/65997604) · Python 3 · 41 B · Monety.py
+
 ### 성능 요약
 
-메모리: 34288 KB, 시간: 68 ms
+메모리: 34288 KB, 시간: 72 ms
 
 ### 분류
 

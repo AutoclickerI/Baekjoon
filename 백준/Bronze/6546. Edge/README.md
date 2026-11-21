@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6546) 
 
+### 선택한 제출
+
+[제출 66660402](https://acmicpc.net/source/66660402) · Python 3 · 283 B · Edge.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

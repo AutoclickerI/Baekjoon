@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10818) 
 
+### 선택한 제출
+
+[제출 39257945](https://acmicpc.net/source/39257945) · Python 3 · 85 B · 최소， 최대.py
+
 ### 성능 요약
 
 메모리: 149440 KB, 시간: 676 ms

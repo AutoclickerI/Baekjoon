@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14786) 
 
+### 선택한 제출
+
+[제출 41120936](https://acmicpc.net/source/41120936) · Python 3 · 221 B · Ax＋Bsin（x）＝C ②.py
+
 ### 성능 요약
 
 메모리: 32976 KB, 시간: 68 ms

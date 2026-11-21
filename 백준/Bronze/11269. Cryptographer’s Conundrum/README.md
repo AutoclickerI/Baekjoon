@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11269) 
 
+### 선택한 제출
+
+[제출 77916139](https://acmicpc.net/source/77916139) · Python 3 · 50 B · Cryptographer’s Conundrum.py
+
 ### 성능 요약
 
-메모리: 31120 KB, 시간: 40 ms
+메모리: 31120 KB, 시간: 48 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 5월 6일 01:28:39
+2024년 5월 6일 01:29:36
 
 ### 문제 설명
 

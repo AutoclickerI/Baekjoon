@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16496) 
 
+### 선택한 제출
+
+[제출 45869479](https://acmicpc.net/source/45869479) · Python 3 · 201 B · 큰 수 만들기.py
+
 ### 성능 요약
 
 메모리: 32424 KB, 시간: 104 ms

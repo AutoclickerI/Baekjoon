@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/25286) 
 
+### 선택한 제출
+
+[제출 64801405](https://acmicpc.net/source/64801405) · Python 3 · 131 B · 11월 11일.py
+
 ### 성능 요약
 
-메모리: 38112 KB, 시간: 68 ms
+메모리: 38112 KB, 시간: 76 ms
 
 ### 분류
 

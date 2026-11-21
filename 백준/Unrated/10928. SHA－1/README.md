@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10928) 
 
+### 선택한 제출
+
+[제출 42502641](https://acmicpc.net/source/42502641) · Python 3 · 62 B · SHA－1.py
+
 ### 성능 요약
 
 메모리: 43456 KB, 시간: 76 ms

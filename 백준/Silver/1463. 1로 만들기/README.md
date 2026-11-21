@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1463) 
 
+### 선택한 제출
+
+[제출 40437641](https://acmicpc.net/source/40437641) · Python 3 · 95 B · 1로 만들기.py
+
 ### 성능 요약
 
 메모리: 39112 KB, 시간: 728 ms

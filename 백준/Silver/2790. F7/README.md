@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2790) 
 
+### 선택한 제출
+
+[제출 58191199](https://acmicpc.net/source/58191199) · Python 3 · 108 B · F7.py
+
 ### 성능 요약
 
 메모리: 64108 KB, 시간: 236 ms

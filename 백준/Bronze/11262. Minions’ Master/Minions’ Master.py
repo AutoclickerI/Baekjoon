@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:n,*l=map(int,i.split());z=sum(l)/n+1e-9;print(f'{z:.3f}',f'{sum(z<i for i in l)/n*100+1e-9:.3f}%')
+for i in[*open(0)][1:]:n,*l=map(int,i.split());z=sum(l)/n+1e-9;print('%.3f %.3f%%'%(z,sum(z<i for i in l)/n*100+1e-9))

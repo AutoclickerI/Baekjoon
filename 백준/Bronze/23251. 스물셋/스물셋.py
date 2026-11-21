@@ -1,1 +1,1 @@
-print(*map(lambda x:23*int(x),[*open(0)][1:]))
+for i in[*open(0)][1:]:print(int(i)*23)

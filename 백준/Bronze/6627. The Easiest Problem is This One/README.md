@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6627) 
 
+### 선택한 제출
+
+[제출 93361601](https://acmicpc.net/source/93361601) · Python 3 · 94 B · The Easiest Problem is This One.py
+
 ### 성능 요약
 
-메모리: 32412 KB, 시간: 116 ms
+메모리: 32412 KB, 시간: 120 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 4월 20일 12:23:26
+2025년 4월 20일 12:27:33
 
 ### 문제 설명
 

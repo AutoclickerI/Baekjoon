@@ -1,5 +1,5 @@
 import sys
-sys.setrecursionlimit(2*10**5)
+sys.setrecursionlimit(10**7)
 
 N=int(input())
 edges=[[]for _ in[0]*N]

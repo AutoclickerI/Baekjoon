@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/25024) 
 
+### 선택한 제출
+
+[제출 66105970](https://acmicpc.net/source/66105970) · Python 3 · 227 B · 시간과 날짜.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 924 ms

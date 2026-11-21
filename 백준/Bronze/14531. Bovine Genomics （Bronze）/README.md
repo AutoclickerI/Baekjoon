@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14531) 
 
+### 선택한 제출
+
+[제출 80737989](https://acmicpc.net/source/80737989) · Python 3 · 108 B · Bovine Genomics （Bronze）.py
+
 ### 성능 요약
 
-메모리: 31120 KB, 시간: 40 ms
+메모리: 31120 KB, 시간: 48 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 7월 9일 08:07:14
+2024년 7월 9일 08:09:53
 
 ### 문제 설명
 

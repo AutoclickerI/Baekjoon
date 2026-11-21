@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1157) 
 
+### 선택한 제출
+
+[제출 39330213](https://acmicpc.net/source/39330213) · Python 3 · 197 B · 단어 공부.py
+
 ### 성능 요약
 
-메모리: 39628 KB, 시간: 148 ms
+메모리: 41388 KB, 시간: 124 ms
 
 ### 분류
 

@@ -1,1 +1,1 @@
-for i in[*open(j:=0)][1:]:j+=1;i=int(i);print(f'Case #{j}:',['Round 1','Round 2','Round 3','World Finals'][(i<4501)+(i<1001)+(i<26)])
+for i in[*open(j:=0)][1:]:j+=1;i=int(i);print(f'Case #{j}:',[f'Round {1+(i<1001)+(i<4501)}','World Finals'][i<26])

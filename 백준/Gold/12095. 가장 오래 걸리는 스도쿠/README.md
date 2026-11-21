@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/12095) 
 
+### 선택한 제출
+
+[제출 48494721](https://acmicpc.net/source/48494721) · Text · 161 B · 3793775점 · 가장 오래 걸리는 스도쿠.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

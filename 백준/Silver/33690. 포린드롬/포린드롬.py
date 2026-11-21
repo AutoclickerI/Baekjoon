@@ -1,2 +1,2 @@
 l=len(s:=input())
-print(int(s)//(10**l//9)+9*l-8)
+print(-~int(s)*9//10**l+9*l-8)

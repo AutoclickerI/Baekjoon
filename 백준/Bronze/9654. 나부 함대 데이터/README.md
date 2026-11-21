@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9654) 
 
+### 선택한 제출
+
+[제출 40217344](https://acmicpc.net/source/40217344) · Python 3 · 324 B · 나부 함대 데이터.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 64 ms

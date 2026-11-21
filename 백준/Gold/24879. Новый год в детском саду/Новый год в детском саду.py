@@ -1,5 +1,1 @@
-for i in[*open(0)][1:]:
-    n,a,b=map(int,i.split())
-    q,r=divmod(a,n)
-    Q,R=divmod(b,n)
-    print(n*q*Q-~r*Q-~R*q+max(0,r-n-~R))
+for i in[*open(0)][1:]:n,a,b=map(int,i.split());r=a%n;Q,R=b//n,b%n;print(a//n*n*Q-~r*Q-a//n*~R+max(0,r-n-~R))

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9297) 
 
+### 선택한 제출
+
+[제출 65997822](https://acmicpc.net/source/65997822) · Python 3 · 119 B · Reducing Improper Fractions.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 48 ms

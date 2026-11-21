@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21182) 
 
+### 선택한 제출
+
+[제출 64323670](https://acmicpc.net/source/64323670) · PyPy3 · 1402 B · Weird Flecks， But OK.py
+
 ### 성능 요약
 
 메모리: 120708 KB, 시간: 5336 ms

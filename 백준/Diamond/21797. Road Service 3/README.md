@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21797) 
 
+### 선택한 제출
+
+[제출 105007834](https://acmicpc.net/source/105007834) · Python 3 · 1175 B · 18점 · Road Service 3.py
+
 ### 성능 요약
 
 메모리: 32412 KB, 시간: 32 ms

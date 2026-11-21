@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11047) 
 
+### 선택한 제출
+
+[제출 40563224](https://acmicpc.net/source/40563224) · PyPy3 · 125 B · 동전 0.py
+
 ### 성능 요약
 
-메모리: 124504 KB, 시간: 284 ms
+메모리: 124504 KB, 시간: 288 ms
 
 ### 분류
 

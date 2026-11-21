@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13708) 
 
+### 선택한 제출
+
+[제출 64306806](https://acmicpc.net/source/64306806) · PyPy3 · 917 B · 모든 점을 포함하는 원.py
+
 ### 성능 요약
 
 메모리: 115540 KB, 시간: 400 ms

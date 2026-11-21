@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28840) 
 
+### 선택한 제출
+
+[제출 65857210](https://acmicpc.net/source/65857210) · Python 3 · 114 B · Как покормить дракона.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

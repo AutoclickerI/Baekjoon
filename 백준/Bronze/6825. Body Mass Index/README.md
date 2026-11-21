@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6825) 
 
+### 선택한 제출
+
+[제출 53612846](https://acmicpc.net/source/53612846) · Python 3 · 108 B · Body Mass Index.py
+
 ### 성능 요약
 
 메모리: 30616 KB, 시간: 36 ms

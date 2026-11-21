@@ -1,3 +1,3 @@
-a,b=map(int,open(0),[2,2])
-v=10**5
-for i in a&b,a|b,a^b,2**v+~a,2**v+~b:print(f'{i:b}'.zfill(v))
+a,b=map(int,open(0),[8,8])
+z=8**10**5//7
+print((5*'%0100000o ')%(a&b,a|b,a^b,z-a,z-b))

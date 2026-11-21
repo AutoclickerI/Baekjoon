@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10942) 
 
+### 선택한 제출
+
+[제출 57181724](https://acmicpc.net/source/57181724) · PyPy3 · 289 B · 팰린드롬？.py
+
 ### 성능 요약
 
-메모리: 182380 KB, 시간: 1148 ms
+메모리: 264456 KB, 시간: 1196 ms
 
 ### 분류
 

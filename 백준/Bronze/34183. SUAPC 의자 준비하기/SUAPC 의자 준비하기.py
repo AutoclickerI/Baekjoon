@@ -1,3 +1,3 @@
 N,M,A,B=map(int,input().split())
-v=3*N-M
-print((0<v)*(A*v+B))
+M-=3*N
+print((M<0)*(B-A*M))

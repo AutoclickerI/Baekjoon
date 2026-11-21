@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/30214) 
 
+### 선택한 제출
+
+[제출 67298738](https://acmicpc.net/source/67298738) · Python 3 · 44 B · An Easy－Peasy Problem.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 48 ms

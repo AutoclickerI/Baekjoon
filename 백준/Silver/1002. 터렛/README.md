@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1002) 
 
+### 선택한 제출
+
+[제출 39395295](https://acmicpc.net/source/39395295) · Python 3 · 457 B · 터렛.py
+
 ### 성능 요약
 
-메모리: 30860 KB, 시간: 80 ms
+메모리: 31256 KB, 시간: 56 ms
 
 ### 분류
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1703) 
 
+### 선택한 제출
+
+[제출 49160077](https://acmicpc.net/source/49160077) · Python 3 · 107 B · 생장점.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

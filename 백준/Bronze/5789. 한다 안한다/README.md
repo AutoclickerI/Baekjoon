@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5789) 
 
+### 선택한 제출
+
+[제출 50966359](https://acmicpc.net/source/50966359) · Python 3 · 79 B · 한다 안한다.py
+
 ### 성능 요약
 
 메모리: 43240 KB, 시간: 180 ms

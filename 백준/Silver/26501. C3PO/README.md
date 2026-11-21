@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/26501) 
 
+### 선택한 제출
+
+[제출 63157900](https://acmicpc.net/source/63157900) · Brainf**k · 310 B · C3PO.bf
+
 ### 성능 요약
 
 메모리: 1112 KB, 시간: 0 ms

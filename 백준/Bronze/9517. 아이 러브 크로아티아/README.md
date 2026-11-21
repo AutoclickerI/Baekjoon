@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9517) 
 
+### 선택한 제출
+
+[제출 46717978](https://acmicpc.net/source/46717978) · Python 3 · 139 B · 아이 러브 크로아티아.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

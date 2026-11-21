@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24736) 
 
+### 선택한 제출
+
+[제출 40716744](https://acmicpc.net/source/40716744) · Python 3 · 116 B · Football Scoring.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 68 ms

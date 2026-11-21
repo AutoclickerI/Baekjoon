@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2609) 
 
+### 선택한 제출
+
+[제출 40102166](https://acmicpc.net/source/40102166) · Python 3 · 83 B · 최대공약수와 최소공배수.py
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 72 ms
+메모리: 32976 KB, 시간: 76 ms
 
 ### 분류
 

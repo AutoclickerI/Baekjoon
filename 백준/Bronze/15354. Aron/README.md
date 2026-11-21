@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15354) 
 
+### 선택한 제출
+
+[제출 78615264](https://acmicpc.net/source/78615264) · Python 3 · 43 B · Aron.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31120 KB, 시간: 44 ms
 
 ### 분류
 

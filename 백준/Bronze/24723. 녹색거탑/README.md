@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24723) 
 
+### 선택한 제출
+
+[제출 40710450](https://acmicpc.net/source/40710450) · Python 3 · 22 B · 녹색거탑.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 72 ms

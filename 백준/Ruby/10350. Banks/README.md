@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10350) 
 
+### 선택한 제출
+
+[제출 67294438](https://acmicpc.net/source/67294438) · PyPy3 · 117 B · Banks.py
+
 ### 성능 요약
 
-메모리: 115280 KB, 시간: 744 ms
+메모리: 115604 KB, 시간: 2392 ms
 
 ### 분류
 

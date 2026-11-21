@@ -1,12 +1,2 @@
-while n:=int(input()):
-    d = {}
-    for _ in[0]*n:
-        y, _, m = input().split()
-        if d.get(y):
-            d[y][0] += 1
-            if m == 'Gold':
-                d[y][1] += 1
-        else:d[y]=[1,m=='Gold']
-    a = min(d, key=lambda x: (-d[x][1], x))
-    b = min(d, key=lambda x: (-d[x][0], x))
-    print(a, b)
+s=range(2022)
+while n:=int(input()):d=[[0,0]for i in s];exec("v,w,x=input().split();d[int(v)][x[0]=='G']+=1;"*n);print(max(s,key=lambda i:d[i][1]),max(s,key=lambda i:sum(d[i])))

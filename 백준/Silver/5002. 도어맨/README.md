@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5002) 
 
+### 선택한 제출
+
+[제출 53047972](https://acmicpc.net/source/53047972) · Python 3 · 406 B · 도어맨.py
+
 ### 성능 요약
 
 메모리: 30616 KB, 시간: 36 ms

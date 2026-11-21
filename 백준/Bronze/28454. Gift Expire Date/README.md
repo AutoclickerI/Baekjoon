@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28454) 
 
+### 선택한 제출
+
+[제출 66114824](https://acmicpc.net/source/66114824) · Python 3 · 42 B · Gift Expire Date.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

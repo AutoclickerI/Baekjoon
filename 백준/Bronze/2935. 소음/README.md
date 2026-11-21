@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2935) 
 
+### 선택한 제출
+
+[제출 46679574](https://acmicpc.net/source/46679574) · Python 3 · 36 B · 소음.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

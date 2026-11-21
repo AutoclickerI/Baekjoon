@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1557) 
 
+### 선택한 제출
+
+[제출 55536630](https://acmicpc.net/source/55536630) · Python 3 · 224 B · 제곱 ㄴㄴ.py
+
 ### 성능 요약
 
-메모리: 31620 KB, 시간: 376 ms
+메모리: 31988 KB, 시간: 424 ms
 
 ### 분류
 

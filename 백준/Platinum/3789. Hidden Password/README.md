@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3789) 
 
+### 선택한 제출
+
+[제출 99891923](https://acmicpc.net/source/99891923) · Python 3 · 159 B · Hidden Password.py
+
 ### 성능 요약
 
-메모리: 31032 KB, 시간: 364 ms
+메모리: 32604 KB, 시간: 2548 ms
 
 ### 분류
 

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5235) 
 
+### 선택한 제출
+
+[제출 66115115](https://acmicpc.net/source/66115115) · Python 3 · 111 B · Even Sum More Than Odd Sum.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 44 ms
 
 ### 분류
 

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2357) 
 
+### 선택한 제출
+
+[제출 56504056](https://acmicpc.net/source/56504056) · Python 3 · 767 B · 최솟값과 최댓값.py
+
 ### 성능 요약
 
-메모리: 58472 KB, 시간: 2300 ms
+메모리: 58336 KB, 시간: 2384 ms
 
 ### 분류
 

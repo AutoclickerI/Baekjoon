@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15051) 
 
+### 선택한 제출
+
+[제출 40802523](https://acmicpc.net/source/40802523) · Python 3 · 73 B · Máquina de café.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

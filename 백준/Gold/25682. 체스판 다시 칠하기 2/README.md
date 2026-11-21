@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/25682) 
 
+### 선택한 제출
+
+[제출 63466160](https://acmicpc.net/source/63466160) · PyPy3 · 464 B · 체스판 다시 칠하기 2.py
+
 ### 성능 요약
 
 메모리: 182600 KB, 시간: 436 ms

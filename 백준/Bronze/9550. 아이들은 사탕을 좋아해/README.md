@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9550) 
 
+### 선택한 제출
+
+[제출 46714990](https://acmicpc.net/source/46714990) · Python 3 · 114 B · 아이들은 사탕을 좋아해.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 84 ms

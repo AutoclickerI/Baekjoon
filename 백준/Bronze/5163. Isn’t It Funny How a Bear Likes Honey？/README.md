@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5163) 
 
+### 선택한 제출
+
+[제출 64202056](https://acmicpc.net/source/64202056) · Python 3 · 148 B · Isn’t It Funny How a Bear Likes Honey？.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 148 ms
+메모리: 31256 KB, 시간: 160 ms
 
 ### 분류
 

@@ -1,2 +1,2 @@
-p,q=map(open(0).read().count,[s:='bigdata',S:='security'])
-print((s+'? ')*(p>=q)+(S+'!')*(p<=q))
+b,s=map(open(0).read().count,"bs")
+print((b>=s)*"bigdata? "+(b<=s)*"security!")

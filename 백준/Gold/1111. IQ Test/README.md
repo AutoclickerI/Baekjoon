@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1111) 
 
+### 선택한 제출
+
+[제출 63765794](https://acmicpc.net/source/63765794) · Python 3 · 178 B · IQ Test.py
+
 ### 성능 요약
 
-메모리: 132468 KB, 시간: 180 ms
+메모리: 31388 KB, 시간: 44 ms
 
 ### 분류
 

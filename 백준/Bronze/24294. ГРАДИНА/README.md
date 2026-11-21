@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24294) 
 
+### 선택한 제출
+
+[제출 41007432](https://acmicpc.net/source/41007432) · Python 3 · 65 B · ГРАДИНА.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

@@ -1,2 +1,1 @@
-N,M,K=map(int,input().split())
-print(0-N//(M-K))
+print(-eval('%s//(%s-%s)'%(*input().split(),)))

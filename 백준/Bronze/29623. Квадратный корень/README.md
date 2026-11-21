@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/29623) 
 
+### 선택한 제출
+
+[제출 65825089](https://acmicpc.net/source/65825089) · Python 3 · 188 B · Квадратный корень.py
+
 ### 성능 요약
 
-메모리: 36560 KB, 시간: 352 ms
+메모리: 36544 KB, 시간: 360 ms
 
 ### 분류
 

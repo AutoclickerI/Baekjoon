@@ -1,6 +1,2 @@
-for T in range(int(input())):
-    n=int(input())
-    l=eval('[*map(int,input().split())],'*n)
-    f=0
-    for i in range(n-1):f|=len({j[i+1]-j[i]for j in l})>1
-    print(f'{T+1}.','YNEOS'[f::2])
+I=input
+for T in range(int(I())):n=int(I());l=eval('[*map(int,I().split())],'*n);print(f'{T+1}.','YNEOS'[any(1<len({j[i+1]-j[i]for j in l})for i in range(n-1))::2])

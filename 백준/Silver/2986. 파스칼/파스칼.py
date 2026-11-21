@@ -1,4 +1,3 @@
-N=int(input())
-a=N-1
-for i in range(2,int(N**.5)+1):N%i<1<exit(print(N-N//i))
-print(a)
+n=int(input());i=f=1
+while n%(i:=i+1)*f:f=i*i<=n
+print(n-[1,n//i][f])

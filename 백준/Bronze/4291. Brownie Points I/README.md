@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4291) 
 
+### 선택한 제출
+
+[제출 63586726](https://acmicpc.net/source/63586726) · Python 3 · 188 B · Brownie Points I.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 284 ms

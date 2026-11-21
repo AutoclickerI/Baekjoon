@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1644) 
 
+### 선택한 제출
+
+[제출 48602063](https://acmicpc.net/source/48602063) · Python 3 · 433 B · 소수의 연속합.py
+
 ### 성능 요약
 
 메모리: 205872 KB, 시간: 3484 ms

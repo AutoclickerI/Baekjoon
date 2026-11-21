@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/25921) 
 
+### 선택한 제출
+
+[제출 62595592](https://acmicpc.net/source/62595592) · PyPy3 · 165 B · 건너 아는 사이.py
+
 ### 성능 요약
 
 메모리: 162256 KB, 시간: 200 ms

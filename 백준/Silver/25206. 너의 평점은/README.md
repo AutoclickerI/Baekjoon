@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/25206) 
 
+### 선택한 제출
+
+[제출 62489469](https://acmicpc.net/source/62489469) · Python 3 · 232 B · 너의 평점은.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

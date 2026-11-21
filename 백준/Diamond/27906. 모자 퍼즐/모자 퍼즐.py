@@ -1,10 +1,10 @@
 N=int(input())
-vis=[int(input().replace(' ','')[::-1],2)for _ in[0]*N]
+vis=[int(input().replace(' ',''),2)for _ in[0]*N]
 
 w1,w2=map(int,input().split())
 W=1<<N
 
-real=int(input().translate({87:49,66:48})[::-1],2)
+real=int(input().translate({87:49,66:48}),2)
 
 alive=[w1<=w.bit_count()<=w2 for w in range(W)]
 
@@ -18,7 +18,7 @@ for _ in[0]*int(input()):
     for i in input().split()[1:]:
         s+=1
         vm=vis[i:=int(i)-1]
-        bi=1<<i
+        bi=1<<N+~i
         for w in range(W):
             if alive[w]:
                 obs=w&vm

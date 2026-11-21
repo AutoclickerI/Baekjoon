@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/27685) 
 
+### 선택한 제출
+
+[제출 67416879](https://acmicpc.net/source/67416879) · Python 3 · 201 B · 3점 · Copier.py
+
 ### 성능 요약
 
 메모리: 39664 KB, 시간: 176 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20352) 
 
+### 선택한 제출
+
+[제출 44838250](https://acmicpc.net/source/44838250) · Python 3 · 42 B · Circus.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 84 ms

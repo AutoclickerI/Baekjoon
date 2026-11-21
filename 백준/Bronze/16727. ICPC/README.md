@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16727) 
 
+### 선택한 제출
+
+[제출 43946150](https://acmicpc.net/source/43946150) · Python 3 · 257 B · ICPC.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 48 ms

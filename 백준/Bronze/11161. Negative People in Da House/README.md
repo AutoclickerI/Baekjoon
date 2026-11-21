@@ -2,9 +2,13 @@
 
 [문제 링크](https://acmicpc.net/problem/11161) 
 
+### 선택한 제출
+
+[제출 64231682](https://acmicpc.net/source/64231682) · Python 3 · 111 B · Negative People in Da House.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 136 ms
+메모리: 31256 KB, 시간: 216 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 7월 29일 09:08:10
+2023년 7월 29일 09:09:05
 
 ### 문제 설명
 

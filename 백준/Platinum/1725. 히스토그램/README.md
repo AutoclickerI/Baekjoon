@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1725) 
 
+### 선택한 제출
+
+[제출 56272073](https://acmicpc.net/source/56272073) · PyPy3 · 678 B · 히스토그램.py
+
 ### 성능 요약
 
-메모리: 324932 KB, 시간: 844 ms
+메모리: 324916 KB, 시간: 920 ms
 
 ### 분류
 

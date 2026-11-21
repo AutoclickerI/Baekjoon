@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2733) 
 
+### 선택한 제출
+
+[제출 61396195](https://acmicpc.net/source/61396195) · PyPy3 · 1255 B · Brainf＊ck.py
+
 ### 성능 요약
 
 메모리: 116372 KB, 시간: 264 ms

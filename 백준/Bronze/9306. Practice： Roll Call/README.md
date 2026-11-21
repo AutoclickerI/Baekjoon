@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9306) 
 
+### 선택한 제출
+
+[제출 65997500](https://acmicpc.net/source/65997500) · Python 3 · 69 B · Practice： Roll Call.py
+
 ### 성능 요약
 
-메모리: 42816 KB, 시간: 84 ms
+메모리: 43352 KB, 시간: 192 ms
 
 ### 분류
 

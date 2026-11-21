@@ -1,1 +1,1 @@
-for i in[*open(0)][1::2]:*l,=map(int,i.split());print(max(map(sum,zip(l,l[1:],l[2:]))))
+while'0'<input():print(max(map(sum,zip(l:=[*map(int,input().split())],l[1:],l[2:]))))

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3034) 
 
+### 선택한 제출
+
+[제출 46696680](https://acmicpc.net/source/46696680) · Python 3 · 89 B · 앵그리 창영.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

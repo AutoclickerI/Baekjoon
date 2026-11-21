@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14002) 
 
+### 선택한 제출
+
+[제출 41912371](https://acmicpc.net/source/41912371) · Python 3 · 266 B · 가장 긴 증가하는 부분 수열 4.py
+
 ### 성능 요약
 
 메모리: 32904 KB, 시간: 76 ms

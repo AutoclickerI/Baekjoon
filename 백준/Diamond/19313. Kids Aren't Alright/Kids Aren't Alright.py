@@ -41,11 +41,13 @@ def factorize(n):
         n//=v
     return d
 
+@cache
 def factors(n):
     d=factorize(n)
     r=[1]
     for i in d:
         r=[j*i**k for k in range(d[i]+1)for j in r]
+    r.pop()
     return r
 
 mod=998244353
@@ -53,8 +55,7 @@ mod=998244353
 @cache
 def L(n):
     l=factors(n)
-    r=pow(2,len(l),mod)-1
-    l.pop()
+    r=pow(2,len(l)+1,mod)-1
     for v in l:
         r=(r-L(v))%mod
     return r
@@ -64,7 +65,6 @@ def L(n):
 def G(n):
     l=factors(n)
     r=L(n)
-    l.pop()
     for v in l:
         r=(r-G(v))%mod
     return r

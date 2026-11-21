@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1759) 
 
+### 선택한 제출
+
+[제출 48741582](https://acmicpc.net/source/48741582) · Python 3 · 147 B · 암호 만들기.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 30840 KB, 시간: 76 ms
 
 ### 분류
 

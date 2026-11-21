@@ -1,4 +1,5 @@
-a,b=input(),input()
+a=input()+'1'
+b=input()+'2'
 i=0
-while i<min(len(a),len(b))!=a[i]==b[i]:i+=1
-print(len(a)+len(b)-2*i)
+while a[i]==b[i]:i+=1
+print(len(a)+len(b)+~i*2)

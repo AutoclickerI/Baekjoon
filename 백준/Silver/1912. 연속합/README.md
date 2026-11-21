@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1912) 
 
+### 선택한 제출
+
+[제출 40570649](https://acmicpc.net/source/40570649) · Python 3 · 111 B · 연속합.py
+
 ### 성능 요약
 
-메모리: 38568 KB, 시간: 128 ms
+메모리: 38828 KB, 시간: 88 ms
 
 ### 분류
 

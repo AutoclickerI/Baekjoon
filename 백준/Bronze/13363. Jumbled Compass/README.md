@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13363) 
 
+### 선택한 제출
+
+[제출 64465874](https://acmicpc.net/source/64465874) · Python 3 · 45 B · Jumbled Compass.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

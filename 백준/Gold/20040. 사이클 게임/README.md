@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20040) 
 
+### 선택한 제출
+
+[제출 48602940](https://acmicpc.net/source/48602940) · PyPy3 · 220 B · 사이클 게임.py
+
 ### 성능 요약
 
 메모리: 194224 KB, 시간: 1456 ms

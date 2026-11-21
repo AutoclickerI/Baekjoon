@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17466) 
 
+### 선택한 제출
+
+[제출 60364042](https://acmicpc.net/source/60364042) · PyPy3 · 80 B · N！ mod P （1）.py
+
 ### 성능 요약
 
 메모리: 114328 KB, 시간: 760 ms

@@ -1,2 +1,2 @@
-p,q=open(0)
-print(+(q[:-1]in p))
+s=input()
+print(+(input()in s))

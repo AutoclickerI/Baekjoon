@@ -1,3 +1,2 @@
-s='EISNTFPJ'
-for i in input():s=s.replace(i,'')
-print(s)
+s="ESTJINFP"
+for c in input():print(end=s[s.find(c)-4])

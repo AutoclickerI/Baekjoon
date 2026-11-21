@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20336) 
 
+### 선택한 제출
+
+[제출 64043955](https://acmicpc.net/source/64043955) · Python 3 · 20 B · Haughty Cuisine.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

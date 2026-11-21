@@ -1,1 +1,1 @@
-while(l:=input())>'1':print(eval('2*'+l.replace(' ','-')))
+while(l:=input())>'1':p,q=map(int,l.split());print(2*p-q)

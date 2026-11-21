@@ -1,3 +1,2 @@
-a,b=map(int,input().split())
-if a>b:a,b=b,a
-print(max(min(a,b/3),a/2))
+h,w=sorted(map(int,input().split()))
+print(max(h/2,min(w/3,h)))

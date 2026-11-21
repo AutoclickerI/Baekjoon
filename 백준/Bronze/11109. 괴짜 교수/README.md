@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11109) 
 
+### 선택한 제출
+
+[제출 51042587](https://acmicpc.net/source/51042587) · Python 3 · 206 B · 괴짜 교수.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 176 ms

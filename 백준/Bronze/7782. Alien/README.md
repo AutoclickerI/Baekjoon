@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7782) 
 
+### 선택한 제출
+
+[제출 64068121](https://acmicpc.net/source/64068121) · Python 3 · 109 B · Alien.py
+
 ### 성능 요약
 
-메모리: 31388 KB, 시간: 428 ms
+메모리: 34940 KB, 시간: 932 ms
 
 ### 분류
 

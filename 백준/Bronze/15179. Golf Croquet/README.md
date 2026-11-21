@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15179) 
 
+### 선택한 제출
+
+[제출 63867872](https://acmicpc.net/source/63867872) · Python 3 · 510 B · Golf Croquet.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

@@ -1,3 +1,1 @@
-s=input()
-a=s.split('x')[0]
-print((a+'1'*(a=='-')or 1)*('x'in s)or 0)
+j=1j;print(int(eval(input().replace(*'xj')).imag))

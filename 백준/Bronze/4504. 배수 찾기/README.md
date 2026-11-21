@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4504) 
 
+### 선택한 제출
+
+[제출 46697245](https://acmicpc.net/source/46697245) · Python 3 · 92 B · 배수 찾기.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 76 ms

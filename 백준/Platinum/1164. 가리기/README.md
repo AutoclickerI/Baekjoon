@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1164) 
 
+### 선택한 제출
+
+[제출 51227044](https://acmicpc.net/source/51227044) · C++20 · 1320 B · 가리기.cc
+
 ### 성능 요약
 
-메모리: 2032 KB, 시간: 624 ms
+메모리: 2032 KB, 시간: 776 ms
 
 ### 분류
 

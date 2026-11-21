@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16431) 
 
+### 선택한 제출
+
+[제출 42093571](https://acmicpc.net/source/42093571) · Python 3 · 181 B · 베시와 데이지.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

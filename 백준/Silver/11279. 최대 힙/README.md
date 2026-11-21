@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11279) 
 
+### 선택한 제출
+
+[제출 60320874](https://acmicpc.net/source/60320874) · Python 3 · 119 B · 최대 힙.py
+
 ### 성능 요약
 
 메모리: 41176 KB, 시간: 116 ms

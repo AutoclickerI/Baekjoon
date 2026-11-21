@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24678) 
 
+### 선택한 제출
+
+[제출 47678296](https://acmicpc.net/source/47678296) · C++20 · 180 B · 돌무더기 게임 1.cc
+
 ### 성능 요약
 
 메모리: 1112 KB, 시간: 132 ms

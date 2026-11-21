@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15781) 
 
+### 선택한 제출
+
+[제출 46719422](https://acmicpc.net/source/46719422) · Python 3 · 74 B · 헬멧과 조끼.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16219) 
 
+### 선택한 제출
+
+[제출 61760930](https://acmicpc.net/source/61760930) · PyPy3 · 136 B · 정렬하기.py
+
 ### 성능 요약
 
-메모리: 159748 KB, 시간: 764 ms
+메모리: 223584 KB, 시간: 904 ms
 
 ### 분류
 

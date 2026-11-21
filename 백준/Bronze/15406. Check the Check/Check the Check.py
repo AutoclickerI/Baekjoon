@@ -1,2 +1,2 @@
-*l,n=map(eval,open(0).read().replace(*' *').split()[1::2])
+*l,n=map(eval,[i.replace(*' *')for i in[*open(0)][1::2]])
 print(['PAY','PROTEST'][sum(l)<n])

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/30266) 
 
+### 선택한 제출
+
+[제출 67704740](https://acmicpc.net/source/67704740) · Python 3 · 231 B · Hurricane Warning.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 400 ms

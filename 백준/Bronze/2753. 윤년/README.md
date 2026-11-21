@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2753) 
 
+### 선택한 제출
+
+[제출 39105528](https://acmicpc.net/source/39105528) · Python 3 · 179 B · 윤년.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 76 ms

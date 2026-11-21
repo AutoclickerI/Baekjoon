@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18198) 
 
+### 선택한 제출
+
+[제출 45259492](https://acmicpc.net/source/45259492) · Python 3 · 115 B · Basketball One－on－One.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

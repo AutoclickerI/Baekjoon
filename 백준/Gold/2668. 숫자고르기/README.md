@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2668) 
 
+### 선택한 제출
+
+[제출 79774250](https://acmicpc.net/source/79774250) · Python 3 · 107 B · 숫자고르기.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31120 KB, 시간: 116 ms
 
 ### 분류
 

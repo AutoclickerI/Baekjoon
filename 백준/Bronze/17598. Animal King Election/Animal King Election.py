@@ -1,2 +1,1 @@
-f=open(0).read().count
-print('TLiigoenr'[f('Lion')>f('Tiger')::2])
+print(sorted(open(0))[4])

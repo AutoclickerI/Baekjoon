@@ -1,1 +1,1 @@
-print(sum(j!='PER'[i%3]for i,j in enumerate(input())))
+print(sum(i!=j for i,j in zip(input(),'PER'*999)))

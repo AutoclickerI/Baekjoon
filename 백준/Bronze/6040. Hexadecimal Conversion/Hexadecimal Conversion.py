@@ -1,1 +1,1 @@
-print(f'{int(input(),16):o}')
+print('%o'%int(input(),16))

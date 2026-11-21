@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5716) 
 
+### 선택한 제출
+
+[제출 46943432](https://acmicpc.net/source/46943432) · PyPy3 · 283 B · Klingon Levels.py
+
 ### 성능 요약
 
 메모리: 128816 KB, 시간: 1908 ms

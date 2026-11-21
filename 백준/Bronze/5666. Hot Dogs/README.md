@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5666) 
 
+### 선택한 제출
+
+[제출 58385216](https://acmicpc.net/source/58385216) · Python 3 · 55 B · Hot Dogs.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

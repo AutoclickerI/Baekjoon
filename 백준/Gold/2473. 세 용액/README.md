@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2473) 
 
+### 선택한 제출
+
+[제출 48565399](https://acmicpc.net/source/48565399) · PyPy3 · 556 B · 세 용액.py
+
 ### 성능 요약
 
 메모리: 115412 KB, 시간: 468 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11800) 
 
+### 선택한 제출
+
+[제출 62180718](https://acmicpc.net/source/62180718) · Python 3 · 333 B · Tawla.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 48 ms

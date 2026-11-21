@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9227) 
 
+### 선택한 제출
+
+[제출 85578769](https://acmicpc.net/source/85578769) · Python 3 · 111 B · W＊＊h y＊＊r mouth out with s＊＊p.py
+
 ### 성능 요약
 
 메모리: 31120 KB, 시간: 32 ms
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 24일 14:07:51
+2024년 10월 24일 14:13:53
 
 ### 문제 설명
 

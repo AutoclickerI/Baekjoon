@@ -1,10 +1,3 @@
-input()
-b=input().split()
-input()
-b+=input().split()
-input()
-b={*b}-{*input().split()}
-input()
-s=input()
-for i in b:s=s.replace(i,' ')
-print(*s.split())
+a,b,c,d,e,f,g,h=open(0)
+for i in{*(b+d).split()}-{*f.split()}:h=h.replace(i,' ')
+print(*h.split())

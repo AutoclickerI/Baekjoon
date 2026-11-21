@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6413) 
 
+### 선택한 제출
+
+[제출 66420565](https://acmicpc.net/source/66420565) · Python 3 · 277 B · Clock Patience.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

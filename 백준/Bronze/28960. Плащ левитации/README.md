@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28960) 
 
+### 선택한 제출
+
+[제출 67682833](https://acmicpc.net/source/67682833) · Python 3 · 79 B · Плащ левитации.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

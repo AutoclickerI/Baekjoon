@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2166) 
 
+### 선택한 제출
+
+[제출 41795903](https://acmicpc.net/source/41795903) · Python 3 · 149 B · 다각형의 면적.py
+
 ### 성능 요약
 
 메모리: 31860 KB, 시간: 460 ms

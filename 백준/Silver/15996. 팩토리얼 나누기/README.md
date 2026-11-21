@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15996) 
 
+### 선택한 제출
+
+[제출 58296712](https://acmicpc.net/source/58296712) · Python 3 · 57 B · 팩토리얼 나누기.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

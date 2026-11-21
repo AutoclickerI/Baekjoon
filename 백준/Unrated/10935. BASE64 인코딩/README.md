@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10935) 
 
+### 선택한 제출
+
+[제출 42621525](https://acmicpc.net/source/42621525) · Python 3 · 63 B · BASE64 인코딩.py
+
 ### 성능 요약
 
 메모리: 38892 KB, 시간: 132 ms

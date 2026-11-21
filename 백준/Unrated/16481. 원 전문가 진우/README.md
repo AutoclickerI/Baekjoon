@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16481) 
 
+### 선택한 제출
+
+[제출 45896341](https://acmicpc.net/source/45896341) · Python 3 · 57 B · 70점 · 원 전문가 진우.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

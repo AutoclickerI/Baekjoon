@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1152) 
 
+### 선택한 제출
+
+[제출 102054133](https://acmicpc.net/source/102054133) · Python 3 · 27 B · 단어의 개수.py
+
 ### 성능 요약
 
-메모리: 39196 KB, 시간: 52 ms
+메모리: 39824 KB, 시간: 44 ms
 
 ### 분류
 

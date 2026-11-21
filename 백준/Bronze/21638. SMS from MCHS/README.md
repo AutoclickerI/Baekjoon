@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21638) 
 
+### 선택한 제출
+
+[제출 44849181](https://acmicpc.net/source/44849181) · Python 3 · 306 B · SMS from MCHS.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

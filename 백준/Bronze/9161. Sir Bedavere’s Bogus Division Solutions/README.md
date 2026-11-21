@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9161) 
 
+### 선택한 제출
+
+[제출 61173437](https://acmicpc.net/source/61173437) · Python 3 · 101 B · Sir Bedavere’s Bogus Division Solutions.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

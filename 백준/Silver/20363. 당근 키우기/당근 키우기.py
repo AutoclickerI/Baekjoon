@@ -1,2 +1,2 @@
-X,Y=sorted(map(int,input().split()))
-print(X+Y+X//10)
+x,y=map(int,input().split())
+print(x+y+min(x,y)//10)

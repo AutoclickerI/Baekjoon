@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10250) 
 
+### 선택한 제출
+
+[제출 55070906](https://acmicpc.net/source/55070906) · Python 3 · 73 B · ACM 호텔.py
+
 ### 성능 요약
 
-메모리: 30616 KB, 시간: 36 ms
+메모리: 31256 KB, 시간: 44 ms
 
 ### 분류
 

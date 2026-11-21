@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13236) 
 
+### 선택한 제출
+
+[제출 62980113](https://acmicpc.net/source/62980113) · Python 3 · 80 B · Collatz Conjecture.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

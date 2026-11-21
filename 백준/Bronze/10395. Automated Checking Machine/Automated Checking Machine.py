@@ -1,2 +1,1 @@
-p,q=map(int,open(0).read().replace(' ','').split())
-print('NY'[p+q==11111])
+print("NY"[all([i!=j for i,j in zip(*open(0))][::2])])

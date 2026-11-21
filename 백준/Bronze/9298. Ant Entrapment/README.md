@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9298) 
 
+### 선택한 제출
+
+[제출 65960138](https://acmicpc.net/source/65960138) · PyPy3 · 192 B · Ant Entrapment.py
+
 ### 성능 요약
 
 메모리: 217400 KB, 시간: 5920 ms

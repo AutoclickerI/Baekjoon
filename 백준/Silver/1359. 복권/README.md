@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1359) 
 
+### 선택한 제출
+
+[제출 59655642](https://acmicpc.net/source/59655642) · Python 3 · 112 B · 복권.py
+
 ### 성능 요약
 
 메모리: 33376 KB, 시간: 44 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11403) 
 
+### 선택한 제출
+
+[제출 60721231](https://acmicpc.net/source/60721231) · Python 3 · 330 B · 경로 찾기.py
+
 ### 성능 요약
 
 메모리: 31576 KB, 시간: 1212 ms

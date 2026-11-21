@@ -1,2 +1,3 @@
-K,T=int(input().split()[1])-1,input()
-print(T[:K],*[chr(ord(i)^32)for i in T[K:]],sep='')
+n,s=open(0)
+z=int(n.split()[1])-1
+print(s[:z]+s[z:].swapcase())

@@ -1,3 +1,4 @@
-p,q=map(int,input().split())
-for n in[i for i in range(1,p+1)if p%i==0]:
-    for m in[i for i in range(1,q+1)if q%i==0]:print(n,m)
+P,Q=map(int,input().split())
+for p in range(1,P+1):
+ if P%p<1:
+  for q in range(1,Q+1):Q%q>0 or print(p,q)

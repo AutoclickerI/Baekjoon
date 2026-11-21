@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28278) 
 
+### 선택한 제출
+
+[제출 62541648](https://acmicpc.net/source/62541648) · Python 3 · 310 B · 스택 2.py
+
 ### 성능 요약
 
 메모리: 141776 KB, 시간: 1864 ms

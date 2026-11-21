@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/12249) 
 
+### 선택한 제출
+
+[제출 63541336](https://acmicpc.net/source/63541336) · Python 3 · 549 B · The Repeater （Large）.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 1524 ms

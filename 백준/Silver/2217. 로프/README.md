@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2217) 
 
+### 선택한 제출
+
+[제출 40225922](https://acmicpc.net/source/40225922) · Python 3 · 147 B · 로프.py
+
 ### 성능 요약
 
 메모리: 34080 KB, 시간: 5920 ms

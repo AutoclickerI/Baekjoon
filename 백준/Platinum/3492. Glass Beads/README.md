@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3492) 
 
+### 선택한 제출
+
+[제출 99891917](https://acmicpc.net/source/99891917) · Python 3 · 150 B · Glass Beads.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 96 ms
+메모리: 32412 KB, 시간: 88 ms
 
 ### 분류
 

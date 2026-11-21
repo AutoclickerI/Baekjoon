@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11942) 
 
+### 선택한 제출
+
+[제출 40217873](https://acmicpc.net/source/40217873) · Python 3 · 24 B · 고려대는 사랑입니다.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 76 ms

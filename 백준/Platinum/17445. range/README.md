@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17445) 
 
+### 선택한 제출
+
+[제출 47570855](https://acmicpc.net/source/47570855) · Python 3 · 874 B · range.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

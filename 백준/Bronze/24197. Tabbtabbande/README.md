@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24197) 
 
+### 선택한 제출
+
+[제출 66759107](https://acmicpc.net/source/66759107) · Python 3 · 90 B · Tabbtabbande.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

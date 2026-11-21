@@ -1,4 +1,3 @@
-g=lambda x:eval('*'.join(x))
-M=int(input())
-a,b,c=zip(*eval('input().split(),'*M))
-print(c.count('1')%2,g(b)//g(a))
+r=1
+for i in[*open(d:=0)][1:]:a,b,c=map(int,i.split());r=r*b//a;d^=c
+print(d,r)

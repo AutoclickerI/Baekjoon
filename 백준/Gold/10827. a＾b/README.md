@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10827) 
 
+### 선택한 제출
+
+[제출 41265026](https://acmicpc.net/source/41265026) · PyPy3 · 95 B · a＾b.py
+
 ### 성능 요약
 
-메모리: 141012 KB, 시간: 256 ms
+메모리: 140988 KB, 시간: 272 ms
 
 ### 분류
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11057) 
 
+### 선택한 제출
+
+[제출 58585388](https://acmicpc.net/source/58585388) · Python 3 · 52 B · 오르막 수.py
+
 ### 성능 요약
 
 메모리: 33376 KB, 시간: 44 ms

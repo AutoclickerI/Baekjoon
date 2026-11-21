@@ -1,4 +1,4 @@
-s=['{}']
-for i in range(15):s+='{'+','.join(s)+'}',
+s=[]
 f=s.index
-for _ in[0]*int(input()):print(s[f(input())+f(input())])
+I=input
+exec("s+='{%s}'%','.join(s),;"*16+'print(s[f(I())+f(I())]),'*int(I()))

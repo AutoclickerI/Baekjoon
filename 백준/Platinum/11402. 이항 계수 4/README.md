@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11402) 
 
+### 선택한 제출
+
+[제출 41804839](https://acmicpc.net/source/41804839) · Python 3 · 130 B · 이항 계수 4.py
+
 ### 성능 요약
 
-메모리: 32952 KB, 시간: 68 ms
+메모리: 32952 KB, 시간: 72 ms
 
 ### 분류
 

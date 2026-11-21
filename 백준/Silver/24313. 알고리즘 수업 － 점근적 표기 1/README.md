@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24313) 
 
+### 선택한 제출
+
+[제출 63094409](https://acmicpc.net/source/63094409) · Python 3 · 61 B · 알고리즘 수업 － 점근적 표기 1.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

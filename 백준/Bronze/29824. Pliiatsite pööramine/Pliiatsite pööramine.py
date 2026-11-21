@@ -1,5 +1,4 @@
-s=[*open(0)][1]
-i=s[0]
+i,*s=[*open(0)][1]
 a=[]
 for k,j in enumerate(s,1):
     if j!=i:a+=k,
@@ -7,4 +6,4 @@ for k,j in enumerate(s,1):
 print(len(a)//2)
 while len(a)>1:
     p,q,*a=a
-    print(f'{p}-{q-1}')
+    print(f'{p+1}-{q}')

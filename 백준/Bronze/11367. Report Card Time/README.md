@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11367) 
 
+### 선택한 제출
+
+[제출 63498969](https://acmicpc.net/source/63498969) · Python 3 · 103 B · Report Card Time.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 44 ms
 
 ### 분류
 

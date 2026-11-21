@@ -1,5 +1,4 @@
-A0L0=1
-A0L1=A0L2=A1L0=A1L1=A1L2=0
-for _ in[0]*int(input()):
-    A0L0,A0L1,A0L2,A1L0,A1L1,A1L2=A0L0+A0L1+A0L2,A0L0,A0L1,A1L0+A1L1+A1L2+A0L0+A0L1+A0L2,A1L0,A1L1
-print((A0L0+A0L1+A0L2+A1L0+A1L1+A1L2)%1000000)
+a=b=A=1
+c=B=C=0
+exec('a,b,c=a+b+c,a,b;A,B,C=A+B+C+a,A,B;'*int(input()))
+print(A%10**6)

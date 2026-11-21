@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11729) 
 
+### 선택한 제출
+
+[제출 40054286](https://acmicpc.net/source/40054286) · PyPy3 · 568 B · 하노이 탑 이동 순서.py
+
 ### 성능 요약
 
 메모리: 190516 KB, 시간: 680 ms

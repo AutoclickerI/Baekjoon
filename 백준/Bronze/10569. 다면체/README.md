@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10569) 
 
+### 선택한 제출
+
+[제출 46696750](https://acmicpc.net/source/46696750) · Python 3 · 66 B · 다면체.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 64 ms

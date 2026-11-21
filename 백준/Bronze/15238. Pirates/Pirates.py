@@ -1,1 +1,3 @@
-print(m:=max(s:=[*open(0)][1],key=s.count),s.count(m))
+_,s=open(0)
+f=s.count
+print(m:=max(s,key=f),f(m))

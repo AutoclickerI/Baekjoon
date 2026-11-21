@@ -1,4 +1,3 @@
-L,D,X=map(int,open(0))
-while eval('+'.join(str(L)))-X:L+=1
-while eval('+'.join(str(D)))-X:D-=1
-print(L,D)
+l,d,x=map(int,open(0))
+a=[i for i in range(l,d+1)if x==sum(map(int,str(i)))]
+print(a[0],a[-1])

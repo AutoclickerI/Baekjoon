@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10170) 
 
+### 선택한 제출
+
+[제출 40217364](https://acmicpc.net/source/40217364) · Python 3 · 301 B · NFC West vs North.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 80 ms

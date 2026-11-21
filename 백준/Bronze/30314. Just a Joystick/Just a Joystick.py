@@ -1,1 +1,1 @@
-print(sum(min(abs(i-j),abs(i-j-26),abs(i-j+26))for i,j in zip(*[*open(0,'rb')][1:])))
+print(sum(min(H:=abs(i-j),26-H)for i,j in zip(*[*open(0,'rb')][1:])))

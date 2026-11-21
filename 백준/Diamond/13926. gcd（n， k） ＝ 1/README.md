@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13926) 
 
+### 선택한 제출
+
+[제출 55110551](https://acmicpc.net/source/55110551) · Python 3 · 902 B · gcd（n， k） ＝ 1.py
+
 ### 성능 요약
 
 메모리: 39980 KB, 시간: 112 ms

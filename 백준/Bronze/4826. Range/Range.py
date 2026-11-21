@@ -1,11 +1,8 @@
-while True:
-    n, m = map(float, input().split())
-    if (n, m) == (-1.0, -1.0):
-        break
-    dist, fuel = [n], [m]
-    while 1:
-        n, m = map(float, input().split())
-        if(n,m)==(0,0):break
-        dist+=n,
-        fuel+=m,
-    print(round(sum(dist[i+1]-dist[i] for i in range(len(dist)-1) if fuel[i] > fuel[i+1])*fuel[-1]/sum(fuel[i]-fuel[i+1] for i in range(len(fuel)-1) if fuel[i] > fuel[i+1])))
+f=lambda:[*map(eval,input().split())]
+while(l:=f())[0]>0:
+    t=[l];k=u=0
+    while(l:=f())[0]>0:t+=l,
+    for v,w in zip(t,t[1:]):
+        a,b=v;c,d=w
+        if b>d:u+=c-a;k+=b-d
+    print(round(u/k*d))

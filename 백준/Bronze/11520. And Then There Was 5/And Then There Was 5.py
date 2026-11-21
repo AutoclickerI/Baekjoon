@@ -1,1 +1,1 @@
-for i in open(0).read().split()[2::2]:print(i,5)
+for i in[*open(0)][1:]:print(i[-2],5)

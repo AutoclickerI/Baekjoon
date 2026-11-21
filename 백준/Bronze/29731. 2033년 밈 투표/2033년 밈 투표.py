@@ -1,2 +1,1 @@
-s='Never gonna '
-print('YNeos'[len({*open(0).read().split('\n')[1:-1]}-{s+'give you up',s+'let you down',s+'make you cry',s+'run around and desert you',s+'say goodbye',s+'stop',s+'tell a lie and hurt you'})<1::2])
+print('YNeos'[len({*map(chr,map(sum,open(0,"rb")))}-{*'ࢊࣷිࣦࢳಜأ'})<2::2])

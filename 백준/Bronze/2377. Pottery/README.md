@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2377) 
 
+### 선택한 제출
+
+[제출 53223077](https://acmicpc.net/source/53223077) · FreeBASIC · 203 B · Pottery.bas
+
 ### 성능 요약
 
 메모리: 13948 KB, 시간: 4 ms

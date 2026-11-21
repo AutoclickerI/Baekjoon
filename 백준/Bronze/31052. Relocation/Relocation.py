@@ -1,6 +1,5 @@
-_,i,*l=open(0)
-*x,=map(int,i.split())
-for j in l:
-    n,a,b=map(int,j.split())
-    if~-n:print(abs(x[a-1]-x[b-1]))
-    else:x[a-1]=b
+_,a,*q=[map(int,s.split())for s in open(0)]
+a=[0,*a]
+for s,t,u in q:
+ if~-s:print(abs(a[t]-a[u]))
+ else:a[t]=u

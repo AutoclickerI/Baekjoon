@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1788) 
 
+### 선택한 제출
+
+[제출 40122792](https://acmicpc.net/source/40122792) · Python 3 · 416 B · 피보나치 수의 확장.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

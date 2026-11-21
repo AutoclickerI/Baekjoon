@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24441) 
 
+### 선택한 제출
+
+[제출 66962377](https://acmicpc.net/source/66962377) · Python 3 · 296440 B · 행운 수 판정.py
+
 ### 성능 요약
 
 메모리: 45368 KB, 시간: 916 ms

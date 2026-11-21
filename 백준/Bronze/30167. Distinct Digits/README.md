@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/30167) 
 
+### 선택한 제출
+
+[제출 67003532](https://acmicpc.net/source/67003532) · Python 3 · 93 B · Distinct Digits.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 88 ms
 
 ### 분류
 

@@ -7,7 +7,7 @@ if a<2:
 if a==2:
     if b>18:
         print('After')
-    if b<18:
+    elif b<18:
         print('Before')
-    if b==18:
+    else:
         print('Special')

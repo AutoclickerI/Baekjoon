@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5342) 
 
+### 선택한 제출
+
+[제출 60794541](https://acmicpc.net/source/60794541) · Python 3 · 177 B · Billing.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

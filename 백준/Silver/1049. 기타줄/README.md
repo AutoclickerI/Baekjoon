@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1049) 
 
+### 선택한 제출
+
+[제출 60944882](https://acmicpc.net/source/60944882) · Python 3 · 104 B · 기타줄.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

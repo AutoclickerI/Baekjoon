@@ -1,6 +1,3 @@
-n=int(input())
-p,q=map(int,input().split())
-for _ in[0]*n:
-    a,b,c,d=map(int,input().split())
-    if a<=p<=c and b<=q<=d:exit(print('Yes'))
+n,p,q,*l=map(int,open(0).read().split())
+while l:a,b,c,d,*l=l;a<=p<=c!=b<=q<=d<exit(print('Yes'))
 print('No')

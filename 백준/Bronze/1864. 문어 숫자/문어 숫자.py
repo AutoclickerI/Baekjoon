@@ -1,6 +1,1 @@
-while'#'<(s:=input()):
-    t=0
-    for i in s:
-        t*=8
-        t+='-\(@?>&%'.find(i)
-    print(t)
+while'#'<(s:=input()):b=0;[b:=b*8+'-\(@?>&%'.find(i)for i in s];print(b)

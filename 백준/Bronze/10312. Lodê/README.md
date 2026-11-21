@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10312) 
 
+### 선택한 제출
+
+[제출 59625207](https://acmicpc.net/source/59625207) · Python 3 · 74 B · Lodê.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 52 ms

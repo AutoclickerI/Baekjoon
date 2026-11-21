@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/30329) 
 
+### 선택한 제출
+
+[제출 67704914](https://acmicpc.net/source/67704914) · Python 3 · 159 B · Kick.py
+
 ### 성능 요약
 
 메모리: 41020 KB, 시간: 1048 ms

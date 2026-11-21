@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/33552) 
 
+### 선택한 제출
+
+[제출 91146002](https://acmicpc.net/source/91146002) · Python 3 · 154 B · Excellent Grades.py
+
 ### 성능 요약
 
 메모리: 32412 KB, 시간: 36 ms
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 3월 10일 14:41:05
+2025년 3월 10일 14:41:52
 
 ### 문제 설명
 

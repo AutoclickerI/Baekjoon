@@ -1,1 +1,1 @@
-print(1<<~-int(input()).bit_length())
+print(1<<len(bin(int(input())))-3)

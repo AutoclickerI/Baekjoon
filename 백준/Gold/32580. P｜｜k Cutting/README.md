@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/32580) 
 
+### 선택한 제출
+
+[제출 86294236](https://acmicpc.net/source/86294236) · PyPy3 · 1079 B · P｜｜k Cutting.py
+
 ### 성능 요약
 
 메모리: 185948 KB, 시간: 3044 ms

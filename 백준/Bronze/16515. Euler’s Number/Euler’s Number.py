@@ -1,3 +1,3 @@
-t=s=1
-for i in range(int(input())):s*=-~i;t+=1/s
+i=t=s=1
+exec('s*=i;t+=1/s;i+=1;'*int(input()))
 print(t)

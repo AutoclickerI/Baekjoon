@@ -1,2 +1,2 @@
-M,S=map(int,input().split(":"))
-print(M//10+M%10+S//10%3+1)
+a,b,*c=map(ord,input())
+print(a+b+c[1]%3-95)

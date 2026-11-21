@@ -1,2 +1,1 @@
-*p,=open(0)
-print(len(p))
+print(len([*open(0)]))

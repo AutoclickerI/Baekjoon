@@ -2,9 +2,13 @@
 
 [문제 링크](https://acmicpc.net/problem/33247) 
 
+### 선택한 제출
+
+[제출 89844095](https://acmicpc.net/source/89844095) · Python 3 · 125 B · Alternative Blockchain Algorithms.py
+
 ### 성능 요약
 
-메모리: 167940 KB, 시간: 544 ms
+메모리: 111964 KB, 시간: 1036 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 2월 10일 10:44:49
+2025년 2월 10일 10:49:49
 
 ### 문제 설명
 

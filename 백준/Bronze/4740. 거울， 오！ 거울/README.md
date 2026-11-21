@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4740) 
 
+### 선택한 제출
+
+[제출 49503974](https://acmicpc.net/source/49503974) · Python 3 · 39 B · 거울， 오！ 거울.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

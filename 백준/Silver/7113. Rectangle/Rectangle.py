@@ -1,4 +1,4 @@
-a=0
-n,m=sorted(map(int,input().split()))
-while n:a+=1;n,m=sorted([n,m-n])
-print(a)
+n,m=map(int,input().split())
+c=0
+while m:c+=n//m;n,m=m,n%m
+print(c)

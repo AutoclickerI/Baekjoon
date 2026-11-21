@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8878) 
 
+### 선택한 제출
+
+[제출 64054602](https://acmicpc.net/source/64054602) · PyPy3 · 165 B · Hey， Better Bettor.py
+
 ### 성능 요약
 
-메모리: 115188 KB, 시간: 9076 ms
+메모리: 115332 KB, 시간: 10464 ms
 
 ### 분류
 

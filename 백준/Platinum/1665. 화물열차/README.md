@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1665) 
 
+### 선택한 제출
+
+[제출 51266789](https://acmicpc.net/source/51266789) · Python 3 · 256 B · 화물열차.py
+
 ### 성능 요약
 
 메모리: 249724 KB, 시간: 4752 ms

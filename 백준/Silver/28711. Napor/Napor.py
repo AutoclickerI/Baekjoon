@@ -1,2 +1,2 @@
 import re
-print(*sorted(map(int,re.findall('\d+',str(''.join(open(0))))[1:])))
+print(*sorted(map(int,re.findall('\d+',open(0).read())[1:])))

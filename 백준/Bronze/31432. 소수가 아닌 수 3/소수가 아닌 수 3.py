@@ -1,1 +1,1 @@
-print('YES',int([*open(0)][1][-2])*111)
+print('YES',int([*open(0)][1][0]*3))

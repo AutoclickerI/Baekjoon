@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2965) 
 
+### 선택한 제출
+
+[제출 49119880](https://acmicpc.net/source/49119880) · Python 3 · 52 B · 캥거루 세마리.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

@@ -1,13 +1,2 @@
-import sys
-input=sys.stdin.readline
-
-T=int(input())
-while T:
-    T-=1
-    (_,y),*l=sorted([*map(int,input().split())]for _ in[0]*int(input()))
-    a=1
-    for _,i in l:
-        if i<y:
-            a+=1
-            y=i
-    print(a)
+I=input
+for t in[1e9]*int(I()):print(sum(m<t>(t:=m)for _,m in sorted([*map(int,I().split())]for _ in[0]*int(I()))))

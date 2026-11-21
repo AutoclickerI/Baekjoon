@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2164) 
 
+### 선택한 제출
+
+[제출 50567623](https://acmicpc.net/source/50567623) · Python 3 · 132 B · 카드2.py
+
 ### 성능 요약
 
 메모리: 49280 KB, 시간: 244 ms

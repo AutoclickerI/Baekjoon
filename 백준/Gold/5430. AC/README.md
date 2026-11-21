@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5430) 
 
+### 선택한 제출
+
+[제출 60559658](https://acmicpc.net/source/60559658) · PyPy3 · 435 B · AC.py
+
 ### 성능 요약
 
 메모리: 315932 KB, 시간: 1996 ms

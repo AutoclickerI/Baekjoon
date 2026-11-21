@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1564) 
 
+### 선택한 제출
+
+[제출 57299112](https://acmicpc.net/source/57299112) · Python 3 · 189 B · 팩토리얼5.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 520 ms

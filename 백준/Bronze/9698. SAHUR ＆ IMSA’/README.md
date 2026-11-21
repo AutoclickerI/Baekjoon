@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9698) 
 
+### 선택한 제출
+
+[제출 60131407](https://acmicpc.net/source/60131407) · Python 3 · 117 B · SAHUR ＆ IMSA’.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

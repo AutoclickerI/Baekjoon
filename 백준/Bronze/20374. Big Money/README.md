@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20374) 
 
+### 선택한 제출
+
+[제출 60176923](https://acmicpc.net/source/60176923) · PyPy3 · 82 B · Big Money.py
+
 ### 성능 요약
 
 메모리: 115108 KB, 시간: 504 ms

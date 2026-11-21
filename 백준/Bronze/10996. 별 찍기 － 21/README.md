@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10996) 
 
+### 선택한 제출
+
+[제출 40267137](https://acmicpc.net/source/40267137) · Python 3 · 98 B · 별 찍기 － 21.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

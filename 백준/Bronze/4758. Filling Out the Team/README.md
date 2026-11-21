@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4758) 
 
+### 선택한 제출
+
+[제출 66061215](https://acmicpc.net/source/66061215) · Python 3 · 175 B · Filling Out the Team.py
+
 ### 성능 요약
 
-메모리: 31388 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 40 ms
 
 ### 분류
 

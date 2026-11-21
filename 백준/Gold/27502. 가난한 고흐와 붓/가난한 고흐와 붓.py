@@ -10,4 +10,3 @@ else:
     for _ in N//2*[0]:
         s,e=map(int,input().split())
         print(e,s)
-print('end')

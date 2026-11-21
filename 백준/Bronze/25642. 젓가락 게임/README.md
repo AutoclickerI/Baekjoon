@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/25642) 
 
+### 선택한 제출
+
+[제출 65925467](https://acmicpc.net/source/65925467) · Python 3 · 64 B · 젓가락 게임.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

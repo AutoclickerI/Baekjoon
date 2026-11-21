@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2108) 
 
+### 선택한 제출
+
+[제출 39708650](https://acmicpc.net/source/39708650) · Python 3 · 373 B · 통계학.py
+
 ### 성능 요약
 
 메모리: 53796 KB, 시간: 416 ms

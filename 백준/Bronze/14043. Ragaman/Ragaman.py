@@ -1,4 +1,4 @@
 from collections import*
 a,b=map(Counter,open(0))
-b-=a
-print('NA'[len(b)<1or len(b)<2>0<b['*']])
+c=len(b-a)
+print('NA'[c<1or c<=1<=b['*']])

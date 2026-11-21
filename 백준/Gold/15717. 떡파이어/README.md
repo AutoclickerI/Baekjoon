@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15717) 
 
+### 선택한 제출
+
+[제출 68978495](https://acmicpc.net/source/68978495) · Python 3 · 43 B · 떡파이어.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 72 ms
+메모리: 31120 KB, 시간: 48 ms
 
 ### 분류
 

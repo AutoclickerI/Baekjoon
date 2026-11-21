@@ -1,8 +1,7 @@
-input()
 d={}
 ans=0
-for i in map(int,input().split()):
-    if i in d and d[i]:
+for i in map(int,[*open(0)][1].split()):
+    if d.get(i):
         d[i]-=1
     else:
         ans+=1

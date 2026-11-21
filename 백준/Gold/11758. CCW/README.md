@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11758) 
 
+### 선택한 제출
+
+[제출 41796309](https://acmicpc.net/source/41796309) · Python 3 · 158 B · CCW.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 80 ms

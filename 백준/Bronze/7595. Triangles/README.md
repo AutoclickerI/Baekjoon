@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7595) 
 
+### 선택한 제출
+
+[제출 51077618](https://acmicpc.net/source/51077618) · Python 3 · 57 B · Triangles.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

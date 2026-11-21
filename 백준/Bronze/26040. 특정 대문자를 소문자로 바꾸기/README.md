@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/26040) 
 
+### 선택한 제출
+
+[제출 66088950](https://acmicpc.net/source/66088950) · Python 3 · 56 B · 특정 대문자를 소문자로 바꾸기.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

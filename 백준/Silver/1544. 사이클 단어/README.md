@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1544) 
 
+### 선택한 제출
+
+[제출 67301905](https://acmicpc.net/source/67301905) · Python 3 · 121 B · 사이클 단어.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

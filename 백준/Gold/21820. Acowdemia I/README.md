@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21820) 
 
+### 선택한 제출
+
+[제출 66305763](https://acmicpc.net/source/66305763) · Python 3 · 279 B · Acowdemia I.py
+
 ### 성능 요약
 
 메모리: 42172 KB, 시간: 124 ms

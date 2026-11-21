@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11004) 
 
+### 선택한 제출
+
+[제출 58586141](https://acmicpc.net/source/58586141) · Python 3 · 60 B · K번째 수.py
+
 ### 성능 요약
 
 메모리: 593336 KB, 시간: 3276 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/19813) 
 
+### 선택한 제출
+
+[제출 60019225](https://acmicpc.net/source/60019225) · Python 3 · 148 B · Dates.py
+
 ### 성능 요약
 
 메모리: 32276 KB, 시간: 120 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1004) 
 
+### 선택한 제출
+
+[제출 40163908](https://acmicpc.net/source/40163908) · Python 3 · 254 B · 어린 왕자.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 260 ms

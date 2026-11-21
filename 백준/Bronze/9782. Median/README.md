@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9782) 
 
+### 선택한 제출
+
+[제출 55967017](https://acmicpc.net/source/55967017) · Python 3 · 122 B · Median.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 48 ms

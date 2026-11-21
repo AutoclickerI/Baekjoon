@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11721) 
 
+### 선택한 제출
+
+[제출 65979485](https://acmicpc.net/source/65979485) · Python 3 · 40 B · 열 개씩 끊어 출력하기.py
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 68 ms
+메모리: 31388 KB, 시간: 40 ms
 
 ### 분류
 

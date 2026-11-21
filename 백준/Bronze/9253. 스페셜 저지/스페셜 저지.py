@@ -1,2 +1,3 @@
-a,b,c=open(0)
-print('NYOE S'[c[:-1]in a+b::2])
+I=input
+s=I()+I()
+print('NYOE S'[I()in s::2])

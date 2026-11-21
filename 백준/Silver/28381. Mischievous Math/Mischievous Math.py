@@ -1,1 +1,1 @@
-print(*[['71 85 97'],'123'][int(input())>9])
+print(*input()[1:]and'123'or b'GUa')

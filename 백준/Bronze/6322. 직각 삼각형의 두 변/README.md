@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6322) 
 
+### 선택한 제출
+
+[제출 47737643](https://acmicpc.net/source/47737643) · Python 3 · 507 B · 직각 삼각형의 두 변.py
+
 ### 성능 요약
 
 메모리: 32952 KB, 시간: 68 ms

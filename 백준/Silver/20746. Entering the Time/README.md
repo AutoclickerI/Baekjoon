@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20746) 
 
+### 선택한 제출
+
+[제출 95600102](https://acmicpc.net/source/95600102) · Python 3 · 261 B · Entering the Time.py
+
 ### 성능 요약
 
 메모리: 32412 KB, 시간: 32 ms
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 6월 23일 23:50:48
+2025년 6월 24일 00:13:13
 
 ### 문제 설명
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1264) 
 
+### 선택한 제출
+
+[제출 55765418](https://acmicpc.net/source/55765418) · Python 3 · 60 B · 모음의 개수.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

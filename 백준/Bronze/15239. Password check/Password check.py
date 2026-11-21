@@ -1,1 +1,1 @@
-for*i,_ in[*open(0,'rb')][2::2]:print('invalid'[(len(k:=[(47<n<58)+(64<n<91)*2+(96<n<123)*4for n in i])>11>3<len({*k}))*2:])
+for*i,_ in[*open(0,'rb')][2::2]:print('invalid'[(len(i)/4>=3<len({(47<n<58)+(64<n<91)*2+(96<n<123)*4for n in i}))*2:])

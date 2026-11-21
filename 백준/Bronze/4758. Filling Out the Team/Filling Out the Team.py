@@ -1,9 +1,1 @@
-while'1'<(s:=input()):
-    p,q,r,*s=map(eval,s.split())
-    if p<=4.5<150<=q and 200<=r:
-        s+='Wide Receiver',
-    if p<=6<300<=q and 500<=r:
-        s+='Lineman',
-    if p<=5<200<=q and 300<=r:
-        s+='Quarterback',
-    print(*s or['No positions'])
+while'1'<(s:=input()):p,q,r=map(eval,s.split());print('Wide Receiver '*(r>=200>p<=4.5<150<=q)+'Lineman '*(r>=500>p<=6<=q/50)+'Quarterback'*(r>=300>p<=5<=q/40)or'No positions')

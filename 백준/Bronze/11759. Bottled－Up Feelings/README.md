@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11759) 
 
+### 선택한 제출
+
+[제출 64364190](https://acmicpc.net/source/64364190) · PyPy3 · 190 B · Bottled－Up Feelings.py
+
 ### 성능 요약
 
 메모리: 114328 KB, 시간: 132 ms

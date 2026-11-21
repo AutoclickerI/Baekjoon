@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10868) 
 
+### 선택한 제출
+
+[제출 56503704](https://acmicpc.net/source/56503704) · Python 3 · 631 B · 최솟값.py
+
 ### 성능 요약
 
 메모리: 42088 KB, 시간: 1448 ms

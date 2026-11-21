@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6541) 
 
+### 선택한 제출
+
+[제출 86396740](https://acmicpc.net/source/86396740) · PyPy3 · 1178 B · Binary Search Heap Construction.py
+
 ### 성능 요약
 
 메모리: 330692 KB, 시간: 2224 ms

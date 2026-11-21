@@ -1,5 +1,4 @@
-input()
+_,p,_,q=open(0)
 d={}
-for i in input().split():d[i]=d[i]+1if d.get(i)else 1
-input()
-for i in input().split():print(d.get(i)or 0)
+for i in p.split():d[i]=d.get(i,0)+1
+for i in q.split():print(d.get(i,0))

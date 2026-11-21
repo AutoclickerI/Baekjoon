@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20650) 
 
+### 선택한 제출
+
+[제출 77912843](https://acmicpc.net/source/77912843) · Python 3 · 57 B · Do You Know Your ABCs？.py
+
 ### 성능 요약
 
 메모리: 31120 KB, 시간: 40 ms
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 5월 5일 23:53:06
+2024년 5월 5일 23:53:45
 
 ### 문제 설명
 

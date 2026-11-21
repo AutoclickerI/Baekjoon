@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15351) 
 
+### 선택한 제출
+
+[제출 52020067](https://acmicpc.net/source/52020067) · Python 3 · 88 B · 인생 점수.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

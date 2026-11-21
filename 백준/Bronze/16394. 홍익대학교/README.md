@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16394) 
 
+### 선택한 제출
+
+[제출 40218898](https://acmicpc.net/source/40218898) · Python 3 · 24 B · 홍익대학교.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 76 ms

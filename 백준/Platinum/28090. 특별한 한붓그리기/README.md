@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28090) 
 
+### 선택한 제출
+
+[제출 61436331](https://acmicpc.net/source/61436331) · Python 3 · 345 B · 특별한 한붓그리기.py
+
 ### 성능 요약
 
 메모리: 31268 KB, 시간: 68 ms

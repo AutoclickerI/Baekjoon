@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10211) 
 
+### 선택한 제출
+
+[제출 58586829](https://acmicpc.net/source/58586829) · Python 3 · 84 B · Maximum Subarray.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 44 ms
+메모리: 31256 KB, 시간: 48 ms
 
 ### 분류
 

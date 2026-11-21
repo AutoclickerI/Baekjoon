@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1017) 
 
+### 선택한 제출
+
+[제출 57659849](https://acmicpc.net/source/57659849) · Python 3 · 580 B · 소수 쌍.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

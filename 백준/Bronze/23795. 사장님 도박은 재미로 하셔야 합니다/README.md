@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23795) 
 
+### 선택한 제출
+
+[제출 46395135](https://acmicpc.net/source/46395135) · Python 3 · 42 B · 사장님 도박은 재미로 하셔야 합니다.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 140 ms

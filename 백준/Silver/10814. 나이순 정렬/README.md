@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10814) 
 
+### 선택한 제출
+
+[제출 39786012](https://acmicpc.net/source/39786012) · Python 3 · 232 B · 나이순 정렬.py
+
 ### 성능 요약
 
 메모리: 60072 KB, 시간: 9364 ms

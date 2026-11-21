@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14337) 
 
+### 선택한 제출
+
+[제출 53163684](https://acmicpc.net/source/53163684) · Visual Basic · 413 B · Helicopter.vb
+
 ### 성능 요약
 
 메모리: 5316 KB, 시간: 56 ms

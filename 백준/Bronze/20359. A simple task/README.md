@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20359) 
 
+### 선택한 제출
+
+[제출 64298242](https://acmicpc.net/source/64298242) · Python 3 · 50 B · A simple task.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

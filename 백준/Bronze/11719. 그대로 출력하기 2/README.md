@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11719) 
 
+### 선택한 제출
+
+[제출 40185384](https://acmicpc.net/source/40185384) · Python 3 · 40 B · 그대로 출력하기 2.py
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 72 ms
+메모리: 30864 KB, 시간: 88 ms
 
 ### 분류
 

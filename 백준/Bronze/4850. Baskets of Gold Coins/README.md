@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4850) 
 
+### 선택한 제출
+
+[제출 64073797](https://acmicpc.net/source/64073797) · Python 3 · 73 B · Baskets of Gold Coins.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

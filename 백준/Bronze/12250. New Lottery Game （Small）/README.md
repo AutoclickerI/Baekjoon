@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/12250) 
 
+### 선택한 제출
+
+[제출 59519884](https://acmicpc.net/source/59519884) · Python 3 · 122 B · New Lottery Game （Small）.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 1328 ms
+메모리: 31256 KB, 시간: 1336 ms
 
 ### 분류
 

@@ -6,10 +6,6 @@ class node:
         self.sum=sum
 
 def merge(L,R):
-    if L==None:
-        return R
-    if R==None:
-        return L
     return node(math.gcd(L.gcd,R.gcd),L.sum+R.sum)
 
 def update(i,v):
@@ -21,7 +17,7 @@ def update(i,v):
 def getval(l,r):
     l+=N
     r+=N
-    right=left=None
+    right=left=node(0,0)
     while l<r:
         if l%2:
             left=merge(left,tree[l])
@@ -48,9 +44,4 @@ for T,A,B in Q:
         update(A-1,T)
         update(B,-T)
     else:
-        if A==B:
-            print(getval(0,A).sum)
-        else:
-            v=getval(0,A).sum
-            g=getval(A,B).gcd
-            print(math.gcd(v,g))
+        print(math.gcd(getval(0,A).sum,getval(A,B).gcd))

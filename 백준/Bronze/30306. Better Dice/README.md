@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/30306) 
 
+### 선택한 제출
+
+[제출 67597244](https://acmicpc.net/source/67597244) · Python 3 · 204 B · Better Dice.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 200 ms

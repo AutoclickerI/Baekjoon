@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1013) 
 
+### 선택한 제출
+
+[제출 66549530](https://acmicpc.net/source/66549530) · Python 3 · 81 B · Contact.py
+
 ### 성능 요약
 
-메모리: 34804 KB, 시간: 116 ms
+메모리: 34804 KB, 시간: 112 ms
 
 ### 분류
 

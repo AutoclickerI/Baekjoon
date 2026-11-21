@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10798) 
 
+### 선택한 제출
+
+[제출 61563245](https://acmicpc.net/source/61563245) · Python 3 · 86 B · 세로읽기.py
+
 ### 성능 요약
 
 메모리: 31388 KB, 시간: 40 ms

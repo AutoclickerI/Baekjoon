@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/27646) 
 
+### 선택한 제출
+
+[제출 66710822](https://acmicpc.net/source/66710822) · Python 3 · 91 B · Judicious cuts （Easy）.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 88 ms
+메모리: 31256 KB, 시간: 96 ms
 
 ### 분류
 

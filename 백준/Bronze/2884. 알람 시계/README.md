@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2884) 
 
+### 선택한 제출
+
+[제출 39106136](https://acmicpc.net/source/39106136) · Python 3 · 129 B · 알람 시계.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/12781) 
 
+### 선택한 제출
+
+[제출 41805463](https://acmicpc.net/source/41805463) · Python 3 · 220 B · PIZZA ALVOLOC.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

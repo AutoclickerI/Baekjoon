@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14046) 
 
+### 선택한 제출
+
+[제출 75000150](https://acmicpc.net/source/75000150) · PyPy3 · 137 B · Circle of Life.py
+
 ### 성능 요약
 
-메모리: 202320 KB, 시간: 300 ms
+메모리: 204900 KB, 시간: 300 ms
 
 ### 분류
 

@@ -1,5 +1,4 @@
-n=int(input())
+p,q=open(0)
 a=f=0
-for i in map(int,input().split()):a^=i;f|=a
-if f-1:print(['cubelover','koosaga'][a!=0])
-else:print(['cubelover','koosaga'][a==0])
+for i in map(int,q.split()):a^=i;f|=a
+print(['cubelover','koosaga'][(a!=0)-(f==1)])

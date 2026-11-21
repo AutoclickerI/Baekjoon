@@ -1,3 +1,3 @@
-s=input()
-try:print(eval(s))
-except:print(int(s,8))
+try:n=eval(s:=input())
+except:n=int(s,8)
+print(n)

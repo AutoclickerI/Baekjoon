@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16487) 
 
+### 선택한 제출
+
+[제출 45977843](https://acmicpc.net/source/45977843) · Python 3 · 80 B · 55점 · 말 타기.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

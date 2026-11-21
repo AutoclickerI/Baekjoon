@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2231) 
 
+### 선택한 제출
+
+[제출 39685034](https://acmicpc.net/source/39685034) · Python 3 · 165 B · 분해합.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 1412 ms

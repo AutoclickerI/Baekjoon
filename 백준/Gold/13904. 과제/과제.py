@@ -1,15 +1,13 @@
-_,*l=[[*map(int,i.split())]for i in open(0)]
+N=int(input())
+l=[[*map(int,input().split())]for _ in[0]*N]
 l.sort()
-d=l[-1][0]
 
-c=0
+hq=[]
 
 from heapq import*
-hq=[]
-while d:
-    while l and d<=l[-1][0]:
-        heappush(hq,-l.pop()[1])
-    if hq:
-        c-=heappop(hq)
-    d-=1
-print(c)
+
+for d,W in l:
+    heappush(hq,W)
+    while d<len(hq):
+        heappop(hq)
+print(sum(hq))

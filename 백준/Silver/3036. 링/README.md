@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3036) 
 
+### 선택한 제출
+
+[제출 41204711](https://acmicpc.net/source/41204711) · Python 3 · 181 B · 링.py
+
 ### 성능 요약
 
 메모리: 36688 KB, 시간: 144 ms

@@ -1,3 +1,4 @@
-n,m,*l=open(0).read().split()
-g=int(m)-sum(map(len,l))
-print(('No','Yes')[g>0 and not g%(int(n)-1) if int(n)>1 else not g])
+n,m,*a=open(0).read().split()
+n=int(n)
+g=int(m)-sum(map(len,a))
+print('NYoe s'[g==0if 2>n else g>0<1>g%~-n::2])

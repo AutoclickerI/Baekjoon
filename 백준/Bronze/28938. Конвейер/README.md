@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28938) 
 
+### 선택한 제출
+
+[제출 67116498](https://acmicpc.net/source/67116498) · Python 3 · 75 B · Конвейер.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31304 KB, 시간: 44 ms
 
 ### 분류
 

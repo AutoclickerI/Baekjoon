@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13312) 
 
+### 선택한 제출
+
+[제출 45879441](https://acmicpc.net/source/45879441) · Text · 121 B · 아크코사인은 믿음입니다.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

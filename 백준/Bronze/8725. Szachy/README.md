@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8725) 
 
+### 선택한 제출
+
+[제출 64053583](https://acmicpc.net/source/64053583) · Python 3 · 60 B · Szachy.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 48 ms

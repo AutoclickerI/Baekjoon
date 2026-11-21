@@ -1,1 +1,2 @@
-_,*l=map(int,open(0));print(min(l,key=lambda n:(-l.count(n),n)))
+_,*l=open(0)
+print(min(l,key=lambda x:(-l.count(x),x)))

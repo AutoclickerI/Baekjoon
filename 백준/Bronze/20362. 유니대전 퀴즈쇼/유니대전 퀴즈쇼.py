@@ -1,3 +1,3 @@
-n,c,*l=open(0).read().split()
-s=l[::2].index(c)*2+1
-print(sum(i==l[s]for i in l[1:s:2]))
+n,s,*a=open(0).read().split()
+x=a[::2].index(s)*2
+print(a[1:x:2].count(a[x+1]))

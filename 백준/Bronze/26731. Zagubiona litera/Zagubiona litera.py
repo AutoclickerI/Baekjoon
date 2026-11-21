@@ -1,1 +1,1 @@
-print(chr(2015-sum(map(ord,input()))))
+print(chr(-sum(*open(0,'rb'))%135))

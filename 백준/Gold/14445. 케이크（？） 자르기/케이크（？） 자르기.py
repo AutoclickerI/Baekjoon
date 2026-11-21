@@ -1,2 +1,2 @@
-N=int(input())+1
-print(N//2-2//N)
+n=int(input())
+print(n+(1<n)>>1)

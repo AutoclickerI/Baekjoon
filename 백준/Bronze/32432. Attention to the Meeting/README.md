@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/32432) 
 
+### 선택한 제출
+
+[제출 84528969](https://acmicpc.net/source/84528969) · Python 3 · 36 B · Attention to the Meeting.py
+
 ### 성능 요약
 
-메모리: 31120 KB, 시간: 32 ms
+메모리: 31120 KB, 시간: 36 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 9월 30일 04:31:41
+2024년 9월 30일 04:32:23
 
 ### 문제 설명
 

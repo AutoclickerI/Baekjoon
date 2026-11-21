@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13277) 
 
+### 선택한 제출
+
+[제출 40217899](https://acmicpc.net/source/40217899) · Python 3 · 45 B · 큰 수 곱셈.py
+
 ### 성능 요약
 
 메모리: 32352 KB, 시간: 5468 ms

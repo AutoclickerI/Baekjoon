@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9094) 
 
+### 선택한 제출
+
+[제출 46718987](https://acmicpc.net/source/46718987) · PyPy3 · 173 B · 수학적 호기심.py
+
 ### 성능 요약
 
 메모리: 115684 KB, 시간: 904 ms

@@ -7,9 +7,9 @@ def f(x,n):
    if n<1:return i
    n-=1
   q+=d[i]
- return '-'
+ return'-'
 for i in[*open(0)][1:]:
  x,a,*y=i.split()
- if x=='-':e[a]=0
- if x=='+':d[a]+=y;d[y[0]]=[];e[y[0]]=1
+ if'-'==x:e[a]=0
+ if'+'==x:v,=y;d[a]+=y;d[v]=[];e[v]=1
  x=='?'!=print(f('M',int(a)-1))

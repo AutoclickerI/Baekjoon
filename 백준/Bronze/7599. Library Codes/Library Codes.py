@@ -1,3 +1,4 @@
-while(s:=input().split())!=[*'#0']:
- print(s[0],'Library')
- for i in range(int(input())):x,y=input().split();print('Book',i+1,'hvoerritziocnatla l'[int(x)<len(y)*int(s[1])+2::2])
+I=input
+while'A'<(L:=I()):
+ N,f=L.split();print(N,'Library')
+ for i in range(int(I())):w,T=I().split();print('Book',i+1,'hvoerritziocnatla l'[int(w)<len(T)*int(f)+2::2])

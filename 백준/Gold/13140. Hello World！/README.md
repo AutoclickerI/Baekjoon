@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13140) 
 
+### 선택한 제출
+
+[제출 47894689](https://acmicpc.net/source/47894689) · PyPy3 · 281 B · Hello World！.py
+
 ### 성능 요약
 
-메모리: 115004 KB, 시간: 164 ms
+메모리: 115004 KB, 시간: 168 ms
 
 ### 분류
 

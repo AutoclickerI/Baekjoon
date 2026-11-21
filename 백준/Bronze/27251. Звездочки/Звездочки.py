@@ -1,2 +1,2 @@
-for i in range(1,int(input())+1):
-   print('*'*i*i if i<11 else'*'*100+'...')
+i=0
+exec('i+=1;print(("*"*100+"...")[:i*i]);'*int(input()))

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13580) 
 
+### 선택한 제출
+
+[제출 44844041](https://acmicpc.net/source/44844041) · Python 3 · 94 B · Andando no tempo.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 80 ms

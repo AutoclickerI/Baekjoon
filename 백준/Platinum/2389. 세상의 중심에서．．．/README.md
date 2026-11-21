@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2389) 
 
+### 선택한 제출
+
+[제출 64307139](https://acmicpc.net/source/64307139) · PyPy3 · 924 B · 세상의 중심에서．．．.py
+
 ### 성능 요약
 
 메모리: 115468 KB, 시간: 188 ms

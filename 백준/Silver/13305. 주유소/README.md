@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13305) 
 
+### 선택한 제출
+
+[제출 40605992](https://acmicpc.net/source/40605992) · Python 3 · 163 B · 100점 · 주유소.py
+
 ### 성능 요약
 
 메모리: 45752 KB, 시간: 156 ms

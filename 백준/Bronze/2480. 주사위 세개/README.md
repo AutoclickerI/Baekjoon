@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2480) 
 
+### 선택한 제출
+
+[제출 39106733](https://acmicpc.net/source/39106733) · Python 3 · 255 B · 주사위 세개.py
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 68 ms
+메모리: 31120 KB, 시간: 40 ms
 
 ### 분류
 

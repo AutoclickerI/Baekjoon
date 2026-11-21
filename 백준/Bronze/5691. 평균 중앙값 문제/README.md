@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5691) 
 
+### 선택한 제출
+
+[제출 51008027](https://acmicpc.net/source/51008027) · Python 3 · 57 B · 평균 중앙값 문제.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 64 ms
+메모리: 30840 KB, 시간: 72 ms
 
 ### 분류
 

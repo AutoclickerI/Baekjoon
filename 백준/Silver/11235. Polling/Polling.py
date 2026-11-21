@@ -1,2 +1,2 @@
 from statistics import*
-print(*sorted(multimode([l for l in open(0)][1:])),sep='')
+print(*sorted(multimode([l[:-1]for l in open(0)][1:])))

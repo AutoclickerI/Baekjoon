@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/31987) 
 
+### 선택한 제출
+
+[제출 93345220](https://acmicpc.net/source/93345220) · PyPy3 · 638 B · ESC와 쿼리.py
+
 ### 성능 요약
 
 메모리: 117204 KB, 시간: 432 ms

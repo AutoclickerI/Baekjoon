@@ -1,3 +1,1 @@
-m=s=0
-for i in[*open(0)][1:]:s-=int(i);m=max(m,s)
-print(m)
+print(max(S:=0,*[S:=S-int(s)for s in[*open(0)][1:]]))

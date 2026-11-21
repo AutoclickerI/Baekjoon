@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5074) 
 
+### 선택한 제출
+
+[제출 66078872](https://acmicpc.net/source/66078872) · Python 3 · 137 B · When Do We Finish？.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

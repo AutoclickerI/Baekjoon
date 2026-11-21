@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16785) 
 
+### 선택한 제출
+
+[제출 62766046](https://acmicpc.net/source/62766046) · Python 3 · 67 B · 100점 · ソーシャルゲーム （Social Game）.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 244 ms

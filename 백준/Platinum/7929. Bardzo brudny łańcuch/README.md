@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7929) 
 
+### 선택한 제출
+
+[제출 99891618](https://acmicpc.net/source/99891618) · PyPy3 · 159 B · Bardzo brudny łańcuch.py
+
 ### 성능 요약
 
-메모리: 133068 KB, 시간: 392 ms
+메모리: 140724 KB, 시간: 656 ms
 
 ### 분류
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/29863) 
 
+### 선택한 제출
+
+[제출 66402247](https://acmicpc.net/source/66402247) · Python 3 · 36 B · Arno's Sleep Schedule.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

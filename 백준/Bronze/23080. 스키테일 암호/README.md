@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23080) 
 
+### 선택한 제출
+
+[제출 59228784](https://acmicpc.net/source/59228784) · Python 3 · 30 B · 스키테일 암호.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

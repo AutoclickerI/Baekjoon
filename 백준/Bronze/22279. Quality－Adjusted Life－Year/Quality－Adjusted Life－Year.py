@@ -1,1 +1,1 @@
-print(eval(open(0).read()[2:-1].replace(*' *').replace('\n','+')))
+print(sum(eval(l.replace(*' *'))for l in[*open(0)][1:]))

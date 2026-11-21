@@ -1,4 +1,4 @@
-i,*l=open(0)
-t={0}
-for p in{*l}:t|={*range(p:=int(p),int(i.split()[1])+1,p)}
-print(len(t)-1)
+_,n,*l=map(int,open(0).read().split())
+a=[0]*-~n
+for i in l:a[i::i]=n//i*[1]
+print(sum(a))

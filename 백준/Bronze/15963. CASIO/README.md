@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15963) 
 
+### 선택한 제출
+
+[제출 41258110](https://acmicpc.net/source/41258110) · Python 3 · 36 B · CASIO.py
+
 ### 성능 요약
 
-메모리: 30860 KB, 시간: 72 ms
+메모리: 30864 KB, 시간: 72 ms
 
 ### 분류
 

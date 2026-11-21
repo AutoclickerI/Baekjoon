@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1874) 
 
+### 선택한 제출
+
+[제출 56664795](https://acmicpc.net/source/56664795) · Python 3 · 272 B · 스택 수열.py
+
 ### 성능 요약
 
 메모리: 38964 KB, 시간: 5384 ms

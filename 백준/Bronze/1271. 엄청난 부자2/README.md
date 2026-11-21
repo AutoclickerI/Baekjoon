@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1271) 
 
+### 선택한 제출
+
+[제출 40214619](https://acmicpc.net/source/40214619) · Python 3 · 57 B · 엄청난 부자2.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 72 ms

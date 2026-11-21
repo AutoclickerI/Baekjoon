@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4566) 
 
+### 선택한 제출
+
+[제출 92365205](https://acmicpc.net/source/92365205) · Python 3 · 106 B · Is the Name of This Problem.py
+
 ### 성능 요약
 
-메모리: 32412 KB, 시간: 32 ms
+메모리: 32412 KB, 시간: 36 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 4월 1일 13:24:09
+2025년 4월 1일 13:26:25
 
 ### 문제 설명
 

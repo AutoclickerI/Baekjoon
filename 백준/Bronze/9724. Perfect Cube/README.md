@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9724) 
 
+### 선택한 제출
+
+[제출 65485070](https://acmicpc.net/source/65485070) · Python 3 · 106 B · Perfect Cube.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 48 ms
 
 ### 분류
 

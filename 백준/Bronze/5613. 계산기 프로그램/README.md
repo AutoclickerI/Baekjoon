@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5613) 
 
+### 선택한 제출
+
+[제출 67234615](https://acmicpc.net/source/67234615) · Python 3 · 66 B · 계산기 프로그램.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 76 ms
+메모리: 31256 KB, 시간: 48 ms
 
 ### 분류
 

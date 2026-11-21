@@ -1,1 +1,1 @@
-print(1+eval('+'.join(sorted(input().split(),key=int)[1:])))
+print(1+sum(sorted(map(int,input().split()))[1:]))

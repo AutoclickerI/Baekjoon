@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15784) 
 
+### 선택한 제출
+
+[제출 59826359](https://acmicpc.net/source/59826359) · Python 3 · 146 B · 질투진서.py
+
 ### 성능 요약
 
 메모리: 74020 KB, 시간: 452 ms

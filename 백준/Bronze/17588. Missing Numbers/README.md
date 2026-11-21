@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17588) 
 
+### 선택한 제출
+
+[제출 66063479](https://acmicpc.net/source/66063479) · Python 3 · 77 B · Missing Numbers.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

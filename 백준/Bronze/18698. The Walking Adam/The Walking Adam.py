@@ -1,1 +1,1 @@
-for _ in[0]*int(input()):print(len(input().split('D')[0]))
+exec("print(len(input().split('D')[0]));"*int(input()))

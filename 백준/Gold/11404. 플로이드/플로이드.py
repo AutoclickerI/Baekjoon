@@ -1,6 +1,3 @@
-import sys
-input=sys.stdin.readline
-
 N=int(input())
 
 b=[[9**9*(i!=j)for i in range(N)]for j in range(N)]

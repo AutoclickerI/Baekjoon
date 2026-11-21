@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6040) 
 
+### 선택한 제출
+
+[제출 76926962](https://acmicpc.net/source/76926962) · Python 3 · 27 B · Hexadecimal Conversion.py
+
 ### 성능 요약
 
-메모리: 31120 KB, 시간: 40 ms
+메모리: 31120 KB, 시간: 48 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 4월 14일 13:49:35
+2024년 4월 14일 13:49:58
 
 ### 문제 설명
 

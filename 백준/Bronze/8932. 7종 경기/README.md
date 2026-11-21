@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8932) 
 
+### 선택한 제출
+
+[제출 74822390](https://acmicpc.net/source/74822390) · Python 3 · 215 B · 7종 경기.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 1256 ms
+메모리: 32140 KB, 시간: 96 ms
 
 ### 분류
 

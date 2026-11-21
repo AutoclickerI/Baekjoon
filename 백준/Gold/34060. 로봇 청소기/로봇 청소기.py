@@ -1,6 +1,3 @@
-import sys
-sys.setrecursionlimit(2*10**5)
-input = sys.stdin.readline
 parent = {}
 
 def find(x):

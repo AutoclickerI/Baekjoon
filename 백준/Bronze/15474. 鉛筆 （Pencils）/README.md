@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15474) 
 
+### 선택한 제출
+
+[제출 43613508](https://acmicpc.net/source/43613508) · Python 3 · 76 B · 鉛筆 （Pencils）.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

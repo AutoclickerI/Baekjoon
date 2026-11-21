@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10845) 
 
+### 선택한 제출
+
+[제출 56395068](https://acmicpc.net/source/56395068) · PyPy3 · 516 B · 큐.py
+
 ### 성능 요약
 
 메모리: 118476 KB, 시간: 204 ms

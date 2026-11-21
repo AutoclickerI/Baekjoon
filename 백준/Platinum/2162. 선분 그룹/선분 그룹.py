@@ -1,36 +1,24 @@
 from itertools import combinations
 from collections import Counter
-def ccw(x1, y1, x2, y2, x3, y3):
-    return (x2-x1)*(y3-y1) - (y2-y1)*(x3-x1)
 
-
-def is_two_lines_intersecting(line1, line2):
-    x1, y1, x2, y2 = line1
-    x3, y3, x4, y4 = line2
-
-    mx1, my1 = min(x1, x2), min(y1, y2)
-    mx2, my2 = max(x1, x2), max(y1, y2)
-    mx3, my3 = min(x3, x4), min(y3, y4)
-    mx4, my4 = max(x3, x4), max(y3, y4)
-
-    ccw123 = ccw(x1, y1, x2, y2, x3, y3)
-    ccw124 = ccw(x1, y1, x2, y2, x4, y4)
-    ccw341 = ccw(x3, y3, x4, y4, x1, y1)
-    ccw342 = ccw(x3, y3, x4, y4, x2, y2)
-
-    if ccw123*ccw124 == 0 and ccw341*ccw342 == 0:
-        if mx1 <= mx4 and mx3 <= mx2 and my1 <= my4 and my3 <= my2:
-            return True
+ccw=lambda *l:sum(l[i][1]*l[i-1][0]-l[i][0]*l[i-1][1]for i in range(len(l)))/2
+def joint(*l):
+    x11,y11,x12,y12,x21,y21,x22,y22=l
+    p,q=ccw([x11,y11],[x12,y12],[x21,y21])*ccw([x11,y11],[x12,y12],[x22,y22]),ccw([x11,y11],[x21,y21],[x22,y22])*ccw([x12,y12],[x21,y21],[x22,y22])
+    if p>0 or q>0:
+        return 0
+    elif p!=0!=q:
+        return 1
+    elif p+q:
+        return p+q<0
     else:
-        if ccw123*ccw124 <= 0 and ccw341*ccw342 <= 0:
-            return True
-
-    return False
+        a,b=sorted([(x11,y11),(x12,y12)]),sorted([(x21,y21),(x22,y22)])
+        return a+b!=sorted(a+b)!=b+a or len(set(a+b))!=4
 
 n=int(input())
 L=[]
 for P,Q in combinations([[i,*map(int,input().split())]for i in range(n)],2):
-    if is_two_lines_intersecting(P[1:],Q[1:]):
+    if joint(*P[1:],*Q[1:]):
         L+=[[P[0],Q[0]]]
 P=[*range(n)]
 def F(n):

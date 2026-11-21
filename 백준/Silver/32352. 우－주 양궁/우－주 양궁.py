@@ -1,4 +1,3 @@
-a,b,c,d,e,f=map(int,input().split())
-g,h,i,j,k,l=map(int,input().split())
-f=lambda a,b,g,h:g<=a<h or g<b<=h or a<=g<b or a<h<=b
-print(f(a,b,g,h)*f(c,d,i,j)-1or e-l+1)
+a,b,c,d,e,f,g,h,i,j,k,l=map(int,open(0).read().split())
+f=lambda*l:(*sorted(l),)in[l,(2*l)[2:6]]
+print(-(f(a,b,g,h)|f(c,d,i,j)or~e+l))

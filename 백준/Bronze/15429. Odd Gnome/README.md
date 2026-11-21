@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15429) 
 
+### 선택한 제출
+
+[제출 64042305](https://acmicpc.net/source/64042305) · Python 3 · 90 B · Odd Gnome.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 52 ms
+메모리: 31256 KB, 시간: 56 ms
 
 ### 분류
 

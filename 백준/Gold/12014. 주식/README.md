@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/12014) 
 
+### 선택한 제출
+
+[제출 41967868](https://acmicpc.net/source/41967868) · Python 3 · 276 B · 주식.py
+
 ### 성능 요약
 
 메모리: 33928 KB, 시간: 264 ms

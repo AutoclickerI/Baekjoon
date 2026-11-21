@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/22307) 
 
+### 선택한 제출
+
+[제출 84399523](https://acmicpc.net/source/84399523) · Text · 10099 B · 11점 · Maze 2.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4493) 
 
+### 선택한 제출
+
+[제출 46717503](https://acmicpc.net/source/46717503) · Python 3 · 374 B · 가위 바위 보？.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 2104 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14491) 
 
+### 선택한 제출
+
+[제출 46886308](https://acmicpc.net/source/46886308) · Python 3 · 84 B · 9진수.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 144 ms

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24196) 
 
+### 선택한 제출
+
+[제출 53377525](https://acmicpc.net/source/53377525) · Python 3 · 60 B · Gömda ord.py
+
 ### 성능 요약
 
-메모리: 30616 KB, 시간: 32 ms
+메모리: 30616 KB, 시간: 36 ms
 
 ### 분류
 

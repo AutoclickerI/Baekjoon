@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1316) 
 
+### 선택한 제출
+
+[제출 39331170](https://acmicpc.net/source/39331170) · Python 3 · 502 B · 그룹 단어 체커.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

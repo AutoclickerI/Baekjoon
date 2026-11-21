@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11054) 
 
+### 선택한 제출
+
+[제출 40480769](https://acmicpc.net/source/40480769) · Python 3 · 261 B · 가장 긴 바이토닉 부분 수열.py
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 192 ms
+메모리: 31252 KB, 시간: 104 ms
 
 ### 분류
 

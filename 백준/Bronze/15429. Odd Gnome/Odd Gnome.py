@@ -1,7 +1,4 @@
 for i in[*open(0)][1:]:
-    *l,=map(int,i.split())
-    for j in range(l[0]):
-        if l[j+2]-l[j+1]!=1:
-            print(j+2)
-            break
-    
+ n,p,*a=map(int,i.split());j=0
+ while p-a[j]:p+=1;j+=1
+ print(j+1)

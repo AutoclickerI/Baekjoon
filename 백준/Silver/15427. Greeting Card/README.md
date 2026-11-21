@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15427) 
 
+### 선택한 제출
+
+[제출 61494512](https://acmicpc.net/source/61494512) · PyPy3 · 156 B · Greeting Card.py
+
 ### 성능 요약
 
-메모리: 138108 KB, 시간: 392 ms
+메모리: 138112 KB, 시간: 416 ms
 
 ### 분류
 

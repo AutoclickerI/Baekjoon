@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2321) 
 
+### 선택한 제출
+
+[제출 60405219](https://acmicpc.net/source/60405219) · Fortran · 120 B · Crowing.f
+
 ### 성능 요약
 
 메모리: 1408 KB, 시간: 0 ms

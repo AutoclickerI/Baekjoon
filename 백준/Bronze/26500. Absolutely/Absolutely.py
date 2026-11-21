@@ -1,3 +1,2 @@
-for _ in[0]*int(input()):
-    p,q=map(float,input().split())
-    print(f'{int(abs(p-q)*10+.5)/10:.1f}')
+_,*l=map(eval,open(0).read().split())
+while l:p,q,*l=l;print(f'{abs(p-q):.1f}')

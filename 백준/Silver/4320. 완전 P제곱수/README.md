@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4320) 
 
+### 선택한 제출
+
+[제출 56875592](https://acmicpc.net/source/56875592) · Python 3 · 1045 B · 완전 P제곱수.py
+
 ### 성능 요약
 
 메모리: 40096 KB, 시간: 80 ms

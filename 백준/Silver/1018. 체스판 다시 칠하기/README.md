@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1018) 
 
+### 선택한 제출
+
+[제출 39687591](https://acmicpc.net/source/39687591) · Python 3 · 619 B · 체스판 다시 칠하기.py
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 112 ms
+메모리: 31256 KB, 시간: 80 ms
 
 ### 분류
 

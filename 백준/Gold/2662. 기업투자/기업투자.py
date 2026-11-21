@@ -4,17 +4,12 @@ v=[0]*-~N
 d=[{}for _ in v]
 cnt=0
 for i in l:
-    cnt+=1
-    t=v[:]
-    dt=[{**i}for i in d]
+    cnt+=1;t=v[:];dt=[{**i}for i in d]
     for j in range(1,N+1):
         for k in range(j):
             n=v[j-k-1]+i[k]
-            if t[j]<n:
-                t[j]=n
-                dt[j]={**d[j-k-1]}|{cnt:k+1}
-    v=t
-    d=dt
+            if t[j]<n:t[j]=n;dt[j]={**d[j-k-1]}|{cnt:k+1}
+    v=t;d=dt
 print(v[N])
 for i in range(M):
     print(d[N].get(i+1,0))

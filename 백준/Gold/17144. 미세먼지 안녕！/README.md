@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17144) 
 
+### 선택한 제출
+
+[제출 63133404](https://acmicpc.net/source/63133404) · PyPy3 · 1134 B · 미세먼지 안녕！.py
+
 ### 성능 요약
 
 메모리: 116816 KB, 시간: 376 ms

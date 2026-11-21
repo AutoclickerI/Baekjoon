@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2477) 
 
+### 선택한 제출
+
+[제출 46440553](https://acmicpc.net/source/46440553) · Python 3 · 287 B · 참외밭.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 76 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24084) 
 
+### 선택한 제출
+
+[제출 60175087](https://acmicpc.net/source/60175087) · Python 3 · 68 B · 次の文字 （Next Character）.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

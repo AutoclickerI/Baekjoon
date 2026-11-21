@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20017) 
 
+### 선택한 제출
+
+[제출 59427214](https://acmicpc.net/source/59427214) · Python 3 · 91 B · Топот котов.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

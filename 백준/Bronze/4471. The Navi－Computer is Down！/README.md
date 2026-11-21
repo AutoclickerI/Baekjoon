@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4471) 
 
+### 선택한 제출
+
+[제출 95386685](https://acmicpc.net/source/95386685) · Python 3 · 201 B · The Navi－Computer is Down！.py
+
 ### 성능 요약
 
-메모리: 32412 KB, 시간: 52 ms
+메모리: 32412 KB, 시간: 56 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 6월 16일 12:45:40
+2025년 6월 16일 12:45:48
 
 ### 문제 설명
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28114) 
 
+### 선택한 제출
+
+[제출 66079213](https://acmicpc.net/source/66079213) · Python 3 · 146 B · 팀명 정하기.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

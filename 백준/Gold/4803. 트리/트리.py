@@ -1,6 +1,3 @@
-import sys
-input=sys.stdin.readline
-
 def find(n):
     if p[n]!=n:
         p[n]=find(p[n])

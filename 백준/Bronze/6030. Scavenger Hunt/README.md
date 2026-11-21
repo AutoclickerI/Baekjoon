@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6030) 
 
+### 선택한 제출
+
+[제출 65340934](https://acmicpc.net/source/65340934) · Python 3 · 106 B · Scavenger Hunt.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 60 ms
+메모리: 31256 KB, 시간: 64 ms
 
 ### 분류
 

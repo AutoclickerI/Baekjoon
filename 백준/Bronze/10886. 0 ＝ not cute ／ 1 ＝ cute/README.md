@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10886) 
 
+### 선택한 제출
+
+[제출 40226616](https://acmicpc.net/source/40226616) · Python 3 · 115 B · 0 ＝ not cute ／ 1 ＝ cute.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 92 ms

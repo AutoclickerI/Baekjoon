@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10816) 
 
+### 선택한 제출
+
+[제출 49970116](https://acmicpc.net/source/49970116) · Python 3 · 94 B · 숫자 카드 2.py
+
 ### 성능 요약
 
-메모리: 126152 KB, 시간: 732 ms
+메모리: 125660 KB, 시간: 852 ms
 
 ### 분류
 

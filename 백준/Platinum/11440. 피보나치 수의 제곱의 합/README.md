@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11440) 
 
+### 선택한 제출
+
+[제출 40477097](https://acmicpc.net/source/40477097) · Python 3 · 314 B · 피보나치 수의 제곱의 합.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14579) 
 
+### 선택한 제출
+
+[제출 52243841](https://acmicpc.net/source/52243841) · Python 3 · 98 B · 덧셈과 곱셈.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

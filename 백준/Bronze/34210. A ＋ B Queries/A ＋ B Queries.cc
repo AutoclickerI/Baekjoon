@@ -1,14 +1,4 @@
-#include "aplusb.h"
-
-std::vector<int> Al;
-std::vector<int> Bl;
-
-void initialize(std::vector<int> A, std::vector<int> B) {
-  Al = A;
-  Bl = B;
-  return;
-}
-
-int answer_question(int i, int j) {
-  return Al[i]+Bl[j];
-}
+#include<vector>
+using T=std::vector<int>;
+T a,b;
+void initialize(T A,T B){a=A;b=B;}int answer_question(int i,int j){return a[i]+b[j];}

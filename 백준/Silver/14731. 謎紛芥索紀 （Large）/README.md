@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14731) 
 
+### 선택한 제출
+
+[제출 58300050](https://acmicpc.net/source/58300050) · Python 3 · 97 B · 謎紛芥索紀 （Large）.py
+
 ### 성능 요약
 
-메모리: 32036 KB, 시간: 4320 ms
+메모리: 32036 KB, 시간: 9152 ms
 
 ### 분류
 

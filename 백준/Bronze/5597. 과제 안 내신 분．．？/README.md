@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5597) 
 
+### 선택한 제출
+
+[제출 44347430](https://acmicpc.net/source/44347430) · Python 3 · 73 B · 과제 안 내신 분．．？.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

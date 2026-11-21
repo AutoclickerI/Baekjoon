@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17042) 
 
+### 선택한 제출
+
+[제출 63996669](https://acmicpc.net/source/63996669) · Python 3 · 91 B · Elder.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

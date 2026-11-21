@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15083) 
 
+### 선택한 제출
+
+[제출 59776607](https://acmicpc.net/source/59776607) · Python 3 · 238 B · Life Savings.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

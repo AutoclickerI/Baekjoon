@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5339) 
 
+### 선택한 제출
+
+[제출 40216590](https://acmicpc.net/source/40216590) · Python 3 · 136 B · 콜센터.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 64 ms

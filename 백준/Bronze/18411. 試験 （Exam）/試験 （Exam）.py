@@ -1,1 +1,1 @@
-print(sum(a:=list(map(int,input().split())))-min(a))
+print(sum(sorted(map(int,input().split()))[1:]))

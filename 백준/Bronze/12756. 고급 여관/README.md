@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/12756) 
 
+### 선택한 제출
+
+[제출 48900374](https://acmicpc.net/source/48900374) · Python 3 · 101 B · 고급 여관.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 68 ms
+메모리: 30840 KB, 시간: 76 ms
 
 ### 분류
 

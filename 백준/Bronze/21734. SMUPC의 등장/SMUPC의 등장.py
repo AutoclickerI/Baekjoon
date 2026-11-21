@@ -1,1 +1,1 @@
-for i in input():x=ord(i);print((x//100+x//10%10+x%10)*i)
+for i in input():print(i*sum(map(int,str(ord(i)))))

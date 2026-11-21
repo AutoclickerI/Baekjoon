@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10984) 
 
+### 선택한 제출
+
+[제출 46694696](https://acmicpc.net/source/46694696) · Python 3 · 147 B · 내 학점을 구해줘.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

@@ -1,2 +1,3 @@
-l=eval('input(),'*int(input()))
-print(max([1]+[min(len(i),len(j))for i,j in zip(l,l[1:])]))
+a,b=1,100
+exec('a,b=max(len(input()),min(a,b)),a;'*int(input()))
+print(min(a,b))

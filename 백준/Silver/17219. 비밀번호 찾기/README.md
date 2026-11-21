@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17219) 
 
+### 선택한 제출
+
+[제출 60363629](https://acmicpc.net/source/60363629) · Python 3 · 106 B · 비밀번호 찾기.py
+
 ### 성능 요약
 
-메모리: 50128 KB, 시간: 232 ms
+메모리: 50128 KB, 시간: 12832 ms
 
 ### 분류
 

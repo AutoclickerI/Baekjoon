@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10599) 
 
+### 선택한 제출
+
+[제출 53007682](https://acmicpc.net/source/53007682) · Python 3 · 65 B · 페르시아의 왕들.py
+
 ### 성능 요약
 
 메모리: 30616 KB, 시간: 32 ms

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5523) 
 
+### 선택한 제출
+
+[제출 46708102](https://acmicpc.net/source/46708102) · Python 3 · 126 B · 100점 · 경기 결과.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 72 ms
+메모리: 38652 KB, 시간: 1004 ms
 
 ### 분류
 

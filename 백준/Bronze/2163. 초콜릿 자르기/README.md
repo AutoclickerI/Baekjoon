@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2163) 
 
+### 선택한 제출
+
+[제출 40165923](https://acmicpc.net/source/40165923) · Python 3 · 47 B · 초콜릿 자르기.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 76 ms

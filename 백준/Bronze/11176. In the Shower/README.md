@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11176) 
 
+### 선택한 제출
+
+[제출 60691526](https://acmicpc.net/source/60691526) · Python 3 · 103 B · In the Shower.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

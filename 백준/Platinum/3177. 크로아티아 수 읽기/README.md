@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3177) 
 
+### 선택한 제출
+
+[제출 46076519](https://acmicpc.net/source/46076519) · Python 3 · 2741 B · 크로아티아 수 읽기.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

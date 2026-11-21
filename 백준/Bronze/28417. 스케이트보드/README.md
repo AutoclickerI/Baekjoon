@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28417) 
 
+### 선택한 제출
+
+[제출 66094809](https://acmicpc.net/source/66094809) · Python 3 · 92 B · 스케이트보드.py
+
 ### 성능 요약
 
-메모리: 41152 KB, 시간: 296 ms
+메모리: 102452 KB, 시간: 444 ms
 
 ### 분류
 

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10813) 
 
+### 선택한 제출
+
+[제출 59229843](https://acmicpc.net/source/59229843) · Python 3 · 104 B · 공 바꾸기.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 44 ms
+메모리: 31256 KB, 시간: 56 ms
 
 ### 분류
 

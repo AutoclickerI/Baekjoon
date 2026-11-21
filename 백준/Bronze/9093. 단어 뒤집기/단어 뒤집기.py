@@ -1,1 +1,1 @@
-exec('print(*[i[::-1]for i in input().split()]);'*int(input()))
+print(*[i[::-1]for i in open(0).read().split()[1:]])

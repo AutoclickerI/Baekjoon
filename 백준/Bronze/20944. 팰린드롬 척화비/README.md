@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20944) 
 
+### 선택한 제출
+
+[제출 47704913](https://acmicpc.net/source/47704913) · Python 3 · 23 B · 팰린드롬 척화비.py
+
 ### 성능 요약
 
 메모리: 32796 KB, 시간: 64 ms

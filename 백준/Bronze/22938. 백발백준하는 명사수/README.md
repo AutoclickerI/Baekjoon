@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/22938) 
 
+### 선택한 제출
+
+[제출 52150466](https://acmicpc.net/source/52150466) · Python 3 · 90 B · 백발백준하는 명사수.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

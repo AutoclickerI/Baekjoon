@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5300) 
 
+### 선택한 제출
+
+[제출 53309955](https://acmicpc.net/source/53309955) · Python 3 · 122 B · Fill the Rowboats！.py
+
 ### 성능 요약
 
 메모리: 30616 KB, 시간: 32 ms

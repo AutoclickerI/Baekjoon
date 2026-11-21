@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28280) 
 
+### 선택한 제출
+
+[제출 62540813](https://acmicpc.net/source/62540813) · Python 3 · 108 B · 귀납법.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 44 ms
+메모리: 31256 KB, 시간: 40 ms
 
 ### 분류
 

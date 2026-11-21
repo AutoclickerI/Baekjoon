@@ -16,12 +16,12 @@ def evaluate():
     for i in range(len(cc)):
         y,x=cc[i]
         c_t=b[y][x]
-        if c_t=='1':d=0,
-        if c_t=='2':d=0,2
-        if c_t=='3':d=0,1
-        if c_t=='4':d=0,1,2
-        if c_t=='5':d=0,1,2,3
-        for c in d:
+        if c_t=='1':d=()
+        if c_t=='2':d=2,
+        if c_t=='3':d=1,
+        if c_t=='4':d=1,2
+        if c_t=='5':d=1,2,3
+        for c in 0,*d:
             dy,dx=[(-1,0),(0,1),(1,0),(0,-1)][c+rot[i]&3]
             traverse(y,x,dy,dx)
     return sum(j=='0'for i in tes for j in i)

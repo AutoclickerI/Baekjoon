@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24348) 
 
+### 선택한 제출
+
+[제출 60123219](https://acmicpc.net/source/60123219) · Python 3 · 60 B · ИЗРАЗ.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

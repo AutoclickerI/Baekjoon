@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1987) 
 
+### 선택한 제출
+
+[제출 48582627](https://acmicpc.net/source/48582627) · PyPy3 · 280 B · 알파벳.py
+
 ### 성능 요약
 
-메모리: 169052 KB, 시간: 4988 ms
+메모리: 164692 KB, 시간: 4924 ms
 
 ### 분류
 

@@ -1,2 +1,2 @@
-N,*l=map(int,open(0).read().split())
-print(sorted(l)[~-N//2])
+n,l=open(0)
+print(sorted(l.split(),key=int)[~int(n)//2])

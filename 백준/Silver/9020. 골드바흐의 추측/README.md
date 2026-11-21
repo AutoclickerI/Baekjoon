@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9020) 
 
+### 선택한 제출
+
+[제출 40054250](https://acmicpc.net/source/40054250) · PyPy3 · 346 B · 골드바흐의 추측.py
+
 ### 성능 요약
 
 메모리: 128100 KB, 시간: 548 ms

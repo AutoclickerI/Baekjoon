@@ -1,24 +1,7 @@
-n=int(input())
-l=[input().replace(*'.0').replace(*'#1')for _ in[0]*5]
-num=[tuple(int(j[4*i:4*i+3],2)for j in l)for i in range(n)]
-d={0: (7, 5, 5, 5, 7),
- 1: (1, 1, 1, 1, 1),
- 2: (7, 1, 7, 4, 7),
- 3: (7, 1, 7, 1, 7),
- 4: (5, 5, 7, 1, 1),
- 5: (7, 4, 7, 1, 7),
- 6: (7, 4, 7, 5, 7),
- 7: (7, 1, 1, 1, 1),
- 8: (7, 5, 7, 5, 7),
- 9: (7, 5, 7, 1, 7)}
+n,*l=open(V:=0)
+d={0:(7,5,5,5,7),1:(1,1,1,1,1),2:(7,1,7,4,7),3:(7,1,7,1,7),4:(5,5,7,1,1),5:(7,4,7,1,7),6:(7,4,7,5,7),7:(7,1,1,1,1),8:(7,5,7,5,7),9:(7,5,7,1,7)}
+R=range
 try:
-    val=0
-    for i in num:
-        check=[all(i[k]|d[j][k]==d[j][k]for k in range(5))for j in range(10)]
-        assert any(check)
-        cnt=sum(check)
-        val*=10
-        val+=sum(i*check[i]for i in range(10))/cnt
-    print(val)
-except:
-    print(-1)
+    for i in[tuple(int(j.replace(*'.0').replace(*'#1')[4*i:4*i+3],2)for j in l)for i in R(int(n))]:assert any(C:=[all(i[k]|d[j][k]==d[j][k]for k in R(5))for j in R(10)]);V=10*V+sum(i*C[i]for i in R(10))/sum(C)
+    print(V)
+except:print(-1)

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9848) 
 
+### 선택한 제출
+
+[제출 65992884](https://acmicpc.net/source/65992884) · Python 3 · 81 B · Gift.py
+
 ### 성능 요약
 
-메모리: 17504 KB, 시간: 216 ms
+메모리: 31256 KB, 시간: 44 ms
 
 ### 분류
 

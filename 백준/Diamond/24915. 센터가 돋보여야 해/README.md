@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24915) 
 
+### 선택한 제출
+
+[제출 103108099](https://acmicpc.net/source/103108099) · C++20 · 1279 B · 100점 · 센터가 돋보여야 해.cc
+
 ### 성능 요약
 
 메모리: 28064 KB, 시간: 304 ms

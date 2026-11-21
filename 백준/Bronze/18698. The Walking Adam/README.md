@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18698) 
 
+### 선택한 제출
+
+[제출 47167394](https://acmicpc.net/source/47167394) · Python 3 · 55 B · The Walking Adam.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 76 ms
+메모리: 30840 KB, 시간: 84 ms
 
 ### 분류
 

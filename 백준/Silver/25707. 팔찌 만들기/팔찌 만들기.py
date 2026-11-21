@@ -1,2 +1,1 @@
-a,*_,b=sorted(map(int,[*open(0)][1].split()))
-print(b-a<<1)
+print(max(l:=[*map(int,[*open(0)][1].split())])-min(l)<<1)

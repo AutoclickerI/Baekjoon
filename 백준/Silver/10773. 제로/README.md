@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10773) 
 
+### 선택한 제출
+
+[제출 40185511](https://acmicpc.net/source/40185511) · Python 3 · 101 B · 제로.py
+
 ### 성능 요약
 
 메모리: 31640 KB, 시간: 4148 ms

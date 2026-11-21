@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2505) 
 
+### 선택한 제출
+
+[제출 40432770](https://acmicpc.net/source/40432770) · PyPy3 · 1251 B · 두 번 뒤집기.py
+
 ### 성능 요약
 
 메모리: 125628 KB, 시간: 120 ms

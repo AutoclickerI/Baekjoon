@@ -1,1 +1,1 @@
-print(input().split('.')[0])
+print('%d'%eval(input()))

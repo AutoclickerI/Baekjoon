@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6812) 
 
+### 선택한 제출
+
+[제출 64075476](https://acmicpc.net/source/64075476) · Python 3 · 261 B · Good times.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

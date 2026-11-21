@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23812) 
 
+### 선택한 제출
+
+[제출 59858411](https://acmicpc.net/source/59858411) · Python 3 · 66 B · 골뱅이 찍기 － 돌아간 ㅍ.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 44 ms
 
 ### 분류
 

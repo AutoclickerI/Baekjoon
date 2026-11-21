@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/29467) 
 
+### 선택한 제출
+
+[제출 65856959](https://acmicpc.net/source/65856959) · Python 3 · 49 B · Шифровка.py
+
 ### 성능 요약
 
-메모리: 240716 KB, 시간: 592 ms
+메모리: 31256 KB, 시간: 44 ms
 
 ### 분류
 

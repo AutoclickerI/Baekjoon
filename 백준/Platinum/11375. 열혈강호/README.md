@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11375) 
 
+### 선택한 제출
+
+[제출 101058388](https://acmicpc.net/source/101058388) · PyPy3 · 326 B · 열혈강호.py
+
 ### 성능 요약
 
-메모리: 130264 KB, 시간: 696 ms
+메모리: 125356 KB, 시간: 728 ms
 
 ### 분류
 

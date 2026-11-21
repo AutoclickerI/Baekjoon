@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2455) 
 
+### 선택한 제출
+
+[제출 40225639](https://acmicpc.net/source/40225639) · Python 3 · 109 B · 지능형 기차.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

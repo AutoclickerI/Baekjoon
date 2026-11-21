@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11722) 
 
+### 선택한 제출
+
+[제출 40602321](https://acmicpc.net/source/40602321) · Python 3 · 160 B · 가장 긴 감소하는 부분 수열.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 124 ms

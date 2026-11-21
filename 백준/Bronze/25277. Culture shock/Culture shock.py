@@ -1,2 +1,1 @@
-f=open(0).read().split().count
-print(sum(map(f,['he','she','him','her'])))
+print(sum(map([*open(0)][1].split().count,['he','she','him','her'])))

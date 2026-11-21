@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1012) 
 
+### 선택한 제출
+
+[제출 56306509](https://acmicpc.net/source/56306509) · Python 3 · 595 B · 유기농 배추.py
+
 ### 성능 요약
 
 메모리: 32756 KB, 시간: 328 ms

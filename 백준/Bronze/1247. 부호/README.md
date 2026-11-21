@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1247) 
 
+### 선택한 제출
+
+[제출 46708846](https://acmicpc.net/source/46708846) · Python 3 · 132 B · 부호.py
+
 ### 성능 요약
 
 메모리: 31620 KB, 시간: 204 ms

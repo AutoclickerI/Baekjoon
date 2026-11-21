@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5694) 
 
+### 선택한 제출
+
+[제출 46948705](https://acmicpc.net/source/46948705) · Python 3 · 259 B · Bingo！.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 3104 ms

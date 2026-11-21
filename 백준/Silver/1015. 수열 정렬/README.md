@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1015) 
 
+### 선택한 제출
+
+[제출 57834042](https://acmicpc.net/source/57834042) · Python 3 · 122 B · 수열 정렬.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 68 ms

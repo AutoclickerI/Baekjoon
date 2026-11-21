@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11736) 
 
+### 선택한 제출
+
+[제출 52488293](https://acmicpc.net/source/52488293) · Python 3 · 149 B · Binary vs Decimal.py
+
 ### 성능 요약
 
 메모리: 35584 KB, 시간: 96 ms

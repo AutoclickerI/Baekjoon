@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4101) 
 
+### 선택한 제출
+
+[제출 44497451](https://acmicpc.net/source/44497451) · Python 3 · 68 B · 크냐？.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 76 ms
+메모리: 30840 KB, 시간: 80 ms
 
 ### 분류
 

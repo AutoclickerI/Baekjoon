@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7947) 
 
+### 선택한 제출
+
+[제출 64279513](https://acmicpc.net/source/64279513) · Python 3 · 104 B · Koncert.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 80 ms

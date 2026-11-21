@@ -1,3 +1,1 @@
-for i in open(0):
-    p,q=map(eval,i.split())
-    print(round((p*(q+.16)/.067)**.5))
+for i in open(0):print(round(eval(i.replace(' ','*(')+'+.16)/.067')**.5))

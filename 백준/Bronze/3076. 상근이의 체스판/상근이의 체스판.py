@@ -1,2 +1,2 @@
-r,c,a,b=map(int,open(0).read().split())
-for i in range(r*a):print(''.join('X.'[j//b-i//a&1]for j in range(c*b)))
+r,c,a,b=map(int,open(i:=0).read().split())
+while i-r*a:print(''.join(b*'X.'[j+i//a&1]for j in range(c)));i+=1

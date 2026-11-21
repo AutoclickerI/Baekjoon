@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6463) 
 
+### 선택한 제출
+
+[제출 65736906](https://acmicpc.net/source/65736906) · Python 3 · 95 B · 팩트.py
+
 ### 성능 요약
 
 메모리: 33376 KB, 시간: 92 ms

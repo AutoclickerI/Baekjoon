@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3066) 
 
+### 선택한 제출
+
+[제출 41967326](https://acmicpc.net/source/41967326) · PyPy3 · 225 B · 브리징 시그널.py
+
 ### 성능 요약
 
-메모리: 125200 KB, 시간: 320 ms
+메모리: 125200 KB, 시간: 368 ms
 
 ### 분류
 

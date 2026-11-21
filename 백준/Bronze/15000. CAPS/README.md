@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15000) 
 
+### 선택한 제출
+
+[제출 46161380](https://acmicpc.net/source/46161380) · Python 3 · 22 B · CAPS.py
+
 ### 성능 요약
 
 메모리: 32796 KB, 시간: 76 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1313) 
 
+### 선택한 제출
+
+[제출 67520259](https://acmicpc.net/source/67520259) · PyPy3 · 389 B · 합성소수.py
+
 ### 성능 요약
 
 메모리: 122668 KB, 시간: 212 ms

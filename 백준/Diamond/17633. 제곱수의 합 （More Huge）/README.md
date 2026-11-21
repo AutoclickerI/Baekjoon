@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17633) 
 
+### 선택한 제출
+
+[제출 56443907](https://acmicpc.net/source/56443907) · Python 3 · 825 B · 제곱수의 합 （More Huge）.py
+
 ### 성능 요약
 
-메모리: 39904 KB, 시간: 104 ms
+메모리: 39904 KB, 시간: 120 ms
 
 ### 분류
 

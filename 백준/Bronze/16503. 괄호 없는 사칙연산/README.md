@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16503) 
 
+### 선택한 제출
+
+[제출 60405332](https://acmicpc.net/source/60405332) · Python 3 · 292 B · 괄호 없는 사칙연산.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

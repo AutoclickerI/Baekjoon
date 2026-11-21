@@ -1,2 +1,1 @@
-input()
-print(sum(int(i)*(i==i[::-1])for i in input().split()))
+print(sum(int(i)*(i==i[::-1])for i in[*open(0)][1].split()))

@@ -1,1 +1,1 @@
-print(max(open(0),key=lambda x:-int([*x.split(),1e9][1])))
+print(min(open(0),key=lambda x:int([*x.split(),1e9][1])))

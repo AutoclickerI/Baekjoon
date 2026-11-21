@@ -1,4 +1,3 @@
-n,*l=map(int,open(0).read().split())
-a=[0,0]
-for i in l:a+=i-sum(a[-2:]),
+a=0,0
+for i in[*open(0)][1].split():a+=int(i)-sum(a[-2:]),
 print(*a)

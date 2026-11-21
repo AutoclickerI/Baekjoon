@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2887) 
 
+### 선택한 제출
+
+[제출 48604035](https://acmicpc.net/source/48604035) · PyPy3 · 336 B · 행성 터널.py
+
 ### 성능 요약
 
 메모리: 196000 KB, 시간: 1400 ms

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10865) 
 
+### 선택한 제출
+
+[제출 52309463](https://acmicpc.net/source/52309463) · Python 3 · 107 B · 친구 친구.py
+
 ### 성능 요약
 
-메모리: 95404 KB, 시간: 1008 ms
+메모리: 94948 KB, 시간: 1024 ms
 
 ### 분류
 

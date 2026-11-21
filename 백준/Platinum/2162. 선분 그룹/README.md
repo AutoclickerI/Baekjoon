@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2162) 
 
+### 선택한 제출
+
+[제출 55255381](https://acmicpc.net/source/55255381) · PyPy3 · 945 B · 선분 그룹.py
+
 ### 성능 요약
 
-메모리: 141344 KB, 시간: 1632 ms
+메모리: 128312 KB, 시간: 4936 ms
 
 ### 분류
 

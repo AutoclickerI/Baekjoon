@@ -1,5 +1,3 @@
-a = int(input())
-b = int(input())
 c = []
 def l(n):
     if n == 1:
@@ -8,7 +6,7 @@ def l(n):
         if n % i == 0:
             return 0
     return n
-for i in range(a, b + 1):
+for i in range(int(input()), int(input()) + 1):
     if l(i) != 0:
         c.append(l(i))
 try:

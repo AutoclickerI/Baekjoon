@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9160) 
 
+### 선택한 제출
+
+[제출 85129398](https://acmicpc.net/source/85129398) · Python 3 · 92 B · The Brave Sir Robin’s cAsE cOrReCtOr.py
+
 ### 성능 요약
 
-메모리: 31120 KB, 시간: 36 ms
+메모리: 31120 KB, 시간: 28 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 13일 02:23:14
+2024년 10월 13일 02:24:23
 
 ### 문제 설명
 

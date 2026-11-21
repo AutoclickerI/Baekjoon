@@ -1,4 +1,4 @@
 p,q=map(int,input().split())
-a=p
-while p:a+=(p:=p//q)
+a=0
+while p:a+=p;p//=q
 print(a)

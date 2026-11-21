@@ -1,2 +1,3 @@
-n,*l=open(i:=0).read().split()
-exec('i+=1;p,q,*l=l;print(f"Case {i}: {q},",p);'*int(n))
+I=input
+i=0
+exec('i+=1;p=I();print(f"Case {i}: {I()},",p);'*int(I()))

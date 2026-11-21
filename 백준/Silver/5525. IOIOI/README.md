@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5525) 
 
+### 선택한 제출
+
+[제출 58718834](https://acmicpc.net/source/58718834) · Python 3 · 94 B · 100점 · IOIOI.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 67292 KB, 시간: 636 ms
 
 ### 분류
 

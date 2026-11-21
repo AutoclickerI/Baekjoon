@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5373) 
 
+### 선택한 제출
+
+[제출 54846278](https://acmicpc.net/source/54846278) · Python 3 · 2543 B · 큐빙.py
+
 ### 성능 요약
 
 메모리: 30820 KB, 시간: 136 ms

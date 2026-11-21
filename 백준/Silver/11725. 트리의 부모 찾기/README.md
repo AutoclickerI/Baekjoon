@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11725) 
 
+### 선택한 제출
+
+[제출 56338538](https://acmicpc.net/source/56338538) · Python 3 · 321 B · 트리의 부모 찾기.py
+
 ### 성능 요약
 
 메모리: 69208 KB, 시간: 352 ms

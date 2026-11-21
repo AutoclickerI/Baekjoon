@@ -1,5 +1,3 @@
-n=int(input())
-l=[*map(int,input().split())][::-1]
-p=[0]
-exec('p+=max(i+j for i,j in zip(p,l[-len(p):])),;'*n)
-print(p[-1])
+b,*c=[0],
+for i in[*open(0)][1].split():c+=int(i),;b=max(map(sum,zip(b,c))),*b
+print(b[0])

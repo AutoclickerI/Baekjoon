@@ -1,4 +1,1 @@
-x=y=0
-s={(0,0)}
-for c in[*open(0)][1]:x+=(c=='E')-(c=='W');y+=(c=='S')-(c=='N');s|={(x,y)}
-print(len(s))
+print(len({v:=0}|{v:=v+((c==69)-c//87)*2e4+(c==83)-(c==78)for c in[*open(0,'rb')][1]}))

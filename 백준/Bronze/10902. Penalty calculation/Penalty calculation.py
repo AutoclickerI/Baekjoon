@@ -1,3 +1,2 @@
-_,*L=map(int,open(0).read().split())
-S=L[1::2]
-print((S[i:=S.index(max(S))]>0)*(L[::2][i]+20*i))
+n,*L=map(int,open(0).read().split())
+print((m:=max(s:=L[1::2]))and L[::2][i:=s.index(m)]+20*i)

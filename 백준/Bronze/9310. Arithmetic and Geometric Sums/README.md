@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9310) 
 
+### 선택한 제출
+
+[제출 65880282](https://acmicpc.net/source/65880282) · Python 3 · 118 B · Arithmetic and Geometric Sums.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 44 ms
+메모리: 31256 KB, 시간: 64 ms
 
 ### 분류
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15080) 
 
+### 선택한 제출
+
+[제출 40331208](https://acmicpc.net/source/40331208) · Python 3 · 159 B · Every Second Counts.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10406) 
 
+### 선택한 제출
+
+[제출 66110491](https://acmicpc.net/source/66110491) · Python 3 · 71 B · The fellowship of the ring.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 48 ms

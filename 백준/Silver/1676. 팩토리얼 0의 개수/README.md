@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1676) 
 
+### 선택한 제출
+
+[제출 40199890](https://acmicpc.net/source/40199890) · Python 3 · 86 B · 팩토리얼 0의 개수.py
+
 ### 성능 요약
 
 메모리: 32976 KB, 시간: 68 ms

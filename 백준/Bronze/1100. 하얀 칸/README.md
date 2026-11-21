@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1100) 
 
+### 선택한 제출
+
+[제출 40267804](https://acmicpc.net/source/40267804) · Python 3 · 137 B · 하얀 칸.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 76 ms

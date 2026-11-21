@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4714) 
 
+### 선택한 제출
+
+[제출 47955465](https://acmicpc.net/source/47955465) · Python 3 · 107 B · Lunacy.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 68 ms
+메모리: 30840 KB, 시간: 88 ms
 
 ### 분류
 

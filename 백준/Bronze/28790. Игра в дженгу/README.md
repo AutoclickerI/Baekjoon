@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28790) 
 
+### 선택한 제출
+
+[제출 65818189](https://acmicpc.net/source/65818189) · Python 3 · 40 B · Игра в дженгу.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

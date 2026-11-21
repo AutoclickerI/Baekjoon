@@ -25,6 +25,5 @@ def area(s,e):
 p,*l=map(int,open(0))
 tree=4*len(l)*[-1]
 build(0,len(l)-1,1)
-tree[-1]=len(l)
 l+=[2e9]
 print(area(0,len(l)-2))

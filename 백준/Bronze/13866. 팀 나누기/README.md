@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13866) 
 
+### 선택한 제출
+
+[제출 41954970](https://acmicpc.net/source/41954970) · Python 3 · 83 B · 팀 나누기.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1105) 
 
+### 선택한 제출
+
+[제출 59672852](https://acmicpc.net/source/59672852) · Python 3 · 96 B · 팔.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

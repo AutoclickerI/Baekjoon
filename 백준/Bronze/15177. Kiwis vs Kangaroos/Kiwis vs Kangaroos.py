@@ -1,4 +1,3 @@
-*l,=map(input().lower().count,'aagknoorbdiiikrw')
-A=sum(l[:8])
-B=sum(l)-A
-print(['Feud continues','Kiwis','Kangaroos'][(A<B)-(A>B)])
+*l,=map(input().lower().count,'aagnoobdiiiw')
+f=sum(l)-sum(l[:6])*2
+print(['Feud continues','Kiwis','Kangaroos'][(0<f)-(0>f)])

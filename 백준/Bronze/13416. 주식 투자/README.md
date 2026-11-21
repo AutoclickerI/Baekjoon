@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13416) 
 
+### 선택한 제출
+
+[제출 48112027](https://acmicpc.net/source/48112027) · Python 3 · 79 B · 주식 투자.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 2532 ms
+메모리: 36624 KB, 시간: 3544 ms
 
 ### 분류
 

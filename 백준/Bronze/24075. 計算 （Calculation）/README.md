@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24075) 
 
+### 선택한 제출
+
+[제출 44850019](https://acmicpc.net/source/44850019) · Python 3 · 60 B · 計算 （Calculation）.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

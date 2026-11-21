@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13458) 
 
+### 선택한 제출
+
+[제출 40225389](https://acmicpc.net/source/40225389) · Python 3 · 171 B · 시험 감독.py
+
 ### 성능 요약
 
 메모리: 149440 KB, 시간: 712 ms

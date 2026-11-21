@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16134) 
 
+### 선택한 제출
+
+[제출 47697518](https://acmicpc.net/source/47697518) · Python 3 · 207 B · 100점 · 조합 （Combination）.py
+
 ### 성능 요약
 
-메모리: 32952 KB, 시간: 76 ms
+메모리: 30840 KB, 시간: 324 ms
 
 ### 분류
 

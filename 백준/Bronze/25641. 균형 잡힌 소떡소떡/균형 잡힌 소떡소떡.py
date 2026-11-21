@@ -1,2 +1,3 @@
 p,q=open(0)
-while 1:f=q.count;f('s')-f('t')or exit(print(q));q=q[1:]
+while(f:=q.count)('s')-f('t'):q=q[1:]
+print(q)

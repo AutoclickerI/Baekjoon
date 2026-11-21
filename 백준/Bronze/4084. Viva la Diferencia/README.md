@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4084) 
 
+### 선택한 제출
+
+[제출 51883454](https://acmicpc.net/source/51883454) · Python 3 · 182 B · Viva la Diferencia.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

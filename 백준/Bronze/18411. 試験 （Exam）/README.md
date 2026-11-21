@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18411) 
 
+### 선택한 제출
+
+[제출 43529042](https://acmicpc.net/source/43529042) · Python 3 · 48 B · 試験 （Exam）.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 68 ms
+메모리: 30840 KB, 시간: 72 ms
 
 ### 분류
 

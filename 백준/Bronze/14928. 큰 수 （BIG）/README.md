@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14928) 
 
+### 선택한 제출
+
+[제출 40218269](https://acmicpc.net/source/40218269) · Python 3 · 28 B · 큰 수 （BIG）.py
+
 ### 성능 요약
 
 메모리: 32816 KB, 시간: 6088 ms

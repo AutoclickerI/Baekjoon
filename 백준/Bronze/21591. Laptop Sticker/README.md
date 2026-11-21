@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21591) 
 
+### 선택한 제출
+
+[제출 44680939](https://acmicpc.net/source/44680939) · Python 3 · 55 B · Laptop Sticker.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14535) 
 
+### 선택한 제출
+
+[제출 64224675](https://acmicpc.net/source/64224675) · Python 3 · 207 B · Birthday Graph.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 52 ms
 
 ### 분류
 

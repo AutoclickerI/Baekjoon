@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13319) 
 
+### 선택한 제출
+
+[제출 46334060](https://acmicpc.net/source/46334060) · Text · 17 B · 가짜 소수.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

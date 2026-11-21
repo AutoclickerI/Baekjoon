@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15340) 
 
+### 선택한 제출
+
+[제출 66080649](https://acmicpc.net/source/66080649) · Python 3 · 82 B · Sim Card.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

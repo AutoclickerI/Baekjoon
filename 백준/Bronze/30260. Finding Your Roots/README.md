@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/30260) 
 
+### 선택한 제출
+
+[제출 67379255](https://acmicpc.net/source/67379255) · Python 3 · 207 B · Finding Your Roots.py
+
 ### 성능 요약
 
 메모리: 32276 KB, 시간: 84 ms

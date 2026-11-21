@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/29684) 
 
+### 선택한 제출
+
+[제출 66045242](https://acmicpc.net/source/66045242) · Python 3 · 85 B · Which Team Should Receive the Sponsor Prize？.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

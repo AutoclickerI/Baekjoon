@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6721) 
 
+### 선택한 제출
+
+[제출 64299267](https://acmicpc.net/source/64299267) · Python 3 · 74 B · Backward numbers.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

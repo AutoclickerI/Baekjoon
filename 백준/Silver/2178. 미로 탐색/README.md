@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2178) 
 
+### 선택한 제출
+
+[제출 60363537](https://acmicpc.net/source/60363537) · Python 3 · 506 B · 미로 탐색.py
+
 ### 성능 요약
 
 메모리: 34168 KB, 시간: 92 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8721) 
 
+### 선택한 제출
+
+[제출 61172516](https://acmicpc.net/source/61172516) · Python 3 · 71 B · Wykreślanka.py
+
 ### 성능 요약
 
 메모리: 150704 KB, 시간: 396 ms

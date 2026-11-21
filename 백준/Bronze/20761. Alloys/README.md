@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20761) 
 
+### 선택한 제출
+
+[제출 46760323](https://acmicpc.net/source/46760323) · Python 3 · 33 B · Alloys.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15733) 
 
+### 선택한 제출
+
+[제출 40218623](https://acmicpc.net/source/40218623) · Python 3 · 17 B · 나는 누구인가.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

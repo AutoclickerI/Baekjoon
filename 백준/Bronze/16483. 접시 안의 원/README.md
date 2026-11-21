@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16483) 
 
+### 선택한 제출
+
+[제출 48356179](https://acmicpc.net/source/48356179) · Python 3 · 31 B · 접시 안의 원.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

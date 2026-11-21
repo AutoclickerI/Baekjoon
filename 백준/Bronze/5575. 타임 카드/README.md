@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5575) 
 
+### 선택한 제출
+
+[제출 40447155](https://acmicpc.net/source/40447155) · Python 3 · 162 B · 타임 카드.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

@@ -1,1 +1,1 @@
-print(sum((i//10)**(i%10)for i in[*map(int,open(0))][1:]))
+print(sum(eval(i[:-2]+'**'+i[-2])for i in[*open(0)][1:]))

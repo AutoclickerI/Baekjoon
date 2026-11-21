@@ -87,7 +87,7 @@ def ungroup(arr,chunk):
             i//=N
     return t
 
-chunk=32
+chunk=3
 s1=[ord(i)-33 for i in s1][::-1]
 s1=group(s1,chunk)
 s2=[ord(i)-33 for i in s2][::-1]

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2023) 
 
+### 선택한 제출
+
+[제출 60363879](https://acmicpc.net/source/60363879) · Python 3 · 308 B · 신기한 소수.py
+
 ### 성능 요약
 
 메모리: 34104 KB, 시간: 64 ms

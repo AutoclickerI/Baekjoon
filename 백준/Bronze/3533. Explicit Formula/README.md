@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3533) 
 
+### 선택한 제출
+
+[제출 65859294](https://acmicpc.net/source/65859294) · Python 3 · 32 B · Explicit Formula.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 44 ms
+메모리: 31388 KB, 시간: 44 ms
 
 ### 분류
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15700) 
 
+### 선택한 제출
+
+[제출 42120841](https://acmicpc.net/source/42120841) · Python 3 · 40 B · 타일 채우기 4.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

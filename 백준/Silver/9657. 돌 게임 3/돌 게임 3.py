@@ -1,1 +1,1 @@
-print('SCKY'[int(input())%7|2==2::2])
+print('SCKY'[int(input())%7&5<1::2])

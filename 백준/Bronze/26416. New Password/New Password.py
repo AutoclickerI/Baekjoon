@@ -1,12 +1,4 @@
-for i in range(int(input())):
-    input()
-    S=input()
-    if 1-any(i.isupper()for i in S):
-        S+='A'
-    if 1-any(i.islower()for i in S):
-        S+='a'
-    if 1-any(i.isdigit()for i in S):
-        S+='1'
-    if not{*S}&{*'#@*&'}:
-        S+='#'
-    print(f'Case #{i+1}:',(S+'1'*6)[:max(len(S),7)])
+from string import*
+i=0
+I=input
+exec("i+=1;I();s=I()\nfor K in'#@*&',ascii_uppercase,ascii_lowercase,digits:s+=K[any(map(s.count,K)):1]\nprint(f'Case #{i}:',s+'_'*(7-len(s)));"*int(I()))

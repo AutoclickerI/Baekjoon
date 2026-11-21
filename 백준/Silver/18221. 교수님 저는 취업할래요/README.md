@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18221) 
 
+### 선택한 제출
+
+[제출 65913160](https://acmicpc.net/source/65913160) · Python 3 · 190 B · 교수님 저는 취업할래요.py
+
 ### 성능 요약
 
-메모리: 49644 KB, 시간: 176 ms
+메모리: 49644 KB, 시간: 180 ms
 
 ### 분류
 

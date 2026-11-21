@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13221) 
 
+### 선택한 제출
+
+[제출 66073740](https://acmicpc.net/source/66073740) · Python 3 · 100 B · Manhattan.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

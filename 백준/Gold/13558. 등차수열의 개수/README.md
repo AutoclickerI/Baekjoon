@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13558) 
 
+### 선택한 제출
+
+[제출 61311852](https://acmicpc.net/source/61311852) · PyPy3 · 272 B · 등차수열의 개수.py
+
 ### 성능 요약
 
 메모리: 130064 KB, 시간: 4428 ms

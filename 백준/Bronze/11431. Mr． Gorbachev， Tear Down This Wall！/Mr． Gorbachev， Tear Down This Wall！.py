@@ -1,10 +1,2 @@
-g=lambda:[*map(int,input().split())]
-for T in range(int(input())):
-    n, s, p = g()  
-    ans = 0
-    points = [g() for _ in range(n+1)]
-    for i in range(n):
-        x, y = points[i]
-        a, b = points[i+1]
-        ans += abs(x - a) + abs(y-b)
-    print(f'Data Set {T+1}:\n{0-ans*s//-p}\n')
+f=lambda:[*map(int,input().split())]
+for T in range(f()[0]):n,s,p=f();l=eval('f(),'*(n+1));print(f'Data Set {T+1}:\n{0-sum(abs(x-a)+abs(y-b)for(x,y),(a,b)in zip(l,l[1:]))*s//-p}\n')

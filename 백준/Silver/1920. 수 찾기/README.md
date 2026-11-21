@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1920) 
 
+### 선택한 제출
+
+[제출 46437550](https://acmicpc.net/source/46437550) · Python 3 · 147 B · 수 찾기.py
+
 ### 성능 요약
 
-메모리: 48536 KB, 시간: 280 ms
+메모리: 49168 KB, 시간: 272 ms
 
 ### 분류
 

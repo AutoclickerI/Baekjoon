@@ -1,1 +1,1 @@
-for s in open(0):print(''.join(chr(int(s[i:i+2],16))for i in range(0,len(s)-1,2)))
+for i in open(0):print(bytearray.fromhex(i).decode())

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24060) 
 
+### 선택한 제출
+
+[제출 49737331](https://acmicpc.net/source/49737331) · PyPy3 · 396 B · 알고리즘 수업 － 병합 정렬 1.py
+
 ### 성능 요약
 
-메모리: 210316 KB, 시간: 516 ms
+메모리: 210316 KB, 시간: 532 ms
 
 ### 분류
 

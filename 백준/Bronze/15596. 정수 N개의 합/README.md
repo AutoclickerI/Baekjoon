@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15596) 
 
+### 선택한 제출
+
+[제출 39301327](https://acmicpc.net/source/39301327) · Python 3 · 9 B · 정수 N개의 합.py
+
 ### 성능 요약
 
-메모리: 383960 KB, 시간: 68 ms
+메모리: 383960 KB, 시간: 72 ms
 
 ### 분류
 

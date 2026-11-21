@@ -2,7 +2,6 @@ p,q=map(int,input().split())
 l=(U:=['@'*(q+2)])+['@'+input()+'@'for _ in[0]*p]+U
 V=[0]+[1]*26
 V[ord(l[1][1])-64]=0
-m=0
 s=1
 c=[0]
 def X(x,y,C):

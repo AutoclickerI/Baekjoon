@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28373) 
 
+### 선택한 제출
+
+[제출 63829352](https://acmicpc.net/source/63829352) · Python 3 · 98 B · Eszett.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 56 ms

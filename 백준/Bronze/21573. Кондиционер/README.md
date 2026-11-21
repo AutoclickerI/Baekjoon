@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21573) 
 
+### 선택한 제출
+
+[제출 59154811](https://acmicpc.net/source/59154811) · Python 3 · 100 B · Кондиционер.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20215) 
 
+### 선택한 제출
+
+[제출 44839197](https://acmicpc.net/source/44839197) · Python 3 · 53 B · Cutting Corners.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

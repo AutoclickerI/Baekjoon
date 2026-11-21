@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11568) 
 
+### 선택한 제출
+
+[제출 43758109](https://acmicpc.net/source/43758109) · Python 3 · 201 B · 민균이의 계략.py
+
 ### 성능 요약
 
 메모리: 32904 KB, 시간: 72 ms

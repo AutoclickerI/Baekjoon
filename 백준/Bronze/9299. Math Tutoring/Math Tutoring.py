@@ -1,3 +1,1 @@
-for i in range(int(input())):
-    n,*l=map(int,input().split())
-    print(f'Case {i+1}:',n-1,*[i*j for i,j in zip(l,range(n,0,-1))])
+for i in[*open(c:=0)][1:]:c+=1;n,*r=map(int,i.split());print(f"Case {c}:",n-1,*[(n-i)*r[i]for i in range(n)])

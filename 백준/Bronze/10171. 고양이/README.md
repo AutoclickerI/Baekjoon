@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10171) 
 
+### 선택한 제출
+
+[제출 78197363](https://acmicpc.net/source/78197363) · Text · 27 B · 고양이.txt
+
 ### 성능 요약
 
-메모리: 30860 KB, 시간: 64 ms
+메모리: 4528 KB, 시간: 0 ms
 
 ### 분류
 

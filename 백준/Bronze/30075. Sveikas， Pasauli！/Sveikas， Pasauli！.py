@@ -1,2 +1,1 @@
-for _ in[0]*int(input()):
-    print(*input().split()[1][1:-1].split('\\n'),sep='\n',end='')
+for i in[*open(0)][1:]:print(*i.split()[1][1:-1].split('\\n'),sep='\n',end='')

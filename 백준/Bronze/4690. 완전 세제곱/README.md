@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4690) 
 
+### 선택한 제출
+
+[제출 71017949](https://acmicpc.net/source/71017949) · PyPy3 · 132 B · 완전 세제곱.py
+
 ### 성능 요약
 
-메모리: 125152 KB, 시간: 152 ms
+메모리: 250464 KB, 시간: 2964 ms
 
 ### 분류
 

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18309) 
 
+### 선택한 제출
+
+[제출 60054959](https://acmicpc.net/source/60054959) · Python 3 · 76 B · Extreme Temperatures.py
+
 ### 성능 요약
 
-메모리: 34596 KB, 시간: 48 ms
+메모리: 34596 KB, 시간: 52 ms
 
 ### 분류
 

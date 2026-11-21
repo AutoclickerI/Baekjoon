@@ -1,5 +1,3 @@
-n=int(input())
-b=[]
-for i in input():b+=' '*i.isalpha()or i
-l=[*map(int,''.join(b).split())]
-print(*map(n.__mul__,l)if l else['N/A'])
+import re
+n,l=open(0)
+print(*[int(n)*int(i)for i in re.findall('\d+',l)]or['N/A'])

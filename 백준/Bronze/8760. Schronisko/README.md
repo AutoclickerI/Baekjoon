@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8760) 
 
+### 선택한 제출
+
+[제출 45790696](https://acmicpc.net/source/45790696) · Python 3 · 65 B · Schronisko.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

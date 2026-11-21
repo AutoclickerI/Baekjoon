@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20833) 
 
+### 선택한 제출
+
+[제출 45259289](https://acmicpc.net/source/45259289) · Python 3 · 48 B · Kuber.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

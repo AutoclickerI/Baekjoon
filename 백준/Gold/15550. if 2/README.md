@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15550) 
 
+### 선택한 제출
+
+[제출 47702342](https://acmicpc.net/source/47702342) · Text · 40 B · if 2.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15634) 
 
+### 선택한 제출
+
+[제출 41664401](https://acmicpc.net/source/41664401) · Python 3 · 1108 B · Glen.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 88 ms

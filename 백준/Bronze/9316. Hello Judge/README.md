@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9316) 
 
+### 선택한 제출
+
+[제출 46684148](https://acmicpc.net/source/46684148) · Python 3 · 64 B · Hello Judge.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

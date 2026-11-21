@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1436) 
 
+### 선택한 제출
+
+[제출 39688130](https://acmicpc.net/source/39688130) · Python 3 · 101 B · 영화감독 숌.py
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 840 ms
+메모리: 31256 KB, 시간: 824 ms
 
 ### 분류
 

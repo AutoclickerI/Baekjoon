@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7242) 
 
+### 선택한 제출
+
+[제출 67350096](https://acmicpc.net/source/67350096) · Python 3 · 194 B · Gyvūnai.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 80 ms

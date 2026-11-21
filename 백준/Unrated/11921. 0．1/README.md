@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11921) 
 
+### 선택한 제출
+
+[제출 72004375](https://acmicpc.net/source/72004375) · C++20 · 415 B · 5000000점 · 0．1.cc
+
 ### 성능 요약
 
 메모리: 49940 KB, 시간: 64 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24079) 
 
+### 선택한 제출
+
+[제출 44850435](https://acmicpc.net/source/44850435) · Python 3 · 54 B · 移動 （Moving）.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

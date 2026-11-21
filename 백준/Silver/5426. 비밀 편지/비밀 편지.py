@@ -1,7 +1,1 @@
-import math
-
-for i in[*open(0)][1:]:
-    i=i.strip()
-    n=math.isqrt(len(i))
-    for i in[*zip(*zip(*[iter(i)]*n))][::-1]:print(*i,sep='',end='')
-    print()
+for s in[*open(0)][1:]:n=int(len(s)**.5);print(''.join(s[i%n*n+n-i//n-1]for i in range(n*n)))

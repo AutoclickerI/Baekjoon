@@ -1,3 +1,2 @@
-a=int(input())
-m,n=sorted(map(int,input().split()))
-print(min(2*m/a,max(m,n/a)))
+b,n,m=map(int,open(0).read().split())
+print(min(min(n,m)/b*2,max(n,m)))

@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:print(int(eval(i.replace(*' *'))*.00176))
+for i in[*open(0)][1:]:print(eval(i.replace(*' *'))*11//6250)

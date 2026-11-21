@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21603) 
 
+### 선택한 제출
+
+[제출 48972125](https://acmicpc.net/source/48972125) · Python 3 · 93 B · 100점 · K 2K 게임.py
+
 ### 성능 요약
 
-메모리: 34204 KB, 시간: 112 ms
+메모리: 34828 KB, 시간: 112 ms
 
 ### 분류
 

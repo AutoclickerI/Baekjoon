@@ -1,4 +1,4 @@
-_,s=open(0)
-i=1
-while s.startswith(''.join(map(str,range(1,i+1)))):i+=1
+_,s=open(i:=0)
+t=''
+while s[:len(t)]==t:i+=1;t+=str(i)
 print(i)

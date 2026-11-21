@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1699) 
 
+### 선택한 제출
+
+[제출 57767499](https://acmicpc.net/source/57767499) · Python 3 · 825 B · 제곱수의 합.py
+
 ### 성능 요약
 
 메모리: 39904 KB, 시간: 56 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1654) 
 
+### 선택한 제출
+
+[제출 64786695](https://acmicpc.net/source/64786695) · PyPy3 · 114 B · 랜선 자르기.py
+
 ### 성능 요약
 
 메모리: 115908 KB, 시간: 152 ms

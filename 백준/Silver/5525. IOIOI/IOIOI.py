@@ -1,11 +1,3 @@
-s='I'+'OI'*int(input())
-input()
-l=input()
-i=0
-a=-1
-L=0
-while L+1:
-    L=l[i:].find(s)
-    i=i+L+1
-    a+=1
-print(a)
+import re
+n,_,s=open(0)
+print(sum(max(len(s)//2-int(n)+1,0)for s in re.findall('(?:IO)*I',s)))

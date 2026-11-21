@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18883) 
 
+### 선택한 제출
+
+[제출 48295194](https://acmicpc.net/source/48295194) · Python 3 · 76 B · N M 찍기.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 432 ms

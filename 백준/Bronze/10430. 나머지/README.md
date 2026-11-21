@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10430) 
 
+### 선택한 제출
+
+[제출 95663975](https://acmicpc.net/source/95663975) · Python 3 · 60 B · 나머지.py
+
 ### 성능 요약
 
-메모리: 30864 KB, 시간: 68 ms
+메모리: 32412 KB, 시간: 36 ms
 
 ### 분류
 

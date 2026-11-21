@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20268) 
 
+### 선택한 제출
+
+[제출 61265418](https://acmicpc.net/source/61265418) · Python 3 · 170 B · Keystroke.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 48 ms

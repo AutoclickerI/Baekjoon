@@ -1,1 +1,2 @@
-print(eval(input().replace(' ','**2+')+'**2')**.5)
+a,b=map(int,input().split())
+print((a*a+b*b)**.5)

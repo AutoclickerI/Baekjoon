@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/19796) 
 
+### 선택한 제출
+
+[제출 59372082](https://acmicpc.net/source/59372082) · Python 3 · 110 B · Реклама на заборе.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 64 ms
+메모리: 31256 KB, 시간: 68 ms
 
 ### 분류
 

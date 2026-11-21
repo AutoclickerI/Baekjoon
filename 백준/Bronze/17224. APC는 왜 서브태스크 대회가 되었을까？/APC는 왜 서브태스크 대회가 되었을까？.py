@@ -1,14 +1,2 @@
-N, L, K = map(int, input().split())
-
-score = 0
-under_L = 0
-for _ in range(N):
-    sub1, sub2 = map(int, input().split())
-    
-    if K and sub2 <= L:
-        score += 140;K -= 1
-    else:
-        under_L += (sub1 <= L)
-
-score += 100 * min(K, under_L)
-print(score)
+(_,L,K),*l=[map(int,i.split())for i in open(0)]
+print(-sum(sorted(5*(L<i)-7+2*(L<j)for i,j in l)[:K])*20)

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/7501) 
 
+### 선택한 제출
+
+[제출 55640892](https://acmicpc.net/source/55640892) · Python 3 · 559 B · Key.py
+
 ### 성능 요약
 
 메모리: 39612 KB, 시간: 56 ms

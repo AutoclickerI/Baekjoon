@@ -1,7 +1,6 @@
 M,N=map(int,input().split())
 d=[0]*10
 while M<=N:
- v=M
- while v:d[v%10]+=1;v//=10
+ for c in str(M):d[int(c)]+=1
  M+=1
 print(*d)

@@ -1,4 +1,2 @@
-input()
-*l,=map(int,input().split())
-p=l[0]
-print(max(j-(p:=p if i<j else j)for i,j in zip(l,l[1:])))
+p,*l=map(int,[*open(0)][1].split())
+print(max(j-(p:=[j,p][i<j])for i,j in zip([p,*l],l)))

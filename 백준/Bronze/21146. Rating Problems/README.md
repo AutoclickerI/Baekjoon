@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21146) 
 
+### 선택한 제출
+
+[제출 60722245](https://acmicpc.net/source/60722245) · Python 3 · 76 B · Rating Problems.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

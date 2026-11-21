@@ -1,2 +1,1 @@
-_,b,a=map(lambda x:sum(map(int,x.split())),open(0))
-print(a,b)
+print(*[eval(i.replace(*' +'))for i in open(0)][:0:-1])

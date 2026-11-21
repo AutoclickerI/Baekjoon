@@ -1,6 +1,3 @@
-import sys
-input=sys.stdin.readline
-
 s=[[4*[0]for _ in[0]*4]for _ in[0]*4]
 N,M=map(int,input().split())
 for _ in[0]*N:

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2393) 
 
+### 선택한 제출
+
+[제출 61457464](https://acmicpc.net/source/61457464) · Python 3 · 167 B · Rook.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

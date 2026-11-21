@@ -1,1 +1,2 @@
-print(sum(i*~i//-2for i in map(len,[*open(0)][1].replace(*'0 ').split())))
+input()
+print(sum(l*~l//-2for l in map(len,input().split('0'))))

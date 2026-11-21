@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9838) 
 
+### 선택한 제출
+
+[제출 65485158](https://acmicpc.net/source/65485158) · Python 3 · 67 B · XMAS.py
+
 ### 성능 요약
 
-메모리: 33644 KB, 시간: 64 ms
+메모리: 33472 KB, 시간: 68 ms
 
 ### 분류
 

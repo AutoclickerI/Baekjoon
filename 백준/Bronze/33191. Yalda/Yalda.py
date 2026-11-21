@@ -1,9 +1,2 @@
-v=0
-a,b,c,d=map(int,open(0))
-if a>=b:
-    v=1
-elif a>=c:
-    v=2
-elif a>=d:
-    v=3
-print(['Nothing','Watermelon','Pomegranates','Nuts'][v])
+b,w,p,n=map(int,open(0))
+print([[["Nothing","Nuts"][b>=n],"Pomegranates"][b>=p],"Watermelon"][b>=w])

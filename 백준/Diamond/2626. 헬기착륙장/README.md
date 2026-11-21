@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2626) 
 
+### 선택한 제출
+
+[제출 64307016](https://acmicpc.net/source/64307016) · PyPy3 · 953 B · 헬기착륙장.py
+
 ### 성능 요약
 
 메모리: 115440 KB, 시간: 568 ms

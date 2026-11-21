@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1476) 
 
+### 선택한 제출
+
+[제출 40224971](https://acmicpc.net/source/40224971) · Python 3 · 123 B · 날짜 계산.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 76 ms

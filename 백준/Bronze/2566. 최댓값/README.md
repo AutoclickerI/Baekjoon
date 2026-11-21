@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2566) 
 
+### 선택한 제출
+
+[제출 46703845](https://acmicpc.net/source/46703845) · Python 3 · 99 B · 최댓값.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

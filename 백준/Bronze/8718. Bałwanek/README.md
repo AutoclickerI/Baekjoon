@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8718) 
 
+### 선택한 제출
+
+[제출 40470469](https://acmicpc.net/source/40470469) · Python 3 · 117 B · Bałwanek.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 72 ms

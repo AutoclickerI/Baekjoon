@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14782) 
 
+### 선택한 제출
+
+[제출 63058126](https://acmicpc.net/source/63058126) · Python 3 · 57 B · Bedtime Reading， I.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 116 ms
+메모리: 31256 KB, 시간: 224 ms
 
 ### 분류
 

@@ -1,8 +1,1 @@
-for i in[*open(0)][1:]:
-    n,m=map(int,i.split())
-    if 1 in(n,m):
-        print('YES')
-    else:
-        c=abs(n-m)
-        print('YNEOS'[~c%2::2])
-    
+for i in[*open(0)][1:]:n,m=map(int,i.split());print('YNEOS'[1-min(n,m)and~abs(n-m)%2::2])

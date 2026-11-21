@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17388) 
 
+### 선택한 제출
+
+[제출 41515846](https://acmicpc.net/source/41515846) · Python 3 · 108 B · 와글와글 숭고한.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

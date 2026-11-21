@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16693) 
 
+### 선택한 제출
+
+[제출 43875415](https://acmicpc.net/source/43875415) · Python 3 · 146 B · Pizza Deal.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

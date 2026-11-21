@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2470) 
 
+### 선택한 제출
+
+[제출 48564731](https://acmicpc.net/source/48564731) · Python 3 · 295 B · 두 용액.py
+
 ### 성능 요약
 
-메모리: 42172 KB, 시간: 168 ms
+메모리: 42036 KB, 시간: 192 ms
 
 ### 분류
 

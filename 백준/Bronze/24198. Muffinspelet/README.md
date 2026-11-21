@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24198) 
 
+### 선택한 제출
+
+[제출 56021326](https://acmicpc.net/source/56021326) · Python 3 · 62 B · Muffinspelet.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 60 ms

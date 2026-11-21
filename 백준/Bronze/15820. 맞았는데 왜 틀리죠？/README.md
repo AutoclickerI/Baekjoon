@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15820) 
 
+### 선택한 제출
+
+[제출 47273182](https://acmicpc.net/source/47273182) · Python 3 · 153 B · 50점 · 맞았는데 왜 틀리죠？.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 76 ms
+메모리: 30840 KB, 시간: 80 ms
 
 ### 분류
 

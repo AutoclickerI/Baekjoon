@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28439) 
 
+### 선택한 제출
+
+[제출 64688692](https://acmicpc.net/source/64688692) · Python 3 · 492 B · 행렬 연산 （연산 찾기）.py
+
 ### 성능 요약
 
 메모리: 175196 KB, 시간: 1972 ms

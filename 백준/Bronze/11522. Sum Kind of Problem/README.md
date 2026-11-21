@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11522) 
 
+### 선택한 제출
+
+[제출 66088411](https://acmicpc.net/source/66088411) · Python 3 · 73 B · Sum Kind of Problem.py
+
 ### 성능 요약
 
-메모리: 32276 KB, 시간: 64 ms
+메모리: 32276 KB, 시간: 68 ms
 
 ### 분류
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14581) 
 
+### 선택한 제출
+
+[제출 44580112](https://acmicpc.net/source/44580112) · Python 3 · 53 B · 팬들에게 둘러싸인 홍준.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1197) 
 
+### 선택한 제출
+
+[제출 83504513](https://acmicpc.net/source/83504513) · Python 3 · 247 B · 최소 스패닝 트리.py
+
 ### 성능 요약
 
-메모리: 59836 KB, 시간: 388 ms
+메모리: 52444 KB, 시간: 2928 ms
 
 ### 분류
 

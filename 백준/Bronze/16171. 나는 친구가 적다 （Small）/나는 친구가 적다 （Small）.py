@@ -1,2 +1,3 @@
-s=''.join(i for i in input()if'@'<i<'{')
-print(+(input()in s))
+import re
+s,t=open(0)
+print(+(t in re.sub('\d','',s)))

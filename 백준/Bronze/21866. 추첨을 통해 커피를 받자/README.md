@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21866) 
 
+### 선택한 제출
+
+[제출 51764083](https://acmicpc.net/source/51764083) · Python 3 · 112 B · 추첨을 통해 커피를 받자.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 72 ms
+메모리: 30840 KB, 시간: 80 ms
 
 ### 분류
 

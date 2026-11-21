@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1016) 
 
+### 선택한 제출
+
+[제출 59293800](https://acmicpc.net/source/59293800) · Python 3 · 177 B · 제곱 ㄴㄴ 수.py
+
 ### 성능 요약
 
 메모리: 70812 KB, 시간: 1056 ms

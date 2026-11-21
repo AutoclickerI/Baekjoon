@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8464) 
 
+### 선택한 제출
+
+[제출 55536519](https://acmicpc.net/source/55536519) · Python 3 · 226 B · Non－Squarefree Numbers.py
+
 ### 성능 요약
 
-메모리: 57500 KB, 시간: 4916 ms
+메모리: 57500 KB, 시간: 7652 ms
 
 ### 분류
 

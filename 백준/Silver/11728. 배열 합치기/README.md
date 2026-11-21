@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11728) 
 
+### 선택한 제출
+
+[제출 58503408](https://acmicpc.net/source/58503408) · Python 3 · 56 B · 배열 합치기.py
+
 ### 성능 요약
 
-메모리: 423848 KB, 시간: 1060 ms
+메모리: 271096 KB, 시간: 1408 ms
 
 ### 분류
 

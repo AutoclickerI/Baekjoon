@@ -1,10 +1,7 @@
 for T in range(int(input())):
-    n=int(input())
-    m=-1
-    l=-1,*map(int,input().split()),-1
-    a=0
-    for i in range(1,n+1):
-        if l[i]>m:
-            m=l[i]
-            a+=l[i]>l[i+1]
+    input();m=-1;l=*map(int,input().split()),-1;a=0
+    for i,j in zip(l,l[1:]):
+        if i>m:
+            m=i
+            a+=i>j
     print(f'Case #{T+1}:',a)

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4880) 
 
+### 선택한 제출
+
+[제출 46717077](https://acmicpc.net/source/46717077) · Python 3 · 155 B · 다음수.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 104 ms

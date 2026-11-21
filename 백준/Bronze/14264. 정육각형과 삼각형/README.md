@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14264) 
 
+### 선택한 제출
+
+[제출 42709573](https://acmicpc.net/source/42709573) · Python 3 · 30 B · 정육각형과 삼각형.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

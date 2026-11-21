@@ -1,1 +1,1 @@
-print('bwlhaictke'[eval('+'.join(open(0).read().split()))%2::2])
+print('bwlhaictke'[sum(open(0,'rb').read())%2::2])

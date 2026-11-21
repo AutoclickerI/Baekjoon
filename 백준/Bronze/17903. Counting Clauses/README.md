@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17903) 
 
+### 선택한 제출
+
+[제출 44839768](https://acmicpc.net/source/44839768) · Python 3 · 84 B · Counting Clauses.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

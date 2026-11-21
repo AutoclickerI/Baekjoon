@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9158) 
 
+### 선택한 제출
+
+[제출 64322954](https://acmicpc.net/source/64322954) · PyPy3 · 1075 B · Super Star.py
+
 ### 성능 요약
 
 메모리: 116604 KB, 시간: 268 ms

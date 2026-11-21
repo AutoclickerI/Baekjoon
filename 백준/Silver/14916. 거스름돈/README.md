@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14916) 
 
+### 선택한 제출
+
+[제출 58414978](https://acmicpc.net/source/58414978) · Python 3 · 44 B · 거스름돈.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 56 ms
 
 ### 분류
 

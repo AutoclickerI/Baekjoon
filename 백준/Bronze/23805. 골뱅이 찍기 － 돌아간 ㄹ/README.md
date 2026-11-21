@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/23805) 
 
+### 선택한 제출
+
+[제출 60360779](https://acmicpc.net/source/60360779) · Python 3 · 85 B · 골뱅이 찍기 － 돌아간 ㄹ.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

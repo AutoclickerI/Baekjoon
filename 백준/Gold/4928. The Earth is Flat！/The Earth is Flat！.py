@@ -2,16 +2,16 @@ def H(s):
  a=''.join(s.split());i=0
  try:
   while a[-1-i].isdigit():i+=1
- except:return ''
- try:return ''.join(a[:-i])*int(a[-i:])
- except:return ''.join(a)
+ except:return''
+ try:return''.join(a[:-i])*int(a[-i:])
+ except:return''.join(a)
 while(l:=input().rstrip())[0]!='$':
  l=l[:-1].replace('(',"H('").replace(')',"')");stack=[]
  for i in l:
-  cache=[]
+  c=[]
   if i==')':
-   cache+=[i]
-   while(l:=stack.pop())!='H':cache+=[l]
-   stack+=[eval('H'+''.join(cache[::-1]))]
+   c+=[i]
+   while(l:=stack.pop())!='H':c+=[l]
+   stack+=[eval('H'+''.join(c[::-1]))]
   else:stack+=[i]
  print(''.join(stack).rstrip())

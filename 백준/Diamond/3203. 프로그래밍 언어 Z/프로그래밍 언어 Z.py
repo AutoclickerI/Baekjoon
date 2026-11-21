@@ -65,7 +65,7 @@ def parse(arr):
     return block
 
 ret=parse(s[1:])
-var=matmul([[0]*26+[1]],ret.multblock[0])
-for p,mult in zip(ret.printblock,ret.multblock[1:]):
-    print(p,'=',var[0][ord(p)-97])
+var=[[0]*26+[1]]
+for p,mult in zip(ret.printblock,ret.multblock):
     var=matmul(var,mult)
+    print(p,'=',var[0][ord(p)-97])

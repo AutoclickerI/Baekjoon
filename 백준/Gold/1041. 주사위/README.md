@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1041) 
 
+### 선택한 제출
+
+[제출 67208787](https://acmicpc.net/source/67208787) · Python 3 · 126 B · 주사위.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 68 ms
+메모리: 31388 KB, 시간: 44 ms
 
 ### 분류
 

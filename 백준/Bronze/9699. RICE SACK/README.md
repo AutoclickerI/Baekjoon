@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9699) 
 
+### 선택한 제출
+
+[제출 66094503](https://acmicpc.net/source/66094503) · Python 3 · 74 B · RICE SACK.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

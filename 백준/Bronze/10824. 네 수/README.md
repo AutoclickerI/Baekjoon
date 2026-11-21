@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10824) 
 
+### 선택한 제출
+
+[제출 45511442](https://acmicpc.net/source/45511442) · Python 3 · 48 B · 네 수.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 80 ms

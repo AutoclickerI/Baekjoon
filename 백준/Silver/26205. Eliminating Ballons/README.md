@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/26205) 
 
+### 선택한 제출
+
+[제출 61790911](https://acmicpc.net/source/61790911) · Python 3 · 146 B · Eliminating Ballons.py
+
 ### 성능 요약
 
 메모리: 113772 KB, 시간: 428 ms

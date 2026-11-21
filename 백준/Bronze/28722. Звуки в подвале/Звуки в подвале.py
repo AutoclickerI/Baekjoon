@@ -1,3 +1,2 @@
-s=input()
-if s[0]!=s[-1]:print('Win')
-else:print('Lose')
+p,*l,q=input()*2
+print('LWoisne'[p!=q::2])

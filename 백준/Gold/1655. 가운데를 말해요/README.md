@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1655) 
 
+### 선택한 제출
+
+[제출 63753242](https://acmicpc.net/source/63753242) · PyPy3 · 137 B · 가운데를 말해요.py
+
 ### 성능 요약
 
-메모리: 133072 KB, 시간: 372 ms
+메모리: 136372 KB, 시간: 460 ms
 
 ### 분류
 

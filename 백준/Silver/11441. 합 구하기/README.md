@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11441) 
 
+### 선택한 제출
+
+[제출 58535029](https://acmicpc.net/source/58535029) · Python 3 · 137 B · 합 구하기.py
+
 ### 성능 요약
 
 메모리: 49700 KB, 시간: 232 ms

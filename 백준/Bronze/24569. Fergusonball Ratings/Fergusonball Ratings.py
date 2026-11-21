@@ -1,4 +1,4 @@
-n=int(input())
+n,*l=map(int,open(0))
 a=0
-for _ in[0]*n:a+=int(input())*5-int(input())*3>40
+while l:p,q,*l=l;a+=p-q*3/5>8
 print(a,end='+'*(n==a))

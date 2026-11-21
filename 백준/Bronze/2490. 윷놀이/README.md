@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2490) 
 
+### 선택한 제출
+
+[제출 40210319](https://acmicpc.net/source/40210319) · Python 3 · 142 B · 윷놀이.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

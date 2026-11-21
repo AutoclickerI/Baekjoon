@@ -1,2 +1,2 @@
-n,*l=map(int,open(0).read().split())
-print(max(-~n//2-sum(i<2for i in l),0))
+n,l=open(0)
+print(max(0,-~int(n)//2-l.count('1')))

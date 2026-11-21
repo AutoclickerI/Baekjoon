@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15151) 
 
+### 선택한 제출
+
+[제출 64297627](https://acmicpc.net/source/64297627) · Python 3 · 54 B · Incomplete Book.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

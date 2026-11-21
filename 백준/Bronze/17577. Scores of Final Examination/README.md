@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17577) 
 
+### 선택한 제출
+
+[제출 78477021](https://acmicpc.net/source/78477021) · Python 3 · 95 B · Scores of Final Examination.py
+
 ### 성능 요약
 
-메모리: 34188 KB, 시간: 116 ms
+메모리: 34188 KB, 시간: 124 ms
 
 ### 분류
 
@@ -12,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 5월 17일 22:08:51
+2024년 5월 17일 22:09:25
 
 ### 문제 설명
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/19771) 
 
+### 선택한 제출
+
+[제출 60176189](https://acmicpc.net/source/60176189) · Python 3 · 24 B · Сапсан.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13311) 
 
+### 선택한 제출
+
+[제출 40679560](https://acmicpc.net/source/40679560) · Text · 2 B · 행운의 편지.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

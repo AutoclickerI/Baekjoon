@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28250) 
 
+### 선택한 제출
+
+[제출 62882744](https://acmicpc.net/source/62882744) · Python 3 · 69 B · 이브， 프시케 그리고 푸른 MEX의 아내.py
+
 ### 성능 요약
 
-메모리: 46976 KB, 시간: 60 ms
+메모리: 46260 KB, 시간: 100 ms
 
 ### 분류
 

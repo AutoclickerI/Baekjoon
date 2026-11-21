@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4806) 
 
+### 선택한 제출
+
+[제출 51912118](https://acmicpc.net/source/51912118) · Python 3 · 22 B · 줄 세기.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 64 ms
+메모리: 30840 KB, 시간: 68 ms
 
 ### 분류
 

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6780) 
 
+### 선택한 제출
+
+[제출 65994429](https://acmicpc.net/source/65994429) · Python 3 · 59 B · Sumac Sequences.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

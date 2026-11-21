@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9702) 
 
+### 선택한 제출
+
+[제출 53057918](https://acmicpc.net/source/53057918) · Python 3 · 389 B · LIS.py
+
 ### 성능 요약
 
 메모리: 32556 KB, 시간: 2704 ms

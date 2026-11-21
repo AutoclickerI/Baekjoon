@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3765) 
 
+### 선택한 제출
+
+[제출 51417689](https://acmicpc.net/source/51417689) · Python 3 · 21 B · Celebrity jeopardy.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 64 ms

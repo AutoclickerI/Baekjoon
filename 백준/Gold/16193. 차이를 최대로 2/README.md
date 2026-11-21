@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16193) 
 
+### 선택한 제출
+
+[제출 63353552](https://acmicpc.net/source/63353552) · PyPy3 · 743 B · 차이를 최대로 2.py
+
 ### 성능 요약
 
 메모리: 263248 KB, 시간: 884 ms

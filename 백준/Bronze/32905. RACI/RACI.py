@@ -1,1 +1,1 @@
-print('YNeos'[any(i.count('A')!=1for i in[*open(0)][1:])::2])
+print('YNeos'[any(~-i.count('A')for i in[*open(0)][1:])::2])

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28722) 
 
+### 선택한 제출
+
+[제출 65010260](https://acmicpc.net/source/65010260) · Python 3 · 42 B · Звуки в подвале.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 32816 KB, 시간: 44 ms
 
 ### 분류
 

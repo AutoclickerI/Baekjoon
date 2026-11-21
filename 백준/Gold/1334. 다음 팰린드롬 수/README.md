@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1334) 
 
+### 선택한 제출
+
+[제출 66089135](https://acmicpc.net/source/66089135) · Python 3 · 106 B · 다음 팰린드롬 수.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 64 ms
+메모리: 31256 KB, 시간: 48 ms
 
 ### 분류
 

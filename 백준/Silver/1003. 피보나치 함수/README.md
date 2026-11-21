@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1003) 
 
+### 선택한 제출
+
+[제출 39812513](https://acmicpc.net/source/39812513) · Python 3 · 192 B · 피보나치 함수.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

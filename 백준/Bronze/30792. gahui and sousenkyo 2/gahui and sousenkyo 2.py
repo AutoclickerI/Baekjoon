@@ -1,2 +1,2 @@
-_,(n,),l=[map(int,i.split())for i in open(0)]
-print(sum(n<i for i in l)+1)
+_,n,l=open(0)
+print(sum(int(n)<int(i)for i in l.split())+1)

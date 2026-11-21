@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1312) 
 
+### 선택한 제출
+
+[제출 58859528](https://acmicpc.net/source/58859528) · Python 3 · 51 B · 소수.py
+
 ### 성능 요약
 
 메모리: 32264 KB, 시간: 284 ms

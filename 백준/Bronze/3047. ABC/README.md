@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3047) 
 
+### 선택한 제출
+
+[제출 46692525](https://acmicpc.net/source/46692525) · Python 3 · 88 B · ABC.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

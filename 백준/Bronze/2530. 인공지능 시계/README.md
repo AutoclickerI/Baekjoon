@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2530) 
 
+### 선택한 제출
+
+[제출 40238307](https://acmicpc.net/source/40238307) · Python 3 · 101 B · 인공지능 시계.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

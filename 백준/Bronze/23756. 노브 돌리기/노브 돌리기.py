@@ -1,2 +1,2 @@
-_,*l=map(int,open(0))
-print(sum(min(x:=abs(s-t),360-x)for s,t in zip(l,l[1:])))
+_,i,*l=map(int,open(0))
+print(sum(min(a:=abs(i-(i:=j)),360-a)for j in l))

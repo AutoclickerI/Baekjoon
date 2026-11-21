@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/30216) 
 
+### 선택한 제출
+
+[제출 67291200](https://acmicpc.net/source/67291200) · Python 3 · 137 B · Increasing Sublist.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

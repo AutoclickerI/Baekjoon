@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24768) 
 
+### 선택한 제출
+
+[제출 63997072](https://acmicpc.net/source/63997072) · Python 3 · 201 B · Left Beehind.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 44 ms

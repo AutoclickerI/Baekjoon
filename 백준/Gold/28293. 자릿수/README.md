@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/28293) 
 
+### 선택한 제출
+
+[제출 63316756](https://acmicpc.net/source/63316756) · Python 3 · 70 B · 자릿수.py
+
 ### 성능 요약
 
-메모리: 33376 KB, 시간: 40 ms
+메모리: 33376 KB, 시간: 44 ms
 
 ### 분류
 

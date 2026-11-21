@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10102) 
 
+### 선택한 제출
+
+[제출 50381620](https://acmicpc.net/source/50381620) · Python 3 · 68 B · 개표.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

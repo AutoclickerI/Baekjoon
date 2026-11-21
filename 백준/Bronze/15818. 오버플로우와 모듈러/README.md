@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15818) 
 
+### 선택한 제출
+
+[제출 52547306](https://acmicpc.net/source/52547306) · Python 3 · 68 B · 오버플로우와 모듈러.py
+
 ### 성능 요약
 
 메모리: 30748 KB, 시간: 36 ms

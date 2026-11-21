@@ -7,4 +7,4 @@ def z(y,n):
  elif n%2:return x(z(y,n-1),y)
  else:return z(x(y,y),n//2)
 def x(a,b):return[[sum([a[i][k]*b[k][j]for k in h])%(10**9+7) for j in range(len(b[0]))]for i in h]
-print(1 if n<3 else x(z(y,n-2),u)[0][0])
+print(0 if n==0 else 1 if n<3 else x(z(y,n-2),u)[0][0])

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/11434) 
 
+### 선택한 제출
+
+[제출 65640590](https://acmicpc.net/source/65640590) · Python 3 · 152 B · Ampelmännchen.py
+
 ### 성능 요약
 
-메모리: 32468 KB, 시간: 296 ms
+메모리: 32468 KB, 시간: 292 ms
 
 ### 분류
 

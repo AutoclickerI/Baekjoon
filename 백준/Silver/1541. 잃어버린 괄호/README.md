@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1541) 
 
+### 선택한 제출
+
+[제출 40164815](https://acmicpc.net/source/40164815) · Python 3 · 136 B · 잃어버린 괄호.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 76 ms

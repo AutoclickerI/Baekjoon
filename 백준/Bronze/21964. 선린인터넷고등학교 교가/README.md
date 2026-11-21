@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21964) 
 
+### 선택한 제출
+
+[제출 50834185](https://acmicpc.net/source/50834185) · Python 3 · 25 B · 선린인터넷고등학교 교가.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 68 ms
+메모리: 30840 KB, 시간: 76 ms
 
 ### 분류
 

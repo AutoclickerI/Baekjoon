@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1019) 
 
+### 선택한 제출
+
+[제출 60320046](https://acmicpc.net/source/60320046) · Python 3 · 222 B · 책 페이지.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 48 ms

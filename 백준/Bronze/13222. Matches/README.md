@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13222) 
 
+### 선택한 제출
+
+[제출 46721287](https://acmicpc.net/source/46721287) · Python 3 · 90 B · Matches.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 76 ms

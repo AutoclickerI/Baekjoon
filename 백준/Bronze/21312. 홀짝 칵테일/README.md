@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/21312) 
 
+### 선택한 제출
+
+[제출 59956777](https://acmicpc.net/source/59956777) · Python 3 · 71 B · 홀짝 칵테일.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 44 ms
 
 ### 분류
 

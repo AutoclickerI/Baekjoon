@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20095) 
 
+### 선택한 제출
+
+[제출 64324081](https://acmicpc.net/source/64324081) · Text · 161 B · 10점 · Sudoku 2.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 4 ms

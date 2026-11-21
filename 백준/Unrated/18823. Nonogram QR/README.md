@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18823) 
 
+### 선택한 제출
+
+[제출 99788945](https://acmicpc.net/source/99788945) · Python 3 · 65 B · 2147483647점 · Nonogram QR.py
+
 ### 성능 요약
 
 메모리: 32412 KB, 시간: 32 ms

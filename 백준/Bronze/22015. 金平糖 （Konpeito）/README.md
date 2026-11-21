@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/22015) 
 
+### 선택한 제출
+
+[제출 44783359](https://acmicpc.net/source/44783359) · Python 3 · 59 B · 100점 · 金平糖 （Konpeito）.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 96 ms

@@ -1,4 +1,1 @@
-for i in[*open(0)][1:]:
-    _,*l=map(int,i.split())
-    s=sum(i%2*i for i in l);S=sum(l)-s
-    print(['TIE','EVEN','ODD'][(s<S)-(s>S)])
+for i in[*open(0)][1:]:s=sum(j*(1-j%2*2)for j in map(int,i.split()[1:]));print('EOTVDIEDEN'[(s<0)+(s==0)*2::3])

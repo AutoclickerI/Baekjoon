@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13623) 
 
+### 선택한 제출
+
+[제출 44847821](https://acmicpc.net/source/44847821) · Python 3 · 80 B · Zero or One.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 76 ms

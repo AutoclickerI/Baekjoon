@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/6601) 
 
+### 선택한 제출
+
+[제출 61378722](https://acmicpc.net/source/61378722) · Python 3 · 493 B · Knight Moves.py
+
 ### 성능 요약
 
 메모리: 34140 KB, 시간: 1396 ms

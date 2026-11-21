@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2547) 
 
+### 선택한 제출
+
+[제출 47702826](https://acmicpc.net/source/47702826) · Python 3 · 138 B · 사탕 선생 고창영.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 748 ms

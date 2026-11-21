@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1026) 
 
+### 선택한 제출
+
+[제출 40145370](https://acmicpc.net/source/40145370) · Python 3 · 142 B · 보물.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 68 ms

@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20361) 
 
+### 선택한 제출
+
+[제출 48203521](https://acmicpc.net/source/48203521) · Python 3 · 127 B · 일우는 야바위꾼.py
+
 ### 성능 요약
 
-메모리: 33964 KB, 시간: 3984 ms
+메모리: 1315900 KB, 시간: 7820 ms
 
 ### 분류
 

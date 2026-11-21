@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/10707) 
 
+### 선택한 제출
+
+[제출 40885046](https://acmicpc.net/source/40885046) · Python 3 · 89 B · 수도요금.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

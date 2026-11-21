@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2407) 
 
+### 선택한 제출
+
+[제출 40449826](https://acmicpc.net/source/40449826) · Python 3 · 112 B · 조합.py
+
 ### 성능 요약
 
 메모리: 32976 KB, 시간: 68 ms

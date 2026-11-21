@@ -1,1 +1,3 @@
-for i in zip(*[*open(0)][1:]):a,b=sorted(i);print(end={'PS':'S','PR':'P','RS':'R','RR':'P','SS':'R','PP':'S'}.get(a+b,''))
+a,b,c=open(0)
+f=lambda i:1<<'RSP'.find(i)
+for i,j in zip(b[:-1],c):print(end=' PRRSPS'[f(i)|f(j)])

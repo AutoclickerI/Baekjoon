@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:a,b=i.split();s=int(b);print(a,"FDCBAA"[t:=max(0,s//10-5)]+"+"*((s%10>6>0<t)|(s>99)))
+for i in[*open(0)][1:]:a,b=i.split();s=int(b);print(a,"FFFFFFDCBAA"[t:=s//10]+"+"*((s%10>6<=t)|(s>99)))

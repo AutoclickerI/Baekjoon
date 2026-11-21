@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/15969) 
 
+### 선택한 제출
+
+[제출 51495181](https://acmicpc.net/source/51495181) · Python 3 · 55 B · 100점 · 행복.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

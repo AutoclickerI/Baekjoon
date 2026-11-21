@@ -1,3 +1,2 @@
-n,t=map(int,input().split())
-t%=4*n-2
-print(2*n-abs(t-2*n)or 2)
+N,T=map(int,input().split())
+print(2*N-abs(T%(2-4*N)+2*~-N))

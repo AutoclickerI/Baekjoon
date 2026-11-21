@@ -1,1 +1,1 @@
-print(len({(int(a)+i//10,int(b)+i%10)for a,b in[*map(str.split,open(0))][1:]for i in range(100)}))
+print(len({(int(s[:2])+i//10,int(s[2:])+i%10)for s in[*open(0)][1:]for i in range(100)}))

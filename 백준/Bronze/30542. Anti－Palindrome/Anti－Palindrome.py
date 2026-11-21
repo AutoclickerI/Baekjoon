@@ -1,3 +1,3 @@
-s=''.join(input().lower().split())
-for i in range(len(s)):len(s[i:i+3])>len({*s[i:i+3]})<exit(print('Palindrome'))
-print('Anti-palindrome')
+f=0
+for i in range(len(s:=''.join(input().lower().split()))):f|=len(t:=s[i:i+3])>len({*t})
+print(['Anti-p','P'][f]+'alindrome')

@@ -1,2 +1,2 @@
-R=range(len(s:=input()))
-print(max({s[i:j+1]for i in R for j in R}))
+s=input()
+print(max(s[i:]for i in range(len(s))))

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24623) 
 
+### 선택한 제출
+
+[제출 45259370](https://acmicpc.net/source/45259370) · Text · 2 B · Изгороди.txt
+
 ### 성능 요약
 
 메모리: 4528 KB, 시간: 0 ms

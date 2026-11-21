@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2532) 
 
+### 선택한 제출
+
+[제출 57924311](https://acmicpc.net/source/57924311) · PyPy3 · 252 B · 먹이사슬.py
+
 ### 성능 요약
 
-메모리: 228772 KB, 시간: 2792 ms
+메모리: 228788 KB, 시간: 2844 ms
 
 ### 분류
 

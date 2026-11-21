@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18063) 
 
+### 선택한 제출
+
+[제출 64154700](https://acmicpc.net/source/64154700) · Python 3 · 126 B · Jazz Enthusiast.py
+
 ### 성능 요약
 
-메모리: 31256 KB, 시간: 40 ms
+메모리: 31256 KB, 시간: 56 ms
 
 ### 분류
 

@@ -1,5 +1,1 @@
-#include "aplusb.h"
-
-int sum(int A, int B) {
-  return A + B;
-}
+int sum(int a,int b){return a+b;}

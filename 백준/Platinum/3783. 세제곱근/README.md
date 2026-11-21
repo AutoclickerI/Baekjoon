@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/3783) 
 
+### 선택한 제출
+
+[제출 41259283](https://acmicpc.net/source/41259283) · PyPy3 · 343 B · 세제곱근.py
+
 ### 성능 요약
 
 메모리: 142428 KB, 시간: 620 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/2309) 
 
+### 선택한 제출
+
+[제출 45840682](https://acmicpc.net/source/45840682) · Python 3 · 208 B · 일곱 난쟁이.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 72 ms

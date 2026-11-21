@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/9713) 
 
+### 선택한 제출
+
+[제출 47333816](https://acmicpc.net/source/47333816) · Python 3 · 51 B · Sum of Odd Sequence.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 80 ms

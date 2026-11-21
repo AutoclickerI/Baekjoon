@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/12727) 
 
+### 선택한 제출
+
+[제출 41292787](https://acmicpc.net/source/41292787) · Python 3 · 169 B · Numbers （Small）.py
+
 ### 성능 요약
 
-메모리: 30860 KB, 시간: 68 ms
+메모리: 30864 KB, 시간: 72 ms
 
 ### 분류
 

@@ -1,3 +1,2 @@
-import math
-l=[[*map(int,i.split())]for i in[*open(0)][1:]]
-print(sum(sorted(math.dist(i,j)for i,j in zip(l,(l*2)[1:]))[:-1]))
+n,*l=[eval(i.replace(' ','+1j*'))for i in open(0)]
+print(sum(l:=[abs(j-i)for i,j in zip(l,l[1:]+l)])-max(l))

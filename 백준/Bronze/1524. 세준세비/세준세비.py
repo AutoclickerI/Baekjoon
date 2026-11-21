@@ -1,2 +1,3 @@
-_,*l=open(0)
-while l:_,_,p,q,*l=l;print('SB'[max(map(int,p.split()))<max(map(int,q.split()))])
+I=input
+f=lambda:max(map(int,I().split()))
+exec(f()*"I();I();print('SB'[f()<f()]);")

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1932) 
 
+### 선택한 제출
+
+[제출 40332660](https://acmicpc.net/source/40332660) · Python 3 · 313 B · 정수 삼각형.py
+
 ### 성능 요약
 
 메모리: 30860 KB, 시간: 156 ms

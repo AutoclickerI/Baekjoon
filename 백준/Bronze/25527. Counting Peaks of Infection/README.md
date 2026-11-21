@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/25527) 
 
+### 선택한 제출
+
+[제출 64042535](https://acmicpc.net/source/64042535) · Python 3 · 97 B · Counting Peaks of Infection.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 52 ms

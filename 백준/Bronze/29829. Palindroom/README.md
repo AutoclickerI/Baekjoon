@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/29829) 
 
+### 선택한 제출
+
+[제출 66583498](https://acmicpc.net/source/66583498) · Python 3 · 109 B · Palindroom.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

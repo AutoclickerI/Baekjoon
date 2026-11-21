@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/18111) 
 
+### 선택한 제출
+
+[제출 67537578](https://acmicpc.net/source/67537578) · PyPy3 · 157 B · 마인크래프트.py
+
 ### 성능 요약
 
-메모리: 154060 KB, 시간: 588 ms
+메모리: 154088 KB, 시간: 560 ms
 
 ### 분류
 

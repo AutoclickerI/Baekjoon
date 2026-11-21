@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/20976) 
 
+### 선택한 제출
+
+[제출 43842910](https://acmicpc.net/source/43842910) · Python 3 · 42 B · 2 番目に大きい整数 （The Second Largest Integer）.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

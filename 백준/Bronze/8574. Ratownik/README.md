@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8574) 
 
+### 선택한 제출
+
+[제출 66619596](https://acmicpc.net/source/66619596) · Python 3 · 95 B · Ratownik.py
+
 ### 성능 요약
 
-메모리: 53684 KB, 시간: 124 ms
+메모리: 75044 KB, 시간: 272 ms
 
 ### 분류
 

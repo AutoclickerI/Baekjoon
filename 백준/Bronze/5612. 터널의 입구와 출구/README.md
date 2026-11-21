@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5612) 
 
+### 선택한 제출
+
+[제출 46719585](https://acmicpc.net/source/46719585) · Python 3 · 124 B · 터널의 입구와 출구.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 484 ms

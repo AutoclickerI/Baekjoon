@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1024) 
 
+### 선택한 제출
+
+[제출 75934207](https://acmicpc.net/source/75934207) · Python 3 · 120 B · 수열의 합.py
+
 ### 성능 요약
 
-메모리: 31388 KB, 시간: 44 ms
+메모리: 31120 KB, 시간: 56 ms
 
 ### 분류
 

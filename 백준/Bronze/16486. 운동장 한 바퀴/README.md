@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/16486) 
 
+### 선택한 제출
+
+[제출 41691930](https://acmicpc.net/source/41691930) · Python 3 · 43 B · 운동장 한 바퀴.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 72 ms

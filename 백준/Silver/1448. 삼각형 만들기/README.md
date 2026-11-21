@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1448) 
 
+### 선택한 제출
+
+[제출 58958879](https://acmicpc.net/source/58958879) · Python 3 · 100 B · 삼각형 만들기.py
+
 ### 성능 요약
 
 메모리: 76132 KB, 시간: 1048 ms

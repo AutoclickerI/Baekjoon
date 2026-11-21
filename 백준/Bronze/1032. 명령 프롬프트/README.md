@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/1032) 
 
+### 선택한 제출
+
+[제출 40093356](https://acmicpc.net/source/40093356) · Python 3 · 232 B · 명령 프롬프트.py
+
 ### 성능 요약
 
 메모리: 30864 KB, 시간: 76 ms

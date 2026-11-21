@@ -1,2 +1,2 @@
-n,s=open(0)
-print(''.join(max(s[i],s[-i-2],'a')for i in range(int(n))))
+_,s=open(0)
+print(*map(max,s,s[-2::-1],'a'*100),sep='')

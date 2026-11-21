@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/12790) 
 
+### 선택한 제출
+
+[제출 46700095](https://acmicpc.net/source/46700095) · Python 3 · 144 B · Mini Fantasy War.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 156 ms

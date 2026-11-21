@@ -1,2 +1,2 @@
-from math import*
-print(lcm(*map(int,input().split())))
+import math
+print(math.lcm(*map(int,input().split())))

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14761) 
 
+### 선택한 제출
+
+[제출 64539277](https://acmicpc.net/source/64539277) · Python 3 · 92 B · FizzBuzz.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

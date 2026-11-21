@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4562) 
 
+### 선택한 제출
+
+[제출 47590628](https://acmicpc.net/source/47590628) · Python 3 · 81 B · No Brainer.py
+
 ### 성능 요약
 
-메모리: 30840 KB, 시간: 64 ms
+메모리: 30840 KB, 시간: 68 ms
 
 ### 분류
 

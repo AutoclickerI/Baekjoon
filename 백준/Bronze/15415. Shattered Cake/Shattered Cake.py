@@ -1,9 +1,2 @@
-import sys
-input=sys.stdin.readline
-W=int(input())
-L=int(input())
-a=0
-for _ in[0]*L:
-    p,q=map(int,input().split())
-    a+=p*q
-print(a//W)
+w,_,*l=map(int,open(0).read().split())
+print(sum(p*q for p,q in zip(l[::2],l[1::2]))//w)

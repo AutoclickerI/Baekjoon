@@ -1,3 +1,2 @@
-a,k,*l=open(b:=0);k=k[:-1]
-for i in l:x,y=i.split();b|=((len(k)==len(x))&(sum(i!=j for i,j in zip(k,x))<2))^(y<'B')
-print(['SYSTEM SECURE','INTEGRITY OVERFLOW'][b])
+_,[k],*l=map(str.split,open(0))
+print('INTEGRITY OVERFLOW'*any((len(k)-len(x)==0<2>sum(i!=j for i,j in zip(k,x)))^(y<'B')for x,y in l)or'SYSTEM SECURE')

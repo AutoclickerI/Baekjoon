@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/13196) 
 
+### 선택한 제출
+
+[제출 85362304](https://acmicpc.net/source/85362304) · Python 3 · 585 B · Router 5.py
+
 ### 성능 요약
 
 메모리: 35704 KB, 시간: 92 ms

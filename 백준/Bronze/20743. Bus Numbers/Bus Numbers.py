@@ -1,7 +1,4 @@
 n=int(input())
-d={}
-r=[]
-s=range(1,74)
-for i in s:
- for j in s[i:]:t=i**3+j**3;r+=[-t]*(t in d);d[t]=1
-print(([-i for i in sorted({*r})if-i<=n]+['none'])[0])
+s=range(74)
+r=[i**3+j**3for i in s for j in s]
+print(max(i*(n>=i>=2<r.count(i))for i in sorted(r))or'none')

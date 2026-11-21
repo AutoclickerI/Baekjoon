@@ -1,2 +1,1 @@
-N=int(s:=input())
-print(''.join(map(str,range(N+1))).index(s))
+print(''.join(map(str,range(8**6))).find(input()))

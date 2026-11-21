@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/22940) 
 
+### 선택한 제출
+
+[제출 41716651](https://acmicpc.net/source/41716651) · Python 3 · 940 B · 선형 연립 방정식.py
+
 ### 성능 요약
 
 메모리: 36732 KB, 시간: 140 ms

@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/14568) 
 
+### 선택한 제출
+
+[제출 48826185](https://acmicpc.net/source/48826185) · Python 3 · 110 B · 2017 연세대학교 프로그래밍 경시대회.py
+
 ### 성능 요약
 
 메모리: 30848 KB, 시간: 240 ms

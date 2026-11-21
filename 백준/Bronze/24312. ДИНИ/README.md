@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/24312) 
 
+### 선택한 제출
+
+[제출 60018585](https://acmicpc.net/source/60018585) · Python 3 · 119 B · ДИНИ.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

@@ -1,3 +1,3 @@
-a,b,c=1,2,7
-for _ in[0]*int(input()):a,b,c=b,c,(3*c+b-a)%(10**9+7)
+a=1;b=c=0
+for i in[0]*int(input()):b=a+b;a,c=(b*2+c)%(10**9+7),a
 print(a)

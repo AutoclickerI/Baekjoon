@@ -1,1 +1,1 @@
-print(['unrated','D2'][('d2'in(s:=input()))or('D2'in s)])
+print(['unrated','D2']['d2'in input().lower()])

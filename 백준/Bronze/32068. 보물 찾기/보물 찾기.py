@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:L,R,S=map(int,i.split());print(min(R-S<<1,(S-L)*2+1))
+for i in[*open(0)][1:]:L,R,S=map(int,i.split());print(min(R-S<<1,S-L<<1|1))

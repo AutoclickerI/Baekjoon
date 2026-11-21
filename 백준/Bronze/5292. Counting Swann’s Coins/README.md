@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/5292) 
 
+### 선택한 제출
+
+[제출 64039654](https://acmicpc.net/source/64039654) · Python 3 · 155 B · Counting Swann’s Coins.py
+
 ### 성능 요약
 
 메모리: 31256 KB, 시간: 40 ms

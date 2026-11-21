@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:print(int(len(i)==8>3==len({*i})!=i[0]==i[1]==i[4]!=i[2]==i[3]==i[5]==i[6]))
+for l in[*open(0)][1:]:print(+(4<len(l)!='!!??!??\n'==l.replace(l[0],'!').replace(l[2],'?')))

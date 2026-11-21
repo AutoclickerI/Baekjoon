@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/8661) 
 
+### 선택한 제출
+
+[제출 64225765](https://acmicpc.net/source/64225765) · Python 3 · 50 B · Stopki.py
+
 ### 성능 요약
 
-메모리: 114844 KB, 시간: 2844 ms
+메모리: 31256 KB, 시간: 40 ms
 
 ### 분류
 

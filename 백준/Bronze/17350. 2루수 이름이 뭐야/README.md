@@ -2,6 +2,10 @@
 
 [문제 링크](https://www.acmicpc.net/problem/17350) 
 
+### 선택한 제출
+
+[제출 49030747](https://acmicpc.net/source/49030747) · Python 3 · 39 B · 2루수 이름이 뭐야.py
+
 ### 성능 요약
 
 메모리: 30840 KB, 시간: 68 ms

@@ -1,1 +1,1 @@
-for i in[*open(0)][1:]:a,b=i.split();print(['Imp','P'][sorted(a)==sorted(b)]+'ossible')
+for i in[*open(0)][1:]:a,b=map(sorted,i.split());print(['Imp','P'][a==b]+'ossible')

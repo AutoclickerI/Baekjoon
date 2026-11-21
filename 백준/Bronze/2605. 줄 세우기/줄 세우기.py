@@ -1,3 +1,3 @@
-_,L,*l=open(i:=0)
-for j in L.split():l.insert(i-int(j),i:=i+1)
-print(*l)
+*A,X=open(i:=0)
+for x in X.split():i+=1;A[:~int(x)]+=i,
+print(*A[:i])

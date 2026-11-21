@@ -2,9 +2,13 @@
 
 [문제 링크](https://www.acmicpc.net/problem/4354) 
 
+### 선택한 제출
+
+[제출 48670554](https://acmicpc.net/source/48670554) · PyPy3 · 190 B · 문자열 제곱.py
+
 ### 성능 요약
 
-메모리: 241532 KB, 시간: 568 ms
+메모리: 241536 KB, 시간: 600 ms
 
 ### 분류
 
