@@ -1,0 +1,1 @@
+print(sum(l:=[*map(int,open(0))])//10,max(l,key=l.count))

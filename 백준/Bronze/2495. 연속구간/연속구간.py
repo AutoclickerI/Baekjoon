@@ -1,0 +1,1 @@
+exec('b=0;print(+max(c:=b!=(b:=i)or-~c for i in input()));'*3)

@@ -1,0 +1,1 @@
+print(f'{sum(map(int,input().split(),(2,2))):b}')

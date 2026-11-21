@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:s=str(int(i)+int(i[::-1]));print('YNEOS'[s!=s[::-1]::2])

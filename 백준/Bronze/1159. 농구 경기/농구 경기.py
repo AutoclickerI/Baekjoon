@@ -1,0 +1,1 @@
+a,*_=zip(*open(0));print(''.join(sorted({i*(a.count(i)>4)for i in a}))or'PREDAJA')

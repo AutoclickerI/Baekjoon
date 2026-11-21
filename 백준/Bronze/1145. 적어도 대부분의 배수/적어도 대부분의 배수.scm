@@ -1,0 +1,5 @@
+(define (add a b c d e)
+  (+ (or (and a 1) 0) (or (and b 1) 0) (or (and c 1) 0) (or (and d 1) 0) (or (and e 1) 0)))
+(define (loop n a b c d e)
+  (if (< 2 (add (= 0 (remainder n a)) (= 0 (remainder n b)) (= 0 (remainder n c)) (= 0 (remainder n d)) (= 0 (remainder n e)))) (print n) (loop (+ n 1) a b c d e)))
+(loop 1 (read) (read) (read) (read) (read))

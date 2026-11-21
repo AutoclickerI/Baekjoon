@@ -1,0 +1,1 @@
+print(-~int(input())-(input().count('LL')or 1))
