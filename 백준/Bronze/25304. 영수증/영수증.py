@@ -1,0 +1,1 @@
+I=input;print('YNeos'[int(I())!=sum([eval('*'.join(I().split()))for i in[0]*int(I())])::2])

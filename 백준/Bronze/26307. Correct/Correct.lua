@@ -1,0 +1,1 @@
+print(io.read'n'*60+io.read'n'-540)

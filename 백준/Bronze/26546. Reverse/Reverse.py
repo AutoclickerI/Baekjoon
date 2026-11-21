@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:s,p,q=i.split();print(s[:int(p)]+s[int(q):])

@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print(i+'nmzboaaoncctekkh'[('17'in i)*2+('18'in i)::4],' ')

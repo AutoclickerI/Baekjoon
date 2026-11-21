@@ -1,0 +1,1 @@
+for i in range(1,int(input())+1):print('Wiwat!'if i%77==0 else'Super!'if i%11==0 else'Hurra!'if i%7==0 else i)

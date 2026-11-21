@@ -1,0 +1,1 @@
+print(sum(int(i[2:])<91for i in[*open(0)][1:]))

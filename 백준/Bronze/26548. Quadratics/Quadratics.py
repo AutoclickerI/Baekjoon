@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:a,b,c=map(eval,i.split());z=(b*b-4*a*c)**.5;print(f'{(z-b)/a/2:.3f}, {-(z+b)/a/2:.3f}')

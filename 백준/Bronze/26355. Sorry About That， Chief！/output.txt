@@ -1,0 +1,11 @@
+Input value: 23
+Would you believe it; it is a prime!
+
+Input value: 25
+Missed it by that much (2)!
+
+Input value: 22
+Missed it by that much (1)!
+
+Input value: 10000
+Missed it by that much (7)!

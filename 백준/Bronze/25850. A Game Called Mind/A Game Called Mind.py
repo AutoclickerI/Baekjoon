@@ -1,0 +1,1 @@
+for _,j in sorted([j,chr(65+i)]for i in range(int(input()))for j in[*map(int,input().split())][1:]):print(end=j)

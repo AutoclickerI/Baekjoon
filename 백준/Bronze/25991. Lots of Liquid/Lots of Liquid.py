@@ -1,0 +1,1 @@
+print(sum([float(i)**3for i in open(0).read().split()[1:]])**(1/3))

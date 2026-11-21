@@ -1,0 +1,1 @@
+print('CIamnpaodsitaenr!!'[input()[-3:]!='eh?'::2])

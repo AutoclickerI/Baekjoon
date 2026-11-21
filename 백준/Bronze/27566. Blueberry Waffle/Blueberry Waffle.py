@@ -1,0 +1,1 @@
+print('duopw n'[~round(1/eval(input().replace(*" /")))%2::2])

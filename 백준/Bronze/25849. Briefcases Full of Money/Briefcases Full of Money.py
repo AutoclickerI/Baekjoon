@@ -1,0 +1,1 @@
+print(max([i*j,i]for i,j in zip([1,5,10,20,50,100],map(int,input().split())))[1])

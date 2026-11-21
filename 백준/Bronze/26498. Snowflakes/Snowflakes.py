@@ -1,0 +1,1 @@
+for _ in[0]*int(input()):l=eval('input(),'*int(input()));print([['Useless','Beautiful'],['Graceful','Magnificent']][all(i==i[::-1]for i in l)][l==l[::-1]])

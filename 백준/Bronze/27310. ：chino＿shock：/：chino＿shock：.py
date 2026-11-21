@@ -1,0 +1,1 @@
+print(len(s:=input())+s.count('_')*5+s.count(':'))

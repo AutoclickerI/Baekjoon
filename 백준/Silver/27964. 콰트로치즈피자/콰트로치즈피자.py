@@ -1,0 +1,1 @@
+print(['yummy','sad'][len({i for i in[*open(0)][1].split()if'Cheese'==i[-6:]})<4])

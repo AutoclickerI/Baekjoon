@@ -1,0 +1,1 @@
+for s in[*open(0)][1:]:print(sum(i*s.count(j)for i,j in zip([1,5,10,50,100,500,1000],'IVXLCDM')))

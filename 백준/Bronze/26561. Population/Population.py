@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:p,q=map(int,i.split());print(p+q//4-q//7)

@@ -1,0 +1,1 @@
+for i in[0]*int(input()):print('yneos'[1-(5<len(input())<10)::2])

@@ -1,0 +1,1 @@
+print(min(map([*open(0)][1].count,'HIARC')))

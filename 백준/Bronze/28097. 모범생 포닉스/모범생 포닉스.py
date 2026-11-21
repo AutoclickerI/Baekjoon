@@ -1,0 +1,1 @@
+print(*divmod(eval([*open(0)][1].replace(' ','+8+')),24))

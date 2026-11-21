@@ -1,0 +1,1 @@
+p,q=open(0);print(eval(q.replace(*' ^')))

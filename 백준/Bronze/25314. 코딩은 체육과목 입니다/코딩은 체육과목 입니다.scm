@@ -1,0 +1,5 @@
+(define (long n)
+  (cond ((= n 0) 0)
+        (else (display "long ") (long (- n 1)))))
+(long (/ (read) 4))
+(display "int")
