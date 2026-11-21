@@ -1,0 +1,1 @@
+print(max(sum(l:=sorted(map(int,[*open(0)][1].split()))),sum(l[:-2])+l[-2]*l[-1]*2,sum(l[2:])+l[0]*l[1]*2))

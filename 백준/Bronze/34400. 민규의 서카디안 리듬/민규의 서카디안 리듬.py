@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print('OOFNF'[int(i)%25<17::2]+'LINE')

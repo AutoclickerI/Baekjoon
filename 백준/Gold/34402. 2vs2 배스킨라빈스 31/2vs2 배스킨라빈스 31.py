@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:n,k=map(int,i.split());v=n%(2*k+2);[print(f'({i},{j})')for i,j in sorted(['1234'[n%-~k==1::2],'1324'[v in(1,2)::2],'2134'[1<v<k+3::2]])]

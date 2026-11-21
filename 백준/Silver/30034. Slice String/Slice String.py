@@ -1,0 +1,10 @@
+input()
+b=input().split()
+input()
+b+=input().split()
+input()
+b={*b}-{*input().split()}
+input()
+s=input()
+for i in b:s=s.replace(i,' ')
+print(*s.split())

@@ -1,0 +1,1 @@
+print('NYoe s'[3*'o'in[*open(0)][1]::2])

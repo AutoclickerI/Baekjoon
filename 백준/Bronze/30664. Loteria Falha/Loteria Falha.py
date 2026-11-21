@@ -1,0 +1,1 @@
+for i in[*open(0)][:-1]:print(['TENTE NOVAMENTE','PREMIADO'][int(i)%42<1])

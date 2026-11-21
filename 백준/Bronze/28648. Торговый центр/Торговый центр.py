@@ -1,0 +1,1 @@
+print(min(eval(i.replace(*' +'))for i in[*open(0)][1:]))

@@ -1,0 +1,1 @@
+print('NYoe s'[bool({*input().split('|')}&{*input().split('|')})::2])

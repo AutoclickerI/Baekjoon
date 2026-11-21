@@ -1,0 +1,1 @@
+print(*['AKA']*-~int(input()),sep='R')

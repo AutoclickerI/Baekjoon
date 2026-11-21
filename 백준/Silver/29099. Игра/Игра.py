@@ -1,0 +1,1 @@
+print('SFeicrosntd'[int(input())-int(input().split()[-1])&1::2])

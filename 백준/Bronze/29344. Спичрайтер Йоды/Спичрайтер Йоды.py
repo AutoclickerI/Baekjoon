@@ -1,0 +1,1 @@
+print('. '.join(' '.join(i.split()[::-1])for i in input().split('.')))

@@ -1,0 +1,1 @@
+for a,_,b,_,c,_,d,_ in[*open(0,'rb')][1:]:print('YNEOS'[a&b&c&d^7==a|b|c|d::2])

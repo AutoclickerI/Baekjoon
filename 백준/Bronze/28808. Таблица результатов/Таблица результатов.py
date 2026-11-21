@@ -1,0 +1,1 @@
+print(sum('+'in i for i in open(0)))

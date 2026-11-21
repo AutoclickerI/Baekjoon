@@ -1,0 +1,5 @@
+100 3
+Challenger 10
+Master 45
+Diamond 99%
+Diamond

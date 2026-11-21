@@ -1,0 +1,1 @@
+print('HSoabnagnhwoo o'[input()!='3'::2])

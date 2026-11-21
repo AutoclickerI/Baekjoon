@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:S,n,f,m=map(int,i.split());print('NYOE S'[n<=S-m<=n*f::2])

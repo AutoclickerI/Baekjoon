@@ -1,0 +1,5 @@
+(define N (read))
+(define (loop n)
+  (cond ((= n -1) 0)
+        (else (print (* (- N n) (+ n 1))) (loop (- n 1)))))
+(loop (- N 1))

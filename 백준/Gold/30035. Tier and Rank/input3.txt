@@ -1,0 +1,6 @@
+1000 4
+InternationalGrandmaster 3
+Grandmaster 7
+Master 10%
+Expert 100%
+InternationalGrandmaster4

@@ -1,0 +1,1 @@
+print(sum(int(i)<=int(j)for i,j in zip(*[*map(str.split,open(0))][1:])))

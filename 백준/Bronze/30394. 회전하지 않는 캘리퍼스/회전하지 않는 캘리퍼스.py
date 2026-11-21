@@ -1,0 +1,1 @@
+print(max(l:=[*map(int,open(0).read().split()[2::2])])-min(l))
