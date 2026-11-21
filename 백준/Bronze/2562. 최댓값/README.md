@@ -1,6 +1,6 @@
 # [Bronze III] 최댓값 - 2562 
 
-[문제 링크](https://www.acmicpc.net/problem/2562) 
+[문제 링크](https://acmicpc.net/problem/2562) 
 
 ### 성능 요약
 
@@ -9,6 +9,10 @@
 ### 분류
 
 구현
+
+### 제출 일자
+
+2022년 2월 18일 15:18:06
 
 ### 문제 설명
 
