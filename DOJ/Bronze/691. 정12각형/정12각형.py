@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print(3*int(i)**2)
