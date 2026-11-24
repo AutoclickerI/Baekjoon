@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:N,P=map(int,i.split());print('P is'+' not'*(P!=N*P),'NP!')
