@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print('YNEOS'[2200<int(i)::2])
