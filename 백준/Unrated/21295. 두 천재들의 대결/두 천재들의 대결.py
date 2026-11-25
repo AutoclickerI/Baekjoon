@@ -1,0 +1,1 @@
+for c in b'&K&r qpqKw.KR SQ&KtK)pKqOep- Pa'.split()[int(input())%-5]:exec(c%37*"print('+-0'[c%3]);")
