@@ -1,0 +1,1 @@
+for i in range(int(input())):print('sorting',i+1)
