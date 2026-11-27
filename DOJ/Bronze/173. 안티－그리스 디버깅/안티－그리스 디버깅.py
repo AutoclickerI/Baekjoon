@@ -1,1 +1,1 @@
-print(['Good Code','Greek Question Mark is not allowed']['U+037E'in open(0).read()])
+print(['Good Code','Greek Question Mark is not allowed']['U+037E\n'in open(0)])
