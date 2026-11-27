@@ -1,0 +1,1 @@
+for i in[*open(0)][1:]:print(*next(zip(*i.split())),sep='')
