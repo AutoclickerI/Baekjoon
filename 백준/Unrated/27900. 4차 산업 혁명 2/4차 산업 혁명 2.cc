@@ -68,8 +68,6 @@ int next_move(std::string state){
         case 0x050d252a010b01ULL: return 2;
         case 0x0524016a370101ULL: return 1;
         case 0x0535026a012503ULL: return 1;
-        case 0x0535026a016501ULL: return 1;
-        case 0x0535026a032501ULL: return 1;
         case 0x0602152a070101ULL: return 1;
         case 0x0a06152a070101ULL: return 3;
         case 0x0a06256a070101ULL: return 1;
