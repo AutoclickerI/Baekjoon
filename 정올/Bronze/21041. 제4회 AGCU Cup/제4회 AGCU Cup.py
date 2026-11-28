@@ -1,0 +1,1 @@
+print(sum(map('_AGGCCCCU'.find,{*input()})))
