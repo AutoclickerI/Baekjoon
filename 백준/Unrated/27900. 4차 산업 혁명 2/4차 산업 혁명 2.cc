@@ -3,51 +3,32 @@
 void init(){ }
 
 int next_move(std::string state){
-    if(state=="030c012a030101") // +1
-        return 2;
-    if(state=="0302012a030101") // +1
-        return 2;
-    if(state=="6256656a6b1d54") // +1
-        return 6;
-    if(state=="6256656a6b0d34") // +1
-        return 7;
-    if(state=="6256656a6b0d0c") // +1
-        return 7;
-    if(state=="6256656a6b0d02") // +1
-        return 7;
-    if(state=="6256256a6b0d01") // +1
-        return 7;
-    if(state=="6256256a1b0d01") // +1
-        return 5;
-    if(state=="6256256a070d01") // +1
-        return 5;
-    if(state=="6256256a070301") // +1
-        return 6;
-    if(state=="6236256a070101") // +1
-        return 2;
-    if(state=="1236256a070101") // +1
-        return 1;
-    if(state=="120e256a070101") // +1
-        return 2;
-    if(state=="0a06256a070101") // +1
-        return 1;
-    if(state=="0a06152a070101") // +1
-        return 3;
-    if(state=="0602152a070101") // +1
-        return 1;
-    if(state=="02020d2a070101") // +1
-        return 3;
-    if(state=="0202032a070101") // +1
-        return 3;
-    if(state=="0102012a070101") // +1
-        return 1;
-    if(state=="0101012a030101") // +2
-        return 2;
-    if(state=="0101011a010101")
-        return 4;
-    if(state=="01010106010101")
-        return 4;
-    if(state=="01010101010101")
-        return 4;
-    return 0;
+    switch (std::stoull(state, nullptr, 16)) {
+        case 0x01010101010101ULL: return 4;
+        case 0x01010106010101ULL: return 4;
+        case 0x0101011a010101ULL: return 4;
+        case 0x0101012a010103ULL: return 3;
+        case 0x0101012a010301ULL: return 6;
+        case 0x0101012a030101ULL: return 2;
+        case 0x0102012a070101ULL: return 1;
+        case 0x0202032a070101ULL: return 3;
+        case 0x02020d2a070101ULL: return 3;
+        case 0x0302012a030101ULL: return 2;
+        case 0x030c012a030101ULL: return 2;
+        case 0x0602152a070101ULL: return 1;
+        case 0x0a06152a070101ULL: return 3;
+        case 0x0a06256a070101ULL: return 1;
+        case 0x120e256a070101ULL: return 2;
+        case 0x1236256a070101ULL: return 1;
+        case 0x6236256a070101ULL: return 2;
+        case 0x6256256a070301ULL: return 6;
+        case 0x6256256a070d01ULL: return 5;
+        case 0x6256256a1b0d01ULL: return 5;
+        case 0x6256256a6b0d01ULL: return 7;
+        case 0x6256656a6b0d02ULL: return 7;
+        case 0x6256656a6b0d0cULL: return 7;
+        case 0x6256656a6b0d34ULL: return 7;
+        case 0x6256656a6b1d54ULL: return 6;
+        default: return 0;
+    }
 }
